@@ -1,0 +1,55 @@
+#14700
+Guardpost of Scant~
+You stand before the village of Scant.  To the East and West lie guardhouses,
+to the North a battered wooden gate lies in ruins.  Bones and trash lie
+scattered on the ground, the new inhabitants do not appear to tidy.
+~
+38 0 1
+D1
+You see a small guardhouse.~
+~
+0 -1 14701
+D2
+~
+~
+2 -1 8201
+D3
+You see a small guardhouse.~
+~
+0 -1 14702
+D4
+void~
+~
+2 -1 3001
+S
+#14701
+new room~
+~
+38 0 1
+D3
+You see the guardpost.~
+~
+0 -1 14700
+S
+#14702
+Western Guardhouse~
+~
+38 9 0
+D1
+You see the guardpost.~
+~
+0 -1 14700
+S
+#14703
+Entrance Hall~
+You walk down a long entrance hall, the hall is just wide enough for two
+men to walk abreast.  To the West the walls ....Ack!
+~
+38 0 1
+D2
+You see the guardpost.~
+~
+0 -1 14700
+S
+$~
+#999999

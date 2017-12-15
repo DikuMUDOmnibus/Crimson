@@ -1,0 +1,197 @@
+#6301
+mob spider young~
+the young spider~
+The young spider is ballooning by you.
+~
+He looks freshly hatched and sprightly.  His young fangs are just
+growing in as of late.
+~
+76 8 0 S
+5 28 20 90d1+0 2d3+3
+300 7500
+8 8 2
+#6302
+mob dragon Yevaud~
+Yevaud~
+Yevaud the Usurper of Midgaard is here, grinning evilly at you.
+~
+Old, scaly, but still with a lot of bite in him left.
+~
+4458574 8 -1000 S
+24 -6 3 1020d1+0 2d3+30
+27000 36000
+8 8 1
+#6303
+mob spider wolf~
+the Wolf Spider~
+The Wolf Spider is here, licking its bloody fangs.
+~
+The Wolf Spider is hairy, very hairy.
+~
+42 0 -300 S
+6 27 19 110d1+0 4d3+0
+600 9000
+8 8 2
+#6304
+mob orc~
+the orc~
+The orc is stuck in the web and he can't get out.
+~
+You notice an evil look in his eyes.
+~
+10 0 -400 S
+5 28 20 90d1+0 2d3+3
+300 7500
+8 8 1
+#6305
+mob wasp queen~
+the Queen Wasp~
+The Queen Wasp is here, thinking that you would make a tasty offering
+to her master.
+~
+You notice a glazed look in her eyes.
+~
+262186 0 -800 S
+14 18 11 320d1+0 4d3+10
+1500 14000
+8 8 2
+#6306
+mob spider drone~
+the drone spider~
+The drone spider walks around doing her master's bidding.
+~
+An ordinary drone spider.
+~
+76 0 -300 S
+6 27 19 110d1+0 4d3+0
+300 9000
+8 8 1
+#6307
+mob spider ethereal~
+the ethereal spider~
+The ethereal spider strides here, traveling to different worlds.
+~
+She winks in and out.
+~
+76 0 1000 S
+10 23 15 180d1+0 3d3+6
+1000 15000
+8 8 2
+#6308
+mob slave human~
+the slave of Arachnos~
+The slave works here relentlessly.
+~
+The slave does not mind you, but will fight like a warrior if attacked.
+~
+76 0 0 S
+12 21 13 248d1+0 3d3+8
+1000 18000
+8 8 1
+#6309
+mob quasit~
+the quasit~
+The quasit blinks in and out, grinning at you.
+~
+Demoniac in nature, but more mischievous.  He twiddles his thumbs
+and creates a magical treasure!
+~
+156 524298 1000 S
+10 23 15 180d1+0 3d3+6
+1000 15000
+8 8 1
+#6310
+mob spider bird~
+the Bird Spider~
+The Bird Spider snaps its powerful jaws.
+~
+The Bird Spider has very powerful jaws.
+~
+42 0 -800 S
+14 18 11 320d1+0 4d3+10
+2000 21000
+8 8 2
+#6311
+mob hermit~
+the Hermit~
+The Hermit sits here and warns, "Go back before it's too late!"
+~
+A dishevelled veteran warrior in disguise is what he is, but he
+means well.
+~
+14 8 -400 S
+7 26 18 126d1+0 3d3+3
+700 10500
+8 8 1
+#6312
+mob donjonkeeper~
+the Donjonkeeper~
+The Donjonkeeper eyes you and wonders how pure your soul is.
+~
+He delves deeper into you as you stare at him.
+~
+262158 8 1000 S
+25 -15 0 1500d1+0 5d3+30
+25000 37500
+8 8 1
+#6313
+mob guardian~
+The guardian~
+The guardian is obviously not doing his job.
+~
+He looks like a lazy bum who sleeps half the time.
+~
+262248 524288 250 S
+17 9 8 500d1+0 3d3+18
+1000 25500
+4 4 1
+#6314
+mob spider empress arachnos~
+Arachnos~
+Arachnos the Empress of Spiders welcomes you with an evil smile.
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+262442 4170 -1000 S
+29 -21 -2 2100d1+0 5d3+38
+46000 43500
+8 8 2
+#6315
+mob ki-rin~
+the Ki-Rin~
+The Ki-Rin smiles good-naturedly to you.
+~
+She is the last bastion of good in this realm.  Her mission is to
+someday free the slaves of the Empress.
+~
+262158 8 1000 S
+26 -18 -1 1800d1+0 5d3+34
+15000 39000
+8 8 1
+#6316
+mob dragon wormkin young~
+the young dragon wormkin~
+A wormkin with no teeth plays here.
+~
+Rather small, you almost feel sad in killing it.
+~
+4456458 8 1000 S
+23 -9 2 1180d1+0 8d3+20
+1000 34500
+8 8 1
+#6317
+mob dragon wormkin elder~
+the elder dragon wormkin~
+A wormkin that has grown a bit stares at you inquisitively.
+~
+A medium-sized dragon--seems it hasn't killed anything yet by itself.
+~
+4458506 8 100 S
+23 -3 4 860d1+0 6d3+20
+20000 34500
+8 8 1
+$~
+#999999

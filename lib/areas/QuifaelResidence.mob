@@ -1,0 +1,42 @@
+#6900
+mob bug~
+the computer bug~
+A little, hairy computer bug is here, trying to mess things up.
+~
+It is one of those irritating little creatures that like to infect innocent
+and defenceless programs, trying to make them act weird.  Programmers spend
+countless hours trying to eliminate them, but they are indeed very hardy.
+DikuMUD is known to be one of their favourite habitats.
+~
+72 0 -50 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 0
+#6910
+mob isha elf~
+Isha the Dark Elf~
+Isha the Dark Elf is here, observing you silently.
+~
+She is no less than beautiful, skin as dark as the night and hair shining like
+silver in the moonlight.  Her slender body is adorned with a sleeveless shirt
+and a short skirt made from black scales joined with silver threads.  Her back
+is covered by a large, hooded cloak as black as her skin and in her broad
+silver belt hangs a long, slender sword in a silver scabbard.
+~
+262409 524296 -1000 S
+20 6 7 50d1+250 8d3+10
+15000 30000
+8 8 2
+#6999
+mob death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+1049354 537411720 -1000 S
+44 -45 -10 4000d1+0 10d3+80
+180000 66000
+8 8 0
+$~
+#999999

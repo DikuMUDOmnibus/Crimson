@@ -1,0 +1,430 @@
+#16900
+mob Alligator fanged~
+A large fanged alligator~
+A Large Fanged Alligator is slithering through the vegetation.
+~
+You cringe in terror as you look into the glowing red eyes of this
+beast.  It whips its tail from side to side contemplating how it
+going to tear you from limb to limb.  You decide it best to RUN
+before it kills you.
+~
+104 524288 -500 S
+29 -20 -10 10d10+700 1d30+5
+40000 400000
+8 8 0
+#16901
+mob Black Gorg~
+A Black Gorg~
+A Black Gorg is standing here, hunting his dinner.
+~
+The Black Gorg is an evil meat-eating creature.  He contemplates having
+you for dinner, but decides that you are way to scawny and would not be
+a challenge to kill.
+~
+76 8 -1000 S
+32 -30 -20 5d5+575 2d25+15
+90000 650000
+8 8 1
+#16902
+mob Vines green~
+A large green vine~
+Some vines are here, growing out of the water.
+~
+These vines are about 2 inches thick... and rustle around in an odd
+manner.  You wonder if someone or something is behind them making them
+move, but you cannot this.  Their long, powerful arms remind you of
+a boa constrictor.  You doubt that they are very friendly.
+~
+42 0 -750 S
+13 -5 10 5d5+110 2d5+2
+1000 18000
+8 8 0
+#16903
+mob Viper Black~
+A black viper~
+There is a black viper here, manuevering into position to kill you.
+~
+This is no ordinary snake... it is about 9 feet long, with two huge
+fangs, just waiting to sink into your flesh.  It has a complex
+geometric pattern running down its back with tends to make you
+dizzy as it slithers from side to side.
+~
+104 524288 -1000 S
+22 -15 0 5d5+375 3d5+9
+10000 95000
+8 8 0
+#16904
+mob Viper Green~
+A green viper~
+There is a green viper before you, slithering from side to side.
+~
+This snake appears to be slightly more friendly than the black viper
+that is indigenous to this swamp.  However, you don't feel quite
+safe enough around it to pet it...
+~
+72 524296 0 S
+23 -20 -5 5d5+415 3d5+10
+10000 125000
+8 8 0
+#16905
+mob Red Arantan plant~
+A red Arantan plant~
+There is a huge, man-eating, Arantan plant here.
+~
+This plant is quite different from other plants in that it only eats
+meat.  It eyes you hungrily, contemplating disecting you into little
+pieces and eating you for dinner.  You decide that it might be unwise
+to get too close to it!
+~
+10 8 -250 S
+15 -5 -5 5d5+150 2d5+6
+2500 20000
+8 8 0
+#16906
+mob Oak Giant Red~
+A Giant Red Oak~
+A Giant Red Oak towers above you... with what appears to be infinite mass.
+~
+This tree is strong, old, and incredibly TALL!!!  It's leaves rustle
+vigorously, despite the lack of wind.  They appear to be alive, and
+you have the feeling that they are watching you.  The base of their
+trunk is about three times that of any tree you have ever seen!
+~
+10 8 1000 S
+42 -50 -30 50d5+4000 10d5+30
+207000 430000
+8 8 0
+#16907
+mob Snake Water Huge~
+A huge water snake~
+There is a huge water snake dipping above and below the water here.
+~
+This snake is about 3 feet in diameter and 20 feet long, as far as
+you can tell, but the way it keeps going under the water makes it
+difficult to distinguish its dimensions.  It is obviously by no means
+friendly... it must be thinking about how to kill you!
+~
+104 524288 -850 S
+27 -20 -10 10d7+625 3d4+10
+25000 350000
+8 8 0
+#16908
+mob Sentry Serpant~
+A Serpant Sentry~
+A Serpant Sentry of the Caves of Apocrypha stands before you.
+~
+This sentry reminds you of a giant seahorse, with its rigid skin,
+and long protruding snout.  It appears to be a distinguished
+guardian for a magical force beyond this dimension!
+~
+14 136 1000 S
+34 -35 -25 5d5+675 4d5+35
+100000 750000
+8 8 1
+#16909
+mob Sentry Serpant~
+A Serpant Sentry~
+A Serpant Sentry of the Caves of Apocrypha stands before you.
+~
+This sentry reminds you of a giant seahorse, with its rigid skin,
+and long protruding snout.  It appears to be a distinguished
+guardian for a magical force beyond this dimension!
+~
+14 136 -1000 S
+34 -35 -25 5d5+675 4d5+35
+100000 650000
+8 8 1
+#16910
+mob Spider Water Creeping~
+A creeping water spider~
+A spider dances across the water spring to jump at YOU!
+~
+This spider is small, yet extremely deadly.  It is only about the
+size of a quarter, and has a design resembling an anchor on its
+body.  It has a single read eye, which appears to slide around its
+head.
+~
+104 0 -650 S
+18 -10 -5 5d5+275 2d7+7
+5000 35000
+8 8 0
+#16911
+mob mosquito killer~
+A killer mosquito~
+A mosquito is here, buzzing around and being annoying.
+~
+You see a winged, blood sucking insect which has a VERY annoying buzz.
+You find yourself swatting consistantly, to no avail.
+~
+104 524298 0 S
+5 15 -10 1d1+30 2d2+2
+0 800
+8 8 0
+#16912
+mob Oraton Spitefull~
+A Spitefull Oraton~
+A Spitefull Oraton is running around the swamp raging over nothing!
+~
+This monster is shaped like a troll... about 4 feet tall, and
+probably weighs about 400 pounds!  It's skin is blackish-brown
+and it has a very wrinkled face.  It is having a temper tantrum at
+the moment, and is throwing spit and tears of rage everywhere.
+~
+76 8 -875 S
+26 -14 -10 5d5+650 4d4+12
+20000 325000
+8 8 1
+#16913
+mob Agalaf Strange~
+A strange Agalaf~
+A strange Agalaf is wandering around in a daze.
+~
+This monster is about six foot three with orange hair and buckteeth.
+You find it difficult to look into its eyes without bursting into
+laughter, as they are crossed.  He has a silly grin on his face...
+perhaps put there permenantly by an evil sorcerer.
+~
+76 8 500 S
+23 -5 0 5d5+500 4d3+7
+15000 250000
+8 8 0
+#16914
+mob Iguana scaled large~
+A large scaled iguana~
+A large scaled iguana is here, searching for food.
+~
+This is a huge, scaled iguana... with large spikes that line its
+back.  It's eyes are vertical slits, which peer curiously at you.
+It isn't moving, with the exception of it's tail, which is swaying
+back and forth.  Ocassionally it sticks out its tounge, which you
+notice is forked.
+~
+72 524296 0 S
+29 -22 -10 5d5+675 5d5+7
+30000 500000
+8 8 0
+#16915
+mob Swaplord Hero~
+The Swamplord Hero~
+The Swamplord Hero stands before you, smiling with a sincere benevolence.
+~
+The old man wishes peace upon all Apocypha.  You can tell this by just
+one glance into his soft blue eyes, which gleam with the spark of life.
+He stands a good six feet tall... just enough to tower over you and
+make you feel small in his presence... which you are.  This hero of
+all time merits much praise and respect.
+~
+10 136 1000 S
+43 -60 -40 50d10+10000 7d7+0
+500000 1000000
+8 8 1
+#16916
+mob Swamplord Witch~
+The Swamplord Witch~
+The Swamplord Witch stands before you, grinning evilly!
+~
+The old witch spends most of her time plotting the death of the swamplord
+hero.  Her hair has greyed, and does not appear to be very powerful.
+Time has taken its toll on her... however... looks can very well
+be deceiving.  Her magical powers are, no doubt, stronger then ever!
+~
+10 136 -1000 S
+43 -90 -50 50d10+10000 7d7+0
+500000 1000000
+8 8 2
+#16917
+mob Hero protection~
+A Hero of Protection~
+A Hero of Protection stands bravely before you, smiling happily.
+~
+This Hero is of a class unknown to anywhere but Apocrypha.  He has
+an aura about him which emits a feeling of peace, as he day dreams
+about finally achieving peace on the surface.  However, this appears
+not to be in the scope of the immediate future.
+~
+72 136 1000 S
+39 -50 -30 5d10+5000 7d7+50
+300000 700000
+8 8 1
+#16918
+mob Demon corruption~
+A Demon of Corruption~
+A Demon of Corruption stands before you, strong and fearless.
+~
+These Demons are the second most powerful evil force in all of
+Apocrypha.  They are mighty beings of war... and are sworn to
+protect there leader at all costs, including death.  They wish
+to have evil conquer these great swamps and to rule with an iron
+hand over all of its inhabitants.
+~
+72 136 -1000 S
+39 -55 -25 5d5+4900 7d7+53
+300000 700000
+8 8 1
+#16919
+mob Mage bright~
+The Mage of the Bright~
+The Mage of the Bright stands before you, waiting to help you.
+~
+The mage is sworn to protect all that is good here in the Swamps of
+Apocrypha.  He is dressed in all white, and is reading a book entitled
+'The End of War and the Start of Peace'.
+~
+266 138 1000 S
+34 -30 -10 10d10+900 5d5+30
+200000 550000
+8 8 1
+#16920
+mob Mage dark~
+The Mage of the Dark~
+The Mage of the Dark stands before you, contemplating killing you.
+~
+The mage is sworn to uphold the corruption and evil of the Swamps of
+Apocrypha.  She is dressed entirely in black, and is reading a book
+about the end of the world... 'The Dark Ending.'
+~
+266 138 -1000 S
+34 -30 -10 10d10+900 5d5+35
+200000 550000
+8 8 2
+#16921
+mob Frog Green~
+A large green frog~
+A large green frog is sitting here, eating flies.
+~
+The frog is sitting on a stone, licking out randomly hoping to  
+be lucky enough to catch a fly.  This frog is not very large, 
+and doesn't look as mean as the toads that are indigenous to 
+this swamp.
+~
+72 8 150 S
+8 10 10 2d2+120 3d3+3
+500 15000
+8 8 0
+#16922
+mob Toad huge mother~
+A huge mother toad~
+A huge mother toad is sitting here, glaring at you.
+~
+This toad doesn't look very friendly, and, in fact, appears to be
+rather angry.  These toads are very territorial, and do not like the
+fact that you are on their land.  You decide it best to either leave
+now or expect to do battle!
+~
+104 0 -350 S
+13 0 0 4d4+190 3d3+9
+1000 18000
+8 8 2
+#16923
+mob turtle large cumbersome~
+A large cumbersome turtle mob~
+A large cumbersome turtle is swimming quietly around, stalking its prey.
+~
+The turtle is very large, and has a plate which makes it somewhat
+difficult for it to manuever quickly.  However, it is stealthy enough
+that it need not move quickly, because nothing notices it glide by
+in the water.  You notice a symbol formed in its back... it is the
+symbol of Apocrypha!!!
+~
+72 524296 796 S
+26 -15 -10 5d5+585 4d3+8
+20000 315000
+8 8 0
+#16924
+mob hippopotamus large grey~
+A large grey hippopotamus~
+A large grey hippopotamus is silently bathing in the water.
+~
+This hippopotamus is incredibly massive, as it turns from side to
+side, bathing in the water.  You are amazed how such an incredibly
+large beast could move so quietly, and make so few waves in the
+water!
+~
+72 524296 555 S
+28 -20 -15 5d5+675 4d4+10
+30000 375000
+8 8 0
+#16925
+mob will wisp~
+A will wisp~
+A will wisp is here, beating in the wind.
+~
+These will wisps are here, beating in the wind, almost forming a
+musical pattern.  This could be coincidental, or are they ALIVE!!!
+The will wisps are well planted in the swamp ground.
+~
+10 8 100 S
+23 -5 0 4d4+420 3d5+10
+10000 125000
+8 8 0
+#16926
+mob Ettin Giant~
+A giant Ettin~
+A giant Ettin stands before you, waiting to pound you into rubble.
+~
+These strange two-headed creatures are known to hurl large boulders
+with enough strength to do considerable damage.  While they are
+non-magical beasts, they are hardy enough to do considerable
+damage when in battle.
+~
+76 8 -550 S
+30 -20 -15 10d5+750 2d15+5
+50000 500000
+8 8 1
+#16927
+mob Liche ~
+A Liche~
+A mysterious Liche stands before you, eyeing you evilly.
+~
+This type of monster is very rare and very difficult to kill.  You
+notice an ancient symbol, which hasn't been used in decades by the
+inhabitants of the Swamp of Apocrypha.  This symbol was used to
+mark undead creatures that could not be eliminated by conventional
+means.  The books say that all of these creatures are extinct,
+but it would appear that the books are wrong!
+~
+72 524424 -1000 S
+36 -35 -25 7d7+1235 5d5+35
+125000 675000
+8 8 -72
+#16928
+mob fisherman man~
+the fisherman~
+The fisherman is standing here, soaking wet from the river.
+~
+The fisherman is an old man, but it appears that he can defend himself!
+He is wearing a large pair of wading boots... that are covered in mud.
+By his general appearance, you find yourself wondering if you have
+stumbled accross an alcholic.
+~
+78 100663304 0 S
+29 5 0 7d7+3500 13d3+9
+50000 289000
+8 8 0
+#16929
+mob whirlpool darkwater~
+the Whirlpool of Darkwater~
+The Blank Mob standing here, looking formless.
+~
+The water suddenly turns dark before you, and begins to spin
+into a whirlpool.  It roars and lunges towards you as if it
+were alive!
+~
+1049192 102236168 -1000 S
+27 0 0 4d4+500 3d3+5
+65000 150000
+8 8 0
+#16930
+mob aprocryphan dragon~
+the Apocryphan Dragon~
+Before you stands the Aprocryphan Dragon, feared by all.
+~
+You see the a huge, black dragon with fangs.  He is whipping his
+tail about, as he considers how he should kill you.
+~
+4458606 33554560 0 S
+42 -25 25 10d50+10000 5d5+43
+500000 0
+8 8 0
+$~
+#999999

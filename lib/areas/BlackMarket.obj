@@ -1,0 +1,64 @@
+#16100
+obj gnarled cane~
+A gnarled old cane~
+An old cane lies here, bent and twisted.~
+~
+5 565248 24577
+66 4 5 7
+7 10000 4500
+A
+12 40
+A
+4 2
+#16101
+obj large metal key~
+a large metal key~
+You see a large metal key lying here.~
+~
+18 0 1
+0 0 10 0
+1 5 1383400060
+#16102
+obj sapphire blue rose~
+a sapphire blue rose~
+A long-stemmed sapphire blue rose lies here.~
+~
+8 1 16385
+0 0 10 0
+1 5 5
+A
+31 -1
+#16103
+obj finger~
+the finger~
+You see a decapitated finger lying here on the ground.~
+~
+13 0 1
+0 0 10 0
+1 5 5
+#16104
+obj wedding veil~
+a wedding veil~
+A beautiful white wedding veil lies here.~
+~
+11 1 17
+0 0 10 0
+1 5 5
+#16105
+obj ball chain~
+the old ball n' chain~
+A long chain with a large metal ball attached is lying here.~
+~
+9 2097172 65
+10 4 9 6
+10 80000 30000
+A
+1 2
+A
+3 -2
+A
+18 1
+A
+19 3
+$~
+#999999

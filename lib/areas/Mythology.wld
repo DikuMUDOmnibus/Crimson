@@ -1,0 +1,577 @@
+#16800
+The Gate to the World of Mythology~
+   A massive golden gate with various pictures stand in front of you.  As
+you approach the two giant posts, you feel the surrounding of the magic 
+power that will protect you from the evilness.  A world of exciting adventure
+awaits, as you step to the gate.
+~
+54 8 1
+D2
+the start of the road is towards south
+~
+~
+0 -1 16801
+D4
+The great fountain of Midgaard lies above.
+~
+~
+0 -1 3014
+D5
+The zonelord board room lies below.
+~
+~
+0 -1 8311
+S
+#16801
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D0
+you see the entrance to the world of mythology in the north
+~
+~
+0 -1 16800
+D2
+a golden bricked road
+~
+~
+0 -1 16802
+S
+#16802
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D0
+a golden bricked road
+~
+~
+0 -1 16801
+D1
+the golden bricked road continues to the east
+~
+~
+0 -1 16803
+D2
+a golden bricked road
+~
+~
+0 -1 16807
+D3
+a friendly looking temple lies to the west
+~
+~
+0 -1 16811
+S
+#16803
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D1
+a golden bricked road is at east
+~
+~
+0 -1 16804
+D3
+a golden bricked road is at west
+~
+~
+0 -1 16802
+S
+#16804
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D0
+You see water ahead.
+~
+~
+0 -1 16812
+D1
+a golden bricked road
+~
+~
+0 -1 16805
+D3
+a golden bricked road
+~
+~
+0 -1 16803
+S
+#16805
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D1
+a golden bricked road continues to the east
+~
+~
+0 -1 16806
+D3
+a golden bricked road continues to the west
+~
+~
+0 -1 16804
+S
+#16806
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D3
+the golden bricked road continues to the west
+~
+~
+0 -1 16805
+S
+#16807
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D0
+a golden bricked road
+~
+~
+0 -1 16802
+D1
+You see nothing special.
+~
+~
+0 -1 16813
+D2
+a golden bricked road
+~
+~
+0 -1 16808
+D3
+Far in the distance you can see a building.
+~
+~
+0 -1 16815
+S
+#16808
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D0
+a golden bricked road
+~
+~
+0 -1 16807
+D1
+You can barely make out something in the distance.
+~
+~
+0 -1 16817
+D2
+a golden bricked road
+~
+~
+0 -1 16809
+D3
+Hermes Avenue lies to the west.
+~
+~
+0 -1 16820
+S
+#16809
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D0
+a golden bricked road
+~
+~
+0 -1 16808
+D1
+You see nothing special.
+~
+~
+0 -1 16827
+D2
+a golden bricked road
+~
+~
+0 -1 16810
+D3
+You see nothing special
+~
+~
+0 -1 16823
+S
+#16810
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D0
+a golden bricked road continues on the north
+~
+~
+0 -1 16809
+S
+#16811
+The Temple of the God Athena~
+An irresistable attraction brings people from all over the world, just to
+come and experience it.  High beams tower over your head and as you look
+around you see a truly beautiful building.
+~
+54 8 1
+D1
+a golden bricked road is to the east
+~
+~
+0 -1 16802
+S
+#16812
+The Cave of Hephaestus~
+This underwater cave is a makeshift forge.  This area is used by the
+deformed Hephaestus who turns out hundreds of delightful metal ornaments
+each day.  The sight of all the metal and the loud clanging noises is just
+a little unsettling.
+~
+54 8 8
+D2
+you see a golden bricked road 
+~
+~
+0 -1 16804
+S
+#16813
+The Golden Bricked Road~
+   You are on a golden bricked road that seems to travel miles and miles.
+Many unique people and creatures are walking around minding their own
+business.
+~
+54 8 1
+D1
+A merry little fountain is ahead.
+~
+~
+0 -1 16814
+D3
+The main path is just ahead.
+~
+~
+0 -1 16807
+S
+#16814
+The Olympus Fountain~
+The fountain of the gods is a sight to behold.  Glasses stacked one on top
+of the other in a pyramid shape, have cool, bubbling water cascading down
+each level... begging for you to try some.
+~
+54 8 1
+D3
+You see nothing special.
+~
+~
+0 -1 16813
+S
+#16815
+Demeter Avenue~
+This road leads to another temple.  Beautiful countryside surrounds you
+as far as you can see.
+~
+54 8 1
+D1
+You see the main path thru this area.
+~
+~
+0 -1 16807
+D3
+You see beautifully carved pillars.
+~
+~
+0 -1 16816
+S
+#16816
+The Pillar temper of Demeter~
+Demeter is the goddess of agriculture and if she neglects her duties, no
+grain will grow on the earth.  She rides in a chariot pulled by two ancient
+green dragons... perhaps you should not mess with her.
+~
+54 8 1
+D1
+In the distance is a well-worn path.
+~
+~
+0 -1 16815
+S
+#16817
+Poseidon Road~
+This road is cobbled.  Made out of the rubble which was left by an earthquake
+Poseidon caused.  Better keep walking carefully and silently, lest you be
+caught here.
+~
+54 8 1
+D1
+You see a large building in the distance.
+~
+~
+0 -1 16818
+D3
+The main path lies ahead.
+~
+~
+0 -1 16808
+S
+#16818
+Poseidon Road~
+This road is cobbled.  Made out of the rubble which was left by an earthquake
+Poseidon caused.  Better keep walking carefully and silently, lest you be
+caught here.
+~
+54 8 1
+D1
+A huge building looms before you.
+~
+~
+0 -1 16819
+D2
+You see nothing special.
+~
+~
+0 -1 16828
+D3
+You see nothing special.
+~
+~
+0 -1 16817
+S
+#16819
+The palace of Poseidon~
+This palace is built right on the beach.  The waves of the ocean lap up
+at the step at high-tide.  Water is all you can see... no matter which
+way you look.  The smell of the sea and the gentle sounds of the sea seem
+too restful for such a place and then.......
+~
+54 8 1
+D3
+You see nothing special.
+~
+~
+0 -1 16818
+S
+#16820
+Hermes Avenue~
+This road leads to the home of Hermes the Messenger god.  He is always in
+a hurry... better run to catch him.
+~
+54 8 1
+D1
+The main road lies ahead.
+~
+~
+0 -1 16808
+D3
+You see Hermes Avenue to the west.
+~
+~
+0 -1 16821
+S
+#16821
+Hermes Avenue~
+This road leads to the home of Hermes the Messenger god.  He is always in
+a hurry... better run to catch him.
+~
+54 8 1
+D1
+You see Hermes Avenue to the east.
+~
+~
+0 -1 16820
+D3
+House of Hermes towers ahead.
+~
+~
+0 -1 16822
+S
+#16822
+House of Hermes~
+This god looks like a teenager <but watch your stuff> who is excellent in
+thieving.  His main fuction is a messenger between mortals and gods... so
+be nice to him, because it could come in handy later on.
+~
+54 8 1
+D1
+You see Hermes Avenue to the east.
+~
+~
+0 -1 16821
+D2
+You see Ares Road ahead.
+~
+~
+0 -1 16825
+S
+#16823
+Ares Road~
+This road leads off into the distance, winding and curving away from you.
+The area is really pretty though and you start to enjoy the walk.
+~
+54 8 1
+D1
+The main path thru here is ahead.
+~
+~
+0 -1 16809
+D3
+You see Ares Road ahead.
+~
+~
+0 -1 16824
+S
+#16824
+Ares Road~
+This road leads off into the distance, winding and curving away from you.
+The area is really pretty though and you start to enjoy the walk.
+~
+54 8 1
+D1
+You see Ares Road ahead.
+~
+~
+0 -1 16823
+D3
+You see Ares road ahead.
+~
+~
+0 -1 16825
+S
+#16825
+Ares Road~
+This road leads off into the distance, winding and curving away from you.
+The area is really pretty though and you start to enjoy the walk.
+~
+54 8 1
+D0
+You see the House of Hermes.
+~
+~
+0 -1 16822
+D1
+You see Ares Road ahead.
+~
+~
+0 -1 16824
+D3
+You see a building up ahead.
+~
+~
+0 -1 16826
+S
+#16826
+Tower of Ares~
+The Tower of Ares is the home of Ares the God of Battle.  He appears as a
+normal muscular man, but never misses his target, and has the divine awe
+power of the Gods.
+~
+54 8 1
+D1
+Ares Road is ahead.
+~
+~
+0 -1 16825
+S
+#16827
+Cronos Avenue~
+A strange feeling begins to come over you as to attempt to walk down this
+road.  You try to keep your head high and your spirits up, but the strong
+feeling of doom just will not let go of you as you walk along.
+~
+54 8 1
+D1
+This street continues to the east.
+~
+~
+0 -1 16828
+D3
+You see the main road ahead.
+~
+~
+0 -1 16809
+S
+#16828
+Cronos Avenue~
+A strange feeling begins to come over you as to attempt to walk down this
+road.  You try to keep your head high and your spirits up, but the strong
+feeling of doom just will not let go of you as you walk along.
+~
+54 8 1
+D0
+You see nothing special.
+~
+~
+0 -1 16818
+D1
+Cronos Avenue winds away from you.
+~
+~
+0 -1 16829
+D3
+The street lies ahead.
+~
+~
+0 -1 16827
+S
+#16829
+Cronos Avenue~
+A strange feeling begins to come over you as to attempt to walk down this
+road.  You try to keep your head high and your spirits up, but the strong
+feeling of doom just will not let go of you as you walk along.
+~
+54 8 1
+D1
+Vast gardens lay ahead.
+~
+~
+0 -1 16830
+D3
+The road continues.
+~
+~
+0 -1 16828
+S
+#16830
+Cronos Mansion~
+In such a beautiful setting of trees and shrubs you feel uneasy as a large
+figure towers above you.  Cronos appears as an extreme handsome giant over
+100 foot tall... you begin to wonder about your chances.
+~
+54 8 1
+D3
+You see road in front of you.
+~
+~
+0 -1 16829
+S
+$~
+#999999

@@ -1,0 +1,40 @@
+MOB EXP
+
+take the mobs level and add the appropriate lines from the table below.
+
+if ac is below 0 +1
+breath attack +2
+drain exp +3
+potential for 4 attacks a round (melee only) +1
+hit points more than 15*level on average +1
+hit only by silver or other specific weapon type +1
+spell immunity (of any kind) +1
+weapon immunity +1
+has spells +2
+magic resistance +2
+ave dam from one melee attack is 50+  +2
+paralysis +2
+poison +2
+regen +1
+sanc +3
+
+
+once you have the mobs adjusted level cnosult the followin....
+level - xp value
+0 - 7
+1 - 15
+2 - 35
+3 - 65
+4 - 120
+5 - 175
+6 - 270
+7 - 420
+8 - 650
+9 - 975
+10 - 1400
+11 - 2000
+
+add 1K for each level over 11
+
+so a level 20 mob would be 11,000
+then multiply that number by 5 so the level 20 mob would be 55K exp

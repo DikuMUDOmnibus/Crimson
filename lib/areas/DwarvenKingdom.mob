@@ -1,0 +1,115 @@
+#4700
+mob dwarf small~
+The small dwarf~
+A small dwarf is here mining at the tunnel walls.
+~
+  The small dwarf is dirty and dressed only in a small tunic and leggings.  His
+beard is encrusted with cracked rock and dust from the tunnel walls.  
+~
+12 0 800 S
+7 13 18 126d1+0 3d3+3
+700 10500
+8 8 1
+#4701
+mob dwarf small~
+The small dwarf~
+A small dwarf is here, on the watch for Duergar.
+~
+  The small dwarf is dressed in colorful clothing and has a full and long beard.His eyes are keen and sharp, well suitedfor sight in the dark tunnels of the 
+mines.
+~
+12 0 1000 S
+5 28 20 90d1+0 2d3+3
+500 7500
+8 8 1
+#4702
+mob dwarf guard~
+The dwarf guard~
+A small dwarf is here, dressed in a makeshift suit of armor.
+~
+  This small dwarf is the militia of the Dwarven Kingdom it watches over.  The
+small body is strong which makes him a match for any foe.  The armor of the 
+dwarf is of no use to anyone but him, but provides adequate defense. 
+~
+106 0 1000 S
+10 23 15 180d1+0 4d3+4
+1000 15000
+8 8 1
+#4703
+mob dwarf gentle~
+Yentle the dwarf~
+A small dwarf sits here trying to grow a new rock.
+~
+  The insane little dwarf who thinks he can grow a rock.  He is dressed in many
+yellows and oranges, and seems to have a happy look about him despite his years
+of failure at growing rocks.
+~
+12 8 1000 S
+10 23 15 180d1+0 4d3+4
+1000 15000
+6 6 1
+#4704
+mob juargan dwarf king~
+Juargan the Dwarven King~
+Juargan the Dwrven King sits here upon his throne, looking out over his gardens.~
+  The small king is bulging at the seems with muscle.  He is dressed in nothing but a noble robe made of a grey silk.  His face has a visage of stone like his
+surroundings, as if his burden has become to much for him.
+~
+262154 8 1000 S
+27 -21 -2 2100d1+0 8d3+32
+30000 40500
+6 6 1
+#4705
+mob duergar dwarf~
+The duergar dwarf~
+A repulsive Duergar is here, biting at its own arm.
+~
+  The Duergar are the outcast dark dwarves.  They have grown insane through 
+their isolation from the rest of the dwarven population and have become bitter 
+enemies with them.
+~
+108 8 -1000 S
+8 25 17 144d1+0 3d3+4
+800 12000
+8 8 1
+#4706
+mob grimdale ancient king dwarf~
+Grimdale the ancient king~
+A ancient and partially decayed dwarf lies here ever so silent.
+~
+  The ancient king of the dwarves lies here.  Forgotten over the past decades 
+his once cherished body has fallen into utter decay.  His once cheery face has
+turned into a crude scowl as you can feel that his soul is not at ease.
+~
+262186 168 -999 S
+31 -27 -4 2700d1+0 9d3+38
+50000 46500
+8 8 1
+#4707
+mob rock worm dreaded~
+The dreaded rock worm~
+The dreaded rock worm has blasted through the rock wall, its jaws open wide!
+~
+  The jaws of this strange beast are large enough to fit at lease two dwarves
+into.  Judging by the size you can see that is has been eating quite a few too
+many dwarves as it's body is at least five feet in diameter.
+~
+262186 8 0 S
+20 0 5 700d1+0 5d3+20
+15000 30000
+8 8 0
+#4708
+mob spirit dwarf~
+A dwarven spirit~
+A small dwarven spirit is at unrest here.
+~
+  The small spirit screams in agony as it is bound to this wretched existance.
+The soul of some unfortunate dwarf now has to fly amlessly through this chamber
+of eternal pain.
+~
+42 168 -999 S
+15 20 12 282d1+0 4d3+8
+5000 22500
+8 8 0
+$~
+#999999

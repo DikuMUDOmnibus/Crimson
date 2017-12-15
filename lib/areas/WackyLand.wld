@@ -1,0 +1,4243 @@
+#17300
+Pooky's Comfy Little Room~
+This room looks sooo comfortable and peaceful...  The walls are all padded
+with some sort of soft material, and the floor is kind of bouncy.
+Hanging on the west wall is a large tapestry.  The tapestry is at least
+10 feet long, and on it is a portrait of Pooky.  Also in the room is a
+sofa, a TV, and some other things that would make this place a place that
+no one would ever want to leave!
+~
+57 8716 0
+D0
+Midgaard
+~
+~
+0 -1 3001
+D5
+???
+~
+~
+0 -1 17499
+E
+sign~
+The sign reads:   Tower of Ordeal
+                  Created by Reptile
+                  Suggested Levels: 20+
+                  Rage, the Lord of Elementals,
+                   awaits you at the top of his tower...
+
+                  Hint:  There are LOTS of hidden doors!
+~
+S
+#17301
+At the base of a VERY tall tree~
+Standing firmly in front of you is the largest tree that you have ever
+seen.  You estimate the diameter of the tree to be at LEAST 1 metre.
+At closer inspection, you notice as if one side of the tree was shaped
+to resemble steps.  Gazing up, you notice that the steps continue as far
+as your eyes can see, and farther... beyond the clouds up high in the sky.
+North, south, east, and west all lead back into the forest.
+~
+57 8 3
+D0
+Back into the dark forest.
+~
+~
+0 -1 17302
+D1
+Back into the dark forest.
+~
+~
+0 -1 17303
+D2
+Back into the dark forest.
+~
+~
+0 -1 17304
+D3
+Back into the dark forest.
+~
+~
+0 -1 17305
+D4
+You see nothing special
+~
+~
+0 -1 17310
+S
+#17302
+Wandering in a dark forest~
+You are standing in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+To the south, you can see a tree, much larger than the ones around it.
+~
+57 9 3
+D0
+You see nothing special
+~
+~
+0 -1 17309
+D2
+You see a HUGE tree.
+~
+~
+0 -1 17301
+S
+#17303
+Wandering in a dark forest~
+You are standing in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+To the west, you see a tree, much larger than the ones around it.
+~
+57 9 3
+D1
+You see nothing special
+~
+~
+0 -1 17322
+D3
+You see a HUGE tree.
+~
+~
+0 -1 17301
+S
+#17304
+Wandering in a dark forest~
+You are standing in a forest of strange, dark black trees.  The trees
+block of any light, so the only light is coming from your lightsource.
+To the north, you see a tree, much larger than the ones around it.
+~
+57 9 3
+D0
+You see a HUGE tree.
+~
+~
+0 -1 17301
+D2
+The entrance of the dark forest
+~
+~
+0 -1 17321
+S
+#17305
+Wandering in a dark forest~
+You are standing in a forest of strange, black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+To the east, you see a tree, much larger than the ones around it.
+~
+57 9 3
+D1
+You see a HUGE tree.
+~
+~
+0 -1 17301
+D3
+You see nothing special.
+~
+~
+0 -1 17306
+S
+#17306
+Wandering in a dark forest~
+You are wandering in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+~
+57 9 3
+D0
+You see nothing special
+~
+~
+0 -1 17307
+D1
+You see nothing special.
+~
+~
+0 -1 17305
+S
+#17307
+Wandering in a dark forest~
+You are wandering in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+~
+57 9 3
+D1
+You see nothing special
+~
+~
+0 -1 17308
+D2
+You see nothing special
+~
+~
+0 -1 17306
+D3
+You see nothing special
+~
+~
+0 -1 17318
+S
+#17308
+Wandering in a dark forest~
+You are wandering in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+~
+57 9 3
+D2
+You see nothing special.
+~
+~
+0 -1 17317
+D3
+You see nothing special.
+~
+~
+0 -1 17307
+S
+#17309
+Wandering in a dark forest~
+Yoy are wandering in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+~
+57 9 3
+D1
+You see nothing special
+~
+~
+0 -1 17313
+D2
+You see nothing special
+~
+~
+0 -1 17302
+D3
+You see nothing special.
+~
+~
+0 -1 17316
+S
+#17310
+Climbing the huge tree~
+You are about 20 feet above the ground on the steps of this tree.  You
+can start to see some light peeking in from up above.  The winding steps
+continue both up and down the tree.
+~
+57 5 3
+D4
+The tree seems to go on forever.
+~
+~
+0 -1 17311
+D5
+You see the ground below.
+~
+~
+0 -1 17301
+S
+#17311
+Higher up on the huge tree~
+You are now 50 feet above the ground on this huge black tree.  As you gaze
+up, you notice some strange, green clouds forming not much farther up
+the tree.  Other than that, the winding steps continue both up and down
+the tree.
+~
+57 1 3
+D4
+You remember back to when you were taking Adventuring 101, and you recall
+learning something about green clouds are EXTREMELY dangerous...
+~
+~
+0 -1 17312
+D5
+You see nothing special
+~
+~
+0 -1 17310
+S
+#17312
+In the TOXIC green cloud~
+Unfortunately, you have chose to enter the green cloud of toxic gases.
+You start gasping for air, but immediately discover that there isn't any.
+Within moments, you drop off into unconsiousness and fall 75 feet down
+onto the hard ground below..
+.
+.
+.
+.
+<SPLAT>
+~
+57 7 3
+S
+#17313
+Wandering in a dark forest~
+You are wandering in a forest of strange, dark black trees.  The trees
+block of any light, so the only light is coming from your lightsource.
+You see some sort of clearing to the east.
+~
+57 9 3
+D1
+You see a clearing.
+~
+~
+0 -1 17314
+D3
+You see nothing special
+~
+~
+0 -1 17309
+S
+#17314
+In a Clearing~
+You are in a clearing somewhere in this dark forest.  At the very center
+of this clearing is a fairly large sized tree standing all by itself.
+The tree seems to be climbable.
+~
+57 0 3
+D1
+The clearing seems to go on forever..
+~
+~
+0 -1 17331
+D3
+Back into the dark forest
+~
+~
+0 -1 17313
+D4
+Up the tree
+~
+~
+0 -1 17315
+S
+#17315
+Climbing up the tree~
+You are about 15 feet off the ground up in the tree.  The branches are
+very sturdy, simplifying the task off climbing up and down the tree.
+~
+57 4 3
+D4
+You see lots of branches going out in all directions.
+~
+~
+0 -1 17332
+D5
+You see the ground.
+~
+~
+0 -1 17314
+S
+#17316
+Dead end~
+You have run into a dead end of the dark forest.  The only way out is back
+the way you came from.
+~
+57 9 3
+D1
+You see nothing special
+~
+~
+0 -1 17309
+S
+#17317
+In a dead end~
+You have run into a dead end.  Here, the trees are so close together
+blocking off your exits in all directions except for the way you came in.
+~
+57 9 3
+D0
+You see nothing special
+~
+~
+0 -1 17308
+S
+#17318
+Wandering in a dark forest~
+You are wandering in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+~
+57 9 3
+D1
+You see nothing special
+~
+~
+0 -1 17307
+D3
+You notice the ground gets softer in that direction.
+~
+~
+0 -1 17319
+S
+#17319
+In a pit trap~
+Ahhhhh.......
+....
+...
+.
+.
+.
+.
+.
+OOOOOOOOFF!   You have fallen into a pit trap!  Looking around for a way
+out, and you conclude that the only way out is to climb up a vine that is
+dangling around.  Your thoughs are interrupted as a carrion crawler comes
+out of the shadows and attacks you!
+~
+57 4109 3
+D1
+You've discovered a hidden tunnel!
+~
+~
+16 -1 17457
+D4
+Hmmm... the vine looks VERY old and there is a chance that it just MIGHT
+snap.
+~
+~
+0 -1 17320
+S
+#17320
+<SNAP!>~
+You almost make it out of the pit when the vine suddenly snaps!  You fall
+back down, but this time your body gets mauled by the sharp rocks sticking
+out from the sides of the walls as you fall....
+Your corpse falls like a rock down to the bottom of the pit where the
+carrion crawlers immediately come out to feast on your carcass.
+~
+57 3 3
+S
+#17321
+Entrance to the dark forest~
+You are at the entrance to a forest of dark black trees you have never
+seen anywhere else.  You can hear strange sounds coming from the darkness
+of the forest and occasional screams can be heard.  There is a sign
+stuck into the ground here which reads "   kyLa   Thi   ay."  That is
+all you can make out.. the rest seems to have been rubbed off or
+something...  An interdimensional portal hovers in mid-air to the south.
+~
+57 4 3
+D0
+Into the dark forest
+~
+~
+0 -1 17304
+D2
+Its big blue and round, beyond that the portal is a big mystery.~
+~
+0 -1 6902
+S
+#17322
+Wandering in a dark forest~
+You are wandering in a forest of strange, dark black trees.  The trees
+block off any light, so the only light is coming from your lightsource.
+The forest appears to get MUCH darker to the north and south.
+~
+57 9 3
+D0
+It is too dark to tell.
+~
+~
+0 -1 17323
+D2
+Too dark to tell
+~
+~
+0 -1 17327
+D3
+You see nothing special
+~
+~
+0 -1 17303
+S
+#17323
+Deep in the dark forest~
+This part of the forest is noticably darker.  The trees are closer
+together making it difficult to see in any direction.
+You sense something magical, or perhaps out of the ordinary nearby.
+~
+57 9 3
+D0
+Too dark to tell
+~
+~
+0 -1 17325
+D2
+You see nothing special
+~
+~
+0 -1 17322
+D3
+You sense something strange.
+~
+~
+0 -1 17324
+S
+#17324
+Dark path~
+You are walking along a dark path paved with what looks like obsidian.
+It feels as if the black trees are watching your everymove......
+and laughing.......  ?
+~
+57 2061 3
+D1
+Too dark to tell
+~
+~
+0 -1 17324
+D3
+Too dark to tell
+~
+~
+0 -1 17324
+S
+#17325
+Before a tranquil silver pond~
+You are standing before a glistening silver pond.  There is a pulsating
+silver light being emitted from deep in the water.  You feel very
+peaceful here and decide that this is a good place you can rest without
+worrying about being attacked.
+~
+57 13 3
+D2
+Too dark to tell
+~
+~
+0 -1 17323
+D5
+You think you see little room or something.
+~
+~
+16 -1 17326
+S
+#17326
+In a hidden room~
+You have found a hidden room in the silver pond.  The only thing in this
+room is a little box suspended in the air in the middle of the room.
+~
+57 8 8
+D4
+Out of the pond
+~
+~
+0 -1 17325
+S
+#17327
+Deep in the dark forest~
+This part of the forest is noticably darker.  The trees are closer
+together making it difficult to see in any direction.
+~
+57 8 3
+D0
+You see nothing special
+~
+~
+0 -1 17322
+D1
+Too dark to tell
+~
+~
+0 -1 17328
+S
+#17328
+Deep in the dark forest~
+This part of the forest is noticably darker.  The trees are closer
+together making it difficult to see in any direction.
+~
+57 9 3
+D1
+You sense something strange.
+~
+~
+0 -1 17324
+D2
+Too dark to tell
+~
+~
+0 -1 17329
+D3
+Too dark to tell
+~
+~
+0 -1 17327
+S
+#17329
+Deep in the dark forest~
+This part of the forest is noticably darker.  The trees are closer
+together making it difficult to see in any direction.
+~
+57 9 3
+D0
+Too dark to tell
+~
+~
+0 -1 17328
+D1
+You sense something strange.
+~
+~
+0 -1 17324
+D3
+You sense something strange
+~
+~
+0 -1 17324
+D5
+You discover a trapdoor in the ground!
+~
+trapdoor~
+17 -1 17330
+S
+#17330
+In a hole in the ground~
+You are cramped inside a very small hole dug in the ground.  The only
+way out is back the way you came in.
+~
+57 8204 0
+D4
+Up into the forest
+~
+trapdoor~
+1 -1 17329
+S
+#17331
+Wandering in a vast clearing~
+You are on some sort of clearing somewhere inside this dark forest.  There
+are no trees in sight, it is as if you are in a totally different place.
+The dull brown ground stretches on for what seems like forever in all
+directions.
+~
+57 4 2
+D0
+The vast clearing continues.
+~
+~
+0 -1 17331
+D1
+The vast clearing continues.
+~
+~
+0 -1 17331
+D2
+The vast clearing continues.
+~
+~
+0 -1 17331
+D3
+The vast clearing continues.
+~
+~
+0 -1 17331
+S
+#17332
+Higher up on the tree~
+You are MUCH higher up on this tree now.  There are many branches extending
+in every single direction, some even connecting with the branches of other
+trees nearby.  Some of the branches look pretty stable while some look
+like they would break with the slightest pressure.
+~
+57 0 3
+D0
+That branch looks pretty UNstable..
+~
+~
+0 -1 17336
+D1
+That branch looks like it could snap VERY easily.
+~
+~
+0 -1 17336
+D2
+The branch looks stable enough to walk on.
+~
+~
+0 -1 17337
+D3
+The branch looks fairly stable
+~
+~
+0 -1 17333
+D5
+Lower on the tree
+~
+~
+0 -1 17315
+S
+#17333
+On a tree branch~
+You are standing on a fairly stable branch of a tree.  The branches of
+two trees make a little bridge for you to go from tree to tree.
+~
+57 0 3
+D1
+You see a tree
+~
+~
+0 -1 17332
+D3
+You see a tree
+~
+~
+0 -1 17334
+S
+#17334
+On a tree~
+You are standing on a large branch.  The only branch strong enough to
+hold your weight is one that extends to the east.  The rest of the branches
+are either too small, or lead to nowhere.  You hear birds chirping right
+above you.
+~
+57 0 3
+D1
+You see a fairly stable tree branch.
+~
+~
+0 -1 17333
+D4
+You see a bird's nest.
+~
+~
+0 -1 17335
+S
+#17335
+In the giant nest of a Fuzz bird~
+Woah!  This must be the biggest bird's nest you have ever seen!  The nest
+is like 20 feet in diameter and is made of the branches from the black
+trees.  Peeking into the nest, you see a bunch of little hatchlings, along
+with some unhatched eggs.  Your thoughts are interupted as you see the
+mother Fuzz bird come swooping down at you with its talons wide open and
+ready to rip you to shreads!
+~
+57 0 3
+D5
+You see nothing special.
+~
+~
+0 -1 17334
+S
+#17336
+Splattered all over the ground...~
+As you step onto the branch, you hear a snapping sound.  And before you know
+what is going on, you find yourself plunging REALLY fast towards the hard
+ground below.  Within a couple seconds, your body is splattered all over
+the ground spraying blood and entrails in all directions..
+~
+57 14 3
+S
+#17337
+On a tree branch~
+You are standing on a sturdy tree branch high up off the ground.  To your
+south stands the largest tree you have ever seen!  Also, there seems to
+be winding steps carved out of the tree's trunk.  Gazing up, you are amazed
+to discover that the tree goes beyond the clouds and the heavens and seems
+to go on forever.
+~
+57 0 3
+D0
+You see a tree
+~
+~
+0 -1 17332
+D2
+You see a HUGE tree.
+~
+~
+0 -1 17338
+S
+#17338
+On the steps of a huge tree~
+You are standing on the winding steps of this huge black tree.  There appears
+to be some sort of green cloud swirling around the tree below you.  Above
+you, the tree seems to go on forever.
+~
+57 0 3
+D0
+The tree branch looks sturdy enough to stand on.
+~
+~
+0 -1 17337
+D4
+The winding steps continue.
+~
+~
+0 -1 17339
+D5
+You remember back to when you were taking Adventuring 101, and you recall
+learning something about green clouds are EXTREMELY dangerous...
+~
+~
+0 -1 17312
+S
+#17339
+Very high up in the huge tree~
+You are very high up now, on the winding steps of this huge tree.  It is
+as if you could easily reach up and touch the clouds.  You think you can
+see some figures actually walking around ON the clouds...
+~
+57 0 3
+D4
+All you can see are clouds
+~
+~
+0 -1 17340
+D5
+The winding steps continue.
+~
+~
+0 -1 17338
+S
+#17340
+On the huge tree, surrounded by clouds~
+There are so many clouds here that your visibility has be limited
+dramatically.  The clouds look soft and beautiful, and some even look
+like they can be stood on without falling through!  The tree continues
+on and on into the sky.
+~
+57 0 3
+D1
+That cloud looks like it can be stood on.
+~
+~
+0 -1 17341
+D4
+You cannot see beyond the clouds
+~
+~
+0 -1 17350
+D5
+You can't see through the clouds
+~
+~
+0 -1 17339
+S
+#17341
+On a cloud~
+You are amazing standing on a cloud.  The cloud beneath your feet is very
+soft and a little springy.  You can't see much around you because of all
+the clouds.
+~
+57 4 3
+D1
+All you see are clouds
+~
+~
+0 -1 17343
+D2
+The clouds are so close together that you don't think you would be able
+to see anyfarther than your nose.
+~
+~
+0 -1 17342
+D3
+You see a huge tree
+~
+~
+0 -1 17340
+S
+#17342
+In a big cloud~
+You can't see a thing!
+~
+57 12 0
+D0
+You can't see a thing!
+~
+~
+0 -1 17342
+D1
+You can't see a thing!
+~
+~
+0 -1 17342
+D2
+You can't see a thing!
+~
+~
+0 -1 17342
+D3
+You can't see a thing!
+~
+~
+0 -1 17342
+S
+#17343
+On a cloud~
+You are walking on fluffy, white clouds.  You feel very at ease in this
+place.
+~
+57 0 3
+D0
+All you see are clouds
+~
+~
+0 -1 17344
+D1
+All you see are clouds
+~
+~
+0 -1 17346
+D3
+All you see are clouds
+~
+~
+0 -1 17341
+S
+#17344
+On a cloud~
+You are walking on fluffy, white clouds.  You feel very at ease in this
+place.
+~
+57 0 0
+D0
+All you see are clouds
+~
+~
+0 -1 17345
+D1
+All you see are clouds
+~
+~
+0 -1 17347
+D2
+All you see are clouds
+~
+~
+0 -1 17343
+S
+#17345
+On a cloud~
+You are walking on fluffy, white clouds.  You feel very at ease in this
+place.
+~
+57 0 0
+D2
+All you see are clouds
+~
+~
+0 -1 17344
+S
+#17346
+On a cloud~
+You are walking on fluffy, white clouds.  You feel very at ease in this
+place.
+~
+57 0 0
+D3
+All you see are clouds
+~
+~
+0 -1 17343
+S
+#17347
+On a cloud~
+You are walking on fluffy, white clouds.  You feel very at ease in this
+place.  Also here are some stairs made of clouds that leads up to
+another level of clouds.
+~
+57 0 0
+D3
+All you see are clouds
+~
+~
+0 -1 17344
+D4
+You can make out a form which resembles a house.
+~
+~
+0 -1 17348
+S
+#17348
+In the home of Kylandria, the Lady of the Cloud Giants~
+You have entered the home of Kylandria, Lady of the Cloud Giants.  The
+entire house is made of clouds, including all the furniture.  Everything
+is a dull egg-white color, creating a peaceful atmosphere.  The lady of
+the Cloud Giants is here, lounging in her VERY comfy-looking recliner.
+She beams a smile at you, welcoming you to her home.
+~
+57 8 0
+D0
+You see nothing special
+~
+door~
+3 17310 17349
+D5
+All you see are clouds
+~
+~
+0 -1 17347
+S
+#17349
+Lady Kylandria's Bedroom~
+Again, the entire room is a dull egg-white color.  There is a bed made of
+clouds here.  Further inspection tells you that the bed is VERY soft and
+VERY comfortable.  You wish that the Inns back in Midgaard had beds like
+these!
+~
+57 8 0
+D2
+The common room.
+~
+door~
+3 17310 17348
+S
+#17350
+Above the clouds~
+You are high above the clouds, WAY up in the sky.  You notice that the
+tree ends not much farther up.  You see a bunch of swirling colors to
+one side of the top of the tree.
+~
+57 0 3
+D4
+You see the top of the tree
+~
+~
+0 -1 17351
+D5
+All you see are clouds
+~
+~
+0 -1 17340
+S
+#17351
+Top of the huge tree~
+You are at the very top of the huge tree which you at first thought went
+on forever!  Forever may be right though, you are VERY high above the
+ground.  You can see -EVERYTHING- from here, from Midgaard to Arnath,
+to the Elfin Citadal and much, much more.  To your east, you see a mass
+of swirling colors making what looks like a portal.  You think that
+you might be able to jump into it, but you are not sure where it may
+end up...
+~
+57 0 3
+D1
+You see a multi-colored portal.
+~
+~
+0 -1 17352
+D5
+You see clouds in the distance
+~
+~
+0 -1 17350
+S
+#17352
+In a VERY quiet room~
+The portal has taken you to some kind of strange room.  It is awfully
+quiet here, the only sounds coming from your own actions.  All the walls
+of this room are pastel colors.  You notice a door made of ivory to your
+north, and a swirling black portal in the floor.
+~
+57 8 0
+D0
+You see nothing special
+~
+door ivory~
+15 17302 17353
+D5
+You see a black portal in the ground.
+~
+~
+0 -1 17341
+S
+#17353
+In a glowing yellow room~
+The first thing you notice about this room is a large yellow orb in the
+center of the room, emitting an eerie yellow light.  It creates a strange
+and uneasy feeling about this room.  To the north is a circular door
+with a keyhole that glows yellow.
+~
+57 8 0
+D0
+You see nothing special
+~
+door yellow glow~
+15 17311 17354
+D2
+It's awfully quiet in there
+~
+door ivory~
+15 17302 17352
+S
+#17354
+In a bloody room~
+The smell of this room is just putrid.  Blood appears to be continuously
+flowing down all the walls and into drainage holes in the floor.  On the
+north wall, almost completely covered with blood, is a door.
+~
+57 8 0
+D0
+You see nothing special
+~
+door bloody~
+15 17304 17355
+D2
+The room is glowing an errie yellow light
+~
+door glowing yellow~
+15 17311 17353
+S
+#17355
+In a glass room~
+You are in a room that is completely made of glass.  This glass is unlike
+the glass you have seen before though.  The glass in this room is abnormally
+strong, and is opaque.  There is a glass door on the northern wall of
+this room.
+~
+57 8 0
+D0
+You see nothing special
+~
+door glas~
+15 17301 17356
+D2
+You see a LOT of blood
+~
+door bloody~
+15 17304 17354
+S
+#17356
+The Gates of Wackyland~
+You are standing before two large white gates.  The gates tower over you,
+making you feel small and vulnerable.  Behind you to the south, the glass
+door that you had came through is nowhere to be seen.  Instead, all you
+see is a vast sandy desert that looks like it goes on forever
+~
+57 0 1
+D0
+You see a bridge
+~
+~
+0 -1 17358
+D2
+You see a never-ending desert
+~
+~
+0 -1 17357
+S
+#17357
+Wandering in the never-ending desert~
+You are wandering in a desert that goes on forever in every direction.
+No matter which direction you move, there is no end to the sandy ground
+that you walk on!
+~
+57 4 3
+D0
+The desert goes on forever
+~
+~
+0 -1 17357
+D1
+The desert goes on forever
+~
+~
+0 -1 17357
+D2
+The desert goes on forever
+~
+~
+0 -1 17357
+D3
+The desert goes on forever
+~
+~
+0 -1 17357
+S
+#17358
+On the Wackyland Bridge~
+You are on the Wackyland Bridge.  Already, you can see how wacky this place
+is...  the bridge that you are on is like a gigantic blue innertube!  It
+is very bouncy and your feet slightly sink into it when you walk on it.
+You are able to see Wackyland not far away, and you wonder what neat things
+that place will have in store for you!
+~
+57 0 3
+D0
+You see Wackyland up ahead
+~
+~
+0 -1 17359
+D2
+You see the gates of Wackyland
+~
+~
+0 -1 17356
+S
+#17359
+Main Street Wackyland~
+You are on Main Street Wackyland.  You immediately notice that this place
+is wacky indeed!  The ground you stand on is paved with lime green
+concrete, and the trees that line the street have red trunks and white
+leaves!  Even the sky is not one color, but a beautiful array of
+rainbow colored swirls.  There are buildings to both sides of you.  The
+one to your west has a sign which reads "Wackyland Inn" and the building
+to your east has a sign which reads "Moogley's Weird and Wacky Emporium."
+~
+57 0 1
+D0
+Wackland City Square
+~
+~
+0 -1 17360
+D1
+Moogley's Weird and Wacky Emporium
+~
+~
+0 -1 17363
+D2
+You see Wackyland Bridge
+~
+~
+0 -1 17358
+D3
+Wackyland Inn
+~
+~
+0 -1 17361
+S
+#17360
+Wackyland City Square~
+You are at Wackyland City Square.  There are many people here going about
+doing whatever they do.  To the west, you see the entrance to the Wackyland
+Wildlife Sanctuary.
+~
+57 0 1
+D0
+Main Street Wackyland
+~
+~
+0 -1 17365
+D1
+You see the Wackyland Arena
+~
+~
+0 -1 17469
+D2
+Main Street Wackyland
+~
+~
+0 -1 17359
+D3
+The Wackyland Wildlife Sanctuary
+~
+~
+0 -1 17458
+S
+#17361
+Wackyland Inn, Common Room~
+You are in the Wackyland Inn.  You hear a lot of noise to the west, in the
+tavern.
+~
+57 8 1
+D1
+Main Street Wackyland
+~
+~
+0 -1 17359
+D3
+You see the tavern
+~
+~
+0 -1 17362
+S
+#17362
+Wackyland Inn, Tavern~
+The tavern gives you a very warm feeling as you enter.  But that feeling
+leaves as quickly as it came as you notice a mean looking kangaroo.
+He appears to be trying to pick fights with the others also in the room.
+~
+57 8 1
+D1
+You see the common room
+~
+~
+0 -1 17361
+S
+#17363
+Moogley's Weird and Wacky Emporium~
+You have entered a really strange shop...  This store sells the strangest
+things you have ever seen.  From gadgets that have signs on them saying
+"Solar Power Flashlights," to little packets of "Dehydrated Water: Just
+add water!"  Your thoughts are interrupted as the shop keeper, Moogley
+clears her throat.
+~
+57 8 1
+D1
+The sign on the door reads "Storage room.  Do not enter"
+~
+door~
+15 17315 17364
+D3
+Main Street Wackyland
+~
+~
+0 -1 17359
+S
+#17364
+Storage Room of Moogley's Weird and Wacky Emporium~
+This room is very dusty.  It appears that no one has been in here for
+quite a while.  The walls are lined with shelves that are loaded with
+useless junk.
+~
+57 8 1
+D3
+You see nothing special
+~
+door~
+15 -1 17363
+S
+#17365
+Main Street Wackyland~
+You are on Main Street Wackyland.  You immediately notice that the place
+is wacky indeed!  The ground you stand on is paved with lime green
+concrete, and the trees that line the street have red trunks and white
+leaves!  Even the sky is not one color, but a beautiful array of
+rainbow colored swirls.  Main street seems to end to the north, and
+turn into a plain dirt road.  You can hear lots of activity coming from the
+south.  Also, there is a weapon shop to the west and an armory to the east.
+~
+57 0 1
+D0
+You see a plain dirt road
+~
+~
+0 -1 17368
+D1
+You see the Wackyland Armory
+~
+~
+0 -1 17367
+D2
+Wackyland City Square
+~
+~
+0 -1 17360
+D3
+You see the Wackyland Weaponshop
+~
+~
+0 -1 17366
+S
+#17366
+Wackyland Weaponshop~
+The entire shop is so full of weapons that you can barely move around!
+Some of the weapons look familiar to you, but some weapons are different
+shapes, sizes and colors that you would of never imagined!  Standing
+behind the counter, is a mean looking ape.  You learn from his nametag
+that his name is Woog.
+~
+57 8 1
+D1
+You see Main Street Wackyland
+~
+~
+0 -1 17365
+S
+#17367
+Wackyland Armory~
+This shop is very clean, not a spot of dust anywhere.  All the suits of
+armor are nicely hung on the walls, helmets sitting in perfect rows on
+the shelves....  It looks like this shopkeeper is a very tidy person...
+errr...  dragon as you notice that the shopkeeper is not a human, but
+a dragon-kin.  Despite his frightful looks, you immediately realize that
+he is very friendly when he asks, "can I help you?"
+~
+57 8 1
+D3
+You see Main Street Wackyland
+~
+~
+0 -1 17365
+S
+#17368
+On a plain dirt road~
+This is where Wackyland City appears to end.  To the north, you think you
+can see some figures, but it is still too far to be sure.
+~
+57 0 2
+D0
+The plain dirt road continues
+~
+~
+0 -1 17369
+D2
+Main Street Wackyland
+~
+~
+0 -1 17365
+S
+#17369
+On a plain dirt road~
+From here, you can see several large statues, or figures to the north.  Some
+are black and some are white.  Also to the north, you see that the road
+forks.
+~
+57 0 2
+D0
+You see a fork in the road up ahead
+~
+~
+0 -1 17370
+D2
+The plain dirt road continues
+~
+~
+0 -1 17368
+S
+#17370
+Fork in the road~
+Once again, this place shows you just how wacky it really is.  The road
+forks off into two directions, but also, there is a fork stuck firmly
+into the ground here!?!  You see what looks like giant chess pieces
+to the north.  To the east, you can see a beautiful building floating
+in mid-air.  To the south, is Wackyland City.
+~
+57 0 2
+D0
+The plain dirt road continues
+~
+~
+0 -1 17371
+D1
+The plain dirt road continues
+~
+~
+0 -1 17437
+D2
+The plain dirt road continues
+~
+~
+0 -1 17369
+S
+#17371
+On the plain dirt road~
+You are on a plain dirt road.  To the north, you see a HUGE lifesize
+chess board with HUGE lifesize playing pieces.  It must be your eyes, but
+you think you saw one of them move!
+~
+57 4 2
+D0
+You see the entrance to the Wackyland Chess Club
+~
+~
+0 -1 17372
+D2
+You see a fork in the road
+~
+~
+0 -1 17370
+S
+#17372
+Entrance to the Wackyland Chess Club~
+You are at the entrance gates of the Wackyland Chess Club.  Behind the gates,
+you can see lifesize playing pieces that are actually alive!  Standing
+in front of the gates, is a very old man.  He smiles at you and introduces
+himself as the great chessmaster.
+~
+57 0 2
+D0
+You see the lifesize chessboard
+~
+~
+0 -1 17373
+D2
+You see a plain dirt road
+~
+~
+0 -1 17371
+S
+#17373
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 4 2
+D0
+You see a white space
+~
+~
+0 -1 17380
+D1
+You see a white space
+~
+~
+0 -1 17374
+D2
+You see the entrance
+~
+~
+0 -1 17372
+D3
+You see a white space
+~
+~
+0 -1 17388
+S
+#17374
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17379
+D1
+You see a black space
+~
+~
+0 -1 17375
+D3
+You see a black space
+~
+~
+0 -1 17373
+S
+#17375
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17378
+D1
+You see a white space
+~
+~
+0 -1 17376
+D3
+You see a white space
+~
+~
+0 -1 17374
+S
+#17376
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17377
+D3
+You see a black space
+~
+~
+0 -1 17375
+S
+#17377
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17396
+D2
+You see a white space
+~
+~
+0 -1 17376
+D3
+You see a white space
+~
+~
+0 -1 17378
+S
+#17378
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17395
+D1
+You see a black space
+~
+~
+0 -1 17377
+D2
+You see a black space
+~
+~
+0 -1 17375
+D3
+You see a black space
+~
+~
+0 -1 17379
+S
+#17379
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17394
+D1
+You see a white space
+~
+~
+0 -1 17378
+D2
+You see a white space
+~
+~
+0 -1 17374
+D3
+You see a white space
+~
+~
+0 -1 17380
+S
+#17380
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17393
+D1
+You see a black space
+~
+~
+0 -1 17379
+D2
+You see a black space
+~
+~
+0 -1 17373
+D3
+You see a black space
+~
+~
+0 -1 17381
+S
+#17381
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17392
+D1
+You see a white space
+~
+~
+0 -1 17380
+D2
+You see a white space
+~
+~
+0 -1 17388
+D3
+You see a white space
+~
+~
+0 -1 17382
+S
+#17382
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17391
+D1
+You see a black space
+~
+~
+0 -1 17381
+D2
+You see a black space
+~
+~
+0 -1 17387
+D3
+You see a black space
+~
+~
+0 -1 17383
+S
+#17383
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17390
+D1
+You see a white space
+~
+~
+0 -1 17382
+D2
+You see a white space
+~
+~
+0 -1 17386
+D3
+You see a white space
+~
+~
+0 -1 17384
+S
+#17384
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17389
+D1
+You see a black space
+~
+~
+0 -1 17383
+D2
+You see a black space
+~
+~
+0 -1 17385
+S
+#17385
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17384
+D1
+You see a white space
+~
+~
+0 -1 17386
+S
+#17386
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17383
+D1
+You see a black space
+~
+~
+0 -1 17387
+D3
+You see a white space
+~
+~
+0 -1 17385
+S
+#17387
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17382
+D1
+You see a white space
+~
+~
+0 -1 17388
+D3
+You see a white space
+~
+~
+0 -1 17386
+S
+#17388
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17381
+D1
+You see a black space
+~
+~
+0 -1 17373
+D3
+You see a black space
+~
+~
+0 -1 17387
+S
+#17389
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17404
+D1
+You see a white space
+~
+~
+0 -1 17390
+D2
+You see a white space
+~
+~
+0 -1 17384
+S
+#17390
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17403
+D1
+You see a black space
+~
+~
+0 -1 17391
+D2
+You see a black space
+~
+~
+0 -1 17383
+D3
+You see a black space
+~
+~
+0 -1 17389
+S
+#17391
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17402
+D1
+You see a white space
+~
+~
+0 -1 17392
+D2
+You see a white space
+~
+~
+0 -1 17382
+D3
+You see a white space
+~
+~
+0 -1 17390
+S
+#17392
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 8 1
+D0
+You see a black space
+~
+~
+0 -1 17401
+D1
+~
+You see a black space~
+0 -1 17393
+D2
+You see a black space
+~
+~
+0 -1 17381
+D3
+You see a black space
+~
+~
+0 -1 17391
+S
+#17393
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17400
+D1
+You see a white space
+~
+~
+0 -1 17394
+D2
+You see a white space
+~
+~
+0 -1 17380
+D3
+You see a white space
+~
+~
+0 -1 17392
+S
+#17394
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17399
+D1
+You see a black space
+~
+~
+0 -1 17395
+D2
+You see a black space
+~
+~
+0 -1 17379
+D3
+You see a black space
+~
+~
+0 -1 17393
+S
+#17395
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17398
+D1
+You see a white space
+~
+~
+0 -1 17396
+D2
+You see a white space
+~
+~
+0 -1 17378
+D3
+You see a white space
+~
+~
+0 -1 17394
+S
+#17396
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17397
+D2
+You see a black space
+~
+~
+0 -1 17377
+D3
+You see a black space
+~
+~
+0 -1 17395
+S
+#17397
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17412
+D2
+You see a white space
+~
+~
+0 -1 17396
+D3
+You see a white space
+~
+~
+0 -1 17398
+S
+#17398
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17411
+D1
+You see a black space
+~
+~
+0 -1 17397
+D2
+You see a black space
+~
+~
+0 -1 17395
+D3
+You see a black space
+~
+~
+0 -1 17399
+S
+#17399
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17410
+D1
+You see a white space
+~
+~
+0 -1 17398
+D2
+You see a white space
+~
+~
+0 -1 17394
+D3
+You see a white space
+~
+~
+0 -1 17400
+S
+#17400
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17409
+D1
+You see a black space
+~
+~
+0 -1 17399
+D2
+You see a black space
+~
+~
+0 -1 17393
+D3
+You see a black space
+~
+~
+0 -1 17401
+S
+#17401
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17408
+D1
+You see a white space
+~
+~
+0 -1 17400
+D2
+You see a white space
+~
+~
+0 -1 17392
+D3
+You see a white space
+~
+~
+0 -1 17402
+S
+#17402
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17407
+D1
+You see a black space
+~
+~
+0 -1 17401
+D2
+You see a black space
+~
+~
+0 -1 17391
+D3
+You see a black space
+~
+~
+0 -1 17403
+S
+#17403
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17406
+D1
+You see a white space
+~
+~
+0 -1 17402
+D2
+You see a white space
+~
+~
+0 -1 17390
+D3
+You see a white space
+~
+~
+0 -1 17404
+S
+#17404
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17405
+D1
+You see a black space
+~
+~
+0 -1 17403
+D2
+You see a black space
+~
+~
+0 -1 17389
+S
+#17405
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17420
+D1
+You see a white space
+~
+~
+0 -1 17406
+D2
+You see a white space
+~
+~
+0 -1 17404
+S
+#17406
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17419
+D1
+You see a black space
+~
+~
+0 -1 17407
+D2
+You see a black space
+~
+~
+0 -1 17403
+D3
+You see a black space
+~
+~
+0 -1 17405
+S
+#17407
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17418
+D1
+You see a white space
+~
+~
+0 -1 17408
+D2
+You see a white space
+~
+~
+0 -1 17402
+D3
+You see a white space
+~
+~
+0 -1 17406
+S
+#17408
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17417
+D1
+You see a black space
+~
+~
+0 -1 17409
+D2
+You see a black space
+~
+~
+0 -1 17401
+D3
+You see a black space
+~
+~
+0 -1 17407
+S
+#17409
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17416
+D1
+You see a white space
+~
+~
+0 -1 17410
+D2
+You see a white space
+~
+~
+0 -1 17400
+D3
+You see a white space
+~
+~
+0 -1 17408
+S
+#17410
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17415
+D1
+You see a black space
+~
+~
+0 -1 17411
+D2
+You see a black space
+~
+~
+0 -1 17399
+D3
+You see a black space
+~
+~
+0 -1 17409
+S
+#17411
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17414
+D1
+You see a white space
+~
+~
+0 -1 17412
+D2
+You see a white space
+~
+~
+0 -1 17398
+D3
+You see a white space
+~
+~
+0 -1 17410
+S
+#17412
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17413
+D2
+You see a black space
+~
+~
+0 -1 17397
+D3
+You see a black space
+~
+~
+0 -1 17411
+S
+#17413
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17428
+D2
+You see a white space
+~
+~
+0 -1 17412
+D3
+You see a white space
+~
+~
+0 -1 17414
+S
+#17414
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17427
+D1
+You see a black space
+~
+~
+0 -1 17413
+D2
+You see a black space
+~
+~
+0 -1 17411
+D3
+You see a black space
+~
+~
+0 -1 17415
+S
+#17415
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17426
+D1
+You see a white space
+~
+~
+0 -1 17414
+D2
+You see a white space
+~
+~
+0 -1 17410
+D3
+You see a white space
+~
+~
+0 -1 17416
+S
+#17416
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17425
+D1
+You see a black space
+~
+~
+0 -1 17415
+D2
+You see a black space
+~
+~
+0 -1 17409
+D3
+You see a black space
+~
+~
+0 -1 17417
+S
+#17417
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17424
+D1
+You see a white space
+~
+~
+0 -1 17416
+D2
+You see a white space
+~
+~
+0 -1 17408
+D3
+You see a white space
+~
+~
+0 -1 17418
+S
+#17418
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17423
+D1
+You see a black space
+~
+~
+0 -1 17417
+D2
+You see a black space
+~
+~
+0 -1 17407
+D3
+You see a black space
+~
+~
+0 -1 17419
+S
+#17419
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17422
+D1
+You see a white space
+~
+~
+0 -1 17418
+D2
+You see a white space
+~
+~
+0 -1 17406
+D3
+You see a white space
+~
+~
+0 -1 17420
+S
+#17420
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17421
+D1
+You see a black space
+~
+~
+0 -1 17419
+D2
+You see a black space
+~
+~
+0 -1 17405
+S
+#17421
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17436
+D1
+You see a white space
+~
+~
+0 -1 17422
+D2
+You see a white space
+~
+~
+0 -1 17420
+S
+#17422
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17435
+D1
+You see a black space
+~
+~
+0 -1 17423
+D2
+You see a black space
+~
+~
+0 -1 17419
+D3
+You see a black space
+~
+~
+0 -1 17421
+S
+#17423
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17434
+D1
+You see a white space
+~
+~
+0 -1 17424
+D2
+You see a white space
+~
+~
+0 -1 17418
+D3
+You see a white space
+~
+~
+0 -1 17422
+S
+#17424
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17433
+D1
+You see a black space
+~
+~
+0 -1 17425
+D2
+You see a black space
+~
+~
+0 -1 17417
+D3
+You see a white space
+~
+~
+0 -1 17423
+S
+#17425
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17432
+D1
+You see a white space
+~
+~
+0 -1 17426
+D2
+You see a white space
+~
+~
+0 -1 17416
+D3
+You see a white space
+~
+~
+0 -1 17424
+S
+#17426
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17431
+D1
+You see a black space
+~
+~
+0 -1 17427
+D2
+You see a black space
+~
+~
+0 -1 17415
+D3
+You see a black space
+~
+~
+0 -1 17425
+S
+#17427
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a white space
+~
+~
+0 -1 17430
+D1
+You see a white space
+~
+~
+0 -1 17428
+D2
+You see a white space
+~
+~
+0 -1 17414
+D3
+You see a white space
+~
+~
+0 -1 17426
+S
+#17428
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D0
+You see a black space
+~
+~
+0 -1 17429
+D2
+You see a black space
+~
+~
+0 -1 17413
+D3
+You see a black space
+~
+~
+0 -1 17427
+S
+#17429
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D2
+You see a white space
+~
+~
+0 -1 17428
+D3
+You see a white space
+~
+~
+0 -1 17430
+S
+#17430
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D1
+You see a black space
+~
+~
+0 -1 17429
+D2
+You see a black space
+~
+~
+0 -1 17427
+D3
+You see a black space
+~
+~
+0 -1 17431
+S
+#17431
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D1
+You see a white space
+~
+~
+0 -1 17430
+D2
+You see a white space
+~
+~
+0 -1 17426
+D3
+You see a white space
+~
+~
+0 -1 17432
+S
+#17432
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D1
+You see a black space
+~
+~
+0 -1 17431
+D2
+You see a black space
+~
+~
+0 -1 17425
+D3
+You see a black space
+~
+~
+0 -1 17433
+S
+#17433
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D1
+You see a white space
+~
+~
+0 -1 17432
+D2
+You see a white space
+~
+~
+0 -1 17424
+D3
+You see a white space
+~
+~
+0 -1 17434
+S
+#17434
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D1
+You see a black space
+~
+~
+0 -1 17433
+D2
+You see a black space
+~
+~
+0 -1 17423
+D3
+You see a black space
+~
+~
+0 -1 17435
+S
+#17435
+On a black space~
+You are standing on a large black space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D1
+You see a white space
+~
+~
+0 -1 17434
+D2
+You see a white space
+~
+~
+0 -1 17422
+D3
+You see a white space
+~
+~
+0 -1 17436
+S
+#17436
+On a white space~
+You are standing on a large white space of this lifesized chessboard.
+It has been polished so clean that you can see your own reflection.
+~
+57 0 3
+D1
+You see a black space
+~
+~
+0 -1 17435
+D2
+You see a black space
+~
+~
+0 -1 17421
+S
+#17437
+On the plain dirt road~
+You are travelling on a plain dirt road.  Farther to the east, you can see
+a magnificent building hovering in mid-air!
+~
+57 0 3
+D1
+The plain dirt road continues
+~
+~
+0 -1 17438
+D3
+You see a fork in the road
+~
+~
+0 -1 17370
+S
+#17438
+On the plain dirt road~
+From here, you can see that the floating building is fairly large.  Directly
+below the building is a strange metallic pad of some sort placed right into
+the ground.
+~
+57 0 3
+D1
+You see a strange metallic pad in the ground.
+~
+~
+0 -1 17439
+D3
+The plain dirt road continues
+~
+~
+0 -1 17437
+S
+#17439
+Directly under the floating building~
+You are directly under the floating building.  You cannot see any way of
+getting in, except for the possible idea that the metallic pad in the ground
+can somehow get you up there.  Your thoughts are interrupted as what looks
+like a hologram of a rope ladder appears from the metallic pad, and goes
+all the way up to the building...
+~
+57 0 3
+D3
+The plain dirt road
+~
+~
+0 -1 17438
+D4
+Up the holographic rope ladder
+~
+~
+0 -1 17440
+S
+#17440
+At the grand entrance of the Wackyland Museum~
+You are standing before the grand entrance of the Wackyland Museum.  The
+entrance is so big that even a giant could fit through easily.  The
+entire exterior of the building is very elegant, making you wonder what
+it must be like inside.
+~
+57 0 3
+D0
+You see many statues and artifacts inside
+~
+~
+0 -1 17441
+S
+#17441
+Wackyland Museum Foyer~
+The foyer of this museum is even more lavish and elegant than the entrance.
+Paintings, sculptures, and artifacts adorn the entire room.  There are stairs
+that lead to the second floor of the museum from here.  Also, there are
+hallways leading to the west, east, and north.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17445
+D1
+You see nothing special
+~
+~
+0 -1 17450
+D2
+The grand entrance of the Wackyland Museum
+~
+~
+0 -1 17440
+D3
+You see nothing special
+~
+~
+0 -1 17442
+D4
+You see nothing special
+~
+~
+0 -1 17451
+S
+#17442
+'The History of Wackyland' exibition~
+You are at 'The History of Wackyland' exibition.  Along the walls, are
+pictures and important documents of Wackyland's history.  You never
+realized that Wackyland had such a long and impressive history!
+~
+57 8 0
+D1
+You see the foyer
+~
+~
+0 -1 17441
+D3
+You see nothing special
+~
+~
+0 -1 17443
+S
+#17443
+'The History of Wackyland' exibition~
+You are at 'The History of Wackyland' exibition.  Along the walls, are
+pictures and important documents of Wackyland's history.  You never
+realized that Wackyland had such a long and impressive history!
+~
+57 8 0
+D1
+You see nothing special
+~
+~
+0 -1 17442
+D3
+You see nothing special
+~
+~
+0 -1 17444
+S
+#17444
+'The History of Wackyland' exibition~
+You are at 'The History of Wackyland' exibition.  Along the walls, are
+pictures and important documents of Wackyland's history.  You never
+realized that Wackyland had such a long and impressive history!
+~
+57 8 0
+D1
+You see nothing special
+~
+~
+0 -1 17443
+S
+#17445
+'The Wonders of the World' exibition~
+You are looking at displays of artifacts and other things from all over
+the world of CrimsonMUD.  Hanging on walls and in display cases are lots
+and lots of weapons, armor, wands, and gadgets that you have never before
+seen.  Also, there are several replicas of famous characters from around
+the world.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17446
+D2
+You see the foyer
+~
+~
+0 -1 17441
+S
+#17446
+'The Wonders of the World' exibition~
+You are looking at displays of artifacts and other things from all over
+the world of CrimsonMUD.  Hanging on walls and in display cases are lots
+and lots of weapons, armor, wands, and gadgets that you have never before
+seen.  Also, there are several replicas of famous characters from around
+the world.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17447
+D2
+You see nothing special
+~
+~
+0 -1 17445
+S
+#17447
+'The Wonders of the World' exibition~
+You are looking at displays of artifacts and other things from all over
+the world of CrimsonMUD.  Hanging on walls and in display cases are lots
+and lots of weapons, armor, wands, and gadgets that you have never before
+seen.  Also, there are several replicas of famous characters from around
+the world.
+~
+57 8 0
+D1
+You see nothing special
+~
+~
+0 -1 17448
+D2
+You see nothing special
+~
+~
+0 -1 17446
+D3
+You see nothing special
+~
+~
+0 -1 17449
+S
+#17448
+'The Wonders of the World' exibition~
+You are looking at displays of artifacts and other things from all over
+the world of CrimsonMUD.  Hanging on walls and in display cases are lots
+and lots of weapons, armor, wands, and gadgets that you have never before
+seen.  Also, there are several replicas of famous characters from around
+the world.
+~
+57 8 0
+D3
+You see nothing special
+~
+~
+0 -1 17447
+S
+#17449
+'The Wonders of the World' exibition~
+You are looking at displays of artifacts and other things from all over
+the world of CrimsonMUD.  Hanging on walls and in display cases are lots
+and lots of weapons, armor, wands, and gadgets that you have never before
+seen.  Also, there are several replicas of famous characters from around
+the world.
+~
+57 8 0
+D1
+You see nothing special
+~
+~
+0 -1 17447
+S
+#17450
+The museum exit~
+You are at the exit of the Wackyland Museum.  Going down from here teleports
+you to Wackyland City Square.
+~
+57 12 0
+D3
+You see the foyer
+~
+~
+0 -1 17441
+D5
+To Wackyland City Square
+~
+~
+0 -1 17360
+S
+#17451
+Top of the stairs~
+You are standing at the top of the stairs.  To the north, you see an
+extremely beautiful hall.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17452
+D5
+You see the foyer
+~
+~
+0 -1 17441
+S
+#17452
+The Hall of Immortals~
+You are in the hall of immortals.  This hall was built by the people of
+Wackyland as a tribute to the gods of CrimsonMUD.  The golden walls are
+covered with jewels and gems creating massive pictures.  The ebony floor and
+ceiling has been polished so that you can see your reflection clearly.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17453
+D2
+You see nothing special
+~
+~
+0 -1 17451
+S
+#17453
+The Hall of Immortals~
+You are in the hall of immortals.  This hall was built by the people of
+Wackyland as a tribute to the gods of CrimsonMUD.  The golden walls are
+covered with jewels and gems creating massive pictures.  The ebony floor and
+ceiling has been polished so that you can see your reflection clearly.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17454
+D2
+You see nothing special
+~
+~
+0 -1 17452
+S
+#17454
+The Hall of Immortals~
+You are in the hall of immortals.  This hall was built by the people of
+Wackyland as a tribute to the gods of CrimsonMUD.  The golden walls are
+covered with jewels and gems creating massive pictures.  The ebony floor and
+ceiling has been polished so that you can see your reflection clearly.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17455
+D2
+You see nothing special
+~
+~
+0 -1 17453
+S
+#17455
+The Hall of Immortals~
+You are in the hall of immortals.  This hall was built by the people of
+Wackyland as a tribute to the gods of CrimsonMUD.  The golden walls are
+covered with jewels and gems creating massive pictures.  The ebony floor and
+ceiling has been polished so that you can see your reflection clearly.
+~
+57 8 0
+D0
+You see nothing special
+~
+~
+0 -1 17456
+D2
+You see nothing special
+~
+~
+0 -1 17454
+S
+#17456
+The Hall of Immortals~
+You are in the hall of immortals.  This hall was built by the people of
+Wackyland as a tribute to the gods of CrimsonMUD.  The golden walls are
+covered with jewels and gems creating massive pictures.  The ebony floor and
+ceiling has been polished so that you can see your reflection clearly.
+~
+57 8 0
+D2
+You see nothing special
+~
+~
+0 -1 17455
+S
+#17457
+In a small tunnel~
+You are cramped inside a very small tunnel leading out of the pit.  You
+think you can smell fresh air up above you.
+~
+57 8 0
+D4
+You think it leads back outside.
+~
+~
+0 -1 17318
+S
+#17458
+Entrance to the Wackyland Wildlife Sanctuary~
+You are at the entrance of the Wackyland Wildlife Sanctuary.  This place
+is an area set up by the people of Wackyland to preserve the wildlife that
+lived on this land before Wackyland was built.
+~
+57 12 0
+D1
+You see Wackyland City Square
+~
+~
+0 -1 17360
+D3
+You see the wildlife sanctuary
+~
+door~
+1 -1 17459
+S
+#17459
+In a grassland~
+Although you are indoors right now, everything around you has been created
+to look like as if you were really outdoors.  The sky above you seems
+infinite, and there is surprisingly even a sun that rises and sets like
+a normal one!
+~
+57 0 2
+D0
+The virtual outdoors continue
+~
+~
+0 -1 17460
+D1
+You see the entrance.
+~
+door~
+1 -1 17458
+D3
+The virtual outdoors continue
+~
+~
+0 -1 17462
+S
+#17460
+In a grassland~
+Although you are indoors right now, everything around you has been created
+to look like as if you were really outdoors.  The sky above you seems
+infinite, and there is surprisingly even a sun that rises and sets like
+a normal one!
+~
+57 0 2
+D2
+The virtual outdoors continue
+~
+~
+0 -1 17459
+D3
+The virtual outdoors continue
+~
+~
+0 -1 17461
+S
+#17461
+In a grassland~
+Although you are indoors right now, everything around you has been created
+to look like as if you were really outdoors.  The sky above you seems
+infinite, and there is surprisingly even a sun that rises and sets like
+a normal one!
+~
+57 0 2
+D1
+The virtual outdoors continue
+~
+~
+0 -1 17460
+D2
+The virtual outdoors continue
+~
+~
+0 -1 17462
+S
+#17462
+In a grassland~
+Although you are indoors right now, everything around you has been created
+to look like as if you were really outdoors.  The sky above you seems
+infinite, and there is surprisingly even a sun that rises and sets like
+a normal one!
+~
+57 0 2
+D0
+The virtual outdoors continue
+~
+~
+0 -1 17461
+D1
+The virtual outdoors continue
+~
+~
+0 -1 17459
+D2
+The virtual outdoors continue
+~
+~
+0 -1 17463
+D3
+The virtual outdoors continue
+~
+~
+0 -1 17466
+S
+#17463
+In a grassland~
+Although you are indoors right now, everything around you has been created
+to look like as if you were really outdoors.  The sky above you seems
+infinite, and there is surprisingly even a sun that rises and sets like
+a normal one!
+~
+57 0 2
+D0
+The virtual outdoors continue
+~
+~
+0 -1 17462
+D1
+You see a cave
+~
+~
+0 -1 17464
+D3
+The virtual outdoors continue
+~
+~
+0 -1 17465
+S
+#17464
+In a cave~
+You are inside a medium sized cave.  The cave itself feels like it was
+real even though you know that everything in the sanctuary isn't real.
+~
+57 12 0
+D3
+You see the virtual outdoors
+~
+~
+0 -1 17463
+S
+#17465
+At a water hole~
+Although you are indoors right now, everything around you has been created
+to look like as if you were really outdoors.  The sky above you seems
+infinite, and there is surprisingly even a sun that rises and sets like
+a normal one!  There is a water hole here.  You figure that this is where
+the animals in this sanctuary get their water, just like how a wild animal
+would.
+~
+57 0 2
+D0
+The virtual outdoors continue
+~
+~
+0 -1 17466
+D1
+The virtual outdoors continue
+~
+~
+0 -1 17463
+D3
+The water continues in that direction.
+~
+~
+0 -1 17467
+S
+#17466
+In a grassland~
+Although you are indoors right now, everything around you has been created
+to look like as if you were really outdoors.  The sky above you seems
+infinite, and there is surprisingly even a sun that rises and sets like
+a normal one!
+~
+57 0 2
+D1
+The virtual outdoors continue
+~
+~
+0 -1 17462
+D2
+The virtual outdoors continue
+~
+~
+0 -1 17465
+S
+#17467
+At the center of the water hole~
+You are at the center of the water hole --  where the water is the deepest.
+It must be at LEAST 30 feet deep!
+~
+57 4 7
+D1
+You see the edge of the water hole.
+~
+~
+0 -1 17465
+D5
+It's pretty dark down there.
+~
+~
+16 -1 17468
+S
+#17468
+In the dark waters of the water hole~
+You are deep underwater in the water hole.  It is unusually dark around you.
+You have a VERY uneasy feeling about this place!
+~
+57 8 8
+D4
+The surface of the water.
+~
+~
+0 -1 17467
+S
+#17469
+Entrance to the Wackyland Arena~
+You are standing before the entrance to the Wackyland Arena.  You have heard
+many stories about this place..  some good but mostly bad or was it sad...?
+About how some people have went in and came out with the most unimaginable
+stuff, and some go and and NEVER come out..  You begin to shiver at the
+thoughts of what might be in there...
+~
+57 12 1
+D1
+You can hear frightening noises coming from inside.
+~
+~
+0 -1 17470
+D3
+You see Wackyland City Square
+~
+~
+0 -1 17360
+S
+#17470
+Wackyland Arena - AREA ONE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D1
+You see nothing special
+~
+~
+0 -1 17471
+D2
+You see nothing special
+~
+~
+0 -1 17473
+S
+#17471
+Wackyland Arena - AREA ONE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D2
+You see nothing special
+~
+~
+0 -1 17472
+D3
+You see nothing special
+~
+~
+0 -1 17470
+D5
+You see nothing special
+~
+~
+0 -1 17474
+S
+#17472
+Wackyland Arena - AREA ONE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D0
+You see nothing special
+~
+~
+0 -1 17471
+D3
+You see nothing special
+~
+~
+0 -1 17473
+S
+#17473
+Wackyland Arena - AREA ONE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D0
+You see nothing special
+~
+~
+0 -1 17470
+D1
+You see nothing special
+~
+~
+0 -1 17472
+S
+#17474
+Safe Room #1~
+You are in a resting room, safe from the terrors of the arena.  You decide
+that this is a good place to rest and take a breather.
+~
+57 8204 1
+D5
+You see nothing special
+~
+~
+0 -1 17475
+S
+#17475
+Wackyland Arena - AREA TWO~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D1
+You see nothing special
+~
+~
+0 -1 17476
+D2
+You see nothing special
+~
+~
+0 -1 17478
+S
+#17476
+Wackyland Arena - AREA TWO~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D2
+You see nothing special
+~
+~
+0 -1 17477
+D3
+You see nothing special
+~
+~
+0 -1 17475
+S
+#17477
+Wackyland Arena - AREA TWO~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D0
+You see nothing special
+~
+~
+0 -1 17476
+D3
+You see nothing special
+~
+~
+0 -1 17478
+D5
+You see nothing special
+~
+~
+0 -1 17479
+S
+#17478
+Wackyland Arena - AREA TWO~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D0
+You see nothing special
+~
+~
+0 -1 17475
+D1
+You see nothing special
+~
+~
+0 -1 17477
+S
+#17479
+Safe Room #2~
+You are in a resting room, safe from the terrors of the arena.  You decide
+that this is a good place to rest and take a breather.
+~
+57 8204 1
+D5
+You see nothing special
+~
+~
+0 -1 17480
+S
+#17480
+Wackyland Arena - AREA THREE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D0
+You see nothing special
+~
+~
+0 -1 17481
+D1
+You see nothing special
+~
+~
+0 -1 17483
+S
+#17481
+Wackyland Arena - AREA THREE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D1
+You see nothing special
+~
+~
+0 -1 17482
+D2
+You see nothing special
+~
+~
+0 -1 17480
+S
+#17482
+Wackyland Arena - AREA THREE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D2
+You see nothing special
+~
+~
+0 -1 17483
+D3
+You see nothing special
+~
+~
+0 -1 17481
+D5
+You see nothing special
+~
+~
+0 -1 17484
+S
+#17483
+Wackyland Arena - AREA THREE~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 8200 1
+D0
+You see nothing special
+~
+~
+0 -1 17482
+D3
+You see nothing special
+~
+~
+0 -1 17480
+S
+#17484
+Safe Room #3~
+You are in a resting room, safe from the terrors of the arena.  You decide
+that this is a good place to rest and take a breather.
+~
+57 8204 1
+D5
+You see nothing special
+~
+~
+0 -1 17485
+S
+#17485
+Wackyland Arena - MASTER AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 10248 1
+D1
+You see nothing special
+~
+~
+0 -1 17486
+D2
+You see nothing special
+~
+~
+0 -1 17488
+S
+#17486
+Wackyland Arena - MASTER AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 10248 1
+D2
+You see nothing special
+~
+~
+0 -1 17487
+D3
+You see nothing special
+~
+~
+0 -1 17485
+S
+#17487
+Wackyland Arena - MASTER AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 10248 1
+D0
+You see nothing special
+~
+~
+0 -1 17486
+D3
+You see nothing special
+~
+~
+0 -1 17488
+D5
+You see nothing special
+~
+~
+0 -1 17489
+S
+#17488
+Wackyland Arena - MASTER AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 10248 1
+D0
+You see nothing special
+~
+~
+0 -1 17485
+D1
+You see nothing special
+~
+~
+0 -1 17487
+S
+#17489
+Safe Room #4~
+You are in a resting room, safe from the terrors of the arena.  You decide
+that this is a good place to rest and take a breather.
+~
+57 8204 1
+D5
+You see nothing special
+~
+~
+0 -1 17490
+S
+#17490
+Wackyland Arena - ULTRA AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 12296 1
+D0
+You see nothing special
+~
+~
+0 -1 17491
+D1
+You see nothing special
+~
+~
+0 -1 17493
+S
+#17491
+Wackyland Arena - ULTRA AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 12296 1
+D1
+You see nothing special
+~
+~
+0 -1 17492
+D2
+You see nothing special
+~
+~
+0 -1 17490
+S
+#17492
+Wackyland Arena - ULTRA AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 12296 1
+D2
+You see nothing special
+~
+~
+0 -1 17493
+D3
+You see nothing special
+~
+~
+0 -1 17491
+S
+#17493
+Wackyland Arena - ULTRA AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 12296 1
+D0
+You see nothing special
+~
+~
+0 -1 17492
+D3
+You see nothing special
+~
+~
+0 -1 17490
+D5
+You see nothing special
+~
+~
+0 -1 17494
+S
+#17494
+Safe Room #5~
+You are in a resting room, safe from the terrors of the arena.  You decide
+that this is a good place to rest and take a breather.
+~
+57 8204 1
+D5
+You see nothing special
+~
+~
+0 -1 17495
+S
+#17495
+Wackyland Arena - ULTIMATE AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 14344 1
+D1
+You see nothing special
+~
+~
+0 -1 17496
+D2
+You see nothing special
+~
+~
+0 -1 17498
+S
+#17496
+Wackyland Arena - ULTIMATE AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 14344 1
+D2
+You see nothing special
+~
+~
+0 -1 17497
+D3
+You see nothing special
+~
+~
+0 -1 17495
+S
+#17497
+Wackyland Arena - ULTIMATE AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 14344 1
+D0
+You see nothing special
+~
+~
+0 -1 17496
+D3
+You see nothing special
+~
+~
+0 -1 17498
+S
+#17498
+Wackyland Arena - ULTIMATE AREA~
+You are inside the Wackyland Arena --  Where people have made a fortune, or
+made themselves into a bloody mess.  The walls and the grounds are stained
+with blood.  You can see that humans aren't the only ones who have perished
+in here by the different textures and colors of blood.  Also, many bones
+and corpses litter the ground everywhere.
+~
+57 14344 1
+D0
+You see nothing special
+~
+~
+0 -1 17495
+D1
+You see nothing special
+~
+~
+0 -1 17497
+S
+#17499
+Pooky's Infinity Maze~
+You are in some kind of strange void...  Everything around you is a pale
+grey color.  The tiled floor you are on seems to go on forever in every
+direction.
+~
+57 7304 1
+D0
+You see nothing special
+~
+~
+0 -1 17499
+D1
+You see nothing special
+~
+~
+0 -1 17499
+D2
+You see nothing special
+~
+~
+0 -1 17499
+D3
+You see nothing special
+~
+~
+0 -1 17499
+D4
+You see nothing special
+~
+~
+0 -1 17499
+D5
+You see nothing special
+~
+~
+0 -1 17499
+S
+$~
+#999999

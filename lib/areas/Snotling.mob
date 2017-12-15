@@ -1,0 +1,96 @@
+#14300
+mob snotling soldier~
+A snotling soldier~
+A malicious looking snotling soldier is standing here.
+~
+This is a small green humanoid about two and a half feet tall. He has
+a long pointed nose and long green ears. He looks at you with a wicked
+grin and looks as if he would happily cut your throat.
+~
+140 0 -200 S
+2 31 23 55d1+0 4d1+0
+2000 3000
+8 8 1
+#14301
+mob snotling guard~
+A snotling guard~
+A snotling guard is here, lounging around.
+~
+this is a small green humanoid about two and a half feet tall with a long
+pointed nose and tall thin ears. He looks like he does not really care
+who passes......unless the sarge is around that is.
+~
+138 0 -200 S
+5 28 20 90d1+0 2d3+3
+5000 7500
+8 8 1
+#14302
+mob snotling Sergeant~
+The Snotling Sergeant~
+A rough looking snotling sergeant looking for somebody to boss about.
+~
+This snotling is a little bigger than the others, and that means he can boss
+them around. He is looking around with a nasty smirk on his face, clearly
+trying to decide which poor snotling has just done something wrong.
+~
+8 0 -200 S
+8 25 17 144d1+0 2d3+6
+8000 12000
+8 8 1
+#14303
+mob Captain Goblin~
+The Goblin Captain~
+The goblin captain of the army drawing up his plans.
+~
+This is a small goblin, but compared to the snotlings under his control he is
+a giant..and in an army like this, thats all that matters. He has tall pointed
+green ears and a long evil looking nose. He does not seem to have noticed you
+however, as he goes about making his plans to conquer the puny humans of
+midgaard.
+~
+10 0 -200 S
+12 21 14 248d1+0 2d3+10
+12000 18000
+8 8 1
+#14304
+mob snotling chef~
+The Snotling Chef~
+The snotling chef is here preparing some slopp.
+~
+This is a small snotling about two feet tall and he is running around 
+preparing his latest delicacy for the troop....the question is, how many will
+survive this time?
+~
+138 0 -200 S
+12 21 13 248d1+0 2d3+10
+12000 18000
+8 8 1
+#14305
+mob snotling madboy~
+The Snotling Madboy~
+An insane snotling madboy is here gibbering senslessly.
+~
+This small green snotling snotling is the same size as the others,but has 
+clearly been involved in one too many of the Shaman's mad experiments. His
+eyes are rolling and he drools on himself as he wanders aimlessly around the
+camp making absurd noises.
+~
+136 0 -200 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 1
+#14306
+mob snotling shaman~
+The Snotling Shaman~
+The snotling shaman is here thinking up new spells.
+~
+The shamen is about 3 feet tall, but his big black hat makes him look about 4.
+His body is covered in arcane symbols, and he does not even seem to have notice
+d you, as he recites words under his breath to himself.
+~
+394 0 -200 S
+15 15 10 350d1+0 3d3+14
+15000 22500
+8 8 1
+$~
+#999999

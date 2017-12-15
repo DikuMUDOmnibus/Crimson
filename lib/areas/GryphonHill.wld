@@ -1,0 +1,201 @@
+#15450
+Blank~
+~
+42 8 1
+D0
+~
+~
+0 -1 15451
+S
+#15451
+Front Door~
+You see a massive building in front of you.  Statues of gryphons stare coldly
+at you as if looking right through to your soul.  Dare you enter past the
+great iron-bound door?
+~
+42 12 1
+D0
+A large door stands in your way.
+~
+door~
+1 -1 15452
+D2
+outside
+~
+~
+0 -1 15450
+S
+#15452
+Foyer~
+Your stand in the foyer to this great house, ancient suits of armor stand
+to your sides as you enter.  White marble stairs lead up, the hallway continue
+s straight ahead, to the east an opening leads to the study and to the west
+is the door to the reception.
+~
+42 8200 1
+D0
+Long hall~
+~
+0 -1 15457
+D1
+Study~
+~
+0 -1 15459
+D2
+front door
+~
+door~
+1 -1 15451
+D3
+reception~
+~
+1 -1 15453
+S
+#15453
+Reception~
+This room is outfitted with overstuffed chairs, shelves, fancy paintings
+and a richly carpeted floor all of which is showing the aging signs of
+being many centuries old.  To the North you see the dinning hall.
+~
+42 8200 1
+D0
+Dinning Hall~
+~
+0 -1 15454
+D1
+foyer~
+~
+1 -1 15452
+S
+#15454
+Dinning hall~
+A large Oaken table with two candelabras fill this room. At each end of
+the table are large oaken chairs and on the sides are 8 smaller chairs.
+The table is set for the number of people in your group as though you've
+been invited for dinner.  A massive fireplace fills the west wall.  A 
+portrait of one of the masters of Gryphon Hill hangs above it.
+~
+42 8200 1
+D0
+Kitchen~
+~
+0 -1 15455
+D2
+Reception~
+~
+0 -1 15453
+S
+#15455
+Kitchen~
+A fireplace adorns the west wall of this recently used kitchen.
+~
+42 8200 1
+D1
+Long hall~
+~
+0 -1 15456
+D2
+Dinning Hall~
+~
+0 -1 15454
+S
+#15456
+Long Hall~
+The hallway leand south from here.  To the West is the door to the kitchen.
+North is the gate that closes the servants entrance
+~
+42 8200 1
+D0
+Servants entrance~
+~
+1 -1 15458
+D2
+Long hall~
+~
+0 -1 15457
+D3
+Kitchen~
+~
+0 -1 15455
+S
+#15457
+Long Hall~
+The hall continues north and south.
+~
+42 8200 1
+D0
+Long hall~
+~
+0 -1 15456
+D2
+Foyer~
+~
+0 -1 15452
+S
+#15458
+Servants Entrance~
+This is the servants entrance to the house.  North is the door out.  To
+the south is the gate closing this room off rom the house.
+~
+42 8200 1
+D2
+Long hall~
+~
+1 -1 15456
+S
+#15459
+Study~
+This study has seen recent use but probably not as a study by the looks of
+it.  Chairs lay overturned, and a small cabinet has been ransacked.
+~
+42 8200 1
+D1
+Library~
+~
+0 -1 15460
+D3
+Foyer~
+~
+0 -1 15452
+S
+#15460
+Library~
+The library is almost completely bare.  all the books have been striped from
+the shelves.  A stairway leads up.
+~
+42 8200 1
+D0
+Hiden Passage~
+~
+17 -1 15461
+D3
+Study~
+~
+0 -1 15459
+S
+#15461
+Hidden Passage~
+The passage leads north and south
+~
+42 8200 1
+D0
+Shaft~
+~
+0 -1 15462
+D2
+Library~
+~
+1 -1 15460
+S
+#15462
+Shaft~
+The shaft has a small ladder going up and down
+~
+42 8200 1
+D2
+Hidden passage~
+~
+0 -1 15461
+S
+$~
+#999999

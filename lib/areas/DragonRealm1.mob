@@ -1,0 +1,94 @@
+#13802
+mob wyrm~
+Guardian Wyrm~
+You see a giant Wyrm guarding this area against intruders.
+~
+You can tell by looking at him that this mob lives to destroy foolish
+adventurers.
+~
+4196366 128 -1000 S
+30 1 -10 1000d3+244 20d8+80
+150000 350000
+8 8 1
+#13803
+mob wyrm brown~
+Brown Wyrm~
+A Brown Wyrm glares at you while he ponders your death..
+~
+You see one of the many troops pleadging his life to the service of
+the Brown Dragon King.
+~
+4198508 0 0 S
+5 10 10 4d5+60 4d6+0
+750 700
+8 8 1
+#13804
+mob drake brown~
+Brown Drake~
+A Brown Drake.gets ready to feed on your flesh.
+~
+You see one of the many troops pleadging his life to the service of
+the Brown Dragon King.   
+~
+4198476 0 -1000 S
+10 10 5 10d5+60 4d8+10
+1500 1500
+8 8 1
+#13805
+mob dame brown~
+Brown Dame~
+A Brown Dame stands here stands here oblivious to your mortal existance..
+~
+You see a powerful female dragon before you.
+~
+4198668 67108864 -1000 S
+13 20 0 20d5+60 4d8+20
+4000 10000
+8 8 1
+#13806
+mob duke brown~
+Brown Duke~
+A Brown Duke seeks ememies of his king to destroy..
+~
+You see a powerful dragon before you.
+~
+4198734 67108864 -1000 S
+15 20 0 30d5+60 4d8+35
+6000 15000
+8 8 1
+#13807
+mob king dragon brown~
+The Brown DragonKing~
+The most powerful creature of this land stands before you, The Brown Dragonking
+~
+A deadly creature of sheer evil.
+~
+4198414 603979904 -1000 S
+20 30 -5 125d5+60 20d8+80
+75000 200000
+8 8 1
+#13808
+mob iron golem statue dragon~
+the Iron dragon golem~
+A huge iron statue of a dragon is standing here.
+~
+The iron statue is complete in every imaginable detail. This is indeed
+the work of a true master.
+~
+4227146 41943944 0 S
+15 30 -10 200d3+100 6d6+45
+20000 30000
+8 8 0
+#13809
+mob granite statue golem dragon~
+the Granite dragon golem~
+A huge granite statue of a dragon is standing here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 0 0 S
+1 30 25 1d1+1 1d1+1
+1 0
+8 8 0
+$~
+#999999

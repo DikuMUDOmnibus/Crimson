@@ -1,0 +1,1804 @@
+#16000
+The Mountain Trail ~
+You now seem to be on a path which leads onward through a thick grove of
+trees.  The trees seem to be of all different kinds.  Some are Pine, Oak,
+Aspen, and even a few you can't recognize.  The trail seems to be barely
+visible now, it looks as if it hasn't been used in several years.  The
+roots have pushed themselves up in places, making the ground unsteady 
+to travel. It seems to be a little darker in the trees up ahead, as the 
+sun is blocked out by the trees.
+~
+48 8 1
+D0
+You see a valley opening up ahead of you.
+~
+~
+0 -1 16001
+D5
+You see the Midgaard Inn Reception.
+~
+~
+0 -1 3008
+S
+#16001
+The Mountain Trail ~
+You continue on through the trees, over the uneven trail.  As you walk along
+you seem to notice that you are climbing even higher up in the mountains.
+As you turn and look behind you, you can see the land where you once were.
+From here you can see the plains and valleys you walked through to get here.
+Further on, the trees have still blocked out the sun for the most part,
+and the trail doesn't seem to be getting any better. . . . . 
+~
+48 8 1
+D0
+~
+~
+0 -1 16002
+D2
+You see the path going back down the mountain.
+~
+~
+0 -1 16000
+S
+#16002
+Farther up the Mountain~
+WHEW! What a climb!  You seem to have come even farther up this mountain.
+The trees are still holding most of the sunlight out, except for a few
+stray beams here and there.  You see a couple birds flutter out of a tree
+and hear the sounds of squirrels chattering somewhere behind you. You inhale
+deeply, filling your lungs with the fresh air of the mountainside.  You 
+prepare yourself to venture further on.  The trail is getting hard to see. . .
+~
+48 8 1
+D0
+The trail, although hard to see, continues on into the trees~
+~
+0 -1 16003
+D2
+This trail seems to open up to the south.~
+~
+0 -1 16001
+S
+#16003
+Deep in the Mountain Forest~
+Now you find yourself deep in the forest, and somewhere high in a mountain.
+You consider turning back, asking yourself what could possibly be up here.
+The trail is all but gone now, and you will have to venture on using your
+sense of direction. 
+~
+48 8 1
+D0
+More trees, as far as you can see~
+~
+0 -1 16004
+D2
+The trail goes back down the mountainside~
+~
+0 -1 16002
+S
+#16004
+In the Dense Forest ~
+You are still in the dense trees, and still no sign of the trail you were on, 
+but doesn't it seem that it's getting easier to walk now? As if you were now
+going downhill?   Hmmmmmmmmm. . .
+~
+48 8 1
+D0
+More Trees up ahead~
+~
+0 -1 16005
+D2
+Desn't appear to be anything but trees in that direction~
+~
+0 -1 16003
+S
+#16005
+In the Dense Forest~
+Trees, trees everywhere!  You are beginning to wonder if maybe you shouldn't
+have turned back when you first entered this place.  It would not be hard
+to get lost in all these trees.  But wait!  It looks as if the forest clears
+up to the North. . . 
+~
+48 8 1
+D0
+The trees clear up a little bit~
+~
+0 -1 16006
+D2
+Trees there too!~
+~
+0 -1 16004
+S
+#16006
+The Rockslide~
+The trees have cleared here, but not for the better.  You only have a split
+second to look around you before you are swept down the side of the mountain
+with a pile of loose rocks.  After what seems like several minutes of sliding
+and tumbling, you come to a stop at the base of the rockslide.  Looking back
+up the mountain, it is obvious that the rockslide is not climbable.  The 
+surroundings you notice are not too much different from the top of the 
+rockslide where you just were.  There are more trees in every direction, and
+the only clear spot visible, is at the pile of rocks right here.  
+~
+48 8 1
+D0
+More trees as far as you can see~
+~
+0 -1 16007
+D2
+Trees start covering the land densely.
+~
+~
+0 -1 16005
+S
+#16007
+The Lost Forest~
+This part of the forest appears different than the part before.  The trees are
+so close together, it looks as if there has never been any kind of people 
+here before.  There are not very many sounds here, either.  The only noticable
+ones are the wind gently making its way through the branches above you, and 
+an occasional bird finding a new tree to sit in.  It is obvious to see why
+no one has ever been here, because getting out appears next to impossible.
+~
+48 8 1
+D0
+Trees as far as you can see~
+~
+0 -1 16008
+D2
+More stinkin trees!
+~
+~
+0 -1 16006
+S
+#16008
+The Lost Forest~
+The trees continue in all directions from here.  There doesn't seem to be any 
+changes in the scenery, except for what appears to be something shining in
+the sunlight far to the North.  It can barely be seen from here.
+~
+48 8 1
+D0
+In the midst of the trees, there seems to be something catching the light~
+~
+0 -1 16009
+D2
+Lots of green trees~
+~
+0 -1 16007
+S
+#16009
+Edge of the Lost Forest~
+The trees have cleared considerably at this point, giving way to a better view
+of the object which has been reflecting the light.  It is not easy to tell,
+but it looks to be quite large, and possibly, quite old.  A small path has
+formed leading towards it.
+~
+48 8 1
+D0
+Something can be seen sparkling in the sunlight, and the trees clear a bit~
+~
+0 -1 16010
+D2
+More trees that direction~
+~
+0 -1 16008
+S
+#16010
+The Gate ~
+The small path has given way to a large clearing now.  The clearing is about 
+20 feet wide, and looks to be worn, as if recently used by someone, or 
+something.  Directly North, in the center of the clearing, is a very tall,
+and ornate gate.  It looks as if it could be made of solid Gold, but it has
+apparently aged considerably.  The gate is slightly open, but not revealing
+what may be found on the other side.
+~
+48 0 1
+D0
+You see a large gate, which is slightly open~
+~
+0 -1 16012
+D2
+The trees get thicker that direction~
+~
+0 -1 16009
+S
+#16011
+Mete's House~
+~
+48 8 1
+D0
+You are in Mete's house.
+~
+~
+0 -1 16054
+D1
+You are in Mete's house.
+~
+~
+0 -1 16019
+D2
+You are in Mete's house.
+~
+~
+0 -1 16019
+D3
+You are in Mete's house.
+~
+~
+0 -1 16019
+D4
+You are in Mete's house.
+~
+~
+0 -1 16019
+D5
+You are in Mete's house.
+~
+~
+0 -1 16019
+S
+#16012
+Entrance to the City~
+The dirt path has stopped, and a road made of stones has taken it's place.
+The stones have been finely cut in such a way that they lay flat, and are 
+totally smooth.  To the East and West is a very high wall, with the trees of
+the forest outside rising above it.  The wall appears to be made of stones
+similar to the ones of the road, only slightly larger.  The wall extends both
+South to connect to the gate, and North to the city square, forming a 
+"foyer".  Some buildings can be seen to the North, standing
+fairly close together.  The sounds of many people, and the smell of something
+delicious cooking are drifting on the breeze.
+~
+48 8 1
+D0
+The city square is North~
+~
+0 -1 16013
+D2
+That takes you back outside the gate~
+~
+0 -1 16010
+S
+#16013
+The City Square~
+The wall on either side has given way to the large city square.  There is a 
+large building to the North, and it has an important look to it.  The road,
+which now goes East and West, has more buildings lining it in both directions.
+The buildings look like they could be shops, or small homes, or maybe both.
+This city is almost perfectly hidden inside this forest.  Almost too perfect
+to be coincidence.
+~
+48 8 1
+D0
+This part of the city looks deserted.
+~
+~
+0 -1 16061
+D1
+Main Street East~
+~
+0 -1 16023
+D2
+The entrance to the city is back that way~
+~
+0 -1 16012
+D3
+Main street continues, with more buildings on either side~
+~
+0 -1 16015
+D5
+The well looks AWFULLY deep!~
+~
+0 -1 16014
+S
+#16014
+Bottom of the Well~
+As you fall over the edge of the well, and the equipment you are wearing
+begins to pull you down to the bottom, you can't help but wonder. . . . 
+
+"Why did i do that?"
+
+You try to hold your breath, but your lungs, acting on instinct inhale deeply
+painfully filling your lungs with cold water, making you wish. . . 
+~
+48 10 1
+S
+#16015
+Main Street West~
+This street appears to be the busiest part of town. Stores and shops line both
+sides of the street. For the amount of people seen in the street this place
+is quite quiet. You wonder why? Do they have something to hide from the outside
+world?
+~
+48 0 1
+D0
+A large wooden door, with a sign hanging above it~
+~
+0 -1 16016
+D1
+Back to the main city square~
+~
+0 -1 16013
+D2
+A small shop with a sign on it's door~
+~
+0 -1 16017
+D3
+Main Street leads farther West to more shops, and a turn in the road~
+~
+0 -1 16018
+S
+#16016
+Gauzzo's Inn~
+This looks like a comfortable place to spend the night. The innkeeper here
+appears to be honest enough. The big smile on his face is more than enough
+to convince you into asking for a room from him.
+~
+48 8 1
+D2
+Out the door, is the western part of the main street and lots of shops~
+~
+0 -1 16015
+D3
+That leads to the dining room~
+~
+0 -1 16022
+S
+#16017
+Wysa's Magic Goods~
+Wysa sits in a corner inscribing characters into glowing scrolls. You wonder
+what they are for and how much it costs to buy a bit of magic to help your
+adventures go more smoothly.
+~
+48 8 1
+D0
+The door leads back out to west main street~
+~
+0 -1 16015
+S
+#16018
+End of Main Street West~
+Shops line both sides of the streets. The absence of store signs make them
+similar to each other. The buildings are built with a feeling of warmth and
+friendliness. But the citizens of this city appear to be hiding something.
+~
+48 8 1
+D0
+A small shop with a sign on its door.
+~
+~
+0 -1 16021
+D1
+The main street continues East, with more shops visible on either side~
+~
+0 -1 16015
+D2
+A shop door~
+~
+0 -1 16020
+S
+#16019
+Mete's House~
+~
+48 8 1
+D0
+You are in Mete's house.
+~
+~
+0 -1 16019
+D1
+You are in Mete's house.
+~
+~
+0 -1 16019
+D2
+You are in Mete's house.
+~
+~
+0 -1 16019
+D3
+You are in Mete's house.
+~
+~
+0 -1 16019
+D4
+The exit to this house.
+~
+~
+0 -1 16025
+D5
+You are in Mete's house.
+~
+~
+0 -1 16011
+S
+#16020
+Efini's Weapon Stockade~
+The wide variety of weapons available awe your senses. Most of these items are
+foreign to the skills you possess. But staring at them is enough to make you
+feel more powerful. You can only imagine the endless possibilities of owning
+some of this stuff.
+~
+48 8 1
+D0
+Back out to the main street~
+~
+0 -1 16018
+S
+#16021
+Paschi's Armory~
+Hmm...strangelooking armor. They look like they are several...hundred...sizes
+too large for a normal humanoid person. Curious...wonder who or waht wears
+this kind of armory.
+~
+48 8 1
+D2
+The main street turns and goes East~
+~
+0 -1 16018
+S
+#16022
+Gauzzo's Bar~
+This is a large bar with a HUGE stage up front for stage acts. Like any
+other enterprising innkeeper, Gauzzo has his own bar next door. This way
+customers can pas out in his inn.
+~
+48 8 1
+D1
+The entrance to Dennehy's~
+~
+0 -1 16016
+S
+#16023
+Main Street East~
+This area of the city appears to be the residential district. The entrance
+to several nobleman's mansion are found along this street. Several guardians
+pace this street to ensure the security of the nobles.
+~
+48 8 1
+D0
+You see the entrance to someone's house.
+~
+~
+0 -1 16024
+D1
+The cobblestone street continues East~
+~
+0 -1 16026
+D2
+You see the entrance to someone's house.
+~
+~
+0 -1 16025
+D3
+Leads to the main city square~
+~
+0 -1 16013
+S
+#16024
+Kaine's Residence~
+This is the residence of Kaine. All the weaponry displayed in this room hints
+that this man is a very great warrior. A sign on the wall clearly states:
+"Perish those who dare to disturb the great Kaine".
+~
+48 8 1
+D2
+You see the Main Street.
+~
+~
+0 -1 16023
+D5
+You see the entrance to the house.
+~
+~
+0 -1 16056
+S
+#16025
+Mete's Residence~
+This is the residence of Mete. She is the cities high wizard. A luscious
+voice abruptly stops singing. A sense of fear sets in about the house.
+Is Mete capable of sensing life forms entering her abode?
+~
+48 8 1
+D0
+You see the Main Street.
+~
+~
+0 -1 16023
+D5
+You are entering Mete's house.
+~
+~
+0 -1 16019
+S
+#16026
+Main Street East~
+This area of the city appears to be the residential district. The entrance
+to several nobleman's mansion are found along this street. Several guardians
+pace this street to ensure the security of the nobles.
+~
+48 8 1
+D0
+You see the entrance to someone's house.
+~
+~
+0 -1 16052
+D1
+~
+~
+0 -1 16027
+D2
+You see the entrance to someone's house.
+~
+~
+0 -1 16053
+D3
+Main Street East continues~
+~
+0 -1 16023
+S
+#16027
+End of Main Street East~
+This is the end of Main Street. A park can be seen further down to the east.
+~
+48 8 1
+D1
+The road leads east, and starts to slope downhill~
+~
+0 -1 16028
+D3
+The street is lined with several buildings, some are large and some are small~
+~
+0 -1 16026
+S
+#16028
+Park Road~
+A park lies to the east. It appears to be a comforting place to rest. But to
+the north a cloud of gloom hovers over a district of the city.
+~
+48 8 1
+D1
+The road leads farther East towards the river, and is still slightly downhill~
+~
+0 -1 16029
+D3
+The road continues uphill to the East, and a city can be seen in the distance~
+~
+0 -1 16027
+S
+#16029
+Park Entrance~
+The sound of laughter drifts from within. There are citizens of all classes
+and age playing in the fields. They appear to be having so much fun that you
+just want to join in their frolicking.
+~
+48 8 1
+D0
+The entrance opens up into a beautiful green park~
+~
+0 -1 16030
+D3
+The road leads West, and slightly uphill~
+~
+0 -1 16028
+S
+#16030
+The Park's Main Entrance~
+This clearing in the Park of Ancients is devoted to three semi-immortals.
+Renegade the Provider, who now spends his time wandering the nether regions
+the MUD, occasionally returns to seek mortal adventure. Silverhawk the Elven
+Prince, who now indulges in princely desires and generosity by residing with
+mortals in this world. Orion the Great, who was the leader of this band of
+merry MUDders, now resides with the gods. Their presence in this MUD will
+be remembered through the installation of this park.
+~
+48 8 1
+D0
+The path continues, and there are trees lining both sides~
+~
+0 -1 16038
+D1
+Lots of trees, and shade to sit in~
+~
+0 -1 16031
+D2
+The park ends and goes back out to the road~
+~
+0 -1 16029
+D3
+Tall trees with bright green leaves on all of them~
+~
+0 -1 16037
+S
+#16031
+The Park~
+This is the East side of this beautiful park. The trees are tall, and the air
+is fresh, and the birds seem to sing a song to you. This is the perfect place
+to pull out a canteen and get a drink. Or even, just relax for a while.. . .
+~
+48 8 1
+D0
+Lots of Shady trees to rest under and a small cobblestone path~
+~
+0 -1 16032
+D3
+Lots of green trees, and the entrance to the park~
+~
+0 -1 16030
+S
+#16032
+The Park~
+This is the East side of this beautiful park. The trees are tall, and the air
+is fresh, and the birds seem to sing a song to you. This is the perfect place
+to pull out a canteen and get a drink. Or even, just relax for a while.. . .
+~
+48 8 1
+D0
+A seemingly endless park full of trees, and lots of grass to play on~
+~
+0 -1 16033
+D2
+Many, many, nice trees, with leaves all over the ground, and lots of shade~
+~
+0 -1 16031
+D3
+The path leads on with trees scattered about it~
+~
+0 -1 16038
+S
+#16033
+The Park~
+This is the East side of this beautiful park. The trees are tall, and the air
+is fresh, and the birds seem to sing a song to you. This is the perfect place
+to pull out a canteen and get a drink. Or even, just relax for a while.. . .
+~
+48 8 1
+D2
+The grass and trees go on and on. . . . ~
+~
+0 -1 16032
+D3
+The path is surrounded by trees on either side for as far as you can see~
+~
+0 -1 16034
+S
+#16034
+North End of the Park~
+The trees are dense here, but not thick.  This place has been laid out to be
+very comforting to the passer-by.  The trees are in just the right place 
+to give a person a big amount of shade to lay in. The path leads North and
+South, and smaller paths lead East and West.
+~
+48 8 1
+D0
+The cobblestone path turns into a dirt path~
+~
+0 -1 16039
+D1
+Many trees, green grass, and a cobblestone path leading through them~
+~
+0 -1 16033
+D2
+The path continues with trees lining the path~
+~
+0 -1 16038
+D3
+Trees and grass~
+~
+0 -1 16035
+S
+#16035
+The Park~
+This is the West side of this beautiful park.  The trees are tall, and the air
+is fresh, and the birds seem to sing a song to you. This is the perfect place
+to pull out a canteen and get a drink.  Or even, just relax for a while.. . .
+~
+48 8 1
+D1
+Lots and lots of pretty green trees~
+~
+0 -1 16034
+D2
+A path made of cobblestones leading through the trees~
+~
+0 -1 16036
+S
+#16036
+The Park~
+This is the West side of this beautiful park.  The trees are tall, and the air
+is fresh, and the birds seem to sing a song to you. This is the perfect place
+to pull out a canteen and get a drink.  Or even, just relax for a while.. . . 
+~
+48 8 1
+D0
+Trees, Grass, leaves, bugs, etc.~
+~
+0 -1 16035
+D1
+The path continues through the trees~
+~
+0 -1 16038
+D2
+Lots of trees~
+~
+0 -1 16037
+S
+#16037
+The Park~
+This is the west side of this beautiful park. The trees are tall, and the air
+is fresh, and the birds seem to sing a song to you. This is the perfect place
+to pull out a canteen and get a drink. Or even, just relax for a whil.. . .
+~
+48 8 1
+D0
+More trees, you silly! what did you expect?  Desert?  ~
+~
+0 -1 16036
+D1
+The park entrance surrounded by lots of trees~
+~
+0 -1 16030
+S
+#16038
+The Center of the Park~
+The path has turned into a large, round stone clearing here.  There are four
+paths leading in all directions, and lots of trees and shrubs, and a few
+flower bushes surrounding the area.  At the center of the area is a statue.
+The man in the statue is a young knight dressed in full armor, and has a large
+sword hanging in his scabbard.  The statue is made of marble and must have
+taken a very long time to carve.  There is a bronze plaque at the base of
+the statue.
+~
+48 8 1
+D0
+The path continues with trees on either side~
+~
+0 -1 16034
+D1
+The path goes on through the trees~
+~
+0 -1 16032
+D2
+The path continues with trees on either side~
+~
+0 -1 16030
+D3
+The path leads on with trees scattered about ~
+~
+0 -1 16036
+S
+#16039
+The Path~
+This path is littered with the remains of unfinished coffins and rotting corp
+ses. The veil of gloom begins to thicken.
+~
+48 8 1
+D0
+The path leads into the cemetary~
+~
+0 -1 16040
+D2
+The path leads on ~
+~
+0 -1 16034
+S
+#16040
+Entrance to the Cemetary~
+There is a large black iron arch here, marking the entrance to the Cemetary.
+Extending East and West, is a waist-high black iron fence, with little 
+figurines of men with swords on the posts.  There are flowers and small 
+shrubs placed neatly around the outside of the fence and arch.  It is quite
+obvious that these people greatly respect their dead.
+~
+48 8 1
+D0
+Lots of gravestones and flowers~
+~
+0 -1 16041
+D2
+The path leads back to the Park~
+~
+0 -1 16039
+S
+#16041
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the Cemetary.
+~
+~
+0 -1 16042
+D2
+An iron archway is visible, and a small path~
+~
+0 -1 16040
+S
+#16042
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the cemetary.
+~
+~
+0 -1 16041
+D1
+You are in the cemetary.
+~
+~
+0 -1 16041
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the Cemetary.
+~
+~
+0 -1 16043
+D5
+You are in the Cemetary.
+~
+~
+0 -1 16044
+S
+#16043
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the cemetary.
+~
+~
+0 -1 16041
+D1
+You are in the cemetary.
+~
+~
+0 -1 16041
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the cemetary.
+~
+~
+0 -1 16041
+D5
+You are in the cemetary.
+~
+~
+0 -1 16045
+S
+#16044
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the cemetary.
+~
+~
+0 -1 16041
+D1
+You are in the cemetary.
+~
+~
+0 -1 16041
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the cemetary.
+~
+~
+0 -1 16041
+D5
+You are in the cemetary.
+~
+~
+0 -1 16049
+S
+#16045
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the cemetary.
+~
+~
+0 -1 16041
+D1
+You are in the cemetary.
+~
+~
+0 -1 16041
+D2
+You are in the Cemetary.
+~
+~
+0 -1 16046
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the cemetary.
+~
+~
+0 -1 16041
+D5
+You are in the cemetary.
+~
+~
+0 -1 16041
+S
+#16046
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the cemetary.
+~
+~
+0 -1 16041
+D1
+You are in the Cemetary.
+~
+~
+0 -1 16060
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the cemetary.
+~
+~
+0 -1 16041
+D5
+You are in the cemetary.
+~
+~
+0 -1 16041
+S
+#16047
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the cemetary.
+~
+~
+0 -1 16041
+D1
+~
+~
+0 -1 16048
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the cemetary.
+~
+~
+0 -1 16041
+D5
+You are in the cemetary.
+~
+~
+0 -1 16041
+S
+#16048
+The Cementary~
+
+~
+48 8 1
+D0
+You are in the cemetary.
+~
+~
+0 -1 16041
+D1
+You are in the cemetary.
+~
+~
+0 -1 16041
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+~
+~
+0 -1 16050
+D5
+You are in the cemetary.
+~
+~
+0 -1 16041
+S
+#16049
+The Cemetary~
+
+~
+48 8 1
+D0
+You are in the Cemetary.
+~
+~
+0 -1 16047
+D1
+You are in the cemetary.
+~
+~
+0 -1 16041
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the cemetary.
+~
+~
+0 -1 16041
+D5
+You are in the cemetary.
+~
+~
+0 -1 16041
+S
+#16050
+The King's Crypt~
+This is the entrance to the great king's tomb. The gateway glows a brilliant
+blue.
+~
+48 8 1
+D0
+~
+~
+0 -1 16051
+D5
+You are in the cemetary.
+~
+~
+0 -1 16041
+S
+#16051
+Inside the King's Crypt~
+You are standing inside a very large room. Treasures and corpses of all sizes
+lay around on the floor. The treasures of this room are rumoured to be
+items which cursed the beholder. The curses were placed to keep away any
+ambitious thieves. So far, no one has been able to leave this room alive
+with these treasures.
+~
+48 8 1
+D0
+You are in the Cemetary.
+~
+~
+0 -1 16041
+D2
+You are in the cemetary.
+~
+~
+0 -1 16041
+S
+#16052
+Aestre' Residence~
+Aestre is a very rich and influential nobleman in this city. The decoration
+used for this house proves it. If you plan to leave this city it will be in
+you best interest to cause little trouble for this man.
+~
+48 8 1
+D2
+You see the Main Street.
+~
+~
+0 -1 16026
+D5
+You see a study chamber.
+~
+~
+0 -1 16058
+S
+#16053
+Besci's Sanctuary~
+This house is completely filled with books. At the back it appears to be a
+pet sanctuary of some sort. Most of the books refer to animals.
+~
+48 8 1
+D0
+You see the Main Street.
+~
+~
+0 -1 16026
+D2
+You see the entrance to the sanctuary.
+~
+~
+0 -1 16059
+S
+#16054
+Mete's House~
+~
+48 8 1
+D0
+You are in Mete's house.
+~
+~
+0 -1 16019
+D1
+buy heal mana
+~
+~
+0 -1 16019
+D2
+You are in Mete's house.
+~
+~
+0 -1 16019
+D3
+You are in Mete's house.
+~
+~
+0 -1 16019
+D4
+You are in Mete's house.
+~
+~
+0 -1 16055
+D5
+You are in Mete's house.
+~
+~
+0 -1 16019
+S
+#16055
+Mete's Private Boudoir~
+~
+48 8 1
+D0
+You are in Mete's house.
+~
+~
+0 -1 16019
+D1
+You are in Mete's house.
+~
+~
+0 -1 16054
+D2
+You are in Mete's house.
+~
+~
+0 -1 16011
+D3
+You are in Mete's house.
+~
+~
+0 -1 16019
+D4
+You are in Mete's house.
+~
+~
+0 -1 16011
+D5
+You are in Mete's house.
+~
+~
+0 -1 16054
+S
+#16056
+Kaine's Private Chamber~
+Kaine does not appear to be home at the moment. Perhaps he is out hunting or
+just enjoying the good weather outside.
+~
+48 8 1
+D3
+Nothing special there...
+~
+~
+0 -1 16057
+D4
+You see the exit to this house.
+~
+~
+0 -1 16024
+S
+#16057
+Armory~
+You overcome a sudden urge to faint. The sight of all these weapons at your
+disposal fills you with emotion. But there still remains the problem of getti
+g past that ugly looking beast.
+~
+48 8 1
+D1
+You see a passage way back to the house.
+~
+~
+0 -1 16056
+S
+#16058
+Aestre's Chamber~
+Your suspicions about this man were correct! He is a thief and assassin. He
+uses his position and power to access information on valuables. Then he informs
+his associates to acquire them. This room is full of VERY interesting items.
+~
+48 8 1
+D4
+You see the entrance to the house.
+~
+~
+0 -1 16052
+S
+#16059
+Sanctuary~
+As you look around, you see animals of all sorts. You never knew there were
+so many different kinds of beasts in the world. Some you recognize, and
+others you don't. After feeling a sense of awe, a feeling of fear starts to
+break into your veins. Those three creatures heading this way do not look like
+happy campers.
+~
+48 8 1
+D0
+You see the exit to the sanctuary.
+~
+~
+0 -1 16053
+S
+#16060
+The Servants Death Chamber~
+Body parts of all the servants who served with the king are scattered in this
+room. They were first sacrificed in the name of the king, and then left to
+rot in here. However, you feel a strange presence and aura about this room.
+It gives your stomach a very queasy feeling.
+~
+48 8 1
+D3
+You are in the cemetary.
+~
+~
+0 -1 16041
+D4
+You are in the Cemetary.
+~
+~
+0 -1 16041
+S
+#16061
+Deserted Road~
+Unlike the rest of this town, this street is deserted. No one walks here. All
+the shops are closed...permanently. This sector of town is obviously avoided.
+~
+48 8 1
+D0
+You see a deserted road.
+~
+~
+0 -1 16062
+D2
+You see the City Square.
+~
+~
+0 -1 16013
+S
+#16062
+Deserted Road~
+Unlike the rest of this town, this street is deserted. No one walks here. All
+the shops are closed...permanently. This sector of town is obviously avoided.
+~
+48 8 1
+D0
+You see a deserted road.
+~
+~
+0 -1 16063
+D2
+You see a deserted road.
+~
+~
+0 -1 16061
+S
+#16063
+Deserted Road~
+Unlike the rest of this town, this street is deserted. No one walks here. All
+the shops are closed...permanently. This sector of town is obviously avoided.
+~
+48 8 1
+D0
+You see the entrance to a HUGE citadel.
+~
+~
+0 -1 16064
+D2
+You see a deserted road.
+~
+~
+0 -1 16062
+S
+#16064
+Entrance of the Giants Citadel~
+This place is absolutely HUGE! Ten warriors can walk a breast easily through
+this gate. Probably the owner of this citadel just barely fits through.
+~
+48 8 1
+D0
+a deep sinking feeling flows through you
+~
+~
+0 -1 16065
+D2
+You see a deserted street.
+~
+~
+0 -1 16063
+S
+#16065
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16066
+D2
+an endless straight path
+~
+~
+0 -1 16069
+D4
+an endless straight path
+~
+~
+0 -1 16083
+S
+#16066
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16067
+D2
+an endless straight path
+~
+~
+0 -1 16065
+S
+#16067
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16068
+D1
+an endless straight path
+~
+~
+0 -1 16072
+D2
+an endless straight path
+~
+~
+0 -1 16066
+D3
+an endless straight path
+~
+~
+0 -1 16071
+S
+#16068
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16069
+D2
+an endless straight path
+~
+~
+0 -1 16067
+S
+#16069
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16065
+D2
+an endless straight path
+~
+~
+0 -1 16068
+D4
+an endless straight path
+~
+~
+0 -1 16077
+S
+#16070
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16071
+D3
+an endless straight path
+~
+~
+0 -1 16073
+D4
+an endless straight path
+~
+~
+0 -1 16080
+S
+#16071
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16067
+D3
+an endless straight path
+~
+~
+0 -1 16070
+S
+#16072
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16073
+D3
+an endless straight path
+~
+~
+0 -1 16067
+S
+#16073
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16070
+D3
+an endless straight path
+~
+~
+0 -1 16072
+D4
+an endless straight path
+~
+~
+0 -1 16074
+S
+#16074
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16075
+D1
+an endless straight path
+~
+~
+0 -1 16083
+D2
+an endless straight path
+~
+~
+0 -1 16077
+D3
+an endless straight path
+~
+~
+0 -1 16085
+D5
+an endless straight path
+~
+~
+0 -1 16070
+S
+#16075
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16076
+D2
+an endless straight path
+~
+~
+0 -1 16074
+S
+#16076
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16077
+D2
+an endless straight path
+~
+~
+0 -1 16075
+S
+#16077
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16074
+D1
+an endless straight path
+~
+~
+0 -1 16080
+D2
+an endless straight path
+~
+~
+0 -1 16076
+D3
+an endless straight path
+~
+~
+0 -1 16078
+D5
+an endless straight path
+~
+~
+0 -1 16073
+S
+#16078
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16077
+D3
+an endless straight path
+~
+~
+0 -1 16079
+S
+#16079
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16078
+D3
+an endless straight path
+~
+~
+0 -1 16080
+S
+#16080
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16083
+D1
+an endless straight path
+~
+~
+0 -1 16079
+D2
+an endless straight path
+~
+~
+0 -1 16081
+D3
+an endless straight path
+~
+~
+0 -1 16077
+D5
+go 16077
+rlink d 16065
+an endless straight path
+~
+~
+0 -1 16073
+S
+#16081
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16080
+D2
+an endless straight path
+~
+~
+0 -1 16082
+S
+#16082
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16081
+D2
+an endless straight path
+~
+~
+0 -1 16083
+S
+#16083
+Grid-Iron Circuit~
+~
+48 9 1
+D0
+an endless straight path
+~
+~
+0 -1 16082
+D1
+an endless straight path
+~
+~
+0 -1 16084
+D2
+an endless straight path
+~
+~
+0 -1 16080
+D3
+an endless straight path
+~
+~
+0 -1 16074
+D5
+an endless straight path
+~
+~
+0 -1 16069
+S
+#16084
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16085
+D3
+an endless straight path
+~
+~
+0 -1 16083
+S
+#16085
+Grid-Iron Circuit~
+~
+48 9 1
+D1
+an endless straight path
+~
+~
+0 -1 16074
+D3
+an endless straight path
+~
+~
+0 -1 16084
+S
+#16086
+Grid-Iron Circuit~
+~
+48 9 1
+S
+$~
+#999999

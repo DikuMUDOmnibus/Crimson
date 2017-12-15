@@ -1,0 +1,91 @@
+#4100
+mob mage~
+the Mage~
+A small intelligent looking mage is standing here. It looks like he
+knows his way with the magic. 
+~
+His IQ makes almost any dikumud player look stupid..
+~
+303 8 -100 S
+13 22 14 214d1+0 3d3+7
+3000 19500
+8 8 1
+#4101
+mob troll~
+the troll~
+A large mean-looking troll is here.
+~
+Well looks dangerous.!
+~
+46 8 -800 S
+12 21 13 248d1+0 4d3+6
+2000 18000
+8 8 1
+#4102
+mob snake~
+the snake~
+A large green snake, looks like a guardian for an evil force.
+~
+You see a evil creature.
+~
+47 0 -700 S
+10 23 15 180d1+0 4d3+4
+1000 15000
+8 8 1
+#4103
+mob thief~
+the Thief~
+A thief, all dressed in black.
+~
+Well COUNT you money..!
+~
+77 0 100 S
+8 25 17 144d1+0 3d3+4
+800 12000
+8 8 1
+#4104
+mob orc~
+the orc~
+A ugly orc is standing here.
+~
+Yrkk..
+~
+236 0 -200 S
+7 26 18 126d1+0 3d3+3
+700 10500
+8 8 1
+#4105
+mob centipede~
+a centipede~
+A small harmless centipede is here.
+~
+Well it doesn't seem to pay any attention towards you.
+~
+10 0 300 S
+6 27 19 108d1+0 3d3+2
+600 9000
+8 8 0
+#4106
+mob warrior~
+the Warrior~
+A human warrior is here. He has a evil grin in his face.
+~
+He doesn't look friendly at all...
+~
+108 0 -300 S
+9 24 16 162d1+0 3d3+5
+900 13500
+8 8 1
+#4107
+mob kobold~
+the kobold~
+A green kobold is here.
+~
+It looks slimy..
+~
+108 0 -100 S
+7 26 18 126d1+0 3d3+3
+700 10500
+8 8 1
+$~
+#999999

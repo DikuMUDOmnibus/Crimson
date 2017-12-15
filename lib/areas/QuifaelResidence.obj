@@ -1,0 +1,198 @@
+#6504
+obj dwarven hammer~
+a dwarven hammer~
+There is a dwarven hammer laying here.~
+pummel~
+5 0 8193
+0 2 6 7
+3 5500 175
+#6505
+obj dwarven plate~
+a dwarven plate mail~
+There is dwarven plate mail laying here.~
+~
+9 69632 9
+5 0 0 0
+4 4500 500
+#6506
+obj stick~
+a long, black stick~
+There is a long, black stick lying here.~
+~
+4 0 16385
+4 10 10 28
+1 100 10
+#6507
+obj stick~
+a long, black stick~
+There is a long, black stick here.~
+~
+1 0 16385
+0 0 0 0
+1 0 0
+#6509
+obj two-handed dwarven axe~
+a two-handed dwarven axe~
+A two-handed Dwarven axe is here.~
+slices~
+5 0 8193
+0 2 7 3
+5 5000 50
+A
+18 2
+A
+1 2
+#6510
+obj helmet~
+a dwarven helmet~
+A dwarven helmet is here.~
+~
+9 69632 17
+3 0 0 0
+4 2500 300
+#6512
+obj gloves~
+a pair of dwarven gloves~
+A pair of thick dwarven gloves lay here.~
+~
+9 0 129
+3 0 0 0
+2 4000 800
+A
+1 1
+A
+2 1
+#6515
+obj magic boots~
+a pair of magic boots~
+There is a pair of magic boots here.~
+~
+9 64 65
+8 0 0 0
+1 5000 15
+A
+18 2
+A
+1 2
+#6900
+obj global optimizer~
+the Quifael's global optimizer~
+The Quifael's global optimizer has been left here.~
+chop~
+5 524288 8193
+0 3 6 3
+1 10 10000
+E
+optimizer~
+It is a very unpredictable piece of software, consisting mostly of
+self-modifying code and inexcusable goto commands.  Looks very dangerous.
+~
+A
+18 2
+A
+19 2
+#6910
+obj shirt scale~
+a black dragon scale shirt~
+A black dragon scale shirt has been left here.~
+~
+9 65600 9
+6 0 0 0
+10 10000 3000
+E
+shirt scale~
+It is a sleeveless shirt made from big, black dragon scales joined with silver
+threads.  Its inside has been made from the soft skin on the dragon's belly,
+making it very comfortable to wear.  The name "Isha" has been engraved on one
+of the scales.
+~
+#6911
+obj skirt scale~
+a black dragon scale skirt~
+A black dragon scale skirt has been left here.~
+~
+9 64 33
+6 0 0 0
+8 5000 1500
+E
+skirt scale~
+It is a short skirt made from big, black dragon scales joined with silver
+threads.  Its inside has been made from the soft skin on the dragon's belly,
+making it very comfortable to wear.  The name "Isha" has been engraved on one
+of the scales.
+~
+#6912
+obj cloak black~
+a black, hooded cloak~
+A large, hooded cloak, as dark as the night, has been left here.~
+~
+9 64 1025
+6 0 0 0
+20 8000 3000
+E
+cloak black~
+It is a heavy, black cloak with a large hood.  The name "Isha" is written
+inside it with a silver thread.
+~
+A
+23 -2
+#6913
+obj belt silver~
+a broad silver belt~
+A broad silver belt has been left here.~
+~
+9 4160 2049
+6 0 0 0
+4 5000 1500
+E
+belt silver~
+It is a broad belt made from tiny silver rings woven together.
+~
+#6914
+obj sword long slender~
+a long, slender sword~
+A long, slender sword lies on the ground.~
+slash~
+5 2625 8193
+0 3 6 3
+4 30000 10000
+E
+sword long slender~
+It is a long, slender sword that seems to be made from silver.  The name
+"Isha" has been engraved on the hilt.
+~
+A
+18 2
+A
+19 2
+#6950
+obj coffee machine~
+a coffee machine~
+A coffee machine is standing here, inviting you for a few sips.~
+~
+17 2 0
+1000 1000 12 0
+100 3000 300
+E
+coffee machine~
+It is a big old-fashioned thing that most of all resembles a cupboard with a
+slot large enough to hold three coffee cups at once.  It doesn't appear to
+have any buttons or any other means of control.  Golden letters on its front
+tell that this is a Quifatronic C-1000 mk I.
+~
+#6999
+obj scythe~
+the Scythe of Death~
+The Scythe of Death rests heavily on the ground.~
+reaps~
+5 2560 8193
+0 1 100 3
+100 30000 10000
+E
+scythe~
+It is a very heavy scythe.  The grey handle is made from hard wood and the long
+iron blade is completely smooth from countless years of use.  It feels cold to
+the touch.
+~
+$~
+#999999

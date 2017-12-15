@@ -1,0 +1,429 @@
+#17200
+Arf's Magic Playing Room.~
+There are magic cards scattered all over the
+room.  You see one you like and reach for it,
+but Arf slaps your han and says "don't touch
+that, that's a $$25 card!" hehehhe.
+~
+52 8206 0
+D4
+DT-1~
+~
+0 -1 17217
+D5
+The beginning of the maze.~
+hidden~
+17 -1 17201
+S
+#17201
+The edge of a dark forest.~
+Before you is the deepest, darkest forest you've ever seen.
+With the gloom and the ten foot trees you can't see more
+then a few feet in.
+~
+52 0 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17205
+S
+#17202
+A thinning in the trees.~
+Suddenly you brake out of the largest of the trees and in
+distance to the north you see a faint glow.
+~
+52 0 3
+D1
+You see nothing in the gloom.~
+~
+0 -1 17210
+D2
+You see nothing in the gloom.~
+~
+0 -1 17213
+D3
+You see nothing in the gloom.~
+~
+0 -1 17211
+S
+#17203
+At the enormous tree.~
+You enter a small clearing made by thick network of roots
+which have grown so large that they block out everthing
+else.  You notice they all lead to the largest tree you've
+ever seen, it looks like it could hold whole rooms and 
+you wonder what could be inside.
+~
+52 1 3
+D0
+You see a Large hole in the tree
+~
+~
+16 -1 17214
+D2
+You see nothing in the gloom.~
+~
+0 -1 17208
+D3
+You see nothing in the gloom.~
+~
+0 -1 17209
+S
+#17204
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17206
+D1
+You see nothing in the gloom.~
+~
+0 -1 17207
+D2
+You see nothing in the gloom.~
+~
+0 -1 17204
+D3
+You see nothing in the gloom.~
+~
+0 -1 17201
+S
+#17205
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17209
+D1
+You see nothing in the gloom.~
+~
+0 -1 17206
+D2
+You see nothing in the gloom.~
+~
+0 -1 17204
+D3
+You see nothing in the gloom.~
+~
+0 -1 17207
+S
+#17206
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+rlink s 17205
+You see nothing in the gloom.~
+~
+0 -1 17206
+D1
+You see nothing in the gloom.~
+~
+0 -1 17207
+D2
+You see nothing in the gloom.~
+~
+0 -1 17205
+D3
+You see nothing in the gloom.~
+~
+0 -1 17205
+S
+#17207
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17206
+D1
+You see nothing in the gloom.~
+~
+0 -1 17210
+D2
+You see nothing in the gloom.~
+~
+0 -1 17206
+D3
+You see nothing in the gloom.~
+~
+0 -1 17206
+S
+#17208
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17211
+D1
+You see nothing in the gloom.~
+~
+0 -1 17212
+D2
+You see nothing in the gloom.~
+~
+0 -1 17205
+D3
+You see nothing in the gloom.~
+~
+0 -1 17205
+S
+#17209
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17208
+D1
+You see nothing in the gloom.~
+~
+0 -1 17210
+D2
+You see nothing in the gloom.~
+~
+0 -1 17205
+D3
+You see nothing in the gloom.~
+~
+0 -1 17206
+S
+#17210
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17213
+D1
+You see nothing in the gloom.~
+~
+0 -1 17207
+D2
+You see nothing in the gloom.~
+~
+0 -1 17206
+D3
+You see nothing in the gloom.~
+~
+0 -1 17213
+S
+#17211
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17205
+D1
+You see nothing in the gloom.~
+~
+0 -1 17208
+D2
+You see nothing in the gloom.~
+~
+0 -1 17203
+D3
+You see nothing in the gloom.~
+~
+0 -1 17208
+S
+#17212
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17202
+D1
+You see nothing in the gloom.~
+~
+0 -1 17210
+D2
+You see nothing in the gloom.~
+~
+0 -1 17204
+D3
+You see nothing in the gloom.~
+~
+0 -1 17209
+S
+#17213
+Deep in the dark forest.~
+The forest is so dark, and the large trees so close
+together, that you can only see a few feet.  You quickly
+lose all sense of direction and you wonder about the
+hungry red eyes staring at you from the gloom.
+~
+52 1 3
+D0
+You see nothing in the gloom.~
+~
+0 -1 17212
+D1
+You see nothing in the gloom.~
+~
+0 -1 17209
+D2
+You see nothing in the gloom.~
+~
+0 -1 17210
+D3
+You see nothing in the gloom.~
+~
+0 -1 17206
+S
+#17214
+A large room in the tree.~
+To the north is a large archway with a skull carved
+into the wood at the top.  To the east is another archway,
+this one is tightly closed, and there is an indentation
+of a sun in the center of the thick wood.
+~
+52 9 0
+D0
+It is so dark in the next room you can't see a thing.~
+~
+0 -1 17216
+D1
+Around the edges of the door you see bright light.~
+door archway~
+13 17200 17215
+D2
+Through the hole in the tree you see large roots
+~
+~
+0 -1 17203
+S
+#17215
+A bright room in the tree.~
+After the darkness of the forest the light here
+is blinding.  You squint and think you can make out
+a stairway leading up.
+~
+52 8 0
+D3
+Through the archway you see only darkness.
+~
+door archway~
+13 17200 17214
+S
+#17216
+Base of the dark staircase.~
+Above you, you can see part of some old stairs, they look
+a little rickety and you wonder if they're safe.
+~
+52 9 0
+D2
+Past the archway it is too dark to see anything.~
+~
+0 -1 17214
+D4
+You look up at the creaky stairs and all you can think is DANGER!
+~
+~
+0 -1 17217
+S
+#17217
+A creaky set of stairs~
+As you creep up the staircase you hear the snap
+and pop of rotting wood beneath your feet.  As
+the splinters fly past your face, you fall to
+your ultimate death...Screaming for eternity...
+
+
+        AAAARRRRRRGGGGGGHHHHHHHHHHHH!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+          DEATH SUCKS
+            Doesn't it.  :>
+
+
+
+
+
+~
+52 11 0
+D5
+Arf's Work Room~
+~
+0 -1 17200
+S
+#17218
+Middle of the bright staircase.~
+After the darkness of the forest the light here
+is blinding.  You squint and think you can make out
+a stairway leading up.
+~
+52 8 0
+S
+#17219
+room in the tree.~
+You have entered a old and dusty room.  On the
+many shelves lining the walls are dingy vases
+and goblets.  Upon wiping one off you realize it's 
+solid gold.  Others turn out to be silver and
+silver. in the center of the room is a small
+dagger.
+~
+52 9 0
+S
+$~
+#999999

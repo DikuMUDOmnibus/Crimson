@@ -1,0 +1,134 @@
+#17500
+obj bracelet pooky~
+an 'I Love Pooky!' Bracelet~
+A bracelet with some words engraved into it is here.~
+~
+9 67 4097
+30 1 8 3
+3 75000 15000
+A
+18 2
+A
+19 2
+A
+13 30
+#17501
+obj ring youth~
+a ring of youth~
+A silver ring is here.~
+~
+9 524290 3
+10 0 10 0
+1 50000 10000
+A
+9 -20
+#17502
+obj golden pog~
+a golden pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 10 0
+1 5 10
+#17503
+obj silver pog~
+a silver pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 0 0
+1 5 10
+#17504
+obj diamond pog~
+a diamond pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 0 0
+1 5 10
+#17505
+obj copper pog~
+a copper pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 10 0
+1 5 10
+#17506
+obj platinum pog~
+a platinum pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 10 0
+1 5 10
+#17507
+obj red pog~
+a red pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 10 0
+1 5 10
+#17508
+obj blue pog~
+a blue pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 10 0
+1 5 10
+#17509
+obj white pog~
+a white pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 10 0
+1 5 10
+#17510
+obj green pog~
+a green pog (Pooky's Quest)~
+A pog is here.~
+~
+12 1 1
+0 0 10 0
+1 5 10
+#17511
+obj sign~
+sign~
+A LARGE sign is here which reads "DO NOT CAST INVIS ON ANYTHING IN THE CITY!"...it glows with the aura of Pooky~
+~
+12 66 0
+0 0 10 0
+1 5 5
+#17512
+obj cowman banana~
+a Cowman brand grade 'A' banana~
+A tasty-looking banana is here...it smells like Cowman!~
+~
+19 1 16385
+36 0 0 0
+2 50 20
+#17513
+obj cowman tub bananas~
+Cowman's Tub-o-Bananas (tm)~
+A HUGE tub that is shaped like a banana is here.~
+~
+15 524354 16385
+100 3 17514 0
+20 10000 1500
+#17514
+obj banana key~
+a tiny banana key~
+A very small key made from a banana is here.~
+~
+18 524355 5
+17514 0 10 0
+1 10 5
+A
+5 2
+A
+13 30
+$~
+#999999

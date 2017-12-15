@@ -1,0 +1,67 @@
+#13700
+obj Cross Key~
+A holy guard~
+You see a golden key in the shape of a cross laying here.
+~
+~
+18 262145 1
+13 0 0 0
+5 10000 0
+#13701
+obj board black blackboard~
+You see a blackboard.~
+You see a large blackboard with some writing on it.~
+~
+16 65 0
+0 0 0 0
+1000 5 5
+#13702
+obj Guards Rapier~
+A glowing guards rapier~
+You see a guard rapier that an aura of good about it.~
+~
+5 140545 24577
+0 10 7 3
+7 13000 6000
+A
+1 2
+A
+18 2
+A
+19 2
+A
+3 -2
+#13703
+obj Cloak glowing white holy~
+A glowing white cloak~
+You see a glowing white cloak with a cross painted on its back~
+~
+11 1345 5
+15 0 10 0
+5 8000 8000
+A
+9 2
+A
+13 10
+A
+33 -1
+A
+33 10
+#13704
+obj light rod family Ihl'Varia~
+A light rod with the Ihl'Varia insignia~
+You see a light rod which has two Dragons emblazed upon it.~
+~
+1 1048577 16385
+1 1 1410065408 0
+1 5 5
+A
+32 -1
+A
+31 -1
+A
+26 -1
+A
+33 -1
+$~
+#999999

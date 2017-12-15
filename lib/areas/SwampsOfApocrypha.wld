@@ -1,0 +1,1358 @@
+#16900
+Blank~
+~
+54 8 1
+D3
+intro 2
+~
+~
+0 -1 16901
+D4
+The great fountain of Midgaard lies above.
+~
+~
+0 -1 3014
+D5
+The zonelord board room lies below.
+~
+~
+0 -1 8311
+S
+#16901
+Blank~
+~
+54 8 1
+D1
+intro 1
+~
+~
+0 -1 16900
+D3
+intro 3
+~
+~
+0 -1 16902
+S
+#16902
+Blank~
+~
+54 520 1
+D1
+intro
+~
+~
+0 -1 16901
+D3
+On the river.~
+~
+0 -1 16903
+S
+#16903
+On the river~
+You find yourself on a very wide, but shallow river.  There are many
+different forms of plant life wrapping themselves about your legs.
+They appear to be moving as if they have an intelligence, and are
+plotting towards your death!
+~
+54 512 1
+D0
+On the river.~
+~
+0 -1 16904
+D1
+intro 3
+~
+~
+0 -1 16902
+S
+#16904
+On the river~
+You are now up to your waiste in muddy water.  Occasionally, you
+can't help but trip over some underwater rocks and brush.  There
+are hundreds of fish brushing up against you, obviously a great
+place to go fishing.
+~
+54 512 1
+D0
+Before the fisherman's shack.~
+~
+0 -1 16905
+D2
+On the river.
+~
+~
+0 -1 16903
+D3
+A trail leading away from the river.~
+~
+0 -1 16908
+S
+#16905
+Before the fisherman's shack~
+You are just west of a small dock, connected to a run-down shack.
+The aroma of dead fish lingers in the air, almost causing you to vomit.
+The underwater brush here is very thick, grabbing on to you like
+strong hands.  You decide it would be best not to stay on the river
+much longer...
+~
+54 512 1
+D0
+On the river.~
+~
+0 -1 16907
+D1
+The fisherman's shack.~
+~
+0 -1 16906
+D2
+On the river.~
+~
+0 -1 16904
+S
+#16906
+The fisherman's shack~
+You have walked across the dock to this run-down old shack.  Part
+of this shack has been built out over water.  Between the boards you can see
+the sludge of trapped water and mud.  There is a single table
+and chair here, neither which should really still be standing.
+You sense a great sadness here, perhaps from the fisherman who
+owns this place.
+~
+54 520 1
+D3
+Before the fisherman's shack.~
+~
+0 -1 16905
+D5
+You see nothing special here...
+~
+door~
+17 0 16929
+S
+#16907
+On the river~
+The banks of the river are now completely consumed by intense vegetation
+and mud.  The water itself appears to be coagulating into a jelatinous
+mixture... almost like clay.  What you had once thought to be fish, you
+now fear maybe something much, much larger and more dangerous... perhaps
+a snake of some sort.
+~
+54 512 1
+D0
+Edge of the Swamp of Apocrypha.~
+~
+0 -1 16911
+D2
+Before the fisherman's shack.~
+~
+0 -1 16905
+S
+#16908
+On a path leading west~
+This trail appears to have been made by several small animals, and
+leads off to the west.  The vegetation is very thick on both sides,
+discouraging leaving the beaten path.  The trees in the distance
+appear to be swinging back and forth... perhaps in the wind.
+~
+54 512 2
+D1
+On the river.~
+~
+0 -1 16904
+D3
+On the beaten path.~
+~
+0 -1 16912
+S
+#16909
+A dead end~
+The trail that you chose has just formed a dead end... You think to
+yourself 'how strange' because the path is recently beaten in.  You
+notice that whatever has beaten the path in must have been wet
+because the drips lead off into the distance to the west.
+~
+54 520 1
+D1
+Fork in the path.
+~
+~
+0 -1 16912
+S
+#16910
+Entrance to the forest~
+You stand before a large, lighted forest.  A small, curvy trail leads
+through the forest, and it appears to have been used frequently!
+Your sense of adventure leads you onward!
+~
+54 520 1
+D0
+The path leads into the forest... your heart pounds as you think about
+the legends of the lost treasures.~
+~
+0 -1 16965
+D2
+Fork in the path.
+~
+~
+0 -1 16912
+S
+#16911
+Edge of the Swamp~
+Here the river becomes suddenly much wider and slower moving, as it
+enters the swamp to the north.  On either side of you are bogs and
+marshes full of strange plants and repulsive creatures.  A slight
+breeze from the north gives you your first whiff of the death and decay
+that can be found there.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16923
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16914
+D2
+Back on the river.~
+~
+0 -1 16907
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16915
+S
+#16912
+Fork in the path~
+The path makes a sharp turn here, heading east back to the river, and north
+into the forest.  There is an oppressive feeling about the forest, and you
+have the distinct impression that the trees are very much aware of your
+presence.  You sense a general uneasiness about the forest; the tension
+of ancient oaths unfulfilled.
+~
+54 512 2
+D0
+Entering the forest.
+~
+~
+0 -1 16910
+D1
+On the beaten path.~
+~
+0 -1 16908
+D3
+A small path.
+~
+~
+0 -1 16909
+S
+#16913
+The Swamp of Apocrypha~
+You find yourself wading through the Swamps of Apocrypha.  The stench
+of various carcases hangs in the air and makes it rather difficult to
+breathe without an occasional gag.  You several types of broken weapons
+and other debris floating in the water... perhaps the remanents of a
+great war.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16918
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16916
+D2
+The Edge of the Swamp.~
+~
+0 -1 16911
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16917
+S
+#16914
+The Swamp of Apocrypha~
+You are wading through the Swamps of Apocrypha.  There are unknown
+creatures swimming around your legs, contemplating the means of your
+death!  You notice the rusted cover of an old metal book.  It
+has on it the symbol of a once powerful and united Apocrypha.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16916
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16923
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16913
+D3
+The Edge of the Swamp.~
+~
+0 -1 16911
+S
+#16915
+The Swamp of Apocrypha~
+You find yourself wading through the Swamps of Apocrypha.  The stench
+of various carcases hangs in the air and makes it rather difficult to
+breathe without an occasional gag.  You several types of broken weapons
+and other debris floating in the water... perhaps the remanents of a
+great war.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16917
+D1
+The Edge of the Swamp.~
+~
+0 -1 16911
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16911
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16923
+S
+#16916
+The Swamp of Apocrypha~
+You wander deeper into the Swamp of Apocrypha.  In the distance, you
+can distinguish large rock formations.  These two formations appear to be
+the only land left of the once fertile and prosperous Apocrypha.  You
+wonder what could have happened to such a great civilization.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16919
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16917
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16914
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16913
+S
+#16917
+The Swamp of Apocrypha~
+You are wading in the waiste deep water known as the Swamp of Apocrypha.
+There are strange, scaled beasts swiming around in the water.  On
+occasion, you notice a scaled back dip out of the water for a moment,
+and then return to the depths from which it came.  You notice body
+parts, some with armor on, floating past you.  You wonder what
+could have possibly sloughtered so many people, and crushed the
+legendary civilization, which was the economic center of this
+region for so many centuries.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16920
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16913
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16915
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16916
+S
+#16918
+The Swamp of Apocrypha~
+You are wading through the muddy Swamp of Apocrypha.  The creatures
+of good and evil lurk through the mysterious water... as they once
+did on land centuries ago.  You wonder what force could ever turn
+such a prosperous empire into a barren swamp.  You notice a metal
+hoop protruding from the water not far ahead... 
+~
+54 512 2
+D0
+Before you is the Entrance to the old Aprocyphan Sewer,
+now partly exposed, and looking quite DANGEROUS!
+~
+~
+0 -1 16925
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16919
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16913
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16920
+S
+#16919
+The Swamp of Apocrypha~
+You are wading very deep in the Swamp of Apocrypha.  There are beasts
+of great power and speed swiming near you in the water.  You decide
+that it would be wise to leave this area at once.  Just as this thought
+occurs, an unknown creature peers at you from the shadows, its eyes
+share with you the despair of a civilization torn apart by greed and
+corruption.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16918
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16920
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16916
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16918
+S
+#16920
+The Swamp of Apocrypha~
+The land is somewhat higher here, forming a mini-island.  The surface
+is made of a hard, black rock... similar to that of volcanic rock.
+However, it has the ancient symbols depicting the corruption of
+the Apocryphan civilization.  While you can not read these symbols,
+a few stand out to you and represent war, hate, love and greed.
+You try to paint a picture of the Apocyphan civiliztion centuries
+ago.
+~
+54 512 2
+D0
+The Swamp of Aprocrypha.~
+~
+0 -1 16924
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16918
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16917
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16919
+D5
+Too dark to tell.~
+door~
+16 0 16921
+S
+#16921
+An Apocryphan Gate~
+You are standing before a huge, iron door.  It appears that the door
+has not been open in centuries!  You sense the great magical powers
+that lie on the other side of this gate.  The gate has been fitted
+with a highly decorative seal, that you can not comprehend.
+There is also a sign to the right of the door, that appears to
+indicate great danger!
+~
+54 512 2
+D1
+Behind that huge iron gate.~
+gate~
+1 0 16922
+D4
+The Swamp of Apocrypha.~
+~
+0 -1 16920
+S
+#16922
+cave1~
+Cave one is 2 B put here.~
+54 512 2
+D3
+The cave entrance.~
+gate~
+1 0 16921
+S
+#16923
+The Swamp of Apocrypha~
+You are wading through the waiste deep mud known as the Swamp of
+Apocrypha.  The smell of dead bodies lingers in the air, as you
+feel that you may be stepping on a decomposed body.  At this point
+you wonder if the entire swamp bed is made up of nothing but bodies
+of old Apocryphan soldiers.
+~
+54 512 2
+D0
+The Swamp of Apocrypha.~
+~
+0 -1 16914
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16915
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16915
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16914
+S
+#16924
+The Swamp of Apocrypha~
+You find yourself wading deeper into the dangerous Swamp of Apocrypha.
+It seems as though the creatures, that were once eyeing you for dinner,
+are now closing in for the kill!  There is an old tree here, growing
+out of the water.  It seems to have a sentient look to it, and you
+have the feeling of being watched.  You cut yourself on a piece of
+metal, as you nearly miss a swipe from a giant water snake.  You
+notice that the snake has the symbol of the great Apocryphan Empire
+repeated down its back... could it have been sent to kill you?
+~
+54 4608 2
+D0
+Deep into the Swamp of Apocrypha.~
+~
+0 -1 16928
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16925
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16920
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16925
+S
+#16925
+Before the Tunnel~
+You have explored even further into the great Apocryphan Swamp!
+What you once thought to be a large hoop of metal, has turned out
+to be a large tunnel...  You can hear a loud breathing coming from
+within the tunnel.  On the outside rim of this tunnel, appear the
+Apocryphan symbols indicating mortal danger.
+~
+54 512 2
+D0
+Inside the tunnel.~
+~
+0 -1 16926
+D1
+The Swamp of Apocrypha.~
+~
+0 -1 16924
+D2
+The Apocryphan Swamp.~
+~
+0 -1 16918
+D3
+The Swamp of Apocrypha.~
+~
+0 -1 16924
+S
+#16926
+Inside the tunnel~
+By the smell, and content of the water, you realize that this is the
+old Apocryphan sewer system.  While thoughts of the Midgaard sewer
+system relax you, the sound of the breathing from the next room
+vex you.  A dead body floats past you, and you notice that it is
+sill fresh!
+~
+54 513 2
+D0
+The crushed end of the sewer lies before you.~
+~
+0 -1 16927
+D2
+The Entrance to the sewer.~
+~
+0 -1 16925
+S
+#16927
+The Crushed Sewer End~
+You have wandered into the home of the most vicious creature that
+you have ever seen... It's eyes stare into yours, which causes
+total and immediate convulsion-like shaking.  The creature looks
+down upon you with  great hate and anger as it reaches out to
+crush your body.
+~
+54 513 2
+D2
+Inside the tunnel.~
+~
+0 -1 16926
+S
+#16928
+The Swamp of Apocrypha~
+You have wandered VERY deep into the Apocryphan Swamps.  The water
+is now up to your shoulders, and there are more mean-looking creatures here
+then before.  Just as you are ready to continue exploring, you
+notice a stick protruding from the swamp water, with a necklace
+stuck onto it.  At first, you attempt to steal the necklace, but
+then you realize that this is the grave of the last Apocryphan
+hero.  The legends told of the man who gave up his life fighting
+for a lasting peace in the Apocryphan Empire, but never did you
+think that you would see his grave!
+~
+54 512 2
+D2
+The Swamp of Apocrypha.~
+~
+0 -1 16924
+S
+#16929
+A Secret Escape Passage~
+As you look around, you realize that this was once a secret escape
+passage for the fisherman, or one of his ancestors.  However, now
+it has been overrun by a group of evil creatures.  They have taken
+over this tunnel, and you are TRESPASSING!!!
+~
+54 520 1
+D3
+You have no choice but to follow the passage.~
+~
+0 -1 16930
+S
+#16930
+Inside the Passage~
+The walls of this passage are covered with an erie slime, and the
+inhabitants do not look very inviting.  You decide that it would be best to
+continue on your way.
+~
+54 520 1
+D1
+The beginning of the escape tunnel.~
+~
+0 -1 16929
+D2
+The passage continues.~
+~
+16 -1 16932
+D3
+A dead end.~
+~
+0 -1 16931
+S
+#16931
+A Dead End in the Passage~
+This room was, most likely, once used to store supplies.  Whe the evil forces
+ruled Apocrypha, the fisherman's ancestors were forced to reside in
+this hidden basement.  However, when both the evil and good forces
+fled the barren land, the fisherman was free to live his own life.
+Now, this is probably used as a bedroom for the evil creatures!
+~
+54 520 1
+D1
+The tunnel.~
+~
+0 -1 16930
+D2
+Nothing specail there...
+~
+door~
+17 0 16932
+S
+#16932
+Inside the Passage~
+In your rush to flee the evil creatures, you almost missed the well
+concealed exit to the passage.  These places were not supposed to be
+easy to find, but it was well worth it... The place where the
+fisherman stores his treasure is just ahead!
+~
+54 520 1
+D0
+Inside the passage.~
+~
+0 -1 16931
+D3
+You see a fairly small room with some treasure.~
+~
+0 -1 16933
+S
+#16933
+The Small Treasure Room~
+While it may not be much to you... this is the fisherman's entire
+life savings.  The walls of this room are made of metal, to keep
+thieves from digging in to the treasure room.  You wonder if
+all people in the Apocryphan civiliztion were rich.
+~
+54 520 1
+D1
+You look back upon the tunnel.~
+~
+0 -1 16932
+D4
+Somewhere by the old forest.~
+~
+0 -1 16909
+S
+#16934
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+D0
+Deep in the Swamp.~
+~
+0 -1 16947
+D1
+Deep in the Swamp~
+~
+0 -1 16938
+D2
+Deep in the Swamp.~
+~
+0 -1 16939
+D3
+Deep in the Swamp.~
+~
+0 -1 16935
+S
+#16935
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+D0
+Deep in the Swamp.~
+~
+0 -1 16935
+D1
+Deep in the Swamp.~
+~
+0 -1 16934
+D2
+Deep in the Swamp.~
+~
+0 -1 16936
+D3
+Deep in the Swamp.~
+~
+0 -1 16945
+S
+#16936
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+D0
+Deep in the Swamp.~
+~
+0 -1 16954
+D1
+Deep in the Swamp.~
+~
+0 -1 16944
+D2
+Deep in the Swamp.~
+~
+0 -1 16934
+D3
+Deep in the Swamp.~
+~
+0 -1 16939
+S
+#16937
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+D0
+Deep in the Swamp.~
+~
+0 -1 16947
+D1
+Deep in the Swamp~
+~
+0 -1 16952
+D2
+Deep in the Swamp.~
+~
+0 -1 16943
+D3
+Deep in the Swamp.~
+~
+0 -1 16954
+S
+#16938
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+D0
+Deep in the Swamp.~
+~
+0 -1 16943
+D1
+Deep in the Swamp~
+~
+0 -1 16949
+D2
+Deep in the Swamp.~
+~
+0 -1 16936
+D3
+Deep in the Swamp.~
+~
+0 -1 16951
+S
+#16939
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+D0
+Deep in the Swamp.~
+~
+0 -1 16950
+D1
+Deep in the Swamp.~
+~
+0 -1 16959
+D2
+Deep in the Swamp.~
+~
+0 -1 16946
+D3
+Deep in the Swamp.~
+~
+0 -1 16934
+S
+#16940
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+D0
+Deep in the Swamp.~
+~
+0 -1 16935
+D1
+Deep in the Swamp.~
+~
+0 -1 16944
+D2
+Deep in the Swamp.~
+~
+0 -1 16948
+D3
+Deep in the Swamp.~
+~
+0 -1 16935
+D5
+The Gateway to the Cave.~
+~
+17 -1 16955
+S
+#16941
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16942
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16943
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16944
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16945
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16946
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16947
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16948
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16949
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16950
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16951
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16952
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16953
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16954
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16955
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16956
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16957
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16958
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16959
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16960
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16961
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16962
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16963
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16964
+The Swamp of Apocrypha~
+You find yourself wading through the deepest parts of the Swamp of
+Apocrypha.  Evil creatures lurk behind every patch of grass.  Slimy lizards
+and snakes swim past you, brushing up against your legs.  You notice
+that you have completely lost your sense of direction.  I deem it
+best to get out of this swamp as QUICKLY AS POSSIBLE!
+~
+54 512 2
+S
+#16965
+In the lighted forest~
+You find yourself wandering through a forest of great beauty and
+magical pressence.  There are wild flowers and toadstools around
+your feet, and springing up from a few decayed logs.
+~
+54 8 1
+D2
+The path leads out of the forest.~
+~
+0 -1 16910
+D3
+You look deeper into the forest.~
+~
+0 -1 16967
+S
+#16966
+In the lighted forest~
+You stand before a large, lighted forest.  A small, curvy trail leads
+through the forest, and it appears to have been used frequently!
+Your sense of adventure leads you onward!
+~
+54 8 1
+S
+#16967
+In the lighted forest~
+You find yourself wandering through a forest of great beauty and
+magical pressence.  There are wild flowers and toadstools around
+your feet, and springing up from a few decayed logs.
+~
+54 8 1
+D0
+You look deeper into the forest.~
+~
+0 -1 16968
+D1
+You peer deeper into the forest.~
+~
+0 -1 16965
+D2
+You look deeper into the lighted forest.~
+~
+0 -1 16970
+S
+#16968
+On the path through the forest~
+You wander through the forest, in search of the lost gold of
+Apocrypha.  It was written, that if the suns turn 2 times,
+a pot of gold will be left in this secret hiding place.
+~
+54 8 1
+D0
+You look deeper into the forest.~
+~
+0 -1 16969
+D2
+You look deeper into the forest.~
+~
+0 -1 16967
+S
+#16969
+In the lighted forest~
+You find yourself wandering through a forest of great beauty and
+magical pressence.  There are wild flowers and toadstools around
+your feet, and springing up from a few decayed logs.
+~
+54 8 1
+D0
+You look deeper into the forest.~
+~
+0 -1 16970
+D1
+You look deeper into the forest.~
+~
+0 -1 16971
+D2
+You look deepr into the forest.~
+~
+0 -1 16968
+S
+#16970
+On the path through the forest~
+You wander through the forest, in search of the lost gold of
+Apocrypha.  It was written, that if the suns turn 2 times,
+a pot of gold will be left in this secret hiding place.
+~
+54 8 1
+D0
+You look deeper into the forest.~
+~
+0 -1 16967
+D2
+You look deeper into the forest.~
+~
+0 -1 16969
+S
+#16971
+In the lighted forest~
+You find yourself wandering through a forest of great beauty and
+magical pressence.  There are wild flowers and toadstools around
+your feet, and springing up from a few decayed logs.
+~
+54 8 1
+D0
+You look deeper into the forest.~
+~
+0 -1 16967
+D2
+You look deeper into the forest.~
+~
+0 -1 16968
+D3
+You look through the forest.~
+~
+0 -1 16969
+S
+#16972
+In a tree~
+You find yourself climbing a huge oak tree.  As you look down,
+you cling for life to the tree, in fear of falling.  You must make the
+decision: proceed in climbing the tree, or take your chances on jumping.
+Common sense tells you that jumping now would most likely result in your
+IMMEDIATE DEATH!
+~
+54 8 1
+D4
+As you look up, you can see the top of the tree, but the leaves
+provide total protection from the sun.  This tree definately
+appears to be inhabitted.
+~
+~
+0 -1 16974
+D5
+Your stomache turns at the thought of slipping or jumping...
+Haven't you ever heard the expression DON'T LOOK DOWN!?!
+WELL THEN DON'T!!!
+~
+~
+0 -1 16973
+S
+#16973
+Death by jumping for a HIGH place... most uncool!~
+You decide to JUMP!?!
+ARE YOU INSANE?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+You are very dead.
+Your body is consumed and re-assimilated into nature.
+Thank you sir, drive through :)
+~
+54 10 1
+D4
+Where you just came from.~
+~
+0 -1 16972
+D5
+The afterlife.~
+~
+0 -1 16900
+S
+#16974
+The Room of the Queen Shanodin Dryad~
+You have climbed into the room of the great queen of the Shanodin
+Dryads.  This room is made of tightly packed leaves and twigs,
+forming a mesh-like circular wall.  You feel like you are in some
+kind of nest!  As you look around, you notice exits in all directions.
+It appears that they all lead to balcony-type extensions of the
+tree branches.  The balcony to the east has a rope that is hanging
+from something above!
+~
+54 8 1
+D3
+You peer out onto the west balcony.~
+~
+0 -1 16976
+D5
+Now look, climbing higher up the tree REALLY isn't going to make
+jumping any safer.  It still looks pretty DEADLY to me.
+You wonder why you see an occassional ripple in the visual spectrum while
+looking down.  Could it be the sun reflecting on the ground this high up?
+~
+~
+0 -1 16975
+S
+#16975
+The Shanodin Dryads' Treasure Room~
+You are in some kind of hollowed oak... As you look around, you
+realize that you are in a secret treasure room, hidden from
+outsiders like yourself with a rather simple holographic-style
+mirror.  On the back of this mirror, you notice the symbol
+that represents trust in the Apocryphan Language.
+~
+54 9 1
+D4
+You peer upwards into the Great Room of the Shanodin Queen.~
+~
+0 -1 16974
+S
+#16976
+The West Balcony of the Tree~
+You have decided to go west, which leads to the west balcony.
+This balcony is also the room of the Prince Shanodin Dryad.  What a
+view he enjoys!  You can see all the way to West Midgaard from
+here!  You can almost see around to the north balcony from here.
+~
+54 8 1
+D1
+You look back into the Queen's room.~
+~
+0 -1 16974
+S
+$~
+#999999

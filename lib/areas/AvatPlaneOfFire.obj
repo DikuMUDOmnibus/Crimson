@@ -1,0 +1,454 @@
+#15550
+obj Flame sword~
+the Flame Sword~
+A fiery sword lies here looking mean and nasty.~
+~
+5 4195648 8193
+34834 12 6 3
+5 500000 100000
+A
+41 2
+A
+45 2
+A
+19 5
+A
+18 5
+#15551
+obj false sign~
+a false sign~
+A large sign hangs on the wall.~
+~
+16 4194305 0
+0 0 10 0
+1 5 5
+#15552
+obj pen~
+a pen~
+A blue ink pen lies here.~
+~
+21 4194304 16385
+0 0 10 0
+1 5 5
+#15553
+obj ring hope~
+Ring of Hope~
+A bright purple ring lies glowing here.~
+~
+9 4194305 3
+75 0 10 0
+4 250000 1000
+A
+23 5
+A
+24 5
+A
+37 -10
+A
+19 2
+#15554
+obj sword Discipline~
+the Sword of Discipline~
+A brilliantly glowing sword seems to call to you.~
+~
+5 4194434 8193
+0 1 1 3
+10 2000 50000
+A
+13 -50
+A
+17 50
+A
+19 -15
+A
+1 -10
+#15555
+obj horn fire breath~
+the Horn of Fire Breath~
+A small horn is lying here.~
+~
+1 4263968 1
+26 5 15 15
+8 30000 10000
+#15556
+obj plate fire~
+the Plate of Fire~
+A piece of metal lies here with flames surrounding it.~
+~
+9 4198913 9
+40 0 10 0
+15 250000 75000
+A
+19 3
+A
+18 3
+#15557
+obj Crimson shield~
+the Crimson Shield~
+A gruesome looking red shield lies here.~
+~
+9 4196352 513
+25 0 10 0
+15 200000 35000
+A
+19 2
+A
+13 2
+A
+1 2
+#15558
+obj Hercules gauntlets~
+the Hercules Gauntlets~
+A paif of mighty gauntlets lays all alone here.~
+~
+9 4196354 129
+5 0 10 0
+5 150000 32000
+A
+41 4
+#15559
+obj long boots~
+a pair of black long boots~
+A pair of shiny black boots sits here.~
+~
+9 4194304 65
+8 30 30 3
+4 22000 20000
+A
+42 2
+#15560
+obj belt Genocide~
+the Belt of Genocide~
+This black and silver belt looks as if someone dropped it.~
+~
+9 4194432 2049
+12 0 10 0
+7 175000 25000
+A
+18 4
+A
+19 4
+#15561
+obj helm Knowledge~
+the Helm of Knowledge~
+This helm as a magical aura around it.~
+~
+9 4194304 17
+10 0 10 0
+9 32000 15000
+A
+43 3
+A
+44 3
+A
+13 -75
+#15562
+obj sceptre Rulers~
+the Sceptre of Rulership~
+A jeweled sceptre has been dropped here.~
+~
+1 4196868 16385
+0 0 10 0
+10 300000 35000
+A
+19 3
+A
+18 2
+A
+13 -75
+A
+26 5
+#15563
+obj Shin plates Falkmore~
+the Shin Plates of Falkmore~
+These plates have nasty spilkes coming from the plates.~
+~
+9 4196352 33
+15 0 10 0
+15 225000 45000
+A
+42 2
+A
+18 3
+A
+19 3
+A
+13 100
+#15564
+obj burned staff~
+a burned staff~
+A staff lies here looking brittle and delicate.~
+~
+4 4194432 16385
+0 5 10 0
+12 20000 100000000
+#15565
+obj black blue diamond ring~
+a black and blue diamond ring~
+There is perhaps the ugliest ring you have ever seen here.~
+~
+9 4195360 3
+0 0 10 0
+7 50000 100000
+A
+36 5
+A
+32 5
+A
+26 5
+A
+19 -2
+#15566
+obj Devil's tail~
+the Devil's Tail~
+A fleshy, but hard spear like object lies here.~
+~
+5 4196880 8193
+33 6 7 11
+4 100000 1000000000
+A
+12 -50
+A
+18 2
+A
+19 3
+#15567
+obj cookie~
+a small cookie~
+Small cookies are on the tray waiting to be bought.~
+~
+10 4194304 1
+40 27 20 20
+1 10 1000000000
+A
+12 100
+A
+14 100
+A
+13 100
+#15568
+obj crown Thelmar~
+the Crown of Thelmar~
+An ancient crown lies here.~
+~
+9 4196864 17
+9 0 10 0
+20 300000 45000
+A
+12 40
+A
+3 3
+#15569
+obj trident Barnibus~
+the Trident of Barnibus~
+A three-pronged nasty trident lays here.~
+~
+5 4194964 8193
+1025 10 5 11
+2 500000 75000
+A
+17 -10
+A
+24 3
+#15570
+obj girdle strength~
+the Girdle of Fire Giant Strength~
+A pile of red cloth lies here.~
+~
+9 4194320 2049
+5 0 10 0
+10 5 60000
+A
+1 3
+A
+41 3
+#15571
+obj shrunken head~
+a shrunken head~
+A tiny head lays before you...damn head hunters.~
+~
+13 4194304 16385
+0 0 10 0
+1 0 10
+#15572
+obj necklace shrunken heads~
+the Necklace of Shrunken Heads~
+A chain with a bunch of tiny heads lays here.~
+~
+9 4194304 5
+15 0 10 0
+15 250000 35000
+A
+18 3
+A
+19 3
+#15573
+obj pouch Holding~
+the Pouch of Holding~
+A frayed looking pouch lays at your feet.~
+~
+15 4194304 1
+99 1 10 0
+1 2000 2500
+#15574
+obj robe Zoltan~
+the Zoltan's Robe~
+A large pile of pitch black cloth is here.~
+~
+9 4196352 9
+10 0 10 0
+9 75000 55000
+A
+12 100
+A
+43 3
+A
+44 3
+#15575
+obj Rustic spear~
+the Rustic Spear~
+An old and decayed looking spear rests here.~
+~
+5 4194304 8193
+0 4 10 11
+10 5000 10000
+#15576
+obj spear Life~
+the Head Hunter's Spear of Life~
+A long decorative spear rests here.~
+~
+5 4195328 8193
+2048 3 12 11
+10 200000 120000
+A
+13 50
+#15577
+obj black key~
+a black key~
+A black key lays here.~
+~
+18 4194304 16385
+1 1 10 0
+2 1 -1
+#15578
+obj red key~
+a red key~
+A bright red key lays here.~
+~
+18 4194304 16385
+1 0 10 0
+2 2 -1
+#15579
+obj Apollo's Golden Bow~
+Apollo's Golden Bow~
+A golden bow lays peacefully on the ground.~
+~
+5 4194305 8193
+0 10 10 11
+3 225000 300000
+A
+18 5
+A
+19 5
+A
+41 3
+A
+42 3
+#15580
+obj Ring Fire~
+the Ring of Fire~
+A ring which glows lightly with fire rest here.~
+~
+3 4194304 16387
+45 20 20 26
+4 75000 60000
+A
+12 -10
+A
+13 -100
+#15581
+obj wreath Fire~
+the Wreath of Fire~
+A wreath of fire lays here.~
+~
+9 4194304 5
+10 0 10 0
+7 100000 33000
+A
+18 3
+A
+19 3
+#15582
+obj Thelmar coins~
+Thelmar's Taxes~
+A heap of coins lays here.~
+~
+20 4194304 1
+250000 1 10 0
+40 0 0
+#15583
+obj red roses~
+one million red roses~
+A bouquet of a million red roses lies on the ground here.~
+~
+13 4194304 16385
+0 0 10 0
+1 5 5
+#15584
+obj skeleton key~
+a skeleton key~
+A key with a skeleton head lies here.~
+~
+18 4194304 1
+1 0 10 0
+4 0 -1
+#15585
+obj gold key~
+a gold key~
+A small gold key is here.~
+~
+18 4194304 16385
+1 0 10 0
+4 0 -1
+#15586
+obj Caribus' loot~
+Caribus' loot~
+A towering mass of coins stands here.~
+~
+20 4194304 1
+375000 0 10 0
+40 5 5
+#15587
+obj yellow key~
+a bright yellow key~
+A bright yellow key lays here.~
+~
+18 4194304 16385
+0 0 10 0
+4 0 -1
+#15588
+obj green key~
+a small green key~
+A small green key lays discarded here.~
+~
+18 4194304 16385
+15588 0 10 0
+1 10000000 -1
+#15589
+obj Granthileon's hammer~
+Garthileon's Hammer~
+A heavy, rusted hammer lays here.~
+~
+5 4195586 8193
+2050 15 5 7
+5 1000000 250000
+A
+40 -1
+A
+18 7
+A
+19 10
+A
+23 25
+$~
+#999999

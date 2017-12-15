@@ -1,0 +1,428 @@
+#14100
+obj imperial edict~
+an Imperial Edict~
+A large staff glowing with power is lying here.~
+~
+1 2098209 1
+0 0 -1 0
+1 100000 30000
+A
+18 2
+A
+32 -1
+A
+36 -1
+A
+33 -1
+#14101
+obj silver circlet~
+a Silver Circlet~
+A silvery hoops is lying here.~
+~
+9 2 17
+1 0 0 0
+2 30000 15000
+A
+12 20
+#14102
+obj checkered cloak~
+a checkered cloak~
+A checkered piece of cloth is lying here.~
+~
+9 0 5
+5 0 0 0
+1 1000 2500
+#14103
+obj black cloak~
+a black cloak~
+A black piece of cloth is lying here.~
+~
+9 0 5
+5 0 0 0
+2 500 2500
+#14104
+obj steel sword~
+a steel sword~
+A steel sword is lying here.~
+slash~
+5 0 8193
+0 3 5 2
+11 1000 500
+#14105
+obj samurai blade~
+a samurai blade~
+A thin blade which belonged to a brave samurai is lying here.~
+slash~
+5 0 8193
+0 5 5 2
+11 2000 1000
+#14106
+obj steel plate~
+a steel plate~
+A plate of solid steel is lying here.~
+slash~
+9 65536 9
+7 0 0 0
+6 1000 500
+#14107
+obj steel greaves~
+a pair of steel greaves~
+A pair of steel leggings is lying here.~
+~
+9 0 33
+7 0 0 0
+6 1000 3500
+#14108
+obj Yakasume sword~
+the Yakasume sword~
+A runed blade is lying here.~
+slash~
+5 2097153 8193
+0 11 3 2
+15 80000 40000
+A
+19 2
+A
+18 4
+#14109
+obj runed dragon skin~
+a runed dragon scale suit~
+A pile of dragon scales is lying here.~
+~
+9 524290 9
+10 0 0 0
+2 20000 10000
+A
+19 2
+#14110
+obj lance~
+a lance~
+A lance is lying here.~
+pierce~
+5 0 8193
+0 5 3 11
+10 1000 500
+A
+18 2
+#14111
+obj forged bracers~
+a pair of forged bracers~
+A pair of glowing arm bracers is lying here.~
+~
+9 524289 257
+7 0 0 0
+6 14000 7000
+A
+19 2
+#14112
+obj red two-handed hammer~
+a red two-handed hammer~
+A large ungainly hammer is lying here.~
+pound~
+5 524290 8193
+0 5 4 7
+19 4000 2000
+A
+19 5
+A
+2 -3
+#14113
+obj shield war~
+a war shield~
+A large highly-decorated shield is lying here.~
+~
+9 524288 513
+10 0 0 0
+1 22000 11000
+A
+19 2
+#14114
+obj dragon helm~
+a dragon helm~
+A helmet with double holes on top is lying here.~
+~
+9 2162688 17
+5 0 0 0
+4 10000 25000
+A
+23 -2
+A
+19 1
+A
+5 2
+#14115
+obj Crimson staff~
+a Crimson staff~
+A wooden staff of the color of blood is lying here.~
+~
+4 0 16385
+30 10 10 36
+1 15000 7500
+A
+12 10
+#14116
+obj silk robe~
+a silk robe~
+A transparent pile of cloth is lying here.~
+~
+9 2 1025
+3 0 0 0
+1 20000 10000
+A
+12 10
+A
+12 10
+A
+12 0
+#14117
+obj silver sandals~
+a pair of silver sandals~
+A pair of lovely sandals is lying here.~
+~
+9 2097152 65
+20 0 0 0
+2 20000 10000
+A
+37 20
+A
+19 2
+#14118
+obj crystal ring~
+a crystal ring~
+A ring lies here reflecting light.~
+~
+9 1048576 3
+15 0 0 0
+2 1 13000
+A
+18 2
+A
+19 1
+#14119
+obj lizard belt~
+a lizard skin belt~
+A thin belt made of reptile skin is lying here.~
+~
+9 2 2049
+2 0 0 0
+3 40000 20000
+A
+5 3
+#14120
+obj gold armor~
+a suit of gold dragon armor~
+A suit of golden scales is lying here.~
+~
+9 65536 9
+8 0 0 0
+10 20000 10000
+A
+1 1
+#14121
+obj fairy bow~
+a Fairy's bow~
+A glowing bow is lying here.~
+pounds~
+5 0 8193
+0 5 5 7
+12 20000 5000
+#14122
+obj straw hat~
+a straw hat~
+A straw hat was left by the citizen.~
+~
+9 0 17
+1 0 0 0
+3 1000 500
+#14123
+obj cotton overalls~
+a pair of cotton overalls~
+A pile of cotton is lying here.~
+~
+9 1114112 33
+0 0 0 0
+5 5000 2500
+A
+26 30
+A
+36 1
+#14124
+obj green armor~
+a suit of green armor~
+A pile of green colored steel is left here.~
+~
+9 65536 9
+7 0 0 0
+10 7000 3500
+#14125
+obj blue armor~
+a suit of blue armor~
+A pile of sky colored steel is left here.~
+~
+9 65536 9
+7 0 0 0
+10 7000 3500
+#14126
+obj black armor~
+a suit of black armor~
+A pile of coal colored steel is left here.~
+~
+9 0 9
+7 0 0 0
+10 7000 3500
+#14127
+obj pouch~
+a pouch~
+A small pouch is lying here.~
+~
+15 0 2049
+100 0 0 0
+1 1 1
+#14128
+obj pike~
+a pike~
+A footmen's pike is lying here.~
+pierce~
+5 0 8193
+0 3 5 11
+12 1000 500
+#14129
+obj shield~
+a small wooden shield~
+A small shield with the Emperor's mark is lying here.~
+~
+9 0 513
+2 0 0 0
+3 2000 1000
+#14130
+obj anvil~
+an anvil~
+A large sturdy anvil is here.~
+~
+12 1 0
+0 0 0 0
+1 1 1
+#14131
+obj Pan's spear~
+the Prince Pan's spear~
+A glowing spear is lying here.~
+pierce~
+5 2097153 8193
+0 6 5 11
+19 4000 2000
+A
+19 4
+A
+18 4
+#14132
+obj armor suit~
+a ceremony suit of armor~
+A suit of armor bearing the family mark of the General is lying here.~
+~
+9 65536 1025
+15 0 0 0
+19 80000 10000
+A
+19 3
+#14133
+obj tofu~
+a piece of tofu~
+A piece of tofu is lying here.~
+~
+19 0 0
+30 0 0 0
+1 1 1
+#14134
+obj puce potion~
+a puce potion~
+A puce potion is lying here.~
+~
+10 0 1
+40 28 28 28
+1 2000 1000
+#14135
+obj clear stick~
+a clear stick~
+A thin rod is lying here.~
+~
+3 0 1
+25 10 10 26
+1 2000 1000
+#14136
+obj bloody neckguard~
+a bloody neckguard~
+A bloody piece of metal is lying here.~
+~
+9 1048576 5
+7 0 0 0
+5 20000 10000
+A
+19 2
+A
+18 2
+#14137
+obj beaded necklace~
+a beaded necklace~
+A string of beads is lying here.~
+~
+9 0 5
+2 0 0 0
+3 20000 10000
+A
+12 40
+A
+14 40
+#14138
+obj gold bracelet~
+a heavy gold bracelet~
+A bracelet made with gold is lying here.~
+~
+9 524288 4097
+2 0 0 0
+1 15000 15000
+A
+12 20
+#14139
+obj fire talisman~
+a Fire talisman~
+A talisman glowing with the fires of Hell is lying here.~
+~
+4 0 16385
+0 0 0 0
+1 10000 5000
+A
+19 2
+A
+3 -3
+#14140
+obj glass~
+a glass~
+A large glass is lying here.~
+~
+17 0 1
+100 100 0 0
+1 1 1
+#14141
+obj chest glass~
+a glass chest~
+A glass chest is proudly displayed here.~
+~
+15 0 0
+100 5 0 0
+1 1 1
+#14142
+obj pearl onyx~
+an onyx and pearl bracelet~
+an onyx and pearl hoop is lying here.~
+~
+9 1048576 4097
+8 0 10 0
+1 3000 1500
+A
+19 2
+A
+18 3
+A
+5 -1
+$~
+#999999

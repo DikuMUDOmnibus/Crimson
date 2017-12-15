@@ -1,0 +1,1867 @@
+#20000
+The Stairway Down Into The Caverns~
+The stairway here leads further and further down into the dark cavern. Drops
+of water fall from the ceiling, splattering on the ground and making the only
+sound you hear.
+~
+60 8 0
+D0
+~
+~
+0 -1 8100
+D1
+~
+~
+0 -1 8316
+D4
+~
+~
+0 -1 8199
+D5
+The Slope Of The Stairs Lessen As You Almost Reach The Bottom
+~
+~
+0 -1 20001
+S
+#20001
+Almost At The Bottom Of The Stairway~
+You have almost reached the bottom of this stairway. The stairs get less and
+less steep the closer you get.
+~
+60 8 0
+D4
+The Stairway Down Into The Caverns
+~
+~
+0 -1 20000
+D5
+The Bottom Of The Stairway
+~
+~
+0 -1 20002
+S
+#20002
+The Bottom Of The Stairway~
+You have reached the bottom of the stairs. The caverns lead off to the east.
+The ground under your feet feels very warm.
+~
+60 8 0
+D1
+The Caverns Under The Wizards Council
+~
+~
+0 -1 20003
+D4
+Almost At The Bottom Of The Stairway
+~
+~
+0 -1 20001
+S
+#20003
+The Caverns Under The Wizards Council~
+These are the caverns under the coucil of wizards, the path to the underworld.
+The walls and ceiling ooze with strange green slime that exudes a green glow...
+and a nasty smell! The floor is slick with a mix of water and slime.
+~
+60 8 0
+D1
+The Caverns
+~
+~
+0 -1 20004
+D3
+The Bottom Of The Stairway
+~
+~
+0 -1 20002
+S
+#20004
+The Caverns~
+These are the caverns under the coucil of wizards, the path to the underworld.
+The walls and ceiling ooze with strange green slime that exudes a green glow...
+and a nasty smell! The floor is slick with a mix of water and slime.
+~
+60 8 0
+D1
+The Caverns
+~
+~
+0 -1 20005
+D3
+The Caverns
+~
+~
+0 -1 20003
+S
+#20005
+The Caverns~
+These are the caverns under the coucil of wizards, the path to the underworld.
+The walls and ceiling ooze with strange green slime that exudes a green glow...
+and a nasty smell! The floor is slick with a mix of water and slime.
+~
+60 12 0
+D1
+The Gate
+~
+~
+0 -1 20006
+D3
+The Caverns
+~
+~
+0 -1 20004
+S
+#20006
+The Gate To The Underworld~
+A large iron portal is to the east. The gate to the underworld. A huge
+round iron door is set in the center of the portal, blocking off any
+way through it. This door was set here to ward off anything trying to
+come to the surface world from the underworld.
+~
+60 8 0
+D0
+The Guard Room
+~
+~
+0 -1 20008
+D1
+The Cavern, Sloping Down
+~
+~
+0 -1 20007
+D3
+The Caverns
+~
+~
+0 -1 20005
+S
+#20007
+The Caverns~
+You are in the caverns. The iron portal is to the west and the cavern slopes
+downward. You think u can hear water sloshing in the distance...
+~
+60 12 0
+D3
+The Gate
+~
+~
+0 -1 20006
+D5
+The Cavern Slopes Down
+~
+~
+0 -1 20009
+S
+#20008
+The Guard Room~
+This is the room where the gate guards take rests in between their shifts.
+Bunks and weapon racks line the walls. Many flaming, glowing and otherwise
+magical weapons make your eyes open wide in awe. If only you could have
+one of them.....!
+You feel your wounds healing faster in this room......
+~
+60 264 0
+D2
+The Gate
+~
+~
+0 -1 20006
+S
+#20009
+The Sloping Cavern~
+This is a cavern sloping downward. The heat grows more and more instense
+the further you descend. The sound of water against a shore grows nearer.
+Moss clings to the walls and ceiling of this dark cavern.
+~
+60 12 0
+D4
+The Cavern
+~
+~
+0 -1 20007
+D5
+The Cavern, Near An Underground Lake
+~
+~
+0 -1 20010
+S
+#20010
+The Caverns, Near An Underground Lake~
+you are in a giant dome shaped cavern. In the center of the cavern is a large
+black river. Mist swirls around ontop of the water. A bright red glow comes
+from the west side of the dome.
+~
+60 12 0
+D3
+The Shore Of The River Styx
+~
+~
+0 -1 20011
+D4
+The Caverns
+~
+~
+0 -1 20009
+S
+#20011
+The Shore Of The River Styx~
+You are on the shore of the fabled river styx, the river that when you cross,
+you pass into the underworld. The red glow from the west glints like firelight
+off onyx on the black, glassy water. Mist swirls around your feet like little
+wraiths slipping around you.
+~
+60 8 0
+D1
+The Cavern, Near An Underground Lake
+~
+~
+0 -1 20010
+D3
+On The River Styx
+~
+~
+0 -1 20012
+S
+#20012
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D1
+The Shore Of The River Styx
+~
+~
+0 -1 20011
+D2
+On The River Styx
+~
+~
+0 -1 20013
+S
+#20013
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D0
+On The River Styx
+~
+~
+0 -1 20012
+D2
+On The River Styx
+~
+~
+0 -1 20014
+D3
+On The River Styx
+~
+~
+0 -1 20021
+S
+#20014
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D0
+On The River Styx
+~
+~
+0 -1 20013
+S
+#20015
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D2
+On The River Styx
+~
+~
+0 -1 20021
+D3
+On The River Styx
+~
+~
+0 -1 20016
+D5
+Underwater
+~
+~
+0 -1 20069
+S
+#20016
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D1
+On The River Styx
+~
+~
+0 -1 20015
+S
+#20017
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D1
+On The River Styx
+~
+~
+0 -1 20021
+D3
+On The River Styx
+~
+~
+0 -1 20022
+S
+#20018
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D1
+On The River Styx
+~
+~
+0 -1 20022
+S
+#20019
+Approaching The Western Shore~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow. The howls, shrieks and moans grow loud here, blocking out any sound.
+~
+60 8 7
+D0
+On The River Styx
+~
+~
+0 -1 20022
+D3
+On The River Styx
+~
+~
+0 -1 20020
+S
+#20020
+The Shore Of The Underworld~
+You are on the shore of the underworld. Under your feet is fine black sand,
+blending with the colour of the river Styx to the east. The red glow you
+have been seeing is coming from the west.
+~
+60 8 0
+D1
+On The River Styx
+~
+~
+0 -1 20019
+D3
+The Underworld
+~
+~
+0 -1 20023
+S
+#20021
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow.
+~
+60 8 7
+D0
+On The River Styx
+~
+~
+0 -1 20015
+D1
+On The River Styx
+~
+~
+0 -1 20013
+D3
+On The River Styx
+~
+~
+0 -1 20017
+S
+#20022
+On The River Styx~
+You are on the great river Styx. The water in this eerie lake is supposed
+to suck the very life from you if you touch it's ebon waves. Mist writhes
+around you from head to toe, bathing you in it's white glow. You cant
+seem to get your bearings on this strange lake, but you still see the strange
+red glow. Agonized shrieks and howls can be heard, chilling you to the bone.
+~
+60 8 7
+D1
+On The River Styx
+~
+~
+0 -1 20017
+D2
+On The River Styx
+~
+~
+0 -1 20019
+D3
+On The River Styx
+~
+~
+0 -1 20018
+S
+#20023
+The Underworld~
+This is the most evil place you have ever been in. The whole of it radiates
+an evil feeling you cant compare to anything. Demons walk around like dogs,
+serving their masters. Imps, demodans, nightstalkers, tanar'ri, minor devils
+and other abominations walk the red-paved glowing roads, destroying anything
+they dont like. Screams, howls, groans and shrieks of anguish fill the air,
+blocking out any other sounds.
+~
+60 8 0
+D0
+The Underworld
+~
+~
+0 -1 20024
+D1
+The Underworld
+~
+~
+0 -1 20020
+S
+#20024
+The Underworld~
+This is the most evil place you have ever been in. The whole of it radiates
+an evil feeling you cant compare to anything. Demons walk around like dogs,
+serving their masters. Imps, demodans, nightstalkers, tanar'ri, minor devils
+and other abominations walk the red-paved glowing roads, destroying anything
+they dont like. Screams, howls, groans and shrieks of anguish fill the air,
+blocking out any other sounds.
+~
+60 8 0
+D0
+The Record Room
+~
+~
+0 -1 20025
+D2
+The Underworld
+~
+~
+0 -1 20023
+D3
+The Underworld
+~
+~
+0 -1 20026
+S
+#20025
+The Record Room~
+This room is where the records are kept for the entries into the underworld.
+Giant books fill this room, filled with names of souls residing here. Large
+candles glow in sconces on the wall, illuminating the room.
+~
+60 8 0
+D2
+The Underworld
+~
+~
+0 -1 20024
+S
+#20026
+The Underworld~
+This is the most evil place you have ever been in. The whole of it radiates
+an evil feeling you cant compare to anything. Demons walk around like dogs,
+serving their masters. Imps, demodans, nightstalkers, tanar'ri, minor devils
+and other abominations walk the red-paved glowing roads, destroying anything
+they dont like. Screams, howls, groans and shrieks of anguish fill the air,
+blocking out any other sounds.
+~
+60 8 0
+D1
+The Underworld
+~
+~
+0 -1 20024
+D3
+The Center Of The Underworld
+~
+~
+0 -1 20027
+S
+#20027
+The Center Of The Underworld~
+This is the center of the underworld. This is like a town square in a city,
+but more sinister. Great flaming beasts shamble around and dark shadows
+flit in and around the leering-gargoyle topped pillars surrounding the
+center of the underworld. You see lots of traffic here, demons and other
+beings walk, fly, slither, crawl or otherwise make their way around here.
+Also, merchants go about their business here, riding in flaming chariots
+pulled by helsteeds, the underworld equivalent of horses.
+~
+60 8 0
+D0
+The Center Of The Underworld
+~
+~
+0 -1 20036
+D1
+The Underworld
+~
+~
+0 -1 20026
+D3
+The Center Of The Underworld
+~
+~
+0 -1 20028
+S
+#20028
+The Center Of The Underworld~
+This is the center of the underworld. This is like a town square in a city,
+but more sinister. Great flaming beasts shamble around and dark shadows
+flit in and around the leering-gargoyle topped pillars surrounding the
+center of the underworld. You see lots of traffic here, demons and other
+beings walk, fly, slither, crawl or otherwise make their way around here.
+Also, merchants go about their business here, riding in flaming chariots
+pulled by helsteeds, the underworld equivalent of horses.
+
+~
+60 8 0
+D0
+The Center Of The Underworld
+~
+~
+0 -1 20036
+D1
+The Center Of The Underworld
+~
+~
+0 -1 20027
+D2
+A Small Lane.
+~
+~
+0 -1 20079
+D3
+The Torture Chamber
+~
+~
+0 -1 20029
+S
+#20029
+The Torture Chamber~
+This is the torture chamber of the underworld. Souls are chained to the walls
+here, awaiting the torture of the Duk-Tak or Unholy Executioner.
+~
+60 8 0
+D1
+The Center Of The Underworld
+~
+~
+0 -1 20028
+D3
+Undeath Row
+~
+~
+0 -1 20030
+S
+#20030
+Undeath Row~
+This is where the spirits that have done wrong against the underworld are sent.
+These souls are confined to torture in their cells until time for their
+judgement, where either they are set free to stay in the underworld, or sent to
+the most horrible place in the universe and stay there as an undead creature.
+The surface world. Cells are to the north and south.
+~
+60 8 0
+D0
+You See A Small Cell
+~
+~
+0 -1 20031
+D1
+The Torture Chamber
+~
+~
+0 -1 20029
+D2
+You See A Small Cell
+~
+~
+0 -1 20032
+D3
+Undeath Row
+~
+~
+0 -1 20033
+S
+#20031
+A Small Cell~
+This is a tiny cell, no more than 3 feet cubed. It is made of a black
+metal you dont recognize. Spikes line all the inside of this small room
+and little shapes huddle in the corners, whimpering.
+~
+60 2056 0
+D2
+Undeath Row
+~
+~
+0 -1 20030
+S
+#20032
+A Small Cell~
+This is a tiny cell, no more than 3 feet cubed. It is made of a black
+metal you dont recognize. Spikes line all the inside of this small room
+and little shapes huddle in the corners, whimpering.
+~
+60 2056 0
+D0
+~
+Undeath Row~
+0 -1 20030
+S
+#20033
+Undeath Row~
+This is where the spirits that have done wrong against the underworld are sent.
+These souls are confined to torture in their cells until time for their
+judgement, where either they are set free to stay in the underworld, or sent to
+the most horrible place in the universe and stay there as an undead creature.
+The surface world. Cells are to the north and south.
+~
+60 8 0
+D0
+You See A Small Cell
+~
+~
+0 -1 20034
+D1
+Undeath Row
+~
+~
+0 -1 20030
+D2
+You See A Small Cell
+~
+~
+0 -1 20035
+S
+#20034
+A Small Cell~
+This is a tiny cell, no more than 3 feet cubed. It is made of a black
+metal you dont recognize. Spikes line all the inside of this small room
+and little shapes huddle in the corners, whimpering.
+~
+60 2056 0
+D2
+Undeath Row
+~
+~
+0 -1 20033
+S
+#20035
+A Small Cell~
+This is a tiny cell, no more than 3 feet cubed. It is made of a black
+metal you dont recognize. Spikes line all the inside of this small room
+and little shapes huddle in the corners, whimpering.
+~
+60 2056 0
+D0
+Undeath Row
+~
+~
+0 -1 20033
+S
+#20036
+The Center Of The Underworld~
+This is the center of the underworld. This is like a town square in a city,
+but more sinister. Great flaming beasts shamble around and dark shadows
+flit in and around the leering-gargoyle topped pillars surrounding the
+center of the underworld. You see lots of traffic here, demons and other
+beings walk, fly, slither, crawl or otherwise make their way around here.
+Also, merchants go about their business here, riding in flaming chariots
+pulled by helsteeds, the underworld equivalent of horses.
+
+~
+60 8 0
+D0
+The Center Of The Underworld
+~
+~
+0 -1 20038
+D1
+A Small, Dark Granite Cave is to the East
+~
+~
+0 -1 20061
+D2
+The Center Of The Underworld
+~
+~
+0 -1 20027
+D3
+The Center Of The Underworld
+~
+~
+0 -1 20037
+S
+#20037
+The Center Of The Underworld~
+This is the center of the underworld. This is like a town square in a city,
+but more sinister. Great flaming beasts shamble around and dark shadows
+flit in and around the leering-gargoyle topped pillars surrounding the
+center of the underworld. You see lots of traffic here, demons and other
+beings walk, fly, slither, crawl or otherwise make their way around here.
+Also, merchants go about their business here, riding in flaming chariots
+pulled by helsteeds, the underworld equivalent of horses.
+
+~
+60 8 0
+D0
+The Center Of The Underworld
+~
+~
+0 -1 20039
+D1
+The Center Of The Underworld
+~
+~
+0 -1 20036
+D2
+The Center Of The Underworld
+~
+~
+0 -1 20028
+S
+#20038
+The Center Of The Underworld~
+This is the center of the underworld. This is like a town square in a city,
+but more sinister. Great flaming beasts shamble around and dark shadows
+flit in and around the leering-gargoyle topped pillars surrounding the
+center of the underworld. You see lots of traffic here, demons and other
+beings walk, fly, slither, crawl or otherwise make their way around here.
+Also, merchants go about their business here, riding in flaming chariots
+pulled by helsteeds, the underworld equivalent of horses.
+
+~
+60 8 0
+D2
+The Center Of The Underworld
+~
+~
+0 -1 20036
+D3
+The Center Of The Underworld
+~
+~
+0 -1 20039
+S
+#20039
+The Center Of The Underworld~
+This is the center of the underworld. This is like a town square in a city,
+but more sinister. Great flaming beasts shamble around and dark shadows
+flit in and around the leering-gargoyle topped pillars surrounding the
+center of the underworld. You see lots of traffic here, demons and other
+beings walk, fly, slither, crawl or otherwise make their way around here.
+Also, merchants go about their business here, riding in flaming chariots
+pulled by helsteeds, the underworld equivalent of horses.
+
+~
+60 8 0
+D0
+The Underworld
+~
+~
+0 -1 20040
+D1
+The Center Of The Underworld
+~
+~
+0 -1 20038
+D2
+The Center Of The Underworld
+~
+~
+0 -1 20037
+D3
+A Tiny Passage
+~
+~
+0 -1 20049
+S
+#20040
+The Underworld~
+This is the most evil place you have ever been in. The whole of it radiates
+an evil feeling you cant compare to anything. Demons walk around like dogs,
+serving their masters. Imps, demodans, nightstalkers, tanar'ri, minor devils
+and other abominations walk the red-paved glowing roads, destroying anything
+they dont like. Screams, howls, groans and shrieks of anguish fill the air,
+blocking out any other sounds.
+~
+60 8 0
+D0
+The Underworld
+~
+~
+0 -1 20047
+D2
+The Center Of The Underworld
+~
+~
+0 -1 20039
+D3
+The Gates To The Demon Castle
+~
+~
+0 -1 20046
+S
+#20041
+The Demon Castle~
+This is the great demon castle, it's long hallways are draped in pictures
+and tapestries showing demons throughout time destroying, torturing,
+causing havoc, obliterating mortals.
+All the normal demon stuff.
+~
+60 8 0
+D1
+The Gates To The Demon Castle
+~
+~
+0 -1 20046
+D3
+The Demon Courtyard
+~
+~
+0 -1 20042
+S
+#20042
+The Demon Courtyard~
+This is the center of the demon castle. A wide courtyard spreads around you
+with a black brick floor and flaming walls. The walls give off the only
+illumination here, and their flickers produce strange and frightening images
+on the floor. Demons living in the castle walk around here, wrecking things.
+To the north, west and south are the rooms of the ruling council of demons.
+~
+60 12 0
+D0
+The Hole Of Errtu
+~
+~
+0 -1 20043
+D1
+The Demon Castle
+~
+~
+0 -1 20041
+D2
+The Hole Of Nahaz
+~
+~
+0 -1 20045
+D3
+The Temple Of Tevesh Szat
+~
+~
+0 -1 20044
+S
+#20043
+The Hole Of Errtu~
+This is the hole of Errtu the demon. In the center of this room there is a
+large, enchanted, unbreakable case with a small, clear object floating in
+the center. Upon closer inspection, you find this to be the magnificent
+magical object Crenshinibon, the crystal shard. A mushroom throne lies to
+the north, beneath a veil of black mist.
+~
+60 8 0
+D2
+The Demon Courtyard
+~
+~
+0 -1 20042
+S
+#20044
+The Temple Of Tevesh Szat~
+This is a temple to Tevesh Szat, the demon lord. This demon runs all of the
+underworld, acting on orders of satan himself. There is a throne to your
+left, glowing with streams of fire on it's onyx surface. There is a life-
+sized model of Tevesh Szat in the center of the room.
+~
+60 8 0
+D1
+The Demon Courtyard
+~
+~
+0 -1 20042
+S
+#20045
+The Hole Of Nahaz~
+This is the hole of Nahaz the demon, his walls have rack upon rack of magical
+potions, wands and cruelly barbed weapons. There are daggers with hundreds of
+barbed, tiny razor-edged blades sprouting from the bottom and other diabolical
+weapons, like the evil snake headed whips favoured by drow elves.
+~
+60 8 0
+D0
+The Demon Courtyard
+~
+~
+0 -1 20042
+S
+#20046
+The Gates To The Demon Castle~
+You are outside the gates to the demon castle. The flaming gates to the
+west lead into a large, black castle with towers limned in glowing runes
+and glyphs. The demon castle is where a council of major demons live,
+from this castle, the whole underworld is run by the demon lord and his
+cohorts.
+~
+60 8 0
+D1
+The Underworld
+~
+~
+0 -1 20040
+D3
+The Demon Castle
+~
+~
+1 -1 20041
+S
+#20047
+The Underworld~
+an evil feeling you cant compare to anything. Demons walk around like dogs,
+serving their masters. Imps, demodans, nightstalkers, tanar'ri, minor devils
+and other abominations walk the red-paved glowing roads, destroying anything
+they dont like. Screams, howls, groans and shrieks of anguish fill the air,
+blocking out any other sounds.
+~
+60 8 0
+D0
+The Underworld, You Sense The Heat Increasing To The North
+~
+~
+0 -1 20048
+D2
+The Underworld
+~
+~
+0 -1 20040
+S
+#20048
+The Underworld~
+This is the most evil place you have ever been in. The whole of it radiates
+an evil feeling you cant compare to anything. Demons walk around like dogs,
+serving their masters. Imps, demodans, nightstalkers, tanar'ri, minor devils
+and other abominations walk the red-paved glowing roads, destroying anything
+they dont like. Screams, howls, groans and shrieks of anguish fill the air,
+blocking out any other sounds.
+~
+60 8 0
+D2
+The Underworld
+~
+~
+0 -1 20047
+D5
+The Cavern Gets Kind Of Hot Down There
+~
+~
+0 -1 20052
+S
+#20049
+The Small Passage~
+You are in a small passageway, it leads west where the gloom deepens...
+~
+60 8 0
+D1
+The Center of the Underworld
+~
+~
+0 -1 20039
+D3
+The Passage Widens To The West
+~
+~
+0 -1 20050
+S
+#20050
+The Small Passage~
+You are in a passageway, the air stinks of something slightly reptilian... but
+mostly it reeks of fear. The Gloom to the west is so dense, you could probably
+cut it if you tried..
+~
+60 9 0
+D1
+The Small Passage
+~
+~
+0 -1 20049
+D3
+You Cant See Much, It's Too Dark
+~
+~
+0 -1 20051
+S
+#20051
+Deep in the Dark Passage~
+You feel only fear in this tiny passage, the clinging reminders of forgotten
+nightmares and fears from long ago. You can link this feeling to one thing
+alone, The Night Serpent, devourer of forgotten nightmares.
+~
+60 9 0
+D1
+The Passage
+~
+~
+0 -1 20050
+D3
+The Lair of the Night Serpent
+~
+~
+0 -1 20060
+S
+#20052
+The Hot Cavern~
+The heat here grows intense as you climb deeper and deeper into the bowels of
+the earth. Strange forces are at work here, you can see. The water here drips
+from the floor.... up to the ceiling. This place radiates an aura of
+unmistakeable evil. The heat is so intense your flesh is burning and peeling.
+~
+60 2056 0
+D4
+The Underworld
+~
+~
+0 -1 20048
+D5
+The Heat Grows Even Higher Down There...
+~
+~
+0 -1 20053
+S
+#20053
+The Very Hot Room~
+This room levels off to the east wher it turns into a small corridor. The heat
+here is burning you and your amor seems to be melting, the leather straps
+cracking. You are in a giant cavern.
+ The heat is so intense your flesh is burning and peeling.
+~
+60 4104 0
+D1
+The Gate To The Abyss
+~
+~
+0 -1 20054
+D4
+The Heat Lessens Up There
+~
+~
+0 -1 20052
+S
+#20054
+The Gate To The Abyss~
+The caverns before this were nothing, this is the abyss, the center of the
+underworld, where the lord lives. The heat here is the same here, your eyelids
+seem like they'll melt anytime now. Going down from this red Iron portal will
+mean certain death. The heat is so intense your flesh is burning and peeling.
+~
+60 4104 0
+D3
+The Very Hot Room
+~
+~
+0 -1 20053
+D5
+The Heat Gets Almost Unbearable Down There, I wouldnt Go If I Were You....
+You'd Better Be Tough!
+~
+~
+0 -1 20055
+S
+#20055
+The Abyss~
+This is the abyss, the center of the underworld, the most evil place in the
+multiverse. The whole place radiates an evil feeling, the rocks themselves
+make you feel nauseous just from touching their slimy surface. Your nose
+hairs have long since shriveled up and your hair is nothing but a matted,
+burning rag with embers falling off it at every step.
+ The heat is so intense your flesh is burning and peeling.
+~
+60 4104 0
+D4
+The Gate To The Abyss
+~
+~
+0 -1 20054
+D5
+The Rocks Melt Down There And You Sense An EVIL Presence...
+~
+~
+0 -1 20056
+S
+#20056
+The Abyss~
+This is the abyss, the center of the underworld, the most evil place in the
+multiverse. The whole place radiates an evil feeling, the rocks themselves
+make you feel nauseous just from touching their slimy surface. A gate made
+of bodies is to the east.
+ The heat is so intense your flesh is burning and peeling.
+~
+60 4104 0
+D1
+The Great Outer Doors
+~
+~
+0 -1 20057
+D4
+The Abyss
+~
+~
+0 -1 20055
+S
+#20057
+The Great Outer Doors~
+These are the great outer doors to the chamber of the lord of the underworld.
+To the east, there is a masside pair of doors made out of human bodies. The
+bodies are glued together by a greenish substnace you also see coating the
+bloated,screaming and writhing people. These people were a thorn in the side
+of the lord while they were alive so he got his revenge. Your fingernails are
+brittle and begin to snap.
+ The heat is so intense your flesh is burning and peeling.
+~
+60 4104 0
+D1
+You See The Great Inner Gate Through The Mass Of Bloated Purple And Blue Bodies
+Moaning And Stacked Onto Each Other To Form A Wall. There Is One Person Holding
+His Hand Out Like He Want Something, The Key Maybe?
+~
+~
+0 -1 20058
+D3
+The Abyss
+~
+~
+0 -1 20056
+S
+#20058
+The Great Inner Doors~
+These are the great inner doors to the chamber of the lord of the underworld.
+To the east, there is a masside pair of doors made out of human bodies. The
+bodies are glued together by a greenish substnace you also see coating the
+bloated,screaming and writhing people. These people were a thorn in the side
+of the lord while they were alive so he got his revenge. Your fingernails are
+brittle and begin to snap.
+ The heat is so intense your flesh is burning and peeling.
+~
+60 4104 0
+D1
+THE ROOM OF THE LORD OF THE DEAD, SATAN
+~
+~
+0 -1 20059
+D3
+The Great Outer Doors
+~
+~
+0 -1 20057
+S
+#20059
+The Room Of The Lord Of The Dead, Satan~
+This is the room of the god of death and decay, the lord of the underworld,
+Satan. The walls in this room are black and streams of blood drip down them,
+then swim across the floor. Pillars of human hearts lay around the room,
+holding up the massive onyx roof. This is the most evil place you have ever
+experienced. You feel like if you stayed in this place for too long, you
+would turn evil. The gates are to the west.
+~
+60 12296 0
+D3
+The Great Inner Doors
+~
+~
+0 -1 20058
+S
+#20060
+The Lair Of The Night Serpent~
+This part of the passage is totally clogged by a wall of Nightmares, fears,
+destroyed hopes and dreams and everything the evil Night Serpent feasts upon.
+Growing engorged by eating The nightmares of people, she sustains herself
+until the day when she can at last walk free, ravaging the people of the
+universe.
+~
+60 9 0
+D1
+The Gloomy Passage
+~
+~
+0 -1 20051
+S
+#20061
+A Small Granite Cave~
+You are in a small cave made of granite the color of a starless night. The
+cave leads further to the east and to the west is the great center of the
+underworld.
+~
+60 8 0
+D1
+Deeper Into the Cave
+~
+~
+0 -1 20062
+D3
+The Center of the Underworld
+~
+~
+0 -1 20036
+S
+#20062
+Deeper Into the Small Cave~
+You are deeper into the granite cave where drops of water fall from the ceiling
+and drip down the rocky walls. The cave turns south here and leads west, also.
+~
+60 8 0
+D2
+The Cave
+~
+~
+0 -1 20063
+D3
+The Cave
+~
+~
+0 -1 20061
+S
+#20063
+The Cave~
+The cave here turns back on an eastbound course and you see a small light to
+the east. The cave also leads north from here.
+~
+60 8 0
+D0
+The Cave
+~
+~
+0 -1 20062
+D1
+The Cave
+~
+~
+0 -1 20064
+S
+#20064
+In The Cave~
+You are in a small chamber in the back of the cave. A small portal leads
+down from here into a swirling chaos of mixed up images. The portal gives
+off a faint, blue light with which you can see the cave going back west.
+~
+60 8 0
+D3
+The Cave
+~
+~
+0 -1 20063
+D5
+The Realm of Chaos can be Seen Through This Small Portal
+~
+~
+0 -1 20065
+S
+#20065
+Pandemonium: The Plane of Chaos~
+This is Pandemonium: The Plane of Chaos. Everything here is twirling,
+flying, swirling, rising, falling and otherwise jumbled into a giant
+mass. Sounds echo from all directions and colors are jumbled together.
+You have to feel around, tentatively to find footing.
+~
+60 8 0
+D1
+You see Another Swirling Room of Chaos
+~
+~
+0 -1 20066
+D4
+You See a Small Crack in the Fabric of This Plane...
+~
+~
+16 -1 20064
+S
+#20066
+Pandemonium: The Plane of Chaos~
+This is Pandemonium: The Plane of Chaos. Everything here is twirling,
+flying, swirling, rising, falling and otherwise jumbled into a giant
+mass. Sounds echo from all directions and colors are jumbled together.
+You have to feel around, tentatively to find footing.
+~
+60 8 0
+D1
+You see Another Srirling Room of Chaos
+~
+~
+0 -1 20067
+D3
+You see Another Swirling Room of Chaos
+~
+~
+0 -1 20065
+S
+#20067
+Pandemonium: The Plane of Chaos~
+This is Pandemonium: The Plane of Chaos. Everything here is twirling,
+flying, swirling, rising, falling and otherwise jumbled into a giant
+mass. Sounds echo from all directions and colors are jumbled together.
+You have to feel around, tentatively to find footing. A giant mesh of blue
+strands of magical energy bar your passage to the east.
+~
+60 8 0
+D1
+Through the gate of blue magical cords, you can vaguely make out the shape of
+a giant wolf-like creature as big as a horse...
+~
+~
+0 -1 20068
+D3
+You see Another Swirling Room of Chaos
+~
+~
+0 -1 20066
+S
+#20068
+The Cell Of The Chaos Houd~
+You are in the cell of Kezef the Chaos Hound. Blood and gore spatter the
+rocky floor and maggots creep from cracks in the stone. Bones lie in
+giant heaps and bottles containing captured souls lay around the room.
+The stench is overwhelming!
+~
+60 9 0
+D3
+You see Another Swirling Room of Chaos
+~
+~
+0 -1 20067
+S
+#20069
+Underwater~
+You are down under the waves of the mythic river Styx. Your life is slowly
+sapped away as you swim through the currents. Fish of bones swim around,
+creaking and snapping their jaws. You can barely see through the murky black.
+~
+60 4105 8
+D2
+Underwater
+~
+~
+0 -1 20070
+D4
+Above the Water, you can see The Surface of the River Styx.
+~
+~
+0 -1 20015
+S
+#20070
+Underwater~
+You are down under the waves of the mythic river Styx. Your life is slowly
+sapped away as you swim through the currents. Fish of bones swim around,
+creaking and snapping their jaws. You can barely see through the murky black.
+There seems to be a film covering the surface of the water above you which you
+cant break through.
+~
+60 4105 8
+D0
+Underwater
+~
+~
+0 -1 20069
+D3
+Underwater
+~
+~
+0 -1 20071
+S
+#20071
+Underwater~
+You are down under the waves of the mythic river Styx. Your life is slowly
+sapped away as you swim through the currents. Fish of bones swim around,
+creaking and snapping their jaws. You can barely see through the murky black.
+There seems to be a film covering the surface of the water above you which you
+cant break through.
+~
+60 4105 8
+D1
+Underwater
+~
+~
+0 -1 20070
+D3
+Underwater
+~
+~
+0 -1 20072
+S
+#20072
+Underwater~
+You are down under the waves of the mythic river Styx. Your life is slowly
+sapped away as you swim through the currents. Fish of bones swim around,
+creaking and snapping their jaws. You can barely see through the murky black.
+There seems to be a film covering the surface of the water above you which you
+cant break through.
+~
+60 4105 8
+D1
+Underwater
+~
+~
+0 -1 20071
+D3
+Underwater
+~
+~
+0 -1 20073
+S
+#20073
+Underwater~
+You are down under the waves of the mythic river Styx. Your life is slowly
+sapped away as you swim through the currents. Fish of bones swim around,
+creaking and snapping their jaws. You can barely see through the murky black.
+There seems to be a film covering the surface of the water above you which you
+cant break through.
+~
+60 4105 8
+D1
+Underwater
+~
+~
+0 -1 20072
+D5
+Further Into the Black Putrid Water.
+~
+~
+0 -1 20074
+S
+#20074
+Deep Underwater~
+You are further down into the middle of the river. A slight glow comes from
+beneath you through a hole. A cave can be seen beyond the hole.
+~
+60 4105 8
+D4
+Underwater
+~
+~
+0 -1 20073
+D5
+It Looks Like There is an Underwater Cave Down There
+~
+~
+0 -1 20075
+S
+#20075
+An Underwater Cave~
+This is a small underwater cave. There is a hole leading up through the ceiling
+and a passage to the west. The pressure is building the further down you go.
+Light comes from little globes floating around the water.
+~
+60 4104 8
+D3
+There is a Hole you can Pass Through.
+~
+~
+0 -1 20076
+D4
+Deep Underwater
+~
+~
+0 -1 20074
+S
+#20076
+An Underwater Passage~
+You are in a small, underwater passage. Below you, the water continues on into
+infinity, dark forms swirling and playing tricks with your eyes.
+~
+60 4105 8
+D1
+Back Through the Hole Into the Cave.
+~
+~
+0 -1 20075
+D5
+A Gigantic Crevasse the Size of the Empire State Building!
+~
+~
+0 -1 20077
+S
+#20077
+The Giant Underwater Crevasse~
+You are in a giant underwater crevasse. The currents pull you in different
+directions, yanking on your arms and legs so it is hard to swim. The
+pressure down here is very great as the water ontop of you pushes down.
+The currents could not come naturally, maybe they're from a sea creature
+....
+~
+60 4105 8
+D4
+The Underwater Passage is Above you.
+~
+~
+0 -1 20076
+D5
+Further Into the Crevasse,
+~
+~
+0 -1 20078
+S
+#20078
+The Giant Underwater Crevasse~
+You are further down in the crevasse, the currents are VERY strong here,
+tossing you around like a feather in a hurricane. You feel as if you will
+implode at any moment because of the high pressure.
+~
+60 4105 8
+D4
+Higher in the Crevasse.
+~
+~
+0 -1 20077
+S
+#20079
+The Small Lane~
+This is a small lane leading north to the center of the underworld and
+south to the marketplace. There are trees lining the lane to your left and
+right and a path is vaguely discernable through them on your left.
+~
+60 8 0
+D0
+The Center of the Underworld
+~
+~
+0 -1 20028
+D2
+The Marketplace
+~
+~
+0 -1 20080
+D3
+A small path through the trees.
+~
+~
+0 -1 20086
+S
+#20080
+The Marketplace~
+This is the marketplace of the underworld. Dark wizards and alchemists walk
+around here, buying and selling various components for spells, potions,
+paper for scrolls and other things like that. Also, servants run around,
+scurrying to find everything their masters need.
+~
+60 8 0
+D0
+A Small Lane
+~
+~
+0 -1 20079
+D1
+The Marketplace
+~
+~
+0 -1 20082
+D3
+The Marketplace.
+~
+~
+0 -1 20081
+S
+#20081
+The Marketplace~
+This is the marketplace of the underworld. Dark wizards and alchemists walk
+around here, buying and selling various components for spells, potions,
+paper for scrolls and other things like that. Also, servants run around,
+scurrying to find everything their masters need.
+~
+60 8 0
+D1
+The Marketplace.
+~
+~
+0 -1 20080
+S
+#20082
+The Marketplace~
+This is the marketplace of the underworld. Dark wizards and alchemists walk
+around here, buying and selling various components for spells, potions,
+paper for scrolls and other things like that. Also, servants run around,
+scurrying to find everything their masters need.
+~
+60 8 0
+D1
+A TINY Path Between the Buildings.
+~
+~
+0 -1 20083
+D3
+The Marketplace.
+~
+~
+0 -1 20080
+S
+#20083
+A TINY Path~
+This is a tiny path in between two buildings. It is filled with dirt and
+garbage and the occaisonal corpse.
+~
+60 8 0
+D2
+A Small House, Half Fallen Down.
+~
+~
+0 -1 20084
+D3
+The Marketplace.
+~
+~
+0 -1 20082
+S
+#20084
+A Small House~
+You have entered a small house, half of it has fallen down and the collapsed
+boards are scattered all over the floor.
+~
+60 8 0
+D0
+The Tiny Path
+~
+~
+0 -1 20083
+D4
+You can see a faint, black outline on the ceiling in the shape of a square.
+A strange force pushes away good people and pulls in evil ones.
+~
+~
+0 -1 20085
+S
+#20085
+The Attic~
+As you enter this dilapidated attic, your skin is instantly covered with
+goosebumps and shivers wrack your body. An aura of evil permeates this
+small room.
+~
+60 25 0
+D5
+The Small House
+~
+~
+0 -1 20084
+S
+#20086
+A path through the trees~
+You pick your way through the blackened, burned trees carefully, wary of
+loose blade covered branches. These evil trees have stood here for ages,
+fed by the evil and death in the ground and the air.
+~
+60 8 0
+D1
+You see the lane back to the south.
+~
+~
+0 -1 20079
+D2
+A Path Through The Trees.
+~
+~
+0 -1 20087
+S
+#20087
+A path through the trees~
+You pick your way through the blackened, burned trees carefully, wary of
+loose blade covered branches. These evil trees have stood here for ages,
+fed by the evil and death in the ground and the air.
+~
+60 8 0
+D0
+A Path Through The Trees.
+~
+~
+0 -1 20086
+D3
+The trees thin out over there.
+~
+~
+0 -1 20088
+S
+#20088
+Near a Small Clearing~
+The blackened trees begin to thin as you walk westward. The trees seem to get
+shorter and shorter as they grow further from the center of the evil. They are
+not much but small, spiny stumps covered in a strange black slime.
+~
+60 8 0
+D1
+A Path Through The Trees.
+~
+~
+0 -1 20087
+D3
+The Clearing.
+~
+~
+0 -1 20089
+S
+#20089
+A Small Clearing~
+The trees have disappeared altogether here, nothing but tiny bumps and points
+sticking out from the foul soil. You can see a giant rock face to the west and
+a path through it. Also, far above, you can vaguely discern a giant stalagmite.
+~
+60 8 0
+D1
+The Trees are Back There.
+~
+~
+0 -1 20088
+D3
+A Path Through Some Rock.
+~
+~
+0 -1 20090
+S
+#20090
+A Path Through Some Rock.~
+You are in a small path through the rock face. Giant walls of rock rise far
+into the black sky of the cavern of the underworld. Above even the massive
+walls you can see a gigantic stalagmite.
+~
+60 8 0
+D1
+The Clearing is Back There.
+~
+~
+0 -1 20089
+D3
+The Path.
+~
+~
+0 -1 20091
+S
+#20091
+A Path Through Some Rock.~
+You are in a small path through the rock face. Giant walls of rock rise far
+into the black sky of the cavern of the underworld. Above even the massive
+walls you can see a gigantic stalagmite.
+~
+60 8 0
+D0
+The Path.
+~
+~
+0 -1 20092
+D1
+The Path.
+~
+~
+0 -1 20090
+S
+#20092
+A Path Through Some Rock.~
+You are in a small path through the rock face. Giant walls of rock rise far
+into the black sky of the cavern of the underworld. Looming above you is the
+stalagmite, rising so high you become dizzy just by looking at it. A set of
+crude steps are hewn into the wall here, leading up into the darkness inside
+the immense stone monolith.
+~
+60 8 0
+D2
+The Path.
+~
+~
+0 -1 20091
+D4
+Up the Stairs into the Massive Stalagmite.
+~
+~
+0 -1 20093
+S
+#20093
+The Entrace to the Stalagmite~
+You are in the lower part of the stalagmite. The room you are in is lit only
+slightly by glowing skulls scattered about the floor. Through the light you
+can see only exits leading north to a small chamber and up further into the
+stalagmite.
+~
+60 8 0
+D0
+A Small Antechamber.
+~
+~
+0 -1 20094
+D4
+Further up Into the Stalagmite.
+~
+~
+0 -1 20095
+D5
+Back Down the Stairs to the Path.
+~
+~
+0 -1 20092
+S
+#20094
+A Small Antechamber in the Stalagmite.~
+~
+60 8 0
+D2
+Inside the Stalagmite.
+~
+~
+0 -1 20093
+S
+#20095
+Inside the Stalagmite.~
+You are in the lower part of the stalagmite. The room you are in is lit only
+slightly by glowing skulls scattered about the floor. Through the light you
+can see only exits leading north to a small chamber and up further into the
+stalagmite.
+~
+60 8 0
+D5
+The Entrance to the Stalagmite.
+~
+~
+0 -1 20093
+S
+$~
+#999999

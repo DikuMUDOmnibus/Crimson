@@ -1,0 +1,35 @@
+#20800
+mob blank~
+The FireFLy is here Watching your every move~
+mldesc
+~
+You see a Flaming Fly buzzing around you ......
+~
+8 128 1718755360 S
+35 -12 -5 20000d1+473661 10d100+0
+1500000 300000
+8 8 0
+#20801
+mob blank~
+a blank mob~
+A battered Skull
+~
+It is pretty formless, awaiting a creators molding.
+~
+8 0 0 S
+1 30 24 1d1+1 1d1+1
+1 0
+8 8 0
+#20802
+mob blank~
+a blank mob~
+A blank mob stands here, looking formless.
+~
+It is pretty formless, awaiting a creators molding.
+~
+8 0 0 S
+1 30 24 1d1+1 1d1+1
+1 0
+8 8 0
+$~
+#999999

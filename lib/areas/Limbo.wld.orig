@@ -1,0 +1,44 @@
+#0
+The Void~
+  You don't think that you are not floating in nothing.
+~
+0 8 1
+D4
+void~
+~
+0 -1 3001
+S
+#1
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+S
+#2
+The Black Hall~
+     You stand in the middle of a large, round chamber, vaulted high with
+black stone supports.  The chamber is crafted from polished black marble,
+glittering with the dim light that emanates from torches, spaced about the
+room at even intervals.  Platinum inlays line the chamber's vaulted ceilings.
+In the middle of the chamber, there sits a large, oaken table, about which
+are chiselled into the stone a number of black marble chairs, each decorated
+according to rank and with a small gold plaque, reading the name to whom
+the seat belongs.
+~
+0 652 1
+S
+#3
+A Shrine to a Nameless God~
+  Sunlight pours through the overhanging trees, making this small shrine
+glow brightly.  Bushes enclose the shine in a green wall.  A small, grey
+stone alter sits in the center of the shine.  A simple cross has been
+craved into the stone on all four sides.  A sense of peace imminates
+from this grassy shine.  A small, worn, dirt path leads south.
+~
+0 140 1
+S
+$~
+#999999

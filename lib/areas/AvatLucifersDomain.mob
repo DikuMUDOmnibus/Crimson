@@ -1,0 +1,266 @@
+#15500
+mob fire-mage~
+The Fire-Mage of Vain~
+The Fire-Mage is here protecting his master.
+~
+A bird like figure stands before you calling up spirits to aid in his fight
+against anyone who tries to see his masters face.  The Fire-Mage stands about
+3 feet-tall and has a beak that is as long as his body.  The Fire-Mage has
+reddish colored skin and black sunken eyes as he glares into your soul.
+it's wings are full of spikes and it's talons are razor sharp. BEWARE OF HIS
+MASTER!!!
+~
+298 128 -500 S
+41 -10 -1 100d232+0 10d4+10
+100000 1
+8 8 0
+#15501
+mob vain~
+The Goddess of Vain~
+The Goddess of Vain is here looking in her mirror
+~
+The Goddess of Vain sits at her beauty table primping herslef in her 
+'Famed' mirror.  As you take a closer look at her she seems to be very
+hidious and very frightening.  She is so self-centered that she never cared ab
+out is her own beauty.  Now that she is here she doesn't even have that.  
+~
+65802 67108992 150 S
+0 -64 -34 100d100+100 10d7+50
+400000 0
+8 8 0
+#15502
+mob barney~
+Barney ~
+Barney the hatefull dinosaur is standing here throttling a child
+~
+Here standing before you is a twisted purple dinosaur.  Barney has spen to 
+many years around children and now hates their very existance.  Barney won't
+like you either cause you spent many years calling him names.  Barney is now
+a thief that needs money to pay for his prescripted sedatives.  Barney is now
+a fat mean killing machine.  He has spent many years training with his master
+who lives down in these caverns.  Barney will be your worse nightmare, a big
+stupid looking purple KILLER!
+~
+3612 524424 -500 S
+41 -20 0 3000d5+0 25d30+45
+500000 1
+8 8 0
+#15503
+mob wraith, fire~
+Fire-Wraith~
+The Fire-Wraith is here Bleeding your soul
+~
+As you look into the eternal fire of this demons soul.  You are fearing what
+you are looking at.  He has the form of a bat and the skin of fire.  This
+is the guardian of the Dark Castle of Lucifer.  He stands here waiting for
+your move.  make it a wrong one and it could be your last.  This dark guard
+can test your strength and burn your soul.
+~
+67624 128 -750 S
+41 56 -20 1000d2+0 9d4+15
+50000 1
+8 8 0
+#15504
+mob Corpse~
+Corpse~
+Corpse is here waiting for you
+~
+This is a being that has led a very BAD life in the real world.  Now he is
+forever in his place of hell.  Corpse was one of the best pkillers of his
+time.  Now he is resting in  this home of hatred and despair and depression.
+Right where he is used to.  Corpse takes the for of your imagination gone mad.
+Corpse is not your friend, he is not your compainion. Corpse is just raw evil.
+~
+100394 136 -1000 S
+43 -40 0 7000d2+0 10d12+30
+750000 1
+8 8 0
+#15505
+mob Dace Lord Demon~
+Dace the Demon Lord~
+The Demon Lord Dace is here cleaning your corpse
+~
+This is the Lord Dace, creator of some of the most painfull tourture 
+measures known to man.  Dace is easily one of thhe most mean evil creatures
+that you have every seen.  Dace can feel your fear as you try to flee in panic
+back the way you came.  Dace is unusualy strong, and fast.  Dace can cut your
+soul out of your body with the gentle easy of his soulbreaker.  Dace is a man
+to fear.
+~
+2346 128 -1000 S
+44 -97 -1 200d200+0 10d20+80
+50000 1
+8 8 0
+#15506
+mob Sadron highpriest lucifer~
+Sadron, the Highpriestess~
+Sadron, the Highpriestess of Lucifer stands here chanting
+~
+This is a very ugly creature with grey scaly skin and read glowing hair.  This
+is the Highprietess to the Lord Lucifer.  Sadron has the skills and knowledge
+to make men shiver from the mere touch of her mind.  The legends say that when
+Sadron first discovered her powers she went mad.  Sadron destroyed old Midgaar
+d.  Now she is here to protect here master from the hostoric hero that was
+fabled to bring him down.  But now that you gaze into her eyes you see the
+smallest amount of beauty.  Beauty, or is this part of her way to destroy you.
+~
+3242 128 -1000 S
+43 -10 0 7700d2+0 10d8+30
+500000 0
+8 8 0
+#15507
+mob sandman spirit~
+Sandman~
+The sandman awaits with your fears as his aid
+~
+This a creature that has no form.  He takes on what your amagination gives him
+This beast is the most warped and evil nightmare you will ever meet.  He feels
+no pain and he shows no emotion.  He can change form to whatever you fear the 
+most. And he can change for at will.
+~
+66826 128 0 S
+30 -20 0 1000d20+0 15d10+75
+800000 0
+8 8 0
+#15508
+mob demon knight~
+Demon Knight~
+The Demon Knight wanders looking for intruders
+~
+These are mindless spirits created for the true weak at heart.  They guard
+the dark castle for their lord.  They stand about ten feet tall and about  
+four feet across.  They have glowing red eyes and black skin.  They are
+very well made.  These are powerful fighters.  They fail in comparison to
+what lies ahead further into the castle.
+what lies ahead further into the castle.
+~
+1196 0 -1000 S
+35 -40 0 1000d9+0 10d10+50
+75000 0
+8 8 0
+#15509
+mob sin~
+Sin~
+All your sins fade from the walls to seek vengence.
+~
+As the walls melt to you, you feel as thogh they take no real form.  They seem
+to come as past memories.  Memories of faded times, times you left behind but
+the sin of life has kept them sustained in it's memory.  They call to you for
+vangance.  They come at you all at once seeminly to take you and crush your
+soul at once.  The sins you made will lie you upon your coffin.
+~
+16650 2097280 -1000 S
+43 -95 -10 1000d10+0 20d20+75
+1000000 0
+8 8 0
+#15510
+mob Arch angel gabrielle~
+Arch-Angel Gabrielle~
+The Arch-Angel Gabrielle waits here for vistors 
+~
+This is the most holy of all the angels.  He is the right hand man to God
+He stands here waiting for the arivals to heaven.  This man glows brightly
+as he stands over a large desk with the names of everyone written in his
+book of life.  He sends people with the most holiest of lives to the great
+beyond and up to the streets of clouds.  If you have had a not so very good
+life then you will be sent to where you belong.
+~
+8 67108992 1000 S
+43 -95 -50 1000d100+0 100d100+100
+0 1
+8 8 0
+#15511
+mob snotling maid~
+snotling maid~
+A snotling maid is here cleaning up your mess
+~
+This is a snotling soldier that belives in the no ask no tell policy.
+obviously he has made a new career in making sure his camp is clean for all
+the boys there.  This is a special breed of snotling.  The kind that loves
+to bake and make cookie *get the hint*
+~
+76 0 -250 S
+5 10 20 400d100+50 1d4+0
+20 50
+8 8 0
+#15512
+mob ripper jack~
+Jack the Ripper~
+Jack the Ripper stands before you calculating his kill
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+10 0 0 S
+41 -75 -2 400d44+40 20d15+75
+50000 1
+8 8 0
+#15513
+mob step father~
+step-father~
+Your Step-Father awaits you.
+~
+You remember this man in your nightmares from your childhood.  He is feared
+by all children and mothers.  He beats on the helplesss and unsuspecting.
+now he waits here for you.
+~
+262186 1073741928 0 S
+40 -75 -1 1000d10+20 15d20+100
+7500000 0
+8 8 0
+#15514
+mob shadow stalker~
+Shadow Stalkers~
+A creature walks from thin air towards you
+~
+Out from the shadows comes a virtual formless beast of great power.
+~
+262920 8978472 0 S
+1 -97 -2 1d1+1 10d10+75
+1 3000
+8 8 0
+#15515
+mob slayer drac'Ocker~
+The Slayer~
+Drac'Ocker the Slayer awaits.
+~
+A very large monster with skin made from leather.  His eyes are glowing green
+and his fangs are pearl white.  He stands about six feet tall and with very
+large and very sharp teeth.  His face is very old and very tattered with the 
+burdeons of his victims.  His face and mouth are covered in blood with the
+limbs of his latest victim.  This creature was once a man that could out hunt
+the greatest of beasts and out think the smartest of men.  He is the ultimate
+killer.  He has the instincts of every beast on the face of the planet.
+~
+8 0 0 S
+1 -97 25 220d200+35 30d30+75
+1 0
+8 8 0
+#15516
+mob Butthead~
+Butthead~
+Butthead stands here spanking his monkey!
+~
+Here stands before you the most by far rude adolescent known to man.  Butthead
+is infamous with the police and the animal rights groups.  He is a major 
+influence however on childhood development.  Butthead may not be the newbie mo
+mob so beware he can kick much ass.
+~
+8 0 0 S
+42 -10 0 100d15+0 2d8+20
+0 1
+8 8 0
+#15517
+mob Beavis~
+Beavis~
+Beavis is here spanking his monkey
+~
+This is a 4'8 blonde haired child with blue eyes.  As being satans nightmare
+Beavis is almost not without his compainion butthead.  this child has the 
+intellegence of spam and the grades to prove it.
+~
+8 0 0 S
+42 -20 -1 200d10+23 20d2+15
+1 1
+8 8 0
+$~
+#999999

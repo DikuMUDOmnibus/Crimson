@@ -1,0 +1,42 @@
+#13600
+obj plate~
+Black and blue plate.~
+Black and blue plate lays here.~
+~
+9 2097155 9
+25 0 10 0
+6 100000 50000
+A
+2 2
+A
+25 1
+A
+27 0
+A
+30 0
+#13601
+obj torch~
+A torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+#13602
+obj torch~
+A torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+#13603
+obj key~
+Ice key.~
+An Ice key lays here.~
+~
+18 262176 1
+0 0 10 0
+1 1 -1
+$~
+#999999

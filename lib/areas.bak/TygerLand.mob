@@ -1,0 +1,26 @@
+#20200
+mob beggar tiger~
+A beggar tiger~
+A beggar tiger is here, hoping to get some spear change
+~
+This tiger looks real sad and looks at you as if asking if you have any spear change to give away.
+~
+8 0 888 S
+3 30 24 1d1+1 1d1+1
+1000 0
+8 8 2
+#20201
+mob lynx~
+A lynx~
+A lynx is here, wondering what problems he should create
+~
+As like all the tigers in the land, this lynx stands upwards like a human. This lynx looks strong, mean and somebody who would
+love to start some trouble. His small tail tells you that he is a lynx. While his skull tattoo on his forehead tells you that
+he is a member of the 'Lynx Cats', a evil gang of Lynxs exiled from the land.
+~
+8 0 888 S
+17 30 24 1d1+1 1d1+1
+1000000 0
+8 8 1
+$~
+#999999

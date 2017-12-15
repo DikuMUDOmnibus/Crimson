@@ -1,0 +1,230 @@
+#14000
+obj fang~
+an orkish fang~
+A large black nasty looking fang is lying here.~
+~
+5 1069060 8193
+513 5 5 11
+19 200000 35000
+A
+18 2
+#14001
+obj Black Serpant Staff~
+the Great Black Serpant Staff~
+The Great Black Serpant Staff is lying here.~
+~
+5 622592 8193
+4 7 2 6
+10 200000 15000
+A
+2 2
+A
+12 20
+#14002
+obj metal wall shield~
+a full metal wall shield~
+A full metal wall shield is lying here.~
+~
+9 524288 513
+15 0 20 0
+1 130000 20000
+A
+19 2
+#14003
+obj despair cloak~
+the Cloak of Despair~
+A pitch black cloak is lying here...It emits a feeling of despair.~
+~
+9 2097156 5
+5 30 10 0
+3 100000 14000
+A
+1 1
+A
+19 2
+#14004
+obj sword despair~
+the Sword of Despair~
+A pitch black two handed sword is lying here...It emits a feeling of despair.~
+~
+5 2126020 8193
+0 9 4 3
+18 300000 75000
+A
+19 2
+A
+18 4
+#14005
+obj black helm~
+a black horned helm~
+A pitch black horned helm is lying here...it emits a feeling of despair.~
+~
+9 589828 17
+5 5 10 0
+1 1000 6500
+A
+19 1
+#14006
+obj plate black steel~
+a plate of pitch black steel~
+A plate of pitch black steel is lying here...It emits a feeling of despair.~
+~
+9 589828 9
+9 0 10 28
+6 100000 11000
+A
+19 1
+A
+18 1
+#14007
+obj black bracelet~
+a pitch black bracelet~
+A pitch black bracelet is lying here...It emits a feeling of despair.~
+~
+9 622596 4097
+0 0 10 0
+1 100000 30000
+A
+12 20
+A
+19 1
+#14008
+obj black arm wrappings~
+some pitch black arm wrappings~
+Some pitch black arm wrapping are lying here...It emits a feeling of despair.~
+~
+9 524292 257
+11 0 10 0
+3 20000 5000
+#14009
+obj black leg plates~
+some pitch black leg plates~
+Some pitch black leg plates are lying here...It emits a feeling of despair.~
+~
+9 524292 33
+10 0 10 0
+1 5 5000
+#14010
+obj black broad axe~
+a black broad axe~
+A black broad axe is lying here...It emits a feeling of despair.~
+~
+5 524304 8193
+1 5 4 3
+14 50000 10000
+A
+18 2
+A
+19 1
+#14011
+obj black saddle~
+a pitch black saddle~
+A pitch black saddle is lying here...It emits a feeling of despair.~
+~
+9 1048576 3073
+10 0 10 0
+10 50000 15000
+A
+19 2
+#14012
+obj ring despair~
+the Ring of Despair~
+A Ring of Despair if lying here...It emits a feeling of despair.~
+~
+9 2097316 3
+10 0 10 0
+1 400000 22000
+A
+19 2
+A
+18 2
+#14013
+obj book wisdom~
+a book of wisdom~
+a book of wisdom is lying here.~
+~
+12 1146944 16385
+0 0 10 0
+1 10000 11000
+A
+4 2
+A
+12 30
+#14014
+obj filthy broom broomstick~
+a filthy broomstick~
+A filthy broomstick is lying here.~
+~
+1 1146880 65537
+0 0 -1 0
+1 50000 15000
+A
+12 25
+#14015
+obj treasure~
+a huge treasure~
+A huge treasure of jewels and gold is lying here.~
+~
+20 0 1
+50000 0 0 0
+1 0 0
+#14016
+obj black gauntlets~
+a pair of black gauntlets~
+A pair of black gauntlets are lying here...It emits a feeling of despair.~
+~
+9 524356 129
+10 0 10 0
+3 100000 20000
+A
+19 2
+#14017
+obj wooden club~
+a huge wooden club~
+A huge wooden club is lying here.~
+~
+5 524544 8193
+0 5 5 5
+15 150000 10000
+#14018
+obj bag gold~
+a bag of gold~
+A bag of gold is lying here.~
+~
+20 0 1
+15000 0 10 0
+1 0 0
+#14019
+obj book war~
+the Book of War~
+A nasty looking Book of War is lying here.~
+~
+12 524289 16385
+0 0 0 0
+1 100000 17500
+A
+19 2
+A
+41 1
+#14021
+obj sheath of despair~
+the Sheath of Despair~
+A Sheath of Despair is lying here.~
+~
+9 2097156 2049
+20 0 10 0
+8 175000 50000
+A
+19 2
+#14022
+obj cloak damned~
+the Cloak of the Damned~
+A pile of black cloth lies here.~
+~
+9 2183168 1025
+50 0 10 0
+19 300000 40000
+A
+13 -50
+$~
+#999999

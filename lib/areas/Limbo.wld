@@ -1,0 +1,339 @@
+#0
+The Void~
+You are FLOATING in nowhere.
+~
+0 520 1
+D4
+Temple of Midgaard
+~
+~
+0 -1 3001
+S
+#1
+The Endless Black Void~
+The darkness here is almost beyond belief. No light what so ever is here.
+Nothing can be seen or felt.
+~
+0 8 1
+S
+#2
+Edmond's Sanctuary~
+You look around you in wonder. For you see that you have entered the private 
+chambers of Edmond the Big Kahuna. The walls are covered in murals depicting 
+humans on flat boards on waves in the ocean.
+~
+0 8712 1
+S
+#3
+Cauchy's Office~
+There is a HUGE sign here that reads,
+                                     NO TRESPASSING
+                                     NO SMOKING
+                                     NO LOITERING
+                                     NO LITTERING
+                                     NO SOLICITING
+~
+0 8712 1
+S
+#4
+Renegade's Cottage~
+This room was once a beautiful room dedicated to a beautiful girl. But all
+that remains now is rubble. In his loss Renegade set torch to this room to
+rid himself of terrible memories and a significant loss to his life. Here
+and there you see remants of his glorious past. Partial photographs of a
+very attractive girl lay strewn across the floor. In the far corner u notice
+a dark shadow emerging.
+~
+0 520 1
+S
+#5
+the Execution Chamber~
+This is a deep dark dungeon in only god knows where. Blood is spattered
+all over the place. It is not a good sign that you are here.
+~
+0 520 1
+S
+#6
+Crimson Warp-Zone Level 1~
+You are standing in a dome-shaped room which appears to be carved out of
+solid rock.  There are crimson colored portals to the north, south, east,
+and west.  Suddenly, a speaker hanging from up above blares out, "Welcome
+to the Crimson Warp-Zone.  Each portal takes you to a different zone.
+Happy Warping!"
+~
+0 8 1
+D0
+You see nothing special
+~
+~
+0 -1 3001
+D1
+You see nothing special
+~
+~
+0 -1 8000
+D2
+You see nothing special
+~
+~
+0 -1 6132
+D3
+You see nothing special
+~
+~
+0 -1 4767
+D5
+Crimson Warp-Zone Level 2
+~
+~
+0 -1 7
+S
+#7
+Crimson Warp-Zone Level 2~
+You are standing in a dome-shaped room which appears to be carved out of
+solid rock.  There are crimson colored portals to the north, south, east,
+and west.  Suddenly, a speaker hanging from up above blares out, "Welcome
+to the Crimson Warp-Zone.  Each portal takes you to a different zone.
+Happy Warping!"
+~
+0 8 1
+D0
+You see nothing special
+~
+~
+0 -1 14600
+D1
+You see nothing special
+~
+~
+0 -1 5100
+D2
+You see nothing special
+~
+~
+0 -1 16205
+D3
+You see nothing special
+~
+~
+0 -1 4520
+D4
+Crimson Warp-Zone Level 1
+~
+~
+0 -1 6
+D5
+Crimson Warp-Zone Level 3
+~
+~
+0 -1 8
+S
+#8
+Crimson Warp-Zone Level 3~
+You are standing in a dome-shaped room which appears to be carved out of
+solid rock.  There are crimson colored portals to the north, south, east,
+and west.  Suddenly, a speaker hanging from up above blares out, "Welcome
+to the Crimson Warp-Zone.  Each portal takes you to a different zone.
+Happy Warping!"
+~
+0 8 1
+D0
+You see nothing special
+~
+~
+0 -1 5200
+D1
+You see nothing special
+ ~
+~
+0 -1 7900
+D2
+You see nothing special
+ ~
+~
+0 -1 6904
+D3
+You see nothing special
+ ~
+~
+0 -1 14206
+D4
+Crimson Warp-Zone Level 2
+~
+~
+0 -1 7
+D5
+Crimson Warp-Zone Level4
+~
+~
+0 -1 9
+S
+#9
+Crimson Warp-Zone Level 4~
+You are standing in a dome-shaped room which appears to be carved out of
+solid rock.  There are crimson colored portals to the north, south, east,
+and west.  Suddenly, a speaker hanging from up above blares out, "Welcome
+to the Crimson Warp-Zone.  Each portal takes you to a different zone.
+Happy Warping!"
+~
+0 8 1
+D0
+You see nothing special
+ ~
+~
+0 -1 17360
+D1
+You see nothing special
+ ~
+~
+0 -1 14102
+D2
+You see nothing special
+ ~
+~
+0 -1 15130
+D3
+You see nothing special
+ ~
+~
+0 -1 14425
+D4
+Crimson Warp-Zone Level 3
+~
+~
+0 -1 8
+D5
+Crimson Warp-Zone Level 5
+~
+~
+0 -1 10
+S
+#10
+Crimson Warp-Zone Level 5~
+You are standing in a dome-shaped room which appears to be carved out of
+solid rock.  There are crimson colored portals to the north, south, east,
+and west.  Suddenly, a speaker hanging from up above blares out, "Welcome
+to the Crimson Warp-Zone.  Each portal takes you to a different zone.
+Happy Warping!"
+~
+0 8 1
+D0
+You see nothing special
+ ~
+~
+0 -1 8354
+D1
+You see nothing special
+ ~
+~
+0 -1 16602
+D2
+You see nothing special
+ ~
+~
+0 -1 15602
+D3
+You see nothing special
+ ~
+~
+0 -1 16316
+D4
+Crimson Warp-Zone Level 4
+~
+~
+0 -1 9
+D5
+Crimson Warp-Zone Level 6
+~
+~
+0 -1 11
+S
+#11
+Crimson Warp-Zone Level 6~
+You are standing in a dome-shaped room which appears to be carved out of
+solid rock.  There are crimson colored portals to the north, south, east,
+and west.  Suddenly, a speaker hanging from up above blares out, "Welcome
+to the Crimson Warp-Zone.  Each portal takes you to a different zone.
+Happy Warping!"
+~
+0 8 1
+D0
+You see nothing special
+ ~
+~
+0 -1 13204
+D1
+You see nothing special
+ ~
+~
+0 -1 13012
+D2
+You see nothing special
+ ~
+~
+0 -1 14315
+D3
+You see nothing special
+ ~
+~
+0 -1 14508
+D4
+Crimson Warp-Zone Level 5
+~
+~
+0 -1 10
+D5
+Crimson Warp-Zone Level 7
+~
+~
+0 -1 12
+S
+#12
+Crimson Warp-Zone Level 7~
+You are standing in a dome-shaped room which appears to be carved out of
+solid rock.  There are crimson colored portals to the north, south, east,
+and west.  Suddenly, a speaker hanging from up above blares out, "Welcome
+to the Crimson Warp-Zone.  Each portal takes you to a different zone.
+Happy Warping!"
+~
+0 8 1
+D0
+You see nothing special
+ ~
+~
+0 -1 2900
+D1
+You see nothing special
+~
+~
+0 -1 15901
+D2
+You see nothing special
+~
+~
+0 -1 14048
+D4
+Crimson Warp-Zone Level 6
+~
+~
+0 -1 11
+S
+#13
+Venom's office~
+A lovely, spacious office surrounds you.  Decorated in Victorian style
+furniture and pink and blue colors.  It looks like a really comfortable
+place to work or play.
+~
+0 8 1
+S
+#14
+Vortex's Office~
+An atmosphere of comfort and luxury envelopes you.  Surrounded on three sides
+buy large picture windows overlooking a serene lakeside setting.  The office
+is set with a modern oak desk to the left and to the right sits a large
+leather couch and full wet bar.
+~
+0 8 1
+S
+$~
+#999999

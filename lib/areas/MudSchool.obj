@@ -1,0 +1,245 @@
+#2900
+obj chest~
+a small wooden chest~
+A small wooden chest is left here.~
+~
+15 0 0
+100 5 0 0
+5 0 5
+E
+chest~
+The words "Crimson Industries" is imprinted on the side.
+~
+#2901
+obj treasure~
+a small treasure~
+Some careless trainer has left a small treasure here.~
+~
+20 0 1
+500 0 0 0
+5 0 5
+#2902
+obj sword~
+the Royal Academy Sword of Honours~
+An honour student of the Royal Academy left a sword here.~
+~
+5 0 8193
+0 2 3 3
+10 0 500
+E
+sword~
+You see a sword of great but cheap craftsmanship.  
+The words "Crimson Industries" is imprinted on the side.
+~
+A
+18 1
+A
+19 1
+#2903
+obj vest~
+a novice-level vest~
+You see a novice-level vest here.~
+~
+9 0 9
+2 1 1 1
+1 0 5
+E
+vest~
+You see a vest of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2904
+obj shield~
+a novice-level shield~
+You see a novice-level shield here.~
+~
+9 0 513
+1 1 1 1
+1 0 1
+E
+shield~
+You see a shield of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2905
+obj cloak~
+a novice-level cloak~
+You see a novice-level cloak here.~
+~
+9 0 5
+1 0 0 0
+5 0 5
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2906
+obj cap~
+a novice-level cap~
+You see a novice-level cap here.~
+~
+9 0 17
+1 0 0 0
+5 0 5
+E
+cap~
+You see a cap of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2907
+obj leggings~
+a pair of novice-level leggings~
+You see a pair of novice-level leggings here.~
+~
+9 0 33
+1 1 1 1
+1 0 1
+E
+leggings~
+You see a pair of leggings of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2908
+obj boots~
+a pair of novice-level boots~
+You see a pair of novice-level boots here.~
+~
+9 0 65
+1 0 0 0
+5 0 5
+E
+boots~
+You see a pair of boots of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2909
+obj gloves~
+a pair of notive-level gloves~
+You see a pair of novice-level gloves here.~
+~
+9 0 129
+1 0 0 0
+5 0 5
+E
+gloves~
+You see a pair of gloves of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2910
+obj sleeves~
+a pair of novice-level sleeves~
+You see a pair of novice-level sleeves here.~
+~
+9 0 257
+1 0 0 0
+5 0 5
+E
+sleeves~
+You see a pair of sleeves of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2911
+obj robe~
+a novice-level robe~
+You see a novice-level robe here.~
+~
+9 0 1025
+1 1 1 1
+1 0 1
+E
+robe~
+You see a robe of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2912
+obj belt~
+a novice-level belt~
+You see a novice-level belt here.~
+~
+9 0 2049
+1 0 0 0
+5 0 5
+E
+belt~
+You see a belt of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2913
+obj bracer~
+a novice-level bracer~
+You see a novice-level bracer here.~
+~
+9 0 4097
+1 0 0 0
+5 0 5
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.
+The words "Crimson Industries" is imprinted on the side.
+~
+#2914
+obj key~
+a key~
+A key lies here unattended.~
+~
+18 0 1
+0 0 0 0
+1 0 -1
+E
+key~
+This seems to be the key you are looking for.
+~
+#2915
+obj diploma~
+the Royal Academy Diploma~
+An honour student of the Royal Acadamy carelessly left a diploma here.~
+~
+8 0 16385
+0 0 0 0
+1 0 100
+E
+diploma~
+This document shows that you have graduated from the Royal Academy of 
+CrimsonMUD.  It also has magical effects on your abilities if you hold it!
+
+Founder of the Royal Academy of CrimsonMUD
+Cauchy
+~
+A
+5 1
+A
+4 1
+#2916
+obj halogen light beam~
+a halogen light source~
+A glowing beam lights up the room.~
+~
+1 0 65537
+0 0 -1 0
+1 0 5
+E
+light halogen beam~
+This is a souvenir item awarded by the Royal Academy to its students upon
+graduation.  It can be use as a light source.
+The words "Crimson Industries" is imprinted on the side.
+~
+A
+24 -1
+A
+17 -1
+#2917
+obj fountain~
+a small fountain~
+A small fountain is here quenching the thirst of the students.~
+~
+17 0 0
+100000 100000 0 0
+1 5 5
+E
+fountain~
+It is full of water.  Drink from it if you are thirsty or hungry.  The water 
+will fill you if you drink enough. 
+$~
+$~
+#999999

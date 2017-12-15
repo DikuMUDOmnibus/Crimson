@@ -1,0 +1,2759 @@
+RULES
+last updated: 09/02/95
+
+We the Administrators here at CrimsonMud want everyone to have a good time and
+get everything possible out of their Mud experince.
+
+Any rule infraction on this Mud will be dealt with if it is witnessed by a
+God or if it is provable by logs or other means.  A punishment can range from
+loss of items or gold to loss of levels and/or your entire character.
+
+We hope that these measures will not be needed.  As it has been discussed,
+we want to foster an environment here that doesnt need constant babysitting.
+Please try to treat others and the game with respect and we will not need to
+punish anyone.   
+
+If something seems like it might be stretching the rules...dont do it, even if
+it is not expressly stated in the rules that it is 'illegal'.  If people are
+not constantly 'stretching the rules' we can focus on other things to make the
+the Mud a better place.  Treat these rules as a guideline and we will all be
+fine.
+   
+* Player Killing IS legal on Crimson mud but there are some limits to this:
+  - Killing newbies (level 1 - 3) is illegal.
+  - Avatars may NOT kill mortal players.
+  - Avatars may kill other Avatars in the Avatar arena.  No other room may
+    be used for this.
+
+* Player Stealing is also legal here at Crimson mud.
+
+* Killing a mob that another player has charmed is discouraged.
+
+* Summoning aggressive mobs to Midgaard is illegal. (try to imagine how you 
+  would feel after a 5 hour marathon which raised your character to the 
+  pinnacle of 10th level, only to be killed just outside the inn by Gargath,
+  Lord of Tarterus....)
+
+* Summoning an aggressive mob to other players or other players to aggressive
+  mobs is illegal.
+
+* Killing any of the Midgaard shopkeepers, the receptionist, the guildmasters
+  or the temple high priest is illegal.
+
+* Stealing other players 'kills' is illegal.  If another player is fighting a
+  mob DON'T kill the mob.  Also if someone is in a room with a mob ask if it's
+  their mob before killing it.  
+
+* Looting another player's corpse is illegal unless you are asked to help by
+  the recently deceased.
+
+Once again we are trying to make this MUD a fun place to be for everyone.  If
+we get too many complaints about Pkilling or Pstealing, we will discontinue
+the practice.  If we all try to get along as much as possible and resect each
+others right to play more or less hassle free, then this place will run 
+smoothly.
+
+See also: LOOTING
+#
+LOOTING
+Looting of other players corpses when they die is against the MUD rules.
+If caught, your character will be punished.
+
+Looting of equipment and cash off mobs that someone else kills is also
+against the rules and will be treated as listed above.
+#
+ZONES
+General information on the available zones:
+The levels suggested are just that, suggestions.
+Group adventure is greatly encouraged.
+
+Name of the Zone    Suggested Levels   General Alignment      Designers
+----------------    ----------------   -----------------      --------- 
+Midgaard City             All                Good            Original DIKU
+Forest of Haon Dor        All             Good - Evil        Original DIKU
+Tuscany                   All                All          Assembled by Cauchy
+Newbie Village           1 - 4               Good                Mara
+Royal Academy            1 - 5              Neutral             Cauchy 
+Snotling Camp            1 - 8               Evil                Fish
+Gnome Village            1 - 10              Good         Nefarious & Graffin
+Mines of Moria           5 - 15              Evil            Original DIKU
+Sewers                   5 - 20           Good - Evil        Original DIKU
+Thalos                   8 - 25              Evil            Original DIKU
+Room of Quifael         10 - 20              All             Original DIKU
+Dwarf City              10 - 25              Good               Unknown
+Arachnos                10 - 25              Evil            Original DIKU
+Egypt                   10 - 40             Neutral       Nefarious & Graffin
+Drow City               12 - 28              Evil            Original DIKU
+Silver Dale             12 - 30              Evil               Cryogen
+Atlantis                15 - 25              Good         Nefarious & Graffin
+Redferne's Residence    15 - 35              Good        Assembled by Renegade
+Amazon Jungle           15 - 35             Neutral        Wimpie and Hormiga
+Thieves Guild           15 - 35          Neutral - Evil      Graffin and It
+Arnath                  15 - 40              Good                 Air
+Castle Bryan            20 - 35              Good               Vangar
+Tower of Sorcery        20 - 40              All                Unknown
+Lair of the Ratmen      20 - 40              Evil                 Fish
+Elfin Citadel           20 - 40              Good          Trinity and kalin
+Vampire Lair            20 - 40              Evil                 Fish 
+Dark Wood               30 - 40              Evil                 Air
+Shaolin Temple          35 - 40              Evil               Giggles 
+Gargath Keep            Avatars              Evil              Nefarious
+#
+BANK
+The receptionist serves as the banker on this MUD.
+When at the receptionist the following commands can be used:
+BALANCE           - See how much cash you have stored in bank.
+DEPOSIT <amount>  - Deposit in the bank.  There is a small interest charge.
+WITHDRAW <amount> - Withdraw specified amount.
+#
+PRACS
+Extra Damage - (skill)/10 bonus dam to each hit.
+
+Slash/Pierce/Bludgeon - (skill)/10 bonus dam to each hit if that type weapon
+                        is used.
+
+Dodge - reduces ac by (skill)/10.
+
+Tougher Scales - reduces damage taken by (skill)/10 per hit.
+
+Breath Attacks - skill is % chance the breath works.
+
+Second Attack - the % chance of getting a second attack each round.
+
+Third Attack -If you get the second attack in a given round this is your 
+	      chance at a third.
+	      
+Fourth Attack -If you get the third attack in a given round this is your 
+	       chance at a fourth.
+
+See also: BREATH
+#
+BREATH
+The syntax for using a breath attack is: breath <type> <target>
+
+Example: breath fire guard
+
+Types of breath:
+fire      - (level/2)d10 + 2*level
+frost     - (level/2)d6  + level/2 (6d6+12 max)
+acid      - (level/2)d6  + 10      (10d6+10 max)
+lightning - (level/2)d6  + 20      (20d6+20 max)
+gas       - (level/2)d3  + level/2 (also can blind and poison)
+
+Gas breath can also be area effect if no target is given.
+
+See also: PRACS
+#
+DESC_DAMAGE
+     1 - 4   Tickle
+     5 - 8   Barely
+     9 - 12  Hit
+    13 - 20  Hard
+    21 - 28  Very Hard
+    29 - 40  Extremely
+    41 - 60  Massacre
+    61 - 80  Annihilate
+    81 - 100 Obliterate
+   101 - 150 Demolish
+   151+      Rend Asunder
+#
+DEATH-TRAP
+
+Death traps are a special type of rooms.  When a player hits a death trap, 
+he/she will lose ALL equipment, but NOT coins or experience points.
+
+The best way to avoid hitting one is to look towards the direction before 
+you move and read the room description carefully, as these descriptions 
+often contain messages warning you about the danger, if there is a death
+trap present.
+#
+IMMORTAL
+
+METH (level 42)
+The Methuselah (Meth) is the first level of true God on Auggiemud.  They
+are the first liason between the players and the other Gods as well.  A
+meth should be the first one approached if there is a problem on the Mud. 
+If he or she cannot fix the problem, they will notify someone who can. 
+Please, the Meths are here to help, contact them if you have a problem!
+
+TO BE PROMOTED TO METH:
+
+Once you reach the level of Avatar, you will have the ability to REQUEST a
+promotion to Methuselah.  You can do so by contacting an Overlord (Vial
+the chain of command). If they feel that you can be trusted with the immortal
+position, then you will be promoted to level 42.  Any past actions, such as 
+cheating or excessive pkilling will be taken into account at this time.
+
+ANTE (level 43)
+They are the next step if the METH who's around can't get a dispute settled.
+They also are they to enforce the rules.  They are allowed to reimburse
+equipment if there is a MUD crash and someone loses something.
+
+HIGH (level 44)
+High Gods are second in command to the Overlords.  Their word is law and
+should be treated accordingly.  Most of the Highs will have specific jobs
+or specific Overlords to be assisting.
+
+See also: IMM_RULES
+#
+IMM_RULES
+These rules are for players of level 42 and higher. Avatars have their own.
+         1. Do not kill mortals. And dont think that transferring
+            or summoning them to aggressive mobs don't count.
+         2. Do not CHEAT FOR ANY MORTAL IN ANY WAY. Unless you
+            LIKE deletion. YES this does includes tanking, healing,
+            restoring, casting protection on them and yes softening
+            up mobs does count.
+         3. Do not use transfer or summon to move mortals to mobs or
+            mobs to mortals. After all they do have legs. Let them
+            walk or run.
+         4. Do not move or kill ANY mob for any reason.
+         5. Do not give out free equipment. Only level 44 or 45 imms
+            may reimburse players.
+         6. If you wish to run a quest you must post what you plan on
+            doing for your quest on the immortal board. Then when and
+            if you get a yes from a 43 or higher god. You must post
+            you plan on running a quest on the mortal board for at
+            least 5 days before your quest is run.
+            a. You must post the date and time of you quest in you
+               post the time should be posted as USA CST.
+            b. Do not post what the prize is.
+         7. If you want to visit someone and it doesn't involve saving
+            there butts from combat or being lost you may move them
+            to a safe spot to talk.
+         8. Last but not least we do not bite so please if you have
+            any questions as to if what you have done or can do please
+            post it on the immortal board. IT MAKES US MUCH MADDER IF WE
+            FIND OUT LATER THAT YOU HAVE DONE SOMETHING WRONG.
+         9. Please have fun and a good game.
+        10. Immortals are not allowed to have equipment.
+            There has been problems with imms giving eq to players so
+            imms are no longer allowed to have any.  Once you imm
+            you are required to goto the dump and drop all your eq
+            in it.
+        11. You are NOT allowed to have your IMM and a mortal character
+            of yours online at the same time for ANY reason!
+        12. do NOT post on the Zonelord board unless you are one!
+        13. the immtalk channel is for business only.  If you are
+            caught chatting and gossiping on it too much you will be 
+            killed on sight probably demoted as well..
+        14. If you can not be trusted you will lose what you have
+            gotten. This means back to LEVEL 1 .
+
+See also: IMMORTAL AVATAR
+#
+AVATAR
+Avatars are semi-immortals.
+Once you reach the level of Avatar you gain some minor god commands but
+can still adventure but ONLY with other avatars or alone.  IF an Avatar
+is caught helping another player in ANY way including giving them eq,
+tanking, etc. the avatar WILL be demoted to level 1.
+
+Things Avatars are NOT allowed to do:
+- Killing other players.
+- Tanking for any mortal.
+- Grouping with any mortal. 
+- Stealing from other players.
+- Exploring new zones before they are open.
+- Having equipment on more than one avatar character. 
+- Giving equipment to a non-avatar.
+- Selling equipment to a non-avatar.
+- Posting on the Zonelord board in room 8311 unless you actually are a
+  zonelord.
+*************************************************************************
+*** Any avatar caught violating any of the rules mentioned above will ***
+*** be demoted to level 1.                                            *** 
+*************************************************************************
+
+Powers of an Avatar:
+- Can see in the dark.
+- Can practice most spells (needs to have/buy pracs though).
+- Doesn't need food or water.
+- and a few minor god commands.
+
+NOTE: - Avatars are NO LONGER immuned to death traps.
+      - When an avatar dies, he/she will lose 5 hp and 5 mana and 5 mv
+        PERMANENTLY, plus a chance of losing one stat point. 
+
+Avatar Wars: Avatars may fight each other in the Avatar Arena. (room 8314)
+ and NOWHERE else.  Avatars found killing ANY player for ANY reason
+ elsewhere will be demoted to level 1 no questions asked.
+
+Avatar Zones:
+Gargath Keep (target room 15901 to get there)
+Planes of the Gods in Tuscany 
+Plane of Fire (Coming soon)
+
+See also: IMMORTAL
+#
+ZONELORD
+Zonelords are people who are creating new zones for the mud.  They have been 
+granted special privileges in one zone so they can build there.  On the rest 
+of the MUD they are normal characters of their level.
+
+Restrictions:
+Zonelords may NOT adventure in their zone for any reason after their zone
+becomes available for the general public.  This includes ALL characters owned
+by the player with the zonelord.
+
+The zonelord and all his other chracters also may not use equipment from his
+zone even if someone else goes to the zone to get it.
+
+Once the zone has been play tested and all the bugs worked out the zonelord
+will be returned to the status of a normal player.  One week after the removal
+of his powers in the zone the above restrictions will be lifted from him and
+he may adventure and get equipment from his zone.
+
+Zonelords may NOT create items or mobiles for own benefits.
+#
+ROOM_GUIDES
+                         Guidelines for Creating Rooms
+                         -----------------------------
+ 
+- When using rname, put the @ directly after the last character you type, 
+  in order to eliminate any extra spaces in the room description.
+ 
+- Room names have title format, i.e. Use A Small Path in the Forest
+  instead of A small path in the forest.  No period is necessary at the 
+  end of the name.
+  
+- When using rdesc, always put a return before adding the @ symbol so 
+  that the description is separated from everything else in the room.
+ 
+- To be consistent with other rooms of the game, don't indent the room
+  desc too.
+ 
+- When making death rooms in your zone, please put a hint in the rlink 
+  description goin to that room. That way experienced players can look 
+  in the directions they wish go when exploring your zone, and avoid the 
+  dts.
+  
+- The rflag !TUNNEL is used for fast healing room, temporarily.
+ 
+See also: MOB_GUIDES, OBJ_GUIDES
+#
+MOB_GUIDES
+                      Guidelines for Creating Mobiles
+                      -------------------------------
+ 
+MOB Level Modifier
+breath attack     +2
+magic immunity    +2
+sanctuary         +2
+spell casters     +2
+magic resist      +1
+regeneration      +0.5
+poison            +0.5
+ 
+Meaning: Say you create a mob with level 20 stats(ac,hp,thac0,damage),
+         and with Sanctuary flag, then the mob's level should be 22, with
+         coins and xp for level 22.
+         So a level 40 mob with sanc and mage or priest (spell casters)
+         will have level 36 stats.
+         Maximum modifier cannot exceed +4, i.e. a level 20 mob with all the
+         above flags set will have level 16 stats.
+ 
+Level    AC         Hp      Thac0   Avg. Dam   Max.Coins      Exp
+-----   ----      -----     -----   --------   ---------     ------
+ 40     -150      5,000      -60      180       150,000      60,000
+ 39     -140      4,800      -57      164       136,000      58,500
+ 38     -130      4,600      -54      148       122,000      57,000
+ 37     -120      4,400      -51      132       108,000      55,500
+ 36     -110      4,200      -48      116        94,000      54,000
+ 35     -100      4,000      -45      100        80,000      52,500
+ 34     - 90      3,800      -42       92        74,000      51,000
+ 33     - 80      3,600      -39       84        68,000      49,500
+ 32     - 70      3,400      -36       76        62,000      48,000
+ 31     - 60      3,200      -33       68        56,000      46,500
+ 30     - 50      3,000      -30       60        50,000      45,000
+ 29     - 40      2,700      -27       56        46,000      43,500
+ 28     - 30      2,400      -24       52        42,000      42,000
+ 27     - 20      2,100      -21       48        38,000      40,500
+ 26     - 10      1,800      -18       44        34,000      39,000
+ 25        0      1,500      -15       40        30,000      37,500
+ 24     + 10      1,340      -12       38        27,000      36,000
+ 23     + 20      1,180      - 9       36        24,000      34,500
+ 22     + 30      1,020      - 6       34        21,000      33,000
+ 21     + 40        860      - 3       32        18,000      31,500
+ 20     + 50        700        0       30        15,000      30,000
+ 19     + 60        630      + 3       28        13,000      28,500
+ 18     + 70        560      + 6       26        11,000      27,000
+ 17     + 80        490      + 9       24         9,000      25,500
+ 16     + 90        420      +12       22         7,000      24,000
+ 15     +100        350      +15       20         5,000      22,500
+ 14     +110        316      +18       18         4,000      21,000
+ 13     +120        282      +20       16         3,000      19,500
+ 12     +130        248      +21       14         2,000      18,000
+ 11     +140        214      +22       13         1,000      16,500
+ 10     +150        180      +23       12         1,000      15,000
+  9     +160        162      +24       11           900      13,500
+  8     +170        144      +25       10           800      12,000
+  7     +180        126      +26        9           700      10,500
+  6     +190        108      +27        8           600       9,000
+  5     +200         90      +28        7           500       7,500
+  4     +210         76      +29        6           400       6,000
+  3     +220         64      +30        5           300       4,500
+  2     +230         52      +31        4           200       3,000
+  1     +240         40      +32        3           100       1,500
+  0     +250         20      +33        2            50         750
+ 
+AVATAR ZONES SPECIAL NOTE
+All mobs in avatar zones will have an exp value of 0.
+ 
+See also: ROOM_GUIDES, OBJ_GUIDES 
+#
+OBJ_GUIDES
+                        Guidelines for Creating Objects
+                        -------------------------------
+ 
+Otype armor maximum ac guidelines:
+ 
+Owear   Modifier  Avatar    Heroic    Expert    Difficult    All
+Finger     1        30        25        20         15        10
+Neck       1        50        40        30         20        10
+Body       3        40        30        20         10         5
+Head       2        35        30        25         20        10
+Leg        2        25        20        15         10         5
+Feet       1        15        12         9          6         3
+Hands      1        15        12         9          6         3
+Arms       1        30        25        20         15        10
+Shield     1        30        25        20         15        10
+About      1        50        40        30         20        10
+Waist      1        25        20        15         10         5
+Wrist      1        20        15        10          5         3
+Held       1        25        20        15         10         5
+ 
+ 
+Damage restrictions - for general limits for +damroll items, use the help 
+DAMAGE_LIMITS online.
+ 
+Average Damage for Weapons:
+Avatar     Heroic       Expert         Difficult      All
+  25         20           15               10          5
+  
+Weapons with any slayer bit cannot have avg. dam. above 20.
+
+See also: ROOM_GUIDES, MOB_GUIDES, DAMAGE_LIMITS
+#
+DAMAGE_LIMITS
+Objects may not have more +dam than the following.
+Where_worn   Dam_allowed
+light           +1
+neck            +2
+finger          +2
+head            +2
+body            +2
+hands           +3
+legs            +2
+feet            +2
+arms            +2
+about body      +2
+shield          +3
+wrists          +2
+waist           +3
+wield           +4  
+held            +2
+
+Any weapon with an average damage above 20 needs to get IMP approval.
+And weapons cannot have an average damage above 25 for any reason.
+#
+OBJECT_CREATION
+To help you get started, here's some things to check into.
+
+* Type the creation command by itself and you'll get the list of flags 
+  to be used with that command.
+* Do a help on the creation command to get an explanation of the flags
+  and more help for that command.  A good order to look at them is:
+
+ocreate    olist     osave     ostat      
+otype      owear     osdesc    oldesc     
+oflag      okeywords oaffect   ocost   
+orent      oweight   owflag    ovalues    value_spells
+#
+OCREATE
+Do this in the zone you want the object to be in.  It should say 
+'Done, obj.#3403 created' for example.  Remember the obj.#.
+
+See also: OLIST, OSAVE, OSTAT
+#
+OLIST
+This command gives you the list of all the objects in the zone you are in.
+
+See also: OCREATE, OSAVE, OSTAT
+#
+OSAVE
+This command saves all the objects in the zone you are in.  Use often 
+(like after each change you don't want to lose).
+
+See also: OCREATE, OLIST, OSTAT
+#
+OSTAT
+This command lets you see the statistics on an object.  You can find 
+out the current flags, etc. that are on the object using this.
+
+Used: ostat <obj.#>
+
+Example: ostat 3405
+
+See also: OCREATE, OLIST, OSAVE
+#
+OTYPE
+This lets you determine the type of object.
+
+Used: otype <obj.#> <flag>
+
+Example: otype 3403 weapon
+
+Flags and Meanings:
+------------------
+LIGHT      - Lets you see in a dark room
+SCROLL     - It's a scroll
+WAND       - It's a wand
+STAFF      - It's a staff
+WEAPON     - It can be used as a weapon
+TREASURE   - It is a treasure, but not money. (Example: bar of gold)
+ARMOR      - It is armor
+POTION     - It is a potion
+OTHER      - It doesn't fit anywhere else..
+TRASH      - It is trash..no real value. (Example: normal old broom)
+CONTAINER  - It can hold things inside it
+NOTE       - A note can be written on it with a PEN otype
+DRINKCON   - It is a drink container (Example: bottle, barrel).  Make sure 
+             that if this otype has some liquid in it to put in the 
+             okeywords [ <name of the drink> <name of the container>]
+KEY        - It can open certain locked doors
+FOOD       - It is food (eaten when hungry)
+MONEY      - It is gold coins
+PEN        - It can be used to write on a NOTE otype
+BOAT       - It is a boat..it must be carried by a character to move into 
+             NOSWIM rooms.
+WORN       - valid, but does nothing right now
+FIREWEAPON - !
+MISSILE    - !
+TRAP       - ?
+UNDEFINED  - ?
+
+! = not implemented..do not use
+? = unknown use..do not use at this time
+
+See also: OWEAR, OFLAG, OKEYWORDS
+#
+OWEAR
+This command lets you set where the object is worn.
+
+Used: owear <obj.#> <flag>
+
+Example: owear 3401 neck
+
+Flags and Meaning
+-----------------
+TAKE         - item can be taken by a character doing a GET
+FINGER       - worn on finger (Example: ring)
+NECK         - worn around neck (Example: necklace)
+BODY         - worn on mid-body (Example: bronze breast plate)
+HEAD         - worn on the head (Example: helm, hat)
+LEGS         - worn on the legs (Example: pants, leggings)
+FEET         - worn on the feet (Example: boots)
+HANDS        - worn on the hands (Example: gauntlets, gloves)
+ARMS         - worn on the arms (Example: sleeves)
+SHIELD       - worn as a shield (Example: shield)
+ABOUT        - worn about the body (Example: cloak)
+WRIST        - worn about the wrist (Example: bracelet)
+WIELD        - object is wielded (Example: sword)
+WAISTE       - worn around the waiste (Example: belt)
+HOLD         - held in the hand (Example: stone)
+LIGHT-SOURCE - held as a light source (Example: lantern, torch)
+THROW        - ?
+USABLE       - !
+
+! = not implemented..do not use
+? = unknown use..do not use at this time
+
+See also: OTYPE, OFLAG, OKEYWORDS
+#
+OFLAG
+This command lets you set 'special affects.'
+
+Used: oflag <obj.#> <flag>
+
+Example: oflag 3405 dark
+
+Flag and Meaning
+----------------
+GLOW         -  '...it glows brightly'
+HUM          -  '...it emits a faint hum'
+DARK         -  '...clouded in darkness'
+LOCK         - ?
+EVIL         - ?
+INVISIBLE    - it is invisible
+MAGIC        - it shows a magical aura when 'detect magic' is cast on it.
+NODROP       - it can't be dropped (cursed)
+BLESS        - it is blessed (like the spell bless) *DOES NOTHING NOW*
+ANTI-GOOD    - good alignment characters/mobs can't use it
+ANTI-EVIL    - evil alignment characters/mobs can't use it
+ANTI-NEURTAL - neutral alignment characters/mobs can't use it
+ANTI-MAGE    - mage class characters/mobs can't use it
+ANTI-THIEF   - thief class characters/mobs can't use it
+ANTI-CLERIC  - cleric class characters/mobs can't use it
+ANTI-WARRIOR - warrior class characters/mobs can't use it
+ANTI-DRAGON  - dragonkin class characters/mobs can't use it
+GOOD         - ?
+NORENT       - !
+DIFFICULT    - characters under 10th level can not use
+EXPERT       - characters under 20th level can not use
+HEROIC       - characters under 30th level can not use
+
+! = not implemented..do not use
+? = unknown use..do not use at this time
+
+See also: OTYPE, OWEAR, OKEYWORDS, OFLAG
+#
+OKEYWORDS
+This command lets you set the keyword of the obj. For an example of 
+what a keyword is, is: get sword  (sword being the keyword).
+
+Used: keywords <obj.#> <keywords>
+
+Example: keywords 3403 black sword
+
+See also: OTYPE, OWEAR, OFLAG_TABLE
+#
+OWFLAG
+This lets you set special weapon flags.
+
+owflag <obj#> <flag>
+
+Example: owflag 3403 silver
+
+Flags and Meanings
+------------------
+POISONOUS     - has a % chance to poison the mob/character being attacked
+BLINDING      - has a % chance to blind the mob/character being attacked
+PARALYZING    - !
+SILVER        - only type of weapon that can damage shadow type mobs
+WOOD-STAKE    - only type of weapon that can damage vampire type mobs
+VAMPIRIC      - drains hitpoints from target and gives them to the wielder
+MANA-DRAINING - drains mana from target and gives them to the wielder
+GOOD          - can NOT kill good mobs
+NEUTRAL       - can NOT kill neutral mobs
+EVIL          - can NOT kill evil mobs
+GOODSLAYER    - 2*damage vs. good mobs
+EVIL-SLAYER   - 2*damage vs. evil mobs
+DRAGON-SLAYER - 2*damage vs. dragon class
+ANIMAL-SLAYER - 2*damage vs. animals
+GIANT-SLAYER  - 2*damage vs. giants
+
+Note: -SLAYERs are cumulative
+! = not implemented..do not use
+? = unknown use..do not use at this time
+#
+OSDESC
+This lets you write the description of the object seen when it's 
+picked up, dropped, etc.
+
+Used: osdesc <obj#> <desc>
+
+Example: osdesc 3403 the saber
+
+See also: OLDESC
+#
+OLDESC
+This lets you write the description seen when the obj. is lying on the ground.
+
+Used: oldesc <obj.#> <desc>
+
+Example: oldesc 3403 A shining sword lies here in the dust.
+
+See also: OSDESC
+#
+OVALUE_LIGHT
+ value [0]: -
+ value [1]: -
+ value [2]: # of hours the light can be used for.
+              0 hours = the light is out
+              negative hours = gives eternal light
+ value [3]: -
+#
+OVALUE_SCROLL
+ value [0]: level of the spell on the scroll
+ value [1]: which spell
+ value [2]: which spell
+ value [3]: which spell
+  (The values 1-3 are the three different spells mixed on the scroll.  
+   Unused spells should be set to -1)
+
+See also: VALUE_SPELLS
+#
+OVALUE_WAND OVALUE_STAFF
+ value [0]: level of the spell in the wand/staff
+ value [1]: max. charge
+ value [2]: charges left
+ value [3]: which spell is in the wand/staff
+
+See also: VALUE_SPELLS
+#
+OVALUE_WEAPON
+ value [0]: -
+ value [1]: # of dice to roll for the damage
+ value [2]: size of dice to roll for the damage
+ value [3]: weapon type:
+              <#>   Category    Message
+               -    --------    -------
+               2    slash       'whip/whips'
+               3    slash       'slash/slashes'
+               6    bludgeon    'crush/crushes'
+               7    bludgeon    'pound/pounds'
+               11   pierce      'pierce/pierces'
+#
+OVALUE_ARMOR
+ value [0]: effective AC
+               >0 enhances the armor class
+               <0 reduces the armor class (Example: cursed armor)
+ value [1]: -
+ value [2]: -
+ value [3]: -
+#
+OVALUE_POTION
+ value [0]: Level of spell in potion
+ value [1]: which spell
+ value [2]: which spell
+ value [3]: which spell
+  (The values 1-3 are the three different spells mixed in the potion.  
+   Unused spells should be set to -1)
+
+See also: VALUE_SPELLS
+#
+OVALUE_CONTAINER
+ value [0]: max. weight the container can hold
+ value [1]: container type:
+                  closable = 1
+                  pickable = 2
+                  closed   = 4
+                  lockable = 8
+ value [2]: item # of the obj. which can open this obj. 
+                                          -1 = no lockablity
+ value [3]: internal use for corpses that must 'rot'
+                           non-zero # = yes (it is a corpse)
+#
+OVALUE_NOTE
+ value [0]: tongue (language written in). Not used yet.
+ value [1]: -
+ value [2]: -
+ value [3]: -
+#
+OVALUE_DRINKCON
+ value [0]: Max. drink units the drink container can hold
+ value [1]: # of drink units left in the container
+ value [2]: type of liquid:
+                           EFFECT:
+         TYPE           #  DRUNKNESS     FULLNESS   THIRST
+         ----           -  ---------     --------   ------
+         water          0     0             1         10
+         beer           1     3             2          5
+         wine           2     5             2          5
+         ale            3     2             2          5
+         darkale        4     1             2          5
+         whisky         5     6             1          4
+         lemonade       6     0             1          8
+         firebreath     7     10            0          0
+         local special  8     3             3          3
+         slime          9     0             4         -8
+         milk           10    0             3          6
+         tea            11    0             1          6
+         coffee         12    0             1          6
+         blood          13    0             2         -1
+         saltwater      14    0             1         -2
+         coke           15    0             1          5
+
+  Values for drunkness/fullness/thirst are used per 4 units drunk and 
+expressed in hours.  24 hours is the max. for d/f/t.  When hours = 0 for 
+the drunkness, fullness, and/or thirst, the person will then be sober, 
+hungry, and/or thirsty respectively.
+
+ Value [3]: if this value = non-zero, then the drink is poisoned
+#
+OVALUE_KEY
+ value [0]: key # (must match the locks key # to open the lock)
+ value [1]: -
+ value [2]: -
+ value [3]: -
+#
+OVALUE_FOOD
+ value [0]: # of hours the food fills the stomach
+ value [1]: -
+ value [2]: -
+ value [3]: if the value is a non-zero #, then the food is poisoned
+#
+OVALUE_MONEY
+ value [0]: # of gold coins in the 'pile'
+ value [1]: -
+ value [2]: -
+ value [3]: -
+#
+OAFFECT
+This allows you to put character stat modifiers on an obj.  Modifiers 
+only work when the object is being used as equipment.  Note: If there is 
+NONE for aff#0, then it will not go on to check the rest of the aff#'s.  
+ie, put the oaffects in starting at 0 and working to 1, 2, and then 3.
+
+(aff# refers to the fact there are 4 affect slots..0-3)
+
+Used: oaffect <obj.#> <aff#> <type> <modifier>
+
+Example: oaffect 3405 0 mana 30
+         oaffect 3405 0 none 0
+
+Flags and Meanings
+------------------
+NONE - no affect
+STR - modifies strength stat
+DEX - modifies dexterity stat
+INT - modifies intelligence stat
+WIS - modifies wisdom stat
+CON - modifies constitution stat
+SEX - modifies sex stat (practical joke?) (neutral=0; male=1; female=2)
+CLASS - !
+LEVEL - !
+AGE - modifies players age
+CHAR_WEIGHT - !
+CHAR_HEIGHT - !
+MANA - modifies max. mana stat
+HIT - modifies max. hit stat
+MOVE - modifies max. move stat
+GOLD - !
+EXP - !
+AC - modifies AC stat
+HITROLL - modifies the to hit roll
+DAMROLL - modifies the damage roll
+SAVING_PARA - gives a + to saves vs. poison & paryalysis
+SAVING_ROD - gives a + to saves vs. wands and staffs
+SAVING_PETRI - give a + to saves vs. petrification
+SAVING_BREATH - give a + to saves vs. breath
+SAVING_SPELL - gives a + to saves vs. spells
+EXTRA-ATTACKS - !
+DETECT-INVIS - allows the wearer to see the invisible (like the spell)
+DARKSIGHT - allows you to see in the dark (like the skill)
+MAGIC-RESIST - !
+MAGIC-IMMUNE - !
+BREATHWATER - allows you to breath water (go into NOSWIM rooms)
+DETECT-MAGIC - !
+SENSE-LIFE - allows you to sense life (like the spell)
+DETECT-EVIL - allows you to to detect evil mobs/characters
+SNEAK - !
+INVISIBILITY - makes the wearer invisible (like the spell)
+IMPROVED-INVIS - makes the wearer improved-invis (like the spell)
+REGENERATION - increases the rate of recovery (move, mana, & hit)
+MINOR-WARDS - !
+MAJOR-WARDS - !
+UNDETECTABLE-INVIS - !
+
+! = not implemented
+? = unknown use..do not use at this time
+#
+OCOST
+This command lets you set the object's cost (buy/sell).
+
+Used: ocost <obj.#> <$>
+
+Example: ocost 3405 1000
+
+See also: ORENT
+#
+ORENT
+This command allows you to set the object's rent price.  A negative $ 
+amount means that the object can not be rented.
+
+Used: orent <obj.#> <$>
+
+Example: orent 3405 950
+
+See also: OCOST
+#
+OWEIGHT
+This command lets you set the weight of the object.
+
+Used: oweight <obj.#> <weight in lbs.>
+
+Example: oweight 3405 5
+#
+VALUE_SPELLS
+The following is the list of numbers to be used in OVALUES when asked 
+for 'which spell'.
+
+The format is: spell name, #, type of obj. it can be used on (P = 
+potion, SC = scroll, W = wand, ST = STAFF, <blank> = none), and the min. 
+level for 'level of spell' (if needed).
+
+ARMOR             1   P,SC,W      >0
+TELEPORT          2   P,SC,W,ST   >0
+BLESS             3   P,SC,W
+BLINDNESS         4   P,SC,W,ST
+BURNING_HANDS     5
+CALL_LIGHTING     6   P,SC,ST     >=12
+CHARM_PERSON      7   SC,ST
+CHILL_TOUCH       8
+IMPROVED_INVIS    9   P,SC,W
+COLORSPRAY        10  SC,W        =11
+CONTROL_WEATHER   11
+CREATE_FOOD       12  SC
+CREATE_WATER      13
+CURE_BLIND        14  P,ST
+CURE_CRITICAL     15  P,ST
+CURE_LIGHT        16  P,ST
+CURSE             17  P,SC,ST
+DETECT_EVIL       18  P,ST
+DETECT_INVISIBLE  19  P,ST
+DETECT_MAGIC      20  P,SC
+DETECT_POISON     21  P,SC
+DISPEL_EVIL       22  P,SC,W,ST   =11
+EARTHQUAKE        23  SC,ST       =7
+ENCHANT_WEAPON    24  SC
+ENERGY_DRAIN      25  P,SC,W,ST   =13
+FIREBALL          26  SC,W        =15
+HARM              27  P,ST        =15
+HEAL              28  P,ST
+INVISIBLE         29  P,SC,W,ST
+LIGHTING_BOLT     30  SC,W        =9
+LOCATE_OBJECT     31
+MAGIC_MISSILE     32  SC,W        =1
+POISON            33  P,ST
+PROTECT_FROM_EVIL 34  P,SC,W,ST
+REMOVE_CURSE      35  P,SC,ST
+SANCTUARY         36  P,SC,ST
+SHOCKING_GRASP    37
+SLEEP             38  P,SC,W,ST
+STRENGTH          39  P,SC,ST
+SUMMON            40
+VENTRILOQUATE     41
+WORD_OF_RECALL    42  P,SC,W,ST
+REMOVE_POISON     43  P,ST
+SENSE_LIFE        44  P,ST
+IDENTIFY          53  SC
+CAUSE_CRITIC      54 
+CAUSE_LIGHT       55 
+DARKSIGHT         68
+UNDETECT_INVIS    72  /* Not (Yet) Implemented */
+RESTORATION       73
+REGENERATION      74
+MINOR_WARDS       75  /* Not (Yet) Implemented */
+MAJOR_WARDS       76  /* Not (Yet) Implemented */
+MORD_SWORD        77  /* Not (Yet) Implemented */
+SPIRIT_HAMMER     78  /* Not (Yet) Implemented */
+TURN_UNDEAD       79
+SUCCOR            80
+DONATE_MANA       81
+MANA_LINK         82  /* Not (Yet) Implemented */
+MAGIC_RESIST      83
+MAGIC_IMMUNE      84
+DISPEL_MAGIC      85  /* Not (Yet) Implemented */ 
+CONFLAGRATION     86
+BREATHWATER       87
+SUSTENANCE        88
+
+See also: OVALUES
+#
+OVALUES_AC
+The ovalues for otype ARMOR use the following chart.  For the ovalue 
+you put in, you then multiply it by the approprite number in the below 
+chart.
+
+owear location        #
+--------------        -
+-body (chest)         3
+-legs                 2
+-all other locations  1
+
+Example:
+ovalue 3405 4 - - -
+(with the owear chest)  The AC improvement is 12  (4*3)
+(with the owear legs) The AC improvement is 8  (4*2)
+(with the owear arms) The AC improvement is 4  (4*1)
+
+See also: OVALUES, OWEAR, OAFFECT
+#
+OVALUES
+This lets you set values on certain obj. types.
+
+Used: ovalue <obj.#> <value [0]> <value [1]> <value [2]> <value [3]>
+
+Example: (for a LIGHT) ovalue 3405 - - 15 -
+         (for a container) ovalue 3405 12 1 -1 -
+
+Values for OTYPEs - individually by type
+----------------------------------------
+
+See also: VALUE_SPELLS OVALUE_LIGHT OVALUE_SCROLL OVALUE_WAND OVALUE_STAFF
+          OVALUE_WEAPON OVALUE_ARMOR OVALUE_POTION OVALUE_CONTAINER
+          OVALUE_NOTE OVALUE_DRINKCON OVALUE_KEY OVALUE_FOOD OVALUE_MONEY
+#
+OFLAG_TABLE
+This is a table for what has been made anti-  already and what is 
+excepted.  If you need an exception to any of the following ask an IMP
+before you make the exception.  any exceptions such as creating armor a
+dragon can wear should cost more rent than equal armor for a non dragon.
+(it is rare stuff afterall)
+
+ANTI-DRAGON
+-most head gear (because on horns)
+-most body armor (because on wings)
+-pants (because of tail)
+-all wands with above 4th level spells on them
+-all staffs with above 4th level spells on them
+
+Exceptions on ANTI-DRAGON:
+-skirts (tail has a place to come out..under the skirt)
+-robes (can be put on in a way to avoid the wings)
+
+ANTI-MAGE
+-all metal armor (anything you can't tell = metal)
+-all heavy weapons (over 14 weight)
+
+ANTI_CLERIC
+-all heavy swords (over 14 weight)
+
+ANTI-THIEF
+-all heavy weapons (over 14 weight)
+-all staffs with above 4th level spells on them
+-all wands with above 4th level spells on them
+
+ANTI_WARRIOR
+-all staffs with above 4th level spells on them
+-all wands with above 4th level spells on them
+
+See also: OFLAG
+#
+PICK
+Thieves only skill.
+For picking locks. Not all locks can be picked. 
+Example:
+  pick door
+  pick safe
+
+See also : OPEN, CLOSE, LOCK, UNLOCK
+#
+SNEAK
+Thieves only skill.
+
+Used for sneaking (moving in and out of rooms without anyone taking notice).
+When you type sneak, there is no way to know if you actually sneak. If you
+sucessfully sneak, then you'll continue to sneak for a little while.
+
+Example:
+  sneak
+
+See also : HIDE
+#
+HIDE
+Thieves only skill.
+When you type hide there is a chance that you hide in the room. If hidden
+you can only be "sensed" by the "sense life" spell. Even if sensed your
+identity will remain hidden. Hide is broken by pressing return, regardless
+of wherther you typed a command or not.
+
+Example:
+ >  hide
+ >  Ok.
+   (you wait for ex. 5 mins and remain hidden for 5 mins)
+ >
+   (You pressed enter and no longer hide)
+#
+LOOK
+For studying your surroundings. Examples:
+  look                
+  look AT the angel   (or just look angel)
+  look IN the bag     
+  look to the south   (or just: look south)
+
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (e.i. Corpse) use LOOK IN <OBJECT>,
+or EXAMINE <OBJECT>.
+
+See also : EXAMINE or READ
+#
+OPEN CLOSE LOCK UNLOCK
+Usage (example):
+ open portal
+or
+ open portal to the south (if there's more than one to choose from)
+
+#
+NORTH SOUTH EAST WEST UP DOWN
+To walk in a given direction.
+#
+EAT DRINK SIP TASTE
+If you're hungry or thirsty. Example: eat hamburger.
+#
+WHO
+Lists the people currently in the game. Some people may choose to remain
+unseen.
+#
+GIVE
+If you feel benevolent, you may give some stuff to someone in need. Example:
+give bread to the beggar.
+#
+SAVE
+Save your persona. This includes experience points, strength, gold, etc. Any
+equipment you may have gathered is NOT saved.
+#
+STRING
+For changing the text-strings associated with objects and characters. The
+format is:
+
+string <type> <name> <field> [<string> | <keyword>]
+
+Type is either 'obj' or 'char'.
+Field is one of the following(the names may be abbreviated):
+Name                  (the call-name of an obj/char - kill giant)
+Short                 (for inventory lists (obj's) and actions (char's))
+Long                  (for when obj/character is seen in room)
+Title                 (for players)
+Description           (For look at. For obj's, must be followed by a keyword)
+Delete-description    (only for obj's. Must be followed by keyword)
+
+Where a string is expected as the last argument, a newline will make you enter
+a string mode, and the game will prompt you for new lines to the string until
+you exceed the maximum length for the string or you end a line with a '@'.
+#
+LOAD
+For loading new objects or characters from the database. The format is:
+load <type> <number>
+Where <type> is either 'obj' or 'char', and number is the number of the object
+or character you wish to create.
+#
+INVENTORY
+If you're uncertain about what you're carrying, or simply want to check
+that no thieves have got to your backpack.
+
+See also: EQUIPMENT
+#
+EQUIPMENT
+When you want to know what armor, weapon, charms etc. you're wearing.
+
+See also: INVENTORY
+#
+WEAR
+If you want to wear some clothes, armor or the likes.
+For example : wear boots
+
+See also: REMOVE, EQUIPMENT
+#
+WIELD
+When you get tired of bashing monsters with your fists, you might consider
+wielding a weapon. Example : wield sword
+
+See also: REMOVE, EQUIPMENT
+#
+SCORE
+Whenever you want to check whether you're still alive and healthy
+or simply want to see how much money you have left.
+#
+SAY TELL WHISPER SHOUT ASK GOSSIP
+If you consider communicating with other beings, you might be understood
+better if you start your sentences with either say, tell, whisper or shout.
+Example : say I'm a jerk
+          tell unclesam You're dead meat - sucker!
+
+SAY     - speak your mind to anyone in the same room.^M
+TELL    - say something to any ONE person on the MUD (wherever they are)^M
+WHISPER - whisper softly to someone in the same room.
+SHOUT   - only nearby people will hear you.^M
+ASK     - ask a person in the same room a question.
+GOSSIP  - everyone will hear you, unless they have typed NOGOSSIP.^M
+#
+QUI SHUTDOW
+Just to prevent accidental quittings and/or shutdowns.
+This command doesn't DO anything, it simply is.
+#
+KILL HIT
+A good way to start a fight.
+#
+KICK
+Fighters only.
+The success of a kick depends upon how well you are learned. The higher
+level you reach the harder you kick. There is one small catch - whenever
+you kick (or miss) you will be unable to type any command for three 
+rounds of 'Violence' - so be sure that you do not need to flee!
+
+Fighters See also : Rescue, Bash
+#
+BASH
+Fighters only.
+The success of a bash depends upon how well you are learned. To bash someone
+is to attempt to 'knock' that person over. If you succeed you will inflict
+minor damage, and cause the victim to fall on it's rear. The victim will be
+unable to issue any commands for 2 rounds of violence. If you miss you loose
+your balance and fall.
+A bash makes you unable to type commands for 2 rounds of violence.
+Note that hitting a person who is resting/sitting will inflict 1.5*damage.
+
+Fighters See also : Rescue, Kick
+#
+RESCUE
+Fighters Only.
+A rescue is an attempt to make a monster hit you instead of the person being
+rescued. You can only 'turn' one monster for each attempt. This is highly
+useable when playing in groups.
+#
+STEAL
+Thief only skill.
+
+Use steal to steal gold or items from people. The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+
+Due to misuse of the steal command, it now requires at least 1,250 XP
+points to steal from other players. You can still steal from monsters
+at all levels.
+
+Example:
+  steal gold drunk
+  steal sword mercenary (only possible if he is sleeping)
+#
+BACKSTAB
+Thief only.
+
+Is a way to sneak up on a person, and attempt to place you dagger in his
+bag, at exactly the point where it does most damage. A successful backstab
+gives a damage multiplier, depending on level:
+
+LEVEL       MULTIPLIER
+ 1-4	 	2
+ 5-9		3
+10-14		4
+15-19		5
+20-24		6
+25-29		7
+30-34		8
+35-39		9
+  40		10
+  41		11
+	
+The chance of successfully backstabbing a person depends on how well you
+have practiced backstab at your guild. You can always backstab sleeping
+persons.
+#
+CAST
+For "magical" people. If you want to throw a spell at someone or something.
+Example : cast 'burning hands' <victim>
+          or simply cast burning hands <victim>
+
+See also : help on each individual spell, for example:
+  help cure light
+  help ventri
+  help energy drain
+#
+DROP
+If you lose interest in a carried item, you can drop it on the ground.
+
+Example : drop bottle
+
+If you feel like getting rid of all your earthly possessions, you may use
+"drop all".
+
+See also: GET
+#
+PURGE
+Immortal only command.
+A way to make the world a little cleaner.
+Usage:
+  purge                         To empty a room of monsters and objects.
+  purge <character>             To remove a living thing. Kicks out a player.
+  purge <object>                Figure this one out yourself.
+#
+STAT
+Immortal only command.
+If you're interested in a person and want to find out about his/her/its
+skills, strength, mana, hitpoints etc.
+   In addition, 'stat room' will give you useful information about the room
+you're in.
+#
+ORDER
+This command is used to order your charmed pets to do things.
+Examples: order fido sit
+          order man kill guard 
+#
+BUY SELL
+Commands for the shops - very useful too !
+#
+WEATHER
+If you're uncertain whether the sun is shining or the rain is pouring down.
+#
+READ
+When you want to read something.
+Example: read <message number> in the board rooms
+#
+REMOVE
+If you tire of wearing some armor or wielding a weapon.
+Example : remove sword
+#
+SHOPS
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact. Many shops trade only in a specific type of
+merchandise. Thus, a baker may well refuse to buy your armor, even if it is of
+high quality!
+   To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SOCIAL
+Commands mainly for social interaction:
+
+applaud  beg      bleed    blush   bounce  bow      burp     cackle   chuckle
+clap     comfort  cough    cringe  cry     cuddle   curtsey  dance    daydream
+fart     flip     fondle   french  frown   fume     gasp     giggle   glare 
+grin     groan    grope    grovel  growl   hiccup   hop      hug      kiss
+laugh    lick     love     moan    nibble  nod      nudge    pat      peer
+point    poke     ponder   pout    puke    punch    purr     ruffle   scream
+shake    shiver   shrug    sigh    sing    slap     smirk    smile    snap
+snarl    sneeze   snicker  sniff   snore   snuggle  spank    spit     squeeze
+stare    steam    strut    sulk    tackle  taunt    thank    think    twiddle
+wave     whine    whistle  wiggle  wink    worship  yawn     yodel
+#
+AC ARMOR-CLASS
+Is you armor class, it is defined roughly as follows:
+
+  25 Naked person
+   0 Very Heavily armored (Plate mail, and "two shields") 
+ -25 Armored battle tank
+#
+WIZ
+A listing of the commands for immortals (should be unavailable for mortals  :)
+#
+COMMANDS
+A mechanical listing (the code already exists) of the known verbs.
+#
+WARRIOR FIGHTER
+Warriors are known to have more strength than the average player. This makes
+them better at hand-to-hand-combat, as they posess skills of violence and
+fighting unequaled by the members of any other class. However, they lack the
+ability to use magic of any sort.
+   You can improve your skills by using the practice command.
+
+See also: PRACTICE
+#
+DRAGON_KIN
+Dragon Kin resemble Dragons in many ways.  They have wings, dragon shaped 
+heads with horns, tails, etc...  As such they have trouble wearing equipment 
+designed to be worn by humans.  As a dragon kin you will not be able to wear 
+most armor, helms, and legwear that is a form of pants.  It's not that we're 
+trying to deny you equipment like the only imp__invis items, etc..  It's 
+just that a dragon in pants would look really strange.  There will be items 
+on the mud designed so dragon kin can wear them, armor, helms, etc.  and if 
+the only way to get something like Imp_invis is on an item dragon kin can't 
+use we'll try to add some piece of eq with that power that you can wear.
+ 
+Dragon Kin do have powers other characters cant' get to make up for the loss 
+in equipment.  you get more hit points than other fighters, you heal faster, 
+and you have the feared breath attacks.
+
+See also: BREATH
+#
+THIEF
+Thieves are known to have very special qualities, that no other class offers.
+Many of these qualities can come in handy in many situations, such as picking
+locks.
+   You can improve you skills by using the practice command.
+
+See also: PRACTICE
+#
+CLERIC
+This class gives you the wisdom of peace, blessing and healing, though it 
+is possible to learn more violent spells.  
+You can improve your spells by using the practice command.
+ 
+Level    Spells/Skills              Level    Spells/Skills
+-----    -------------              -----    -------------
+  1       Armor                       11      Word of Recall
+          Cure Light                  12      Call Lightning
+          Cause Light                         Remove Curse
+          Turn Undead                 13      Control Weather
+         *Bludgeoning Weapons                 Sanctuary
+  2       Create Water                14      Curse
+          Detect Poison                       Heal 
+  3       Create Food                 15      Harm
+          Detect Magic                       *Second Attack
+         *Piercing Weapons            20      Darksight
+  4       Cure Blind                  22      Breathwater
+          Detect Evil                 25      Identify 
+  5       Bless                              *Third Attack
+          Detect Invisibility         27      Restoration
+         *Slashing Weapons                    Regeneration
+  6       Blindness                   29      Donate Mana
+          Protection from Evil                Magic Resist
+  7       Earthquake                  33      Sustenance       
+          Sense Life                  35      Magic Immune
+  8       Poison                     
+          Summon                                   
+  9       Cure Critic            
+          Cause Critic                           
+          Remove Poison                            
+ 10       Dispel Evil             
+         *Extra Damage                            
+
+* Denotes a SKILL, as opposed to a SPELL.
+
+See also: PRACTICE
+#
+KAI
+Mixed good-aligned class of warrior and priest.  They get only healing and 
+non-offensive spells. 
+
+Level    Spells/Skills              Level    Spells/Skills
+-----    -------------              -----    -------------
+  1       Cure Light                  12      Protection From Evil 
+         *Piercing Weapons            13      Sense Life           
+         *Slashing Weapons            15      Dispel Evil
+         *Bludgeoning Weapons         17      Remove Curse
+  3       Detect Magic                19      Heal 
+  4       Detect Evil                 22     *Third Attack 
+  5       Armor                       24      Sleep 
+          Turn Undead                 25      Santuary
+         *Rescue                      32     *Fourth Attack
+         *Extra Damage                                
+  6       Detect Invisibility                
+  7       Cure Blind                          
+  8       Bless                                
+  9       Cure Critic                        
+ 10       Remove Poison                     
+         *Kick                                
+         *Bash                                                           
+
+* Denotes a SKILL as opposed to a SPELL
+
+See also: PRACTICE
+#
+DRAKKHAR
+Mixed evil-aligned class of warrior and priest.  They get only offensive
+spells.
+
+Level    Spells/Skills              Level    Spells/Skills
+-----    -------------              -----    -------------
+  1       Cause Light                 12      Summon 
+         *Slashing Weapons                   *Second Attack 
+         *Piercing Weapons            13      Call Lightning
+         *Bludgeoning Weapons         15      Control Weather        
+  3       Detect Magic                17      Locate Object          
+  4       Detect Evil                 19      Harm
+  5       Turn Undead                 21      Curse
+          Armor                       22     *Third Attack 
+         *Extra Damage                25      Sanctuary
+  6       Detect Invisibility         30      Conflagration
+  7       Blindness                   32     *Fourth Attack          
+  9       Cause Critic
+ 10       Poison                               
+         *Kick                                  
+         *Bash                                 
+
+* Denotes a SKILL as opposed to a SPELL.
+
+See also: PRACTICE
+#
+"MAGIC USER" WIZARD MAGE
+This is the class of powerful and violent magic, but the magic user do not
+control the nature, and can therefore not bless and such. You can improve
+your spells by using the practice command.
+
+Level    Spells/Skills              Level    Spells/Skills
+-----    -------------              -----    -------------
+  1       Magic Missile               11      Improved Invisibility 
+          Ventriloquate               12      Curse 
+  2       Detect Invisibility                 Enchant Weapon
+          Detect Magic                       *Extra Damage
+  4       Chill Touch                 13      Lightning Bolt  
+          Invisibility                14      Charm person 
+  5       Armor                               Sleep
+         *Piercing Weapons            15      Energy Drain
+  6       Locate Object                      *Second Attack 
+  7       Burning Hands               16      Colour Spray 
+          Strength                    19      Fireball
+         *Slashing Weapons            25      Conflagration
+         *Bludgeoning Weapons         25      Identify
+  8       Teleport                    27      Succor
+          Blindness                   29      Magic Resist
+ 10       Control Weather                     Magic Immune
+          Shocking Grasp              30      Darksight
+                                      32      Breathwater
+
+* Denotes a SKILL as opposed to a SPELL.
+
+See also: PRACTICE
+#
+SPELL SPELLS1
+       Level      Magic User           Level      Cleric
+       -----      ----------           -----      ------
+         1      Magic Missile            1      Armor
+         1      Ventriloquate            1      Cure Light
+         1      -                        1      Cause Light
+         1      -                        1      Turn Undead
+         2      Detect Magic             2      Create Water
+         2      Detect Invisibility      2      Detect Poison
+         3      -                        3      Create Food
+         3      -                        3      Detect Magic
+         4      Invisibility             4      Cure Blind
+         4      Chill Touch              4      Detect Evil
+         5      Armor                    5      Bless
+         5      -                        5      Detect Invisibility
+         6      Locate Object            6      Blindness
+         6      -                        6      Protection from Evil
+         7      Burning Hands            7      Earthquake
+         7      Strength                 7      Sense Life
+         8      Blindness                8      Poison
+         8      Teleport                 8      Summon
+         9      -                        9      Cure Critic
+         9      -                        9      Cause Critic
+         9      -                        9      Remove Poison
+        10      Control Weather         10      Dispel Evil  
+        10      Shocking Grasp          10                 
+        11      Improved Invisibility   11      Word of Recall
+        11      -                       11      -
+        12      Curse                   12      Call Lightning
+        12      Enchant Weapon          12      Remove Curse
+        13      Lightning Bolt          13      Control Weather
+        13      -                       13      Sanctuary
+        14      Sleep                   14      Curse
+        14      Charm Person            14      Heal
+        15      Energy Drain            15      Harm
+        15      -                       15      -
+        16      Color Spray             16      -
+        19      Fireball                19      -
+        19      -                       19      -
+        20      -                       20      Darksight
+        22      -                       22      Breathwater
+        25      Conflagration           25      Identify
+        25      Identify                25      -
+        27      Succor                  27      Restoration
+        27      -                       27      Regeneration
+        29      Magic Resist            29      Donate Mana
+        29      Magic Immune            29      Magic Resist
+        30      Darksight               30      -
+        32      Breathwater             32      -         
+        33      -                       33      Sustenance
+        35      -                       35      Magic Immune    
+
+See also: SPELLS2 for Kai/Drakkhar spells.
+          SPELLS3 for Bard/Elfin Knight/Demon Knight spells.
+#
+SPELLS2
+  Level	       Kai                    Drakkhar
+  -----        ---                    --------
+    1       Cure light              Cause Light       
+    2       Detect Poison           Detect Poison
+    3       Detect Magic            Detect Magic
+    4       Detect Evil             Detect Evil
+    5       Armor                   Armor
+            Turn Undead             Turn Undead
+    6       Detect Invisibility     Detect Invisibility
+    7       Cure Blindness          Blindness
+    9       Cure Critic             Cause Critic
+   10       Remove Poison           Poison
+   12       Protection from Evil    Summon
+   13       Sense Life              Call Lightning
+   15       Dispel Evil             Control Weather
+   17       Remove Curse            Locate Object
+   19       Heal                    Harm
+   21       -                       Curse  
+   24       Sleep                   -
+   25       Sanctuary               Sanctuary
+   30       -                       Conflagration
+
+See also: SPELLS1 for Magic User/Cleric spells.
+          SPELLS3 for Bard/Elfin Knight/Demon Knight spells.
+#
+SPELLS3
+Level	Bard			Elfin Knight		Demon Knight
+-----   ----                    ------------            ------------
+ 1      Ventriloquate           -                       -
+ 2      Magic Missile           Ventriloquate           Magic Missile
+ 3      Detect Magic            Detect magic            -
+ 4      Detect Invisible        Detect Invisible        -
+ 6      Armor                   Armor                   Chill Touch
+ 7      Invisibility            Invisibility            -
+ 8      -                       -                       Blindness
+        -                       -                       Earthquake   
+ 9      Locate Object           Locate Object           -
+10      Chill Touch             -                       Burning Hands
+12      Strength                -                       Curse
+13      Teleport                Teleport                -
+14      -                       -                       Shocking Grasp
+15      Blindness               Improved Invisibility   -
+16      Burning Hands           Strength                Sleep
+17      Improved Invisibility   Enchant Weapon          -
+18      Shocking Grasp          -                       Lightning Bolt
+19      Enchant Weapon          Charm Person            -
+20      Curse                   -                       Energy Drain
+22      Charm Person            -                       Color Spray
+23      Lightning Bolt          -                       -
+25      Energy Drain            -                       -
+26      -                       -                       Fireball
+27      Color Spray             -                       -
+29      Identify                -                       -
+30      -                       Identify                -
+35      Fireball                -                       -
+37      Succor                  -                       -
+38      Breathwater             -                       -
+39      Darksight               -                       -    
+
+See also: SPELLS1 for Magic User/Cleric spells.
+          SPELLS2 for Kai/Drakkhar spells.
+#
+PRACTICE PRACTISE
+Practice is the way you improve your spells and skills. You must go to
+your guildmaster to let him/her help you improve.
+If you type practice, you will see which skills you can improve upon, and
+how good you already are at these.
+You can then use practice <skill>, to practice the appropriate skill.
+You can only practise a certain amount for each level you gain, and you
+do not have to save this, it can be accumulated.
+#
+EXITS
+Gives you a list of the obvious exits from your location. Of course, the less
+obvious ones won't show up here - you have to THINK in order to locate those.
+#
+LEAVE
+If you feel claustrophobic, typing 'leave' will make you use the nearest
+obvious exit to the outside.
+
+See also: ENTER
+#
+ENTER
+If you type 'enter' while you are outdoors, you'll enter any nearby shelter.
+You can also follow 'enter' with an argument; for example, 'enter window'.
+
+See also: LEAVE
+#
+TIME
+Gives you the current 'gametime'. Your initial reaction to the output of this
+command may be one of surprise, but you'll get used to it. You'll have to, at
+any rate, since certain things in the game depend on this particular notion
+of time; the opening hours of the shops, for example.
+#
+BUG TYPO IDEA
+For making useful suggestions to the maintainers of the game. 
+
+Examples:
+     bug the entire game crashes when I type 'put bag in bag'
+     idea make a restaurant in Midgaard
+     typo 'sence' should be spelled 'sense'
+#
+QUIT
+When you get tired of playing, you can leave the game by typing 'quit'. Note
+that whatever stuff you might be carrying with you is simply left on the
+ground. If you wish to have your equipment put away until you are able to come
+back, you'll have to find an inn.
+
+See also: INN
+#
+INNS
+Inns are places where the weary traveler may rest while the innkeeper looks
+after his equipment and treasure. Specifically, you may use inns to store your
+gathered equipment while you are not playing the game (we all have to sleep
+sometimes, there is no shame in that).
+
+See also: OFFER, RENT
+#
+OFFER RENT
+For use in the receptions of inns. The command 'offer' will make the innkeeper
+tell you the cost of storing your carried items for one day. 'rent' will store
+the items and make you leave the game. The next time you enter, you'll start
+out in the reception where you left. The inn will store your items as long as
+you have the gold to pay the rent.
+
+See also: INN
+#
+GET TAKE
+If you find something interesting on the ground, you may use 'get' to pick it
+up. Example: "get greatsword". If you are in a hurry, or if you just feel very
+greedy, you may type "get all". You can also use 'get' to extract objects from
+containers. Example: "get dagger from bag".
+
+See also: DROP PUT
+#
+PUT
+For putting stuff in containers. Example: "Put the dagger in the bag".
+
+See also: GET
+#
+EXAMINE
+May give you some valuable information about an item.
+
+See also: LOOK
+#
+WRITE
+In order to write a note, you need a piece of blank paper (or similar), and
+a pen of some sort. You can then type something like "write on the paper with
+the pen", whereupon you'll be asked to type in your note at the keyboard.
+#
+NEWS
+This command will show you the current edition of "the DikuMUD Herald", a
+publication dedicated to news and useful information about this world. It's a
+very good idea to check it out once in a while.
+#
+SLEEPING WAKE REST SIT STAND
+For changing your position. If you feel weary, it's probably a good idea to sit
+and rest for awhile; or maybe even take a nap.
+#
+POUR
+If you want to pour some liquid from one container to another.
+
+Example:
+pour barrel out: empties the barrel
+pour fountain barrel: fill barrel with water from fountain
+#
+GRAB
+For getting a good grip on something; a torch, for example.
+
+See also: WEAR, WIELD, REMOVE
+#
+FOLLOW
+If you happen to be going in the same direction as someone else, why not simply
+follow that person? For example: "Follow joe". If you are following someone
+and you wish to stop doing that, then all you've got to do is follow yourself:
+"follow <your name>".
+#
+FLEE
+If you are in a fight and things are beginning to get a little uncomfortable
+(maybe your are dying), just type 'flee', and presto! you are out of harm's way
+- that is, IF there is a suitable exit nearby, and IF that exit doesn't simply
+bring you from the ashes to the fire... but then, who wants to live forever?
+#
+GUILD
+The Guildhouse is the place where mortals may go to escape the troubles and
+perils of a cruel world. Each guild is heavily guarded, so that only members
+may enter the building. Guilds are also the places where people come to
+learn and practice the skills of their trade.
+
+See also: PRACTICE
+#
+INFO
+Gives you some useful hints and information about the game.
+Type INFO <return> to read it.
+#
+WHERE
+Tells you the location of a monster, a player or an object. Examples:
+
+where torch
+where dragon
+
+Mortals can only "where" monsters or players, and only from their own zone.
+
+Immortals may type 'where' without arguments to see where everybody is.
+#
+USERS
+Immortal only command.
+Tells you who's logged on to the game, and where they are playing from.
+#
+LEVELS
+Lists the levels of your class. 
+#
+BRIEF
+Toggle "brief mode". When in brief mode, you don't see the descriptions of the
+room you are in; only the name of the room, the exits, and the people and 
+objects in there. Unless you are very familiar with the area in which you 
+travel, however, it is not advisable to use this command. Frequently, you will
+find small, but vital hints in the descriptions of the rooms: An extra peek at
+your surroundings could mean the difference between life and death!
+
+See also: COMPACT
+#
+!
+Repeat the last command typed at the keyboard.
+#
+CON_MESSAGES
+Difference = Mobiles' level - Your level
+
+Difference                Message
+----------                -------
+<= -15         Now where did that chicken go?
+<= -10         Say the word and it is history...
+<= -5          You could do it with a needle!
+<= -2          Easy.
+   -1          Fairly easy.
+ = 0           Perfect Match!
+    1          You would need some luck! 
+    2          You would need a lot of luck.
+    3          You would need a lot of luck and great equipment.
+<=  5          Do you feel lucky, punk?
+<= 10          Bring some friends.
+<= 15          Bring *lots* of friends.
+<= 20          Are you mad?
+<=100          You ARE mad.
+#
+CONSIDER
+Usage : consider <monster>
+This command will compare your Level with the <monsters> level. You will then
+receive a rough estimate, which is by no means exact. 
+Consider does not take hitpoints/special attacks/damage/mob file typos into 
+accout.  So mobiles with any special skills/spells/breaths are generally a lot
+harder.  This is especially true for higher level mobiles.
+
+Example:
+  consider fido
+
+See also: CON_MESSAGES
+#
+EXPERIENCE XP
+Whenever you kill a monster or a player, you earn experience points. When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+
+  * When damaging a monster, you get experience points.
+
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points. If killing a monster of lower level you'll gain
+    less experience points
+
+Some of us discourage killing of other players.  Some of us may take action.
+The choice is yours.  Can you take a group of high levelers?
+
+See also: GROUP
+#
+GROUP
+Usage : GROUP [player]
+
+If you are a group member, then you will share experience points for killing
+monsters equaly by level among the group. Experience points will only be 
+shared among group members that are in the same location, at the time of the
+killing blow. Sharing is regardless of whether the group members have been
+participating in the fight.
+
+Group with no argument show a list of people with whom you are grouped.
+
+To make a group, a "leader" must be selected. All members of the group
+must then "follow" the leader using the follow command. The leader should
+NOT follow anyone at all! The leader can now toggle group membership for
+each player in the group, by using "group <player_name>". The leader
+should remember to include himself in the group.
+
+Example:
+Quifael and Redferne wishes to group with Dragon.
+
+Quifael : "follow dragon"
+Redferne: "follow dragon"
+(Dragon should be following no one but himself)
+Dragon  : "group dragon"
+Dragon  : "group redferne"
+Dragon  : "group quifael"
+
+Later when Dragon get upset at Quifael (because he is sleeping all the time)
+he types : "Group Quifael" to kick Quifael out of the group.
+
+See also: XP EXPERIENCE
+#
+QUAFF POTION POTIONS
+Use : Quaff <Potion>
+
+Quaff is used to "drink" a (magical) potion.
+#
+RECITE SCROLL SCROLLS
+Use : Recite <Scroll> [Target]
+
+Is used to "read" a magical scroll. Target can be an object, character or
+nothing (which may be yourself).
+#
+USE WAND STAFF STAFFS WANDS
+Use : Use <Staff>
+      Use <Wand> <Target>
+
+Using staff's will automatically target everybody (or everything) in a
+room, execpt yourself. Therefore staff's are naturally very powerful, and
+yet may be very dangerous to use around other players.
+
+Using wands require that you point it at a target, which can be either a
+character or an object.
+
+Both staff's and wand's must be HELD in the hand prior to use! (Use the
+grab or hold commands). You must still supply the name of the staff or
+wand to avoid confusion.
+#
+ARMOR
+Usage          : cast 'armor' [self]
+Accumulative   : No
+Duration       : 24 Hours
+Levels         : [5] Mage, [1] Cleric, [6] Bard, [5] Kai, 
+                 [5] Drakkhar, [6] Elfin Knight
+Base Mana Cost : 5
+
+Improve AC by (Level*2)/10, with a maximum of 2. 
+
+See also: AC
+#
+TELEPORT
+Usage          : cast 'teleport' [self]
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [8] Mage, [13] Bard, [13] Elfin Knight
+Base Mana Cost : 35
+
+Instantly transfer you to a random location in the world.  There will always 
+be a risk of landing in a fatal location.
+#
+BLESS
+Usage          : cast 'bless' <victim or object>
+Accumulative   : No
+Duration       : 6 Hours, permanent for objects.
+Levels         : [5] Cleric, [8] Kai
+Base Mana Cost : 5
+
+Bless on a victim will improve the victim's saving throw versus spells
+by 1, and furthermore improve the hitroll by 1.
+
+Bless on an item currently has no defined action. It is only possible
+to bless non-evil items, and the object blessed may weight no more
+than five pounds per level of caster. 
+#
+BLINDNESS
+Usage          : cast 'blindness' <victim>
+Accumulative   : No
+Duration       : 2 hours.
+Levels         : [8] Mage, [6] Cleric, [15] Bard, 
+	         [7] Drakkhar, [8] Demon Knight 
+Base Mana Cost : 5
+
+Blindness will blind a victim failing its saving throw.
+A blinded victim will have -4 penalty to both hitroll and AC.
+
+See also: AC
+#
+"BURNING HANDS"
+Usage          : cast 'burning hands' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [7] Mage, [16] Bard, [10] Demon Knight
+Base Mana Cost : 15
+Damage         : 1d6*Level/2 + 10
+Max. Damage    : 10d6 + 10
+Save           : Versus spell for half damage.
+
+Sends heat energy into the victim to fry it.
+
+See also: CHILL TOUCH
+#
+"CALL LIGHTNING"
+Usage          : cast 'call lightning' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [12] Cleric, [13] Drakkhar
+Base Mana Cost : 15
+Damage         : 1d8*Level 
+Max. Damage    : 15d8
+Save           : Versus spell for half damage.
+
+This spell will use the "force of nature" to make a lightning strike the 
+victim. It is therefore only possible to call lightning outside, and it 
+has to be raining (or worse).
+
+See also: WEATHER and CONTROL WEATHER
+#
+"CHARM PERSON"
+Usage          : cast 'charm person' <victim>
+Accumulative   : No
+Duration       : (24*18/Intelligence points of person) hours
+                 24*18 hours for mobiles
+Levels         : [14] Mage, [22] Bard, [19] Elfin Knight
+Base Mana Cost : 5
+
+It is not possible to charm anyone that is already charmed or higher level
+than you.  Not all mobiles can be charmed, even if lower levels.
+
+A charmed victim will follow you, and not be able to attack you, you
+can order charmed victim using the order command.
+
+See also: FOLLOW ORDER
+#
+"CHILL TOUCH"
+Usage          : cast 'chill touch' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [4] Mage, [10] Bard, [6] Demon Knight 
+Base Mana Cost : 15
+Damage         : 1d6*Level/2 + (Level+1)/2
+Max. Damage    : 6d6 + 12
+Save           : Versus spell for half damage.
+
+Sends life draining energy into the victim.
+
+See also: MAGIC MISSILE
+#
+"IMPROVED INVISIBILITY"
+Usage          : cast 'improved invisibility' <victim>
+Accumulative   : No
+Duration       : Level/3 + 3 hours
+Levels         : [11] Mage, [17] Bard, [15] Elfin Knight
+Base Mana Cost : 20
+
+Improve AC by 4.
+Attacking while improved invisible will NOT break the spell.
+
+See also: INVISIBILITY
+#
+"COLOR SPRAY"
+Usage          : cast 'color spray' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Level          : [16] Mage, [27] Bard, [22] Demon Knight
+Base Mana Cost : 15
+Damage         : 1d8*Level + level
+Max. Damage    : 20d8 + Level
+Save           : Versus spell for half damage.
+Special        : Blind victim too
+
+Throws forceful blinding colors into the eyes of the victim.
+
+See also: LIGHTNING BOLT
+#
+"CONTROL WEATHER"
+Usage          : cast 'control weather' ('better' | 'worse')
+Accumulative   : Yes
+Duration       : Instantaneous
+Levels         : [10] Mage, [13] Cleric, [15] Drakkhar
+Base Mana Cost : 25
+
+This spell will change the "course" of the current weather.
+
+Exmample:    
+          cast 'control weather' worse
+
+See also: CALL LIGHTNING
+#
+"CREATE FOOD"
+Usage          : cast 'create food'
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [3] Cleric
+Base Mana Cost : 5
+
+This spell instantly creates an edible magic mushroom. The mushroom
+will fill for the next (5+Level) hours, up to a maximum of 24 hours.
+Magic mushrooms cannot be rented.
+
+See also: CREATE WATER 
+#
+"CREATE WATER"
+Usage          : cast 'create water' <drink container>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [2] Cleric
+Base Mana Cost : 5
+
+Expect disastrous results if cast upon a drink container which contains
+another liquid than water.  Amount of water created depends on the level 
+of caster.  Rainy weather will double the amount of water created.
+
+See also: CREATE FOOD
+#
+"CURE BLIND"
+Usage          : cast 'cure blind' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [4] Cleric, [7] Kai
+Base Mana Cost : 5
+
+This spell will cure a person blinded by the "blindness" spell, it
+cannot remove blindness caused by for example cursed items.
+
+See also: BLINDNESS and HEAL
+#
+"CURE CRITIC"
+Usage          : cast 'cure critic' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [9] Cleric, [9] Kai
+Base Mana Cost : 15
+
+This spell cures 3d5+2*Level, with maximum 40, hitpoints of damage.
+
+See also: CURE LIGHT, HEAL
+#
+"CURE LIGHT"
+Usage          : cast 'cure light' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [1] Cleric, [1] Kai
+Base Mana Cost : 15
+
+This spell cures 1d8+Level, with maximum 20, hitpoints of damage.
+
+See also: CURE CRITIC, HEAL
+#
+CURSE
+Usage          : cast 'curse' (victim | object)
+Accumulative   : No
+Duration       : 7 Days, permanent on objects.
+Levels         : [14] Cleric, [12] Mage, [20] Bard, 
+                 [21] Drakkhar, [12] Demon Knight
+Base Mana Cost : 20
+
+Curse cast on a person that fails the saving throw, will reduce the
+hitroll by one, and reduce the saving throw versus paralysation by
+one. 
+
+Curse cast on an object will make it cursed and evil.  Cursed objects 
+cannot be dropped or let go off.  Attack dice of cursed weapons will be
+lowered by one.
+
+See also: REMOVE CURSE
+#
+"DETECT EVIL"
+Usage          : cast 'detect evil' [self]
+Accumulative   : No
+Duration       : 5*Level hours
+Levels         : [4] Cleric, [4] Kai, [4] Drakkhar
+Base Mana Cost : 5
+
+Detect evil enables you to see the red aura surrounding evil persons,
+mobiles and items.
+
+See also: DETECT INVISIBILITY, DETECT MAGIC, SENSE LIFE
+#
+"DETECT INVISIBILITY"
+Usage          : cast 'detect invisibility' [self]
+Accumulative   : No
+Duration       : 5*Level hours
+Levels         : [2] Mage, [5] Cleric, [4] Bard, [6] Kai, 
+                 [6] Drakkhar, [4] Elfin Knight
+Base Mana Cost : 5
+
+This spell enables you to see invisible items, mobiles and players.
+
+See also: DETECT EVIL, DETECT MAGIC, SENSE LIFE
+#
+"DETECT MAGIC"
+Usage          : cast 'detect magic' [self]
+Accumulative   : No
+Duration       : 5*Level hours 
+Levels         : [2] Mage, [3] Cleric, [3] Bard, [3] Kai, 
+                 [3] Drakkhar, [3] Elfin Kngith
+Base Mana Cost : 5
+
+This spell enables you to see the magical aura surrounding magical objects.
+
+See also: DETECT EVIL, DETECT INVISIBILITY, SENSE LIFE
+#
+"DETECT POISON"
+Usage          : cast 'detect poison' (victim | food | drink)
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [2] Cleric, [2] Kai, [2] Drakkhar
+Base Mana Cost : 5
+
+Cast on food or drinks (drink containers) you will be able to
+sense if it is poisoned.
+
+Cast on a person you will be able to see if that person is poisoned.
+
+See also: POISON, REMOVE POISON
+#
+"DISPEL EVIL"
+Usage          : cast 'dispel evil' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [10] Cleric, [15] Kai 
+Base Mana Cost : 15
+Save           : Special
+
+This spell will only affect evil creatures. An evil person of level
+equal or less than caster will suffer 100 damage points.
+
+If the victim is higher level than caster, the spell will inflict
+(caster_level)d4 damage points, saving throw versus half damage.
+#
+EARTHQUAKE
+Usage          : cast 'earthquake'
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [7] Cleric, [8] Demon Knight
+Base Mana Cost : 10
+
+This spell will damage everyone in the same room except the caster and 
+caster's group members by 3d8+2*Level_of_caster hitpoints.
+#
+"ENCHANT WEAPON"
+Usage          : cast 'enchant weapon' <weapon>
+Accumulative   : No
+Duration       : Permanent
+Levels         : [12] Mage, [19] Bard, [17] Elfin Knight
+Base Mana Cost : 100
+
+This spell will enchant non-magical (non-modifying) weapons only.
+One way to know if a weapon is suitable for enchantment is to fully 
+identify it.
+
+The enchantment will modify the weapon as:
+
+     Level    Hitroll    Damroll
+     ------   -------    -------
+     12..14     +2         +1
+     15..19     +2         +2
+     20..29     +3         +2
+     30..39     +4         +3
+     40+        +5         +3
+#
+"ENERGY DRAIN"
+Usage          : cast 'energy drain' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [15] Mage, [25] Bard, [20] Demon Knight
+Base Mana Cost : 35
+Damage         : 1d30
+Max. Damage    : 150 if target is <= level 5
+Save           : Versus spell for half damage.
+Special        : You will gain 1d30 of their hit points,
+                 and 1/4 of the victims mana
+
+This spell does not give much damage, but victims failing their saving 
+throws will loose 1/2 of their mana points.  Beware that this spell is 
+evil.
+#
+FIREBALL
+Usage          : cast 'fireball' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [19] Mage, [35] Bard, [26] Demon Knight
+Base Mana Cost : 15
+Damage         : Leveld10 + 2*Level
+Max. Damage    : 25d10 + 2*Level
+Save           : Versus spell for half damage.
+
+This spell is one of the most powerful spells a magic user can cast.
+
+See also: COLOR SPRAY, CONFLAGRATION
+#
+HARM
+Usage          : cast 'harm' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [15] Cleric, [19] Drakkhar
+Base Mana Cost : 25
+Save           : Versus spell for half damage.
+
+This spell removes all but 1d4 hitpoints from the victim. The maximum 
+number of damage points is 150.  It is not possible to kill using this 
+spell (but almost).
+#
+HEAL
+Usage          : cast 'heal' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [14] Cleric, [19] Kai
+Base Mana Cost : 25
+
+This spell will heal maximum 100 hitpoints.  All hitpoints, except for 1d4
+hitpoints can be healed.  
+It will also cure a blinded victim or a poisoned victim.
+
+See also: CURE BLINDNESS
+#
+INVISIBILITY
+Usage          : cast 'invisibility' <victim | object>
+Accumulative   : No
+Duration       : 24 hours, permanent on objects.
+Levels         : [4] Mage, [7] Bard, [7] Elfin Knight
+Base Mana Cost : 5
+
+Turn victim invisible.  Invisibility improves AC by 4.
+Attacking while invisible will immediately break the spell.
+
+See also: DETECT INVISIBILITY, IMPROVED INVISIBILITY
+#
+"LIGHTNING BOLT"
+Usage          : cast 'lightning bolt' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [13] Mage, [23] Lightning, [18] Demon Knight
+Base Mana Cost : 15
+Damage         : Leveld6 + 20
+Max. Damage    : 20d6 + 20
+Save           : Versus spell for half damage.
+
+Brings forth a lightning bolt to blast the victim.
+
+See also: SHOCKING GRASP
+#
+"LOCATE OBJECT"
+Usage          : cast 'locate object' <object>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [6] Mage, [9] Bard, [17] Drakkhar, [9] Elfin Knight
+Base Mana Cost : 20
+
+If possible you will know exactly where an object is, or the name of the 
+person using it. If more than one object by the same name exists, you will 
+get a listing of several objects.  The maximum number of objects you can 
+simultaneously locate is your level divided by 2.
+#
+"MAGIC MISSILE"
+Usage          : cast 'magic missile' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [1] Mage, [2] Bard, [2] Demon Knight
+Base Mana Cost : 15
+Damage         : 1d3 + 1 per level
+Max. Damage    : 4d3 + 4
+Save           : Versus spell for half damage.
+
+Sends 1 to 4 accurate arrows at the victim.
+#
+POISON
+Usage          : cast 'poison' <victim | food | drink>
+Accumulative   : Yes on persons.
+Duration       : 2*Level hours, or permanent on food and drinks.
+Levels         : [8] Cleric, [10] Drakkhar
+Base Mana Cost : 10
+
+Casting poison on food or drink (containers) will poison it.
+Eating poisoned food/drinks will poison the person eating or drinking.
+
+A person who is poisoned will suffer 2 points of damage every hour, 
+gain less points than usual, and lose strength points by 2. 
+
+See also: DETECT POISON, REMOVE POISON
+#
+"PROTECTION FROM EVIL"
+Usage          : cast 'protection from evil' [self]
+Accumulative   : No
+Duration       : 24 hours
+Levels         : [6] Cleric, [12] Kai
+Base Mana Cost : 5
+
+The meaning of this spell is not yet fully defined.
+#
+"REMOVE CURSE"
+Usage          : cast 'remove curse' <person | object>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [12] Cleric, [17] Kai
+Base Mana Cost : 5
+
+Will remove a curse on carried objects or any persons in the room.
+#
+SANCTUARY
+Usage          : cast 'sanctuary' [self]
+Accumulative   : No
+Duration       : See below 
+Levels         : [13] Cleric, [25] Kai, [25] Drakkhar
+Base Mana Cost : 75
+
+When protected by sanctuary all damage that you take is divided in half.
+
+Duration:
+level 13-19 3 hours
+level 20-30 4 hours
+level 31-39 5 hours
+level 40+   6 hours
+#
+"SHOCKING GRASP"
+Usage          : cast 'shocking grasp' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [10] Mage, [18] Bard, [14] Demon Knight
+Base Mana Cost : 15
+Damage         : 1d8*Level/2 + Level
+Max. Damage    : 10d8 + Level
+Save           : Versus spell for half damage.
+
+This spell will give the victim a huge shock.
+
+See also: BURNING HANDS
+#
+SLEEP
+Usage          : cast 'sleep' <person>
+Accumulative   : Yes (duration)
+Duration       : 4 hours + Level/2 hours
+Levels         : [14] Mage, [24] Kai, [16] Demon Knight
+Base Mana Cost : 20
+
+If failing saving throw versus spell, the person will fall asleep.
+A person who is affected by sleep can only be awakened if attacked.
+#
+STRENGTH
+Usage          : cast 'strength' <victim>
+Accumulative   : Yes (strength)
+Duration       : Level hours
+Levels         : [7] Mage, [12] Bard, [16] Elfin Knight 
+Base Mana Cost : 20
+
+A person will gain 1 strength point per spell (2 points if level of
+caster is greater than 18). Maximum strength is 18/100.
+#
+SUMMON
+Usage          : cast 'summon' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [8] Cleric, [12] Drakkhar 
+Base Mana Cost : 50
+
+Will summon a person of the name spoken. It is not possible to summon 
+someone of three or more levels above yourself.  If you attempt to summon 
+a monster, it will get a saving throw.
+Casters have to take full responsibility of aggressive mobiles summoned.
+#
+VENTRILOQUATE
+Usage          : cast 'ventriloquate' <victim | object> <text>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [1] Mage, [1] Bard, [2] Elfin Knight
+Base Mana Cost : 5
+
+For all people in the same room as the caster that fail a saving throw, 
+the spell will make the object or victim appear to say the text written. 
+People saving will only notice that someone tried to make it sound that 
+way, not who.
+
+Example:
+  cast 'vent' unclesam I've got 921,923 coins, don't even consider killing me.
+#
+"WORD OF RECALL"
+Usage          : cast 'word of recall' 
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [11] Cleric
+Base Mana Cost : 5
+
+The caster will be transferred back to his sancturay (presently the 
+Temple of Midgaard).
+#
+"REMOVE POISON"
+Usage          : cast 'remove poison' <victim | food | drink> 
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [9] Cleric, [10] Kai
+Base Mana Cost : 5
+
+This spell cures a poisoned victim or removes poison from food or drinks.
+
+See also: POISON
+#
+"SENSE LIFE"
+Usage          : cast 'sense life' [self]
+Accumulative   : No
+Duration       : 5*Level hours
+Levels         : [7] Cleric, [13] Kai
+Base Mana Cost : 5
+
+This spell will enable you to sense hidden life forms in a room.
+Invisible persons are also considered hidden.
+
+See also: HIDE
+#
+IDENTIFY
+Usage          : cast 'identify' < victim | object >
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [25] Mage, [25] Cleric, [29] Bard, [30] Elfin Knight
+Base Mana Cost : 100
+
+Self explanatory.
+#
+"CAUSE CRITIC"
+Usage          : cast 'cause critic' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [9] Cleric, [9] Drakkhar
+Base Mana Cost : 15
+Damage         : 3d8 + 3
+Max. Damage    : 27 hitpoints
+
+Inflicts damage upon victim.
+#
+"CAUSE LIGHT"
+Usage          : cast 'cause light' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [1] Cleric, [1] Drakkhar
+Base Mana Cost : 10
+Damage         : 1d8 + 1
+Max. Damage    : 9 hitpoints
+
+Inflicts damage upon victim.
+#
+"DARK SIGHT"
+Usage          : cast 'darksight' <victim>
+Accumulative   : No
+Duration       : Level hours
+Levels         : [30] Mage, [20] Cleric, [39] Bard
+Base Mana Cost : 15
+
+This spell enables the victim to see in the dark.
+#
+RESTORATION
+Usage          : cast 'restoration' <victim>
+Accumulative   : No
+Duration       : Instantaneous 
+Levels         : [27] Cleric 
+Base Mana Cost : 25
+
+The spell restores victim's experience points to the base xp points for 
+victim's level if the current xp is less than base xp.
+#
+REGENERATION
+Usage          : cast 'regeneration' <victim>
+Accumulative   : No
+Duration       : Level hours
+Levels         : [27] Cleric
+Base Mana Cost : 25
+
+Players or mobiles with regeneration will heal faster.
+#
+"TURN UNDEAD"
+Usage          : cast 'turn undead' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [1] Cleric, [5] Kai, [5] Drakkhar 
+Base Mana Cost : 10
+Damage         : Leveld4 + Level
+
+Can only inflict damage on UNDEAD class mobiles.
+#
+SUCCOR
+Usage          : cast 'succor' <target-player>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [27] Mage, [37] Bard
+Base Mana Cost : 50
+
+Caster will be relocated to target-player.  Caster can only succor to 
+player no more than 10 levels higher.
+#
+"DONATE MANA"
+Usage          : cast 'donate mana' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [29] Cleric
+Base Mana Cost : 15
+
+Tranfer maximum 15 mana to victim.
+#
+"MAGIC RESIST"
+Usage          : cast 'magic resist' <victim>
+Accumulative   : No
+Duration       : Level hours
+Levels         : [29] Mage, [29] Cleric
+Base Mana Cost : 50
+
+This spell causes the victim to resist magical spells occasionally.
+
+See also: MAGIC IMMUNE
+#
+"MAGIC IMMUNE"
+Usage          : cast 'magic immune' <victim>
+Accumulative   : No
+Duration       : Level/4 hours
+Levels         : [29] Mage, [35] Cleric
+Base Mana Cost : 100
+
+This spell causes the victim to resist all magical spells.
+
+See also: MAGIC RESIST
+#
+CONFLAGRATION
+Usage          : cast 'conflagration' <victim>
+Accumulative   : No
+Duration       : Instantaneous 
+Levels         : [25] Mage, [28] Drakkhar
+Base Mana Cost : 15
+Damage         : Leveld14 + Level, minimum 250 hitpoints
+Save           : Versus spell for half damage.
+
+Conjure destructive fire up to burn the victim.  This is the most powerful
+spell a magic user can have.  
+
+See also: COLOR SPRAY, CONFLAGRATION
+#
+BREATHWATER
+Usage          : cast 'breathwater' <victim>
+Accumulative   : No
+Duration       : Level hours
+Levels         : [32] Mage, [22] Cleric, [38] Bard 
+Base Mana Cost : 15
+
+This spell enables the victim to enter underwater rooms.
+#
+SUSTENANCE
+Usage          : cast 'sustenance' <victim>
+Accumulative   : No
+Duration       : Instantaneous
+Levels         : [33] Cleric
+Base Mana Cost : 25
+
+This spell feasts the victim. 
+#
+HELP
+Following help is available:
+
+HELP help       - This text.
+HELP            - List the available commands.
+
+Help searches for a partial match of the entered word, including any
+spaces that may follow the word.
+
+Examples:
+ 'help magic mis'
+    will find the help text for the magic missile spell.
+
+ 'help mag '
+   will not match anything.
+
+ 'help mag'
+   will match 'magic user' or 'magic missile' depending on first
+   occurence in the help file.
+#
+DONATE
+You can send objects to Donation Room.  Cursed objects cannot be donated.
+
+Examples:
+	donate sword
+	donate shield
+#
+ADVANCE
+Immortal only command.
+To advance a player to a level higher than his present. Default is to advance
+him one level. A level 0 player (Man/Woman) is always only advanced by one
+level.
+#
+WIZHELP
+Immortal and avatar only command.
+List the privileged commands available to you. Can only be used by immortals.
+#
+NOSHOUT
+Immortal only command.
+Prevents you from (or allows you to) hearing shouts, if used with no arguments.
+Can be used with the name of a player, to prevent him/her from hearing shouts,
+as well as from shouting. Can only be used by certain more powerful beings.
+#
+RESTORE
+Immortal only command.
+If used on a mortal, this command will reset that players mana and hit points.
+If used on an Immortal various values will be reset to their proper values.
+#
+LINK
+A lot of players have problems with their links to the game. This could be
+very dangerous to your healt in the middle of a combat. But we have worked
+out a solution. There are two cases:
+
+  I.If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you. If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+ II.If your link jams (freezes) you got a problem. The only solution we
+    can give, is that you break your link as quickly as possible. By
+    breaking the link you can hope that the above procedure is initiated.
+#
+HOUSES
+Player Houses in DikuMUD
+------------------------
+
+In DikuMUD it is possible for players on all experience levels to buy a house
+in the residential area in the southern part of Midgaard.
+
+As some areas are more sought after than others, the prices vary quite a bit
+The base price of a house with one room and an ordinary lock is as follows:
+
+                   House on Emerald Avenue :  50,000,000 coins
+                   House on Park Road      :  50,000,000 coins
+                   House on Elm Street     :  50,000,000 coins
+
+         The following objects can be purchased for an extra price:
+
+                        Pick-proof lock:       10,000,000
+                        Interdimensional Gate: 50,000,000
+                                (gates are more for special cases)
+                        Other suggestions will be taken into consideration.
+#
+AREAGUIDE
+note for area designers:
+- read flags.txt, database.doc and dbsup.doc for starters
+- Then get a hold of the area_guide.doc &  the world editor
+- where you ask? try ftp gpx.lis.uiuc.edu anonymous of course and check for
+ pub/Crimson or somesuch. If its not there yet...
+- mail musumeci@gpx.lis.uiuc.edu and he'll mail 'em to you..
+- or mail rhaksi@engr.uvic.ca and I'll mail 'em to ya..
+- AC's start at 20 and descend towards -20 or 
+ lower I spose... Thacos start at 30 and descend down from there ie
+- 100 and the mob will *NEVER* miss AC depending of course, 0 is probably
+ a more reasonable lower bound)
+- ftp completed areas to pub/incoming
+
+NOTE: We are *DESPERATELY* in need of Good-aligned areas for Anti-paladins and Demon Knights to go kill things in
+
+Major/minor changes ahead...
+----------------------------
+* Withdraw, Balance, Deposit commands (and a banker mob) ***DONE***
+* When night falls it gets dark out (except in City Sects and Indoors)
+  (people carry lights) ***DONE*** 
+* right now people can 'pour fountain out' might fix this sometime...
+  ie allow for infinite liquid source, have to check over the code might
+  do this allready for contains = -1....
+* Darksight spell ***DONE***
+* Purchasing PR's, increasing stats, healings, restorations...(healer mob)
+* those new spells that I've defined and not yet coded...
+* SolvedQuest(int n) routine, ie only get experience for solving a particular
+  quest the first time.. (to whoever you're grouped with as well, s'long as
+  you're all in the same room)
+* new zone types and flags whenever I think of some...
+#
+COMPACT
+If you have a small display you might want to use this command. It turns off
+(or on) the extra newline after output to your screen.
+
+See also: BRIEF
+#
+SKILLS
+The following is an example of how skills work here at Crimson. All the other
+classes differ of course, but this is all I've had the time to write up...
+Generally, a skill will give you a bonus of skill/10 ie slash 30 equates to
+plus 3 to hit...
+
+Class: Warrior
+
+Lvl     Skill           Max     Gain(@Int=18)
+
+1       Slash           30      (10)
+        Pierce          30      (10)
+        Bludgeon        30      (10)
+
+3       Rescue          50      (25)
+
+5       Rescue          50+30   (16)
+        Damage          30      (10)
+
+7       Kick            50      (25)
+        Bash            50      (25)
+
+10      Kick            50+30   (16)
+        Bash            50+30   (16)
+        Slash           30+20   (5)
+        Pierce          30+20   (5)
+        Bludgeon        30+20   (5)
+        2nd Attack      30      (10)
+
+15      Damage          30+20   (5)
+        Parry           20      (5)
+
+20      Slash           30+20+50(4)
+        Pierce          30+20+50(4)
+        Bludgeon        30+20+50(4)
+        2nd Attack      30+30   (8)
+        3rd Attack      30      (8)
+
+25      Damage          30+20+20(3)
+        Parry           20+5    (4)
+        3rd Attack      30+10   (6)
+
+30      Kick            50+30+10(12)
+        Bash            50+30+10(12)
+        Rescue          50+30+10(12)
+        2nd Attack      30+30+30(5)
+        3rd Attack      30+10+10(5)
+        4th Attack      20      (5)
+
+35      Parry           20+5+5  (3)
+        4th Attack      20+10   (4)
+
+38      4th Attack      20+10+10(3)
+#~
+~

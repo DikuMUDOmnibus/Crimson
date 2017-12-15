@@ -1,0 +1,51 @@
+#15450
+mob Strahd Zarovich vampire~
+Strahd von Zarovich~
+Count Strahd von Zarovich towers over you.
+~
+Count Strahd von Zarovich is obviously the master of this realm.
+Nothing happens here without his knowledge.  Be careful of him as he can kill
+you in a heartbeat...or less....
+~
+35717932 101187768 -1000 S
+45 -60 -1 500d244+1000 20d100+0
+400000 99999
+8 8 1
+#15451
+mob Van Helsing~
+Dr. Van Helsing~
+Dr. Van Helsing is standing here.
+~
+Dr. Van Helsing is an aging man well learned in the lore of the undead. His
+experiences have turned his once dark black hair to white. He stands almost
+six feet tall and must weigh about 200 pounds.
+~
+520 536870920 1000 S
+42 -40 -2 20d20+500 8d8+20
+10000 50000
+8 8 1
+#15452
+mob spectre~
+Spectre~
+A Spectre glides towards you...
+~
+A semi-transparent spectre looks back at you ready to steal the life out
+of you.
+~
+33554792 100663432 -1000 S
+42 -10 0 100d100+1000 6d100+40
+1 70000
+8 8 0
+#15453
+mob Ghost~
+Ghost~
+A transparent Ghost hovers before you.
+~
+You feel yourself aging as you stare into this gruesome being of pure evil.
+~
+33554984 33554568 -1000 S
+38 -10 0 100d50+1000 4d100+50
+1 50000
+8 8 0
+$~
+#999999

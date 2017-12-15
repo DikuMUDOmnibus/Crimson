@@ -1,0 +1,1964 @@
+#8100
+The Warp To Midgaard~
+This Is one of the rooms in the hall of transportation, Up leads to the
+zonelord board, and down leads to Midgaard.
+~
+20 8 1
+D0
+The Hall of Transportation
+~
+~
+0 -1 8122
+D2
+~
+~
+0 -1 20000
+D4
+The zonelord message board room.
+~
+~
+0 -1 8311
+D5
+Temple of Midgaard.
+~
+~
+0 -1 3001
+S
+#8101
+The Bog~
+The Bog is up to your waist, slimy, foul substances floating around your legs
+and trying to suck you down. Small bugs fly around your head and small
+creatures skitter about.
+~
+20 0 6
+D0
+The Bog
+~
+~
+0 -1 8151
+D1
+The Bog
+~
+~
+0 -1 8152
+D2
+The Bog
+~
+~
+0 -1 8136
+S
+#8102
+The Hall Of Great People~
+This hall is covered in paintings of people from the world of Crimson,
+large banners fly from the walls and all around you are objects made
+of gold. The stunning visages of people you know look throughout the
+hall, the painted faces look almost alive.
+~
+20 12 0
+D1
+The Hall Of Great People
+~
+~
+0 -1 8156
+D3
+The Hall Of Great People
+~
+~
+0 -1 8157
+D5
+The Grand Hall
+~
+~
+0 -1 8142
+S
+#8103
+A Spiral Staircase~
+This is a long, spiral staircase leading who-knows-where, soaring into the
+sky and seemingly never stopping. The many windows let you see that you are
+rising above the cowfields and the Grand Hall.
+~
+20 8 0
+D4
+A Spiral Staircase Leads Further Into The Sky
+~
+~
+0 -1 8104
+D5
+The Hall Of Great People
+~
+~
+0 -1 8157
+S
+#8104
+A Spiral Staircase, Further Into The Air~
+The air up in this part of the staircase as you rise further into the sky
+and you feel slightly nauseous as you look down. The windows tell you
+that you are far above the cowfields and the Grand Hall.
+~
+20 12 0
+D4
+The Watchtower
+~
+~
+0 -1 8105
+D5
+A Spiral Staircase Leads Up
+~
+~
+0 -1 8103
+S
+#8105
+The Watchtower~
+You have reached dizzying heights. After the long walk up the staircase, you
+have emerged in a small room with weapons and armor stacked on one wall and
+the rest open so you can see all the cowfields. Below you, the cows graze
+like tiny black, white and brown pebbles shifting over the fields of lush
+green grass and flowers. This is where the Cow protector stands guard over
+the cows.
+~
+20 8 1
+D5
+The Staircase Leads Further Into The Sky
+~
+~
+0 -1 8104
+S
+#8106
+The Outfitting Room~
+This room is filled with plastic protective suits and goggles. The suits are
+here to prevent liquids, acids, potion components, etc. from getting on the
+skin. There are two kinds, one for cows, and one for humans.
+~
+20 8 0
+D0
+The Grand Hall
+~
+~
+0 -1 8142
+D2
+The Science Hall
+~
+~
+0 -1 8110
+S
+#8107
+The Magic Room~
+You have entered the room where The Holy Cow does his spellcasting. There are
+scrolls, wands, spell components and other obviously magical items strewn
+about on various desks. There is a large bookcase covering the entire southern
+wall. The bookcase is filled with huge tomes, magic runes glowing a myriad of
+colors down their long spines.
+~
+20 8 0
+D0
+The Grand Hall
+~
+~
+0 -1 8140
+D1
+The Magic Room
+~
+~
+0 -1 8108
+S
+#8108
+The Magic Room~
+You have entered the room where The Holy Cow does his spellcasting. There are
+scrolls, wands, spell components and other obviously magical items strewn
+about on various desks. There is a large bookcase covering the entire southern
+wall. The bookcase is filled with huge tomes, magic runes glowing a myriad of
+colors down their long spines.
+~
+20 8 0
+D3
+The Magic Room
+~
+~
+0 -1 8107
+D5
+The Unstable Room
+This door is dedicated to Paragon.
+~
+door~
+1 8103 8109
+S
+#8109
+The Unstable Room~
+This room has been closed by The Holy Cow and is only open for those who do
+so at their own risk. The Holy Cow will not be held responsible in any way
+if a person enters this portal. The unstable portal is to the south.
+~
+20 8 0
+D2
+The Unstable Portal
+~
+~
+0 -1 8167
+D4
+It's kind of distorted but you think you can see the magic room...
+~
+door~
+1 8103 8108
+S
+#8110
+The Science Hall~
+This room is filled with racks upon racks of beakers, burners, vials, test
+tubes, hoses, potions, liquids, jars, cans, body parts and everything else
+you have ever seen in a science lab... and more. This is where The Holy Cow
+conducts experiments and makes potions, etc.
+~
+20 8 0
+D0
+The Outfitting Room
+~
+~
+0 -1 8106
+D1
+The Science Hall
+~
+~
+0 -1 8162
+D3
+The Recall Room
+~
+~
+0 -1 8165
+S
+#8111
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8114
+D2
+The Cowfield
+~
+~
+0 -1 8130
+D3
+The Cowfield
+~
+~
+0 -1 8112
+S
+#8112
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8115
+D1
+The Cowfield
+~
+~
+0 -1 8111
+D2
+The Cowfield
+~
+~
+0 -1 8129
+D3
+The Cowfield
+~
+~
+0 -1 8113
+S
+#8113
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8116
+D1
+The Cowfield
+~
+~
+0 -1 8112
+D2
+The Cowfield
+~
+~
+0 -1 8128
+S
+#8114
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south. To the east,
+you see large mounds of dung.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8117
+D1
+The Dungpile
+~
+~
+0 -1 8135
+D2
+The Cowfield
+~
+~
+0 -1 8111
+D3
+The Cowfield
+~
+~
+0 -1 8115
+S
+#8115
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8119
+D1
+The Cowfield
+~
+~
+0 -1 8114
+D2
+The Cowfield
+~
+~
+0 -1 8112
+D3
+The Cowfield
+~
+~
+0 -1 8116
+S
+#8116
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8118
+D1
+The Cowfield
+~
+~
+0 -1 8115
+D2
+The Cowfield
+~
+~
+0 -1 8113
+S
+#8117
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D2
+The Cowfield
+~
+~
+0 -1 8114
+D3
+The Cowfield
+~
+~
+0 -1 8119
+S
+#8118
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D1
+The Cowfield
+~
+~
+0 -1 8119
+D2
+The Cowfield
+~
+~
+0 -1 8116
+S
+#8119
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Beginning....
+~
+~
+0 -1 8120
+D1
+The Cowfield
+~
+~
+0 -1 8117
+D2
+The Cowfield
+~
+~
+0 -1 8115
+D3
+Thw Cowfield
+~
+~
+0 -1 8118
+S
+#8120
+Where The Road Meets The Fields~
+This is the place where the road meets the fields.
+Welcome to Cowland.
+~
+20 12 1
+D0
+Back on the Dirtless Road.
+~
+~
+0 -1 8183
+D2
+The Cowfield
+~
+~
+0 -1 8119
+S
+#8121
+Cowman's Room~
+You're in a large airy room with lots of windows to the outside where you can
+smell fresh grass. The room is covered in cow wallpaper and has a nice homey
+feel to it. There is a bed in the corner of the room with Cow-Spotted sheets
+and a Cow-spotted pillowcase. There's a TV in the other corner with a Super
+Nintendo hooked up to it, there's also a VCR and a large video collection.
+There is a giant supercomputer here where Cowman plays Crimson MUD.
+A nightstand is here with a few bananas on it.
+Cowman's pet puppy, 'Bidderdoo The Wonderdog' is here, chasing it's tail.
+~
+20 8204 0
+D1
+Cowman's Bathroom
+~
+~
+16 -1 8127
+D2
+The Testing site
+~
+~
+16 -1 8143
+D3
+The Hall Of Transportation
+~
+~
+16 -1 8122
+D5
+The Food Room
+~
+~
+16 -1 8166
+S
+#8122
+The Hall Of Transportation~
+This is the hall of transportation, rooms lead off from here where portals are
+to take you to another part of crimson. These are here for Cowman to get around.
+~
+20 8 1
+D0
+You can't see a damn thing!
+~
+~
+0 -1 8120
+D1
+Cowman's Room
+~
+~
+0 -1 8121
+D2
+The Warp To Midgaard
+~
+~
+0 -1 8100
+D3
+The Hall Of Transportation
+~
+~
+0 -1 8123
+S
+#8123
+The Hall Of Transportation~
+This is the hall of transportation, rooms lead off from here where portals are
+to take you to another part of crimson. These are here for Cowman to get
+around.
+~
+20 8 1
+D1
+The Hall Of Transportation
+~
+~
+0 -1 8122
+D3
+The Hall Of Transportation
+~
+~
+0 -1 8124
+S
+#8124
+The Hall Of Transportation~
+This is the hall of transportation, rooms lead off from here where portals are
+to take you to another part of crimson. These are here for Cowman to get
+around.
+~
+20 8 1
+D1
+The Hall Of Transportation
+~
+~
+0 -1 8123
+D3
+Tontapus's Room
+~
+~
+0 -1 8125
+S
+#8125
+Tontapus's Room~
+This is Tontapus' room. It is a large large luxurious room. It has a swimming
+pool and a hot tub in one corner. In another,, it has a large king
+size bed, and the frame is coated in cold. In another corner, he has a '64
+Impala that's all chromed out, has a LOUD stereo system, and some gold
+daytons. This room is so big there is actually enough room to drive it around.
+In the last corner, there is a GIANT screen TV. You also notice the many many
+many supermodels walking around.
+~
+20 8204 1
+D1
+The Hall Of Transportation
+~
+~
+16 -1 8124
+D3
+Tontapus's Bathroom
+~
+~
+16 -1 8126
+D5
+The Food Room
+~
+~
+16 -1 8166
+S
+#8126
+Tontapus's Bathroom~
+Desc L8R
+~
+20 8 1
+D1
+Tontapus's Bedroom
+~
+~
+0 -1 8125
+S
+#8127
+Cowman's Bathroom~
+This is a nice, cow-spotted bathroom with a cow-spotted toilet and
+lots of magazines to read while on the can. There is a TV across the
+room from the toilet with 100 channels. There's a fridge here
+(fully stocked) and a nice, Lazy Boy reclining back to the toilet.
+heck.... you could almost live in here!
+~
+20 8 1
+D3
+Cowman's Room
+~
+~
+0 -1 8121
+S
+#8128
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8113
+D1
+The Cowfield
+~
+~
+0 -1 8129
+S
+#8129
+The Cowfield~
+You are in The cowfield, to the south, you see the entranceway
+into the grand hall of the Holy Cow. The giant palace looks like
+it is made entirely of gold! The tall, spiralling towers and spires
+rise far into the sky. The entrance you see to the  south is
+studded with precious gemstones as big as your head.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8112
+D1
+The Cowfield
+~
+~
+0 -1 8130
+D2
+The Entrance to the Grand Hall Of The Holy Cow
+~
+~
+0 -1 8131
+D3
+The Cowfield
+~
+~
+0 -1 8128
+S
+#8130
+The Cowfield~
+A lush green cowfield is here, cows roam freely here and a
+large tower rises into the air to the south.
+~
+20 0 2
+D0
+The Cowfield
+~
+~
+0 -1 8111
+D3
+The Cowfield
+~
+~
+0 -1 8129
+S
+#8131
+The Entrance to the Grand Hall of the Holy Cow~
+All around you, things sparkle and glitter as the light hits them.
+Giant diamonds, rubies sapphires and other gems dot the giant
+walls. You see a room for the farmers to the east and to the
+south there are a giant pair of doors.
+~
+20 12 2
+D0
+The Cowfield
+~
+~
+0 -1 8129
+D1
+The Farmers' Rooms
+~
+~
+0 -1 8132
+D2
+Before The Doors Of The Grand Hall
+~
+grand doors door~
+1 8131 8133
+D3
+The Cow's Breath Inn
+~
+~
+0 -1 8149
+S
+#8132
+The Farmers' Rooms~
+The farmers' rooms are here, many farmers are relaxing andtalking to each
+other, no one seems to notice you enter. A rack with pitchforks stacked on
+it is on the north wall and a key keeper stands to the south. Beds line the
+wall to the east and to the west is the Entrance.
+~
+20 8 0
+D3
+The Entrance to the Grand Hall of the Holy Cow
+~
+~
+0 -1 8131
+S
+#8133
+Before the Doors of the Grand Hall~
+A pair of giant, gold covered doors are here, blocking passage
+to the grand hall, there is a keyhole at about your eye level.
+To the north is the entranceway.
+~
+20 8 0
+D0
+The Entrance to the Grand Hall of the Holy Cow
+~
+~
+0 -1 8131
+D2
+The Grand Hall of the Holy Cow
+~
+doors~
+1 8131 8134
+S
+#8134
+The Grand Hall Of The Holy Cow~
+This is The Grand Hall Of The Holy Cow, it's the largest, grandest
+hall in all of Crimson. The whole hall is covered in glittering gold
+and jewels. Rivulets of silver writhe like veins across the broad
+expanse of the immeasurably high ceiling. The walls are covered in
+expensive-looking tapestries depicting red and gold dragons, griffions,
+knights, catapults and other people on giant, bloody battlefields.
+The Hall continues to the east and west.
+~
+20 8 2
+D0
+Before the Doors of the Grand Hall
+~
+~
+1 -1 8133
+D1
+The Grand Hall
+~
+~
+0 -1 8139
+D3
+The Grand Hall
+~
+~
+0 -1 8141
+S
+#8135
+The Dungpile~
+You are in a large, disgusting dung heap that stinks worse than
+anything you could have possibly imagined. It looks like the
+cows have been using this place for quite some time! The
+cowfield is to the west and a small trail winds east through
+the mounds of fertilizer.
+~
+20 4 2
+D1
+The Bog
+~
+~
+0 -1 8136
+D3
+The Cowfield
+~
+~
+0 -1 8114
+S
+#8136
+The Bog~
+The mounds of dung here have sort of melted into a giant bog where the
+water (?) is waist-deep. You are forced to wade through it. To the west
+are the cowfields.
+~
+20 0 6
+D0
+The Bog
+~
+~
+0 -1 8101
+D2
+The Bog
+~
+~
+0 -1 8153
+D3
+The Dungpile
+~
+~
+0 -1 8135
+S
+#8137
+The Island of Muglopp the Muck Monster~
+You are on a small island in the middle of the bog. As you step
+closer to the center of the island, you see a large unlit cave.
+~
+20 4 2
+D0
+The Bog
+~
+~
+0 -1 8155
+D1
+The Cave
+~
+~
+0 -1 8138
+S
+#8138
+The Cave Of Muglopp~
+You are in a small, unlit cave. Bones are strewn around, other visitors
+to this cave, you guess. The bones have not a speck of flesh left on them,
+they were..... sucked dry.
+~
+20 9 0
+D3
+The Island of Muglopp the Muck Monster
+~
+~
+0 -1 8137
+S
+#8139
+The Grand Hall Of The Holy Cow~
+This is The Grand Hall Of The Holy Cow, it's the largest, grandest
+hall in all of Crimson. The whole hall is covered in glittering gold
+and jewels. Rivulets of silver writhe like veins across the broad
+expanse of the immeasurably high ceiling. The walls are covered in
+expensive-looking tapestries depicting red and gold dragons, griffions,
+knights, catapults and other people on giant, bloody battlefields.
+The Hall continues to the east and west.
+~
+20 8 2
+D1
+The Grand Hall
+~
+~
+0 -1 8140
+D2
+The Holy Cow's Chamber
+~
+~
+0 -1 8145
+D3
+The Grand Hall
+~
+~
+0 -1 8134
+S
+#8140
+The Grand Hall Of The Holy Cow~
+This is The Grand Hall Of The Holy Cow, it's the largest, grandest
+hall in all of Crimson. The whole hall is covered in glittering gold
+and jewels. Rivulets of silver writhe like veins across the broad
+expanse of the immeasurably high ceiling. The walls are covered in
+expensive-looking tapestries depicting red and gold dragons, griffions,
+knights, catapults and other people on giant, bloody battlefields.
+The Hall continues to the west.
+~
+20 12 2
+D1
+The Royal Dining Hall
+~
+~
+0 -1 8160
+D2
+The Magic Room
+~
+~
+0 -1 8107
+D3
+The Grand Hall
+~
+~
+0 -1 8139
+S
+#8141
+The Grand Hall Of The Holy Cow~
+This is The Grand Hall Of The Holy Cow, it's the largest, grandest
+hall in all of Crimson. The whole hall is covered in glittering gold
+and jewels. Rivulets of silver writhe like veins across the broad
+expanse of the immeasurably high ceiling. The walls are covered in
+expensive-looking tapestries depicting red and gold dragons, griffions,
+knights, catapults and other people on giant, bloody battlefields.
+The Hall continues to the east and west.
+~
+20 8 2
+D1
+The Grand Hall
+~
+~
+0 -1 8134
+D2
+The Cow Protector's Room
+~
+~
+0 -1 8144
+D3
+The Grand Hall
+~
+~
+0 -1 8142
+S
+#8142
+The Grand Hall Of The Holy Cow~
+This is The Grand Hall Of The Holy Cow, it's the largest, grandest
+hall in all of Crimson. The whole hall is covered in glittering gold
+and jewels. Rivulets of silver writhe like veins across the broad
+expanse of the immeasurably high ceiling. The walls are covered in
+expensive-looking tapestries depicting red and gold dragons, griffions,
+knights, catapults and other people on giant, bloody battlefields.
+The Hall continues to the east.
+~
+20 8 2
+D1
+The Grand Hall
+~
+~
+0 -1 8141
+D2
+The Outfitting Room
+~
+~
+0 -1 8106
+D4
+The Hall Of Great People
+~
+~
+0 -1 8102
+S
+#8143
+The Testing Site~
+This is the testing site where cowman tries out his commands.
+Cowman's room is north.
+~
+20 12 0
+D0
+Cowman's Room
+~
+~
+0 -1 8121
+S
+#8144
+The Cow Protector's Room~
+This room is painted entirely in black and has axes and war-
+hammers, cudgels and other weapons lying in stacks around
+the room, there is a large fireplace to the east with pictures
+on the mantle. There are large boxing bags and smaller speed
+bags hanging from the ceiling. The entrance to the Hall is north.
+~
+20 8 2
+D0
+The Grand Hall
+~
+~
+0 -1 8141
+S
+#8145
+The Holy Cow's Chambers~
+These are the Chambers of The Holy Cow. As you enter, you instantly feel a
+divine presence. All your hair rises and a tingle runs down your spine.
+This room is a like a giant hollowed out diamond. Powerful scrolls and
+vials lay on a few racks around the room, hinting at the great magical
+ability of the holy cow. The Great Hall is North.
+~
+20 8 2
+D0
+The Grand Hall
+~
+~
+0 -1 8139
+S
+#8146
+A Small Dirt Road~
+You stand on a small dirt road. There is nothing very special about this road.
+It looks like it is very old and use to belong to a much greater road.
+~
+20 12 4
+D2
+The Dirt Road continues South.
+~
+The Dirt Road continues south~
+0 -1 8147
+D3
+~
+~
+0 -1 14404
+S
+#8147
+A Small Dirt Road~
+You stand on a small dirt road. There is nothing very special about this road.
+It looks like it is very old and use to belong to a much greater road. You
+notice quite a bit of green to the southeast.
+~
+20 12 4
+D0
+The Dirt Road continues North.
+~
+~
+0 -1 8146
+D2
+The Dirt Road continues South to a bend.
+~
+The Dirt Road continues South to a bend.~
+0 -1 8148
+S
+#8148
+A Small Dirtless Road~
+You are at a bend in the dirt road. The road continues to the North and to the
+South you can see giant fields.
+~
+20 12 4
+D0
+The Dirt Road continues North.
+~
+~
+0 -1 8147
+D1
+The Dirtless Road continues to the East.
+~
+~
+0 -1 8183
+S
+#8149
+The Cow's Breath Inn~
+This is a nice, clean inn. The innkeeper sits on his stool, ocasionally
+wiping the counter. A young parmaid delivers food to the patrons who
+eye her appreciatevly. A large hearth is in the room with pictures of
+the innkeeper and his wife strung over it. Delicious smells come from
+the kitchen where the inkeepers wife is cooking up some wonderful meal
+and there are lots of tables for you to sit at. The Famous Tavern is
+to the west.
+~
+20 8 0
+D1
+The Entrance to the Grand Hall
+~
+~
+0 -1 8131
+D3
+The Famous Cow's Breath Tavern is to the West
+~
+~
+0 -1 8150
+S
+#8150
+The Famous Cow's Breath Tavern~
+This Is another part of the Cow's breath inn. There is a bar built into
+the north wall and a bartender behind it mixing a drink. bottles are
+stacked on racks behind him and racks on the ceiling hold glasses. This
+famous bar is known the world over for it's fantastic array of drinks.
+The inn is to the east.
+~
+20 8 0
+D1
+You see The Cow's Breath Inn
+~
+~
+0 -1 8149
+S
+#8151
+The Bog~
+The Bog is up to your waist, slimy, foul substances floating around your legs
+and trying to suck you down. Small bugs fly around your head and small
+creatures skitter about.
+~
+20 0 6
+D2
+The Bog
+~
+~
+0 -1 8101
+S
+#8152
+The Bog~
+The Bog is up to your waist, slimy, foul substances floating around your legs
+and trying to suck you down. Small bugs fly around your head and small
+creatures skitter about.
+~
+20 0 6
+D3
+The Bog
+~
+~
+0 -1 8101
+S
+#8153
+The Bog~
+The Bog is up to your waist, slimy, foul substances floating arount your legs
+and try to suck you down. small bugs fly around your head and small
+creatures skitter about.
+~
+20 0 6
+D0
+The Bog
+~
+~
+0 -1 8136
+D1
+The Bog
+~
+~
+0 -1 8154
+S
+#8154
+The Bog~
+The Bog is up to your waist, slimy, foul substances floating arount your legs
+and try to suck you down. small bugs fly around your head and small
+creatures skitter about.
+~
+20 0 6
+D2
+The Bog
+~
+~
+0 -1 8155
+D3
+The Bog
+~
+~
+0 -1 8153
+S
+#8155
+The Bog~
+The Bog is up to your waist, slimy, foul substances floating arount your legs
+and try to suck you down. small bugs fly around your head and small
+creatures skitter about.
+~
+20 0 6
+D0
+The Bog
+~
+~
+0 -1 8154
+D2
+The Island Of Muglopp
+~
+~
+0 -1 8137
+S
+#8156
+The Hall Of Great People~
+This hall is covered in paintings of people from the world of Crimson,
+large banners fly from the walls and all around you are objects made
+of gold. The stunning visages of people you know look throughout the
+hall, the painted faces look almost alive. There is a giant painting
+of Cowman, the creator of this zone, completely taking up the East
+wall.
+~
+20 12 0
+D3
+The Hall Of Great People
+~
+~
+0 -1 8102
+S
+#8157
+The Hall Of Great People~
+This hall is covered in paintings of people from the world of Crimson,
+large banners fly from the walls and all around you are objects made
+of gold. The stunning visages of people you know look throughout the
+hall, the painted faces look almost alive.
+A spiral staircase leads up into the sky.
+~
+20 12 0
+D1
+The Hall Of Great People
+~
+~
+0 -1 8102
+D3
+The Hall Of Great People
+~
+~
+0 -1 8158
+D4
+A spiral staircase leads up.
+~
+~
+0 -1 8103
+S
+#8158
+The Hall Of Great People~
+This hall is covered in paintings of people from the world of Crimson,
+large banners fly from the walls and all around you are objects made
+of gold. The stunning visages of people you know look throughout the
+hall, the painted faces look almost alive.
+~
+20 12 0
+D1
+The Hall Of Great People
+~
+~
+0 -1 8157
+S
+#8159
+A Small Dirt Road~
+The Dirt Road you have been following has lost most of its dirt and
+has grown over with beautiful emerald grass.
+~
+20 12 0
+D3
+At the Bend in the Dirt Road.
+~
+~
+0 -1 8148
+S
+#8160
+The Royal Dining Hall~
+You have entered a giant dining hall, the ceiling is so high, you have to
+strain your eyes to their limits to even see the crystal chandelier. A
+giant banquet table is in the center of the room and candles burn at
+regular intervals across it. A giant bowl of fruit is in the center of the
+long table, holding a wide variety o fruits, some you have never seen
+before. Chairs line the sides and ends of the table and the kitchen is to
+the east.
+~
+20 8 0
+D1
+The Royal Kitchen
+~
+~
+0 -1 8161
+D3
+The Grand Hall
+~
+~
+0 -1 8140
+S
+#8161
+The Royal Kitchen~
+This is the Royal kitchen, giant pots steam, bubble and simmer along the
+long line of magic fires that heat them. Delicious smells rise out of
+the pots as the food is prepared. On one wall, totally covering it, is
+a cabinet filled with cutlery and fine china. On another wall is a huge
+cupboard filled with food. The royal dining hall is to the west.
+~
+20 8 0
+D3
+The Royal Dining Hall
+~
+~
+0 -1 8160
+S
+#8162
+The Science Hall~
+This room is filled with racks upon racks of beakers, burners, vials, test
+tubes, hoses, potions, liquids, jars, cans, body parts and everything else
+you have ever seen in a science lab... and more. This is where The Holy Cow
+conducts experiments and makes potions, etc.
+~
+20 8 0
+D1
+The Science Hall
+~
+~
+0 -1 8163
+D3
+The Science Hall
+~
+~
+0 -1 8110
+S
+#8163
+The Science Hall~
+This room is filled with racks upon racks of beakers, burners, vials, test
+tubes, hoses, potions, liquids, jars, cans, body parts and everything else
+you have ever seen in a science lab... and more. This is where The Holy Cow
+conducts experiments and makes potions, etc. There is a tapestry to the
+east that seems to be rippling with a small breeze. A breeze behind it,
+perhaps?
+~
+20 8 0
+D1
+You see a Tapestry
+~
+~
+17 -1 8164
+D3
+The Science Hall
+~
+~
+0 -1 8162
+S
+#8164
+The Ultimate Room~
+This is a small, secret room where The Holy Cow keeps his greatest potion
+ever! The Ultimate Potion!
+~
+20 8 0
+D3
+The Science Hall
+~
+~
+0 -1 8163
+S
+#8165
+The Recall Room~
+There is a 2 foot tall man here, obviously one of the Pysk race. He's selling
+recall scrolls from his little house in the corner. The Science Hall is east.
+~
+20 8 0
+D1
+The Science Hall
+~
+~
+0 -1 8110
+S
+#8166
+The Food Room~
+This is where Tontapus and Cowman Eat and Drink
+~
+20 12 0
+D0
+Tontapus' Room
+~
+~
+0 -1 8125
+D4
+Cowman's room
+~
+~
+0 -1 8121
+S
+#8167
+tHe UnStAbLe PoRtAl~
+ThIs RoOm Is VeRy DiStOrTeD, yOu CaNt SeEm To EvEn ReCaLl WhO yOu ArE!
+pInK aNd BlUe PaStEl CoLoRs DrIfT pAsT yOu As YoU fLoAt ThRoUgH tHe
+NoThInGnEsS sUrRoUnDiNg YoU. yOu SeE A rOoM tO tHe EaSt AnD tO tHe
+SoUtH.
+~
+20 8 0
+D0
+tHe UnStAbLe PoRtAl
+~
+~
+0 -1 8167
+D1
+Lunchlady Land
+~
+~
+0 -1 8168
+D2
+The Wizards' Council
+~
+~
+0 -1 8169
+D3
+tHe UnStAbLe PoRtAl
+~
+~
+0 -1 8167
+D4
+tHe UnStAbLe PoRtAl
+~
+~
+0 -1 8167
+D5
+tHe UnStAbLe PoRtAl
+~
+~
+0 -1 8167
+S
+#8168
+In A Strange Place Called Lunchlady Land~
+You have entered a strange place called Lunchlady land, filled with vegetables
+and ruled by the generous lunchlady.
+~
+20 8 0
+D2
+The Gates To Lunchlady Land
+~
+~
+0 -1 8170
+S
+#8169
+The Meeting Room Of The Council Of Wizards~
+You have entered the great meeting room of the council of wizards, a
+group of 4 powerful wizards from all over the world that join their
+magic to discuss and change problems in the world. There is one wizard
+from each order, red, blue, black and gray. This room is large, with a
+long, oak table for the wizards to sit at. The room is illuminated by
+a glowing blue sphere suspended over the table. Wizards room are to the
+north, east, south and west.
+And if you were wondering... NO! the wizard of Oz is not on the coucil!
+~
+20 12 0
+D0
+The room of RaydenX the Blue
+~
+~
+0 -1 8196
+D1
+The room of Gandalf the Grey.
+~
+~
+0 -1 8195
+D2
+The Room Of Dalamar The Black
+~
+~
+0 -1 8197
+D3
+The Room Of Morkai The Red
+~
+~
+0 -1 8194
+D5
+Stairs Lead Sharply Down Into The Caverns
+~
+~
+0 -1 8198
+S
+#8170
+The Gates To Lunchlady Land~
+You are before the great cauliflower gates. Giant pieces of cauliflower rise
+above you, twisting and intertwining in the air to form a pair of gates. To
+the south you see the lunchlady land cafeteria.
+~
+20 8 0
+D2
+The Cafeteria
+~
+~
+0 -1 8171
+D4
+The Resting Room
+~
+~
+0 -1 8178
+S
+#8171
+The Cafeteria~
+You are in the great and wondrous cafeteria of lunchlady land. Vegetables
+walk around on the counters of the serving tables. Lesser lunchladies dish
+out food to people, trying to obtain the grand title of 'Lunchlady'.
+~
+20 8 0
+D0
+The Gates To Lunchlady Land
+~
+~
+0 -1 8170
+D1
+The Cafeteria
+~
+~
+0 -1 8175
+D3
+The Cafeteria
+~
+~
+0 -1 8174
+S
+#8172
+The Cafeteria~
+You are in the great and wondrous cafeteria of lunchlady land. Vegetables
+walk around on the counters of the serving tables. Lesser lunchladies dish
+out food to people, trying to obtain the grand title of 'Lunchlady'.
+~
+20 8 0
+D1
+The Cafeteria
+~
+~
+0 -1 8173
+S
+#8173
+The Cafeteria~
+You are in the great and wondrous cafeteria of lunchlady land. Vegetables
+walk around on the counters of the serving tables. Lesser lunchladies dish
+out food to people, trying to obtain the grand title of 'Lunchlady'.
+~
+20 8 0
+D1
+The Cafeteria
+~
+~
+0 -1 8174
+D2
+The Eating Hall
+~
+~
+0 -1 8182
+D3
+The Cafeteria
+~
+~
+0 -1 8172
+S
+#8174
+The Cafeteria~
+You are in the great and wondrous cafeteria of lunchlady land. Vegetables
+walk around on the counters of the serving tables. Lesser lunchladies dish
+out food to people, trying to obtain the grand title of 'Lunchlady'.
+~
+20 8 0
+D1
+The Cafeteria
+~
+~
+0 -1 8171
+D3
+The Cafeteria
+~
+~
+0 -1 8173
+S
+#8175
+The Cafeteria~
+You are in the great and wondrous cafeteria of lunchlady land. Vegetables
+walk around on the counters of the serving tables. Lesser lunchladies dish
+out food to people, trying to obtain the grand title of 'Lunchlady'.
+~
+20 8 0
+D1
+The Cafeteria
+~
+~
+0 -1 8176
+D2
+The Refridgerator
+~
+~
+0 -1 8185
+D3
+The Cafeteria
+~
+~
+0 -1 8171
+S
+#8176
+The Cafeteria~
+You are in the great and wondrous cafeteria of lunchlady land. Vegetables
+walk around on the counters of the serving tables. Lesser lunchladies dish
+out food to people, trying to obtain the grand title of 'Lunchlady'.
+~
+20 8 0
+D1
+The Cafeteria
+~
+~
+0 -1 8177
+D3
+The Cafeteria
+~
+~
+0 -1 8175
+S
+#8177
+The Cafeteria~
+You are in the great and wondrous cafeteria of lunchlady land. Vegetables
+walk around on the counters of the serving tables. Lesser lunchladies dish
+out food to people, trying to obtain the grand title of 'Lunchlady'.
+~
+20 8 0
+D2
+The Corridor
+~
+~
+0 -1 8179
+D3
+The Cafeteria
+~
+~
+0 -1 8176
+S
+#8178
+The Resting Room~
+This is the room where the guards take their rests when it's not their shift.
+A row of bunks lines the east and north walls and some weapon and armor
+racks are lined up on the west wall. The whole room is carved out of the
+cauliflower gates.
+~
+20 8 0
+D5
+The Gate To Lunchlady land
+~
+~
+0 -1 8170
+S
+#8179
+The Corridor~
+This is a corridor leading off from the cafeteria to the north and leading
+into the hall to the east.
+~
+20 8 0
+D0
+The Cafeteria
+~
+~
+0 -1 8177
+D1
+The Hallway Outside The Lunchlady's Room
+~
+~
+0 -1 8180
+S
+#8180
+The Hallway Outside The Lunchlady's Room~
+This Is the hall outside the doors to the lunchlady's room. To the east are
+a pair of grand double-doors leading into the room of the lunchlady, the ruler
+of lunchlady land and mistress of veggies. To the west you see the long corridor.
+~
+20 8 0
+D1
+The Lunchlady's Room
+~
+door~
+1 8122 8181
+D3
+The Corridor
+~
+~
+0 -1 8179
+S
+#8181
+The Lunchlady's Room~
+You have entered the room of the lunchlady. You are amazed by everything
+here! This room is possibly more grand than the room of The Holy Cow
+himself. Everything here is made of food! The walls are sculpted mashed-
+potatoes and there is a chandelier of peas above your head. Woven meatloaf
+carpets line the floors and potted parsley plants hang from the ceiling
+in place of normal plants. The first thing you think upon entering this
+room is WOW! I'm getting hungry!
+~
+20 8 0
+D3
+The hallway outside the Lunchlady's Room.
+~
+~
+0 -1 8180
+S
+#8182
+The Eating Hall~
+This room is where people eat after getting their food. A long line of
+tables runs down the center of this hall with chairs along it. People
+are seated here, having a nice, warm meal.
+~
+20 8 0
+D0
+The Cafeteria
+~
+~
+0 -1 8173
+D2
+The Eating Room.
+~
+~
+0 -1 8184
+S
+#8183
+A Small Dirtless Road~
+This is a Small Dirtless Road, you can see massive fields to the south, they
+are filled with little black and white things you cant distinguish from here.
+~
+20 8 0
+D2
+A Massive Field is to the South
+~
+~
+0 -1 8120
+D3
+The Dirtless Road continues to the West.
+~
+~
+0 -1 8148
+S
+#8184
+The Eating Hall~
+This room is where people eat after getting their food. A long line of
+tables runs down the center of this hall with chairs along it. People
+are seated here, having a nice, warm meal.
+~
+20 8 0
+D0
+~
+~
+0 -1 8182
+S
+#8185
+The Refridgerator~
+You are in a giant, walk in refridgerator. It's extremely cold and stacks
+of foods lie all over the place. You think you can feel fresh air seeping
+in from the south...
+~
+20 12 0
+D0
+The Cafeteria
+~
+~
+0 -1 8175
+D2
+There's A Small Hole In The Back Of The Refridgerator... Maybe You Can Slip Through
+~
+~
+16 -1 8187
+S
+#8186
+The Veggie Rebel Hideout~
+You are in the hideout of the veggie rebels, a group of vegetables that
+dont want to be under the rule of the lunchlady. Veggies walk around here,
+plotting on how to dispose of the lunchlady. This whole operation is
+lead by one, evil veggie... The Diabolical Cabbage Overlord.
+~
+20 8 0
+D1
+The Veggie Rebel Hideout
+~
+~
+0 -1 8187
+D2
+The Veggie Rebel Hideout
+~
+~
+0 -1 8189
+S
+#8187
+The Veggie Rebel Hideout~
+You are in the hideout of the veggie rebels, a group of vegetables that
+dont want to be under the rule of the lunchlady. Veggies walk around here,
+plotting on how to dispose of the lunchlady. This whole operation is
+lead by one, evil veggie... The Diabolical Cabbage Overlord.
+~
+20 8 0
+D0
+The Veggie Rebel Hideout
+~
+~
+0 -1 8185
+D1
+The Veggie Rebel Hideout
+~
+~
+0 -1 8188
+D2
+The Veggie Rebel Hideout
+~
+~
+0 -1 8190
+D3
+The Veggie Rebel Hideout
+~
+~
+0 -1 8186
+S
+#8188
+The Veggie Rebel Hideout~
+You are in the hideout of the veggie rebels, a group of vegetables that
+dont want to be under the rule of the lunchlady. Veggies walk around here,
+plotting on how to dispose of the lunchlady. This whole operation is
+lead by one, evil veggie... The Diabolical Cabbage Overlord.
+~
+20 8 0
+D2
+The Veggie Rebel Hideout
+~
+~
+0 -1 8191
+D3
+The Veggie Rebel Hideout
+~
+~
+0 -1 8187
+S
+#8189
+The Veggie Rebel Hideout~
+You are in the hideout of the veggie rebels, a group of vegetables that
+dont want to be under the rule of the lunchlady. Veggies walk around here,
+plotting on how to dispose of the lunchlady. This whole operation is
+lead by one, evil veggie... The Diabolical Cabbage Overlord.
+~
+20 8 0
+D0
+The Veggie Rebel Hideout
+~
+~
+0 -1 8186
+D1
+The Veggie Rebel Hideout
+~
+~
+0 -1 8190
+S
+#8190
+The Veggie Rebel Hideout~
+You are in the hideout of the veggie rebels, a group of vegetables that
+dont want to be under the rule of the lunchlady. Veggies walk around here,
+plotting on how to dispose of the lunchlady. This whole operation is
+lead by one, evil veggie... The Diabolical Cabbage Overlord.
+~
+20 8 0
+D0
+The Veggie Rebel Hideout
+~
+~
+0 -1 8187
+D1
+The Veggie Rebel Hideout
+~
+~
+0 -1 8191
+D2
+The Door To The Overlord's Chambers
+~
+~
+0 -1 8192
+D3
+The Veggie Rebel Hideout
+~
+~
+0 -1 8189
+S
+#8191
+The Veggie Rebel Hideout~
+You are in the hideout of the veggie rebels, a group of vegetables that
+dont want to be under the rule of the lunchlady. Veggies walk around here,
+plotting on how to dispose of the lunchlady. This whole operation is
+lead by one, evil veggie... The Diabolical Cabbage Overlord.
+~
+20 8 0
+D0
+The Veggie Rebel Hideout
+~
+~
+0 -1 8188
+D3
+The Veggie Rebel Hideout
+~
+~
+0 -1 8190
+S
+#8192
+The Door To The Overlord's Chambers~
+You are before the doors to the chamber of the diabolical cabbage overlord.
+~
+20 8 0
+D0
+The Veggie Rebel Hideout
+~
+~
+0 -1 8190
+D2
+The Door To The Overlord's Chambers
+~
+~
+0 -1 8193
+S
+#8193
+The Chambers Of The Diabolical Cabbage Overlord~
+You have entered the chamber of the diabolical cabbage overlord, the brains
+of the veggie rebels. This is a small room with a desk to the west, covered
+in books and other various things. Over the desk are pictures depicting
+great veggie heroes who were cooked trying to overthrow the lunchlady. On
+the back of the doors you entered by, there is a dart-board with a picture
+of the lunchlady on it. Holes are in a few choice places on the lunchlady's
+body.
+~
+20 8 0
+D0
+The Door's To The Overlord's Chambers
+~
+~
+0 -1 8192
+S
+#8194
+The Room Of Morkai The Red~
+This is the room of Morkai The Red, from the land of Toril. His various
+magic objects lay on shelves all around the room. You are tempted to see
+what some of these objects do but you seem to remember a story you heard
+about a thief who touched a magician's magic mirror and was turned inside out,
+gutted and dismembered at the same time. A shudder rolls down your spine.
+~
+20 8 0
+D1
+The Meeting Room Of The Council Of Wizards
+~
+~
+0 -1 8169
+S
+#8195
+The Room Of Gandalf The Gray~
+This is the room of Gandalf the gray, the wandering wizard from the land
+of middle earth. His long blue travelling cape hangs on an invisible coat
+hanger in the corner of the room and his blue, star and moon covered hat
+hovers a few feet off the ground.
+~
+20 8 0
+D3
+The Meeting Room Of The Council Of Wizards
+~
+~
+0 -1 8169
+S
+#8196
+The Room Of RaydenX The Blue~
+This is the room of RaydenX the Blue, from the land of Crimson. His vials
+and test tubes are all filled with samples and chemicals used in BioAlchemy.
+The room is all a radiant blue, shimmering and pulsating in the faint light
+of a few candles. At the North end of the room is a giant statue of Xavier,
+founder of the blue magic that RaydenX uses. There is a list in the corner
+of X Clan members and a guardian dragon eyes you from the depths of the
+shadows.
+~
+20 8 0
+D2
+The Meeting Room Of The Council Of Wizards
+~
+~
+0 -1 8169
+S
+#8197
+The Room Of Dalamar The Black~
+This is the room of Dalamar the black, the most powerful wizard at the tower
+of high sorcery in the land of Krynn. The room is covered in shadow, the only
+light is being shed by and ever-burning candle atop his onyx desk. Books and
+scrolls are laying around the room on shelves, bookcases and anything else that
+isnt on a slant or upside down.... and some that are.
+~
+20 8 0
+D0
+The Meeting Room Of The Council Of Wizards
+~
+~
+0 -1 8169
+S
+#8198
+Stairs Are Here, Sloping Sharply Down Into The Caverns~
+A set of stairs runs down from the wizards council here, going almost
+straight down into the depths of the world.
+~
+20 8 0
+D4
+The Meeting Room Of The Council Of Wizards
+~
+~
+0 -1 8169
+D5
+Further Down The Stairs
+~
+~
+0 -1 8199
+S
+#8199
+Further Down The Stairs~
+You are on the stairs leading down, it is slightly slippery here.
+~
+20 8 0
+D4
+Stairs Going Down Sharply Into The Caverns
+~
+~
+0 -1 8198
+D5
+You see stairs.~
+~
+0 -1 20000
+S
+$~
+#999999

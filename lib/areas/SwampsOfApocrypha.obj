@@ -1,0 +1,354 @@
+#16900
+obj boots waders pair obj~
+a pair of waders boots~
+A pair of waders boots is here, dripping water and mud.~
+The boots are very muddy wet.  They emit a smell of fish...
+and your thoughts shift to the time you visited the Swamps
+of Apocrypha.
+~
+9 69696 65
+10 0 10 0
+4 40000 5000
+A
+19 1
+#16901
+obj belt alligator skin obj~
+an alligator skin belt~
+An alligator skin belt has been set here... looking very sturdy.~
+Rumor has it than when you wear this belt, it will give you good
+luck in battles.
+~
+9 2 2049
+10 0 10 0
+3 35000 3000
+A
+18 2
+#16902
+obj sword serpeant obj~
+a serpeant sword~
+A serpeant sword is lying here.~
+This sword is made of the finest metal, and has the symbol of the
+swamplord on it.
+~
+5 2097153 8193
+0 3 10 3
+8 10000 1000
+A
+18 2
+A
+19 4
+#16903
+obj gorget black obj~
+a black gorget~
+A black gorget is lying here, waiting to be worn.~
+This gorget was a piece of the old warrior armor when the forces of
+good and evil were at war on the surface of the Swamps of Apocrypha.
+~
+9 0 5
+7 0 10 0
+5 10000 1000
+A
+18 1
+A
+19 1
+#16904
+obj potion clear obj~
+a clear potion~
+A clear potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 1
+20 36 0 0
+2 100000 1000000
+#16905
+obj potion black obj~
+a black potion~
+A black potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 4 1
+20 1 0 0
+2 100000 1000000
+#16906
+obj potion green obj~
+a green potion~
+A green potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 1
+20 17 33 2
+2 100000 1000000
+#16907
+obj potion brown obj~
+a brown potion~
+A brown potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 0 1
+20 42 0 0
+2 100000 1000000
+#16908
+obj potion blue obj~
+a blue potion~
+A blue potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 0 1
+20 27 0 0
+2 100000 1000000
+#16909
+obj potion skyblue obj~
+a skyblue potion~
+A skyblue potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 0 1
+20 28 0 0
+2 100000 1000000
+#16910
+obj potion yellow obj~
+a yellow potion~
+A yellow potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 1
+20 43 0 0
+2 100000 1000000
+#16911
+obj potion purple obj~
+a purple potion~
+A purple potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 1
+20 33 0 0
+2 100000 1000000
+#16912
+obj potion white obj~
+a white potion~
+A white potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 1
+20 36 1 39
+2 100000 1000000
+#16913
+obj potion red obj~
+a red potion~
+A red potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 1
+20 4 0 0
+2 100000 1000000
+#16914
+obj potion orange obj~
+an orange potion~
+An orange potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 1
+20 17 13 0
+2 100000 1000000
+#16915
+obj potion foggy obj~
+a foggy potion~
+A foggy potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 1
+20 44 19 18
+2 100000 1000000
+#16916
+obj sample swamp obj~
+a sample of swamp water~
+A sample of swamp water is here, evaporating.~
+This is a sample of water from the good side of the Swamp of Apocrypha.
+~
+10 1 1
+20 28 43 35
+2 100000 1000000
+#16917
+obj sample swamp obj~
+a sample of swamp water~
+A sample of swamp water is here, evaporating.~
+This is a sample of water from the evil side of the Swamp of Apocrypha.
+~
+10 1 1
+20 2 4 38
+2 100000 1000000
+#16918
+obj tree hollow obj~
+a large hollow tree~
+A large, hollow tree is swaying in the breeze.~
+This tree has the carvings of the symbol of apocrypha and other symbols
+which you do not recognize on it.  It has a small hole in it, with a few
+bees travelling in and out.  It is too dark to actually see what is in
+the tree.
+~
+15 0 0
+0 0 10 0
+99999 10000000 100000000
+#16919
+obj pot gold obj~
+a pot o'gold~
+There is a pot of gold here.~
+Wow... a black pot... with money in it too!  It must be your lucky day!
+~
+20 2 1
+100000 0 10 0
+1 100000 100000
+#16920
+obj wand solid gold obj~
+a solid gold wand~
+A solid gold wand has been carelessly left here.~
+This wand is gold, with a cross carved into the handle.
+~
+3 65 16385
+20 5 5 14
+3 100000 1000
+#16921
+obj book bright obj~
+the Book of the Bright~
+The Book of the Bright has been left here.~
+This book speaks of the end of all war on the face of the planet,
+and the beginning of world wide peace.
+~
+9 1345 16385
+10 0 10 0
+4 100000 10000
+A
+4 3
+A
+12 20
+#16922
+obj book dark obj~
+the Book of the Dark~
+The Book of the Dark has been left here.~
+This book speaks of the end of all war on the face of the planet,
+and the beginning of world wide peace.
+~
+9 706 16385
+10 0 10 0
+4 100000 10000
+A
+19 2
+A
+12 10
+#16923
+obj armor hero apocryphan obj~
+apocryphan hero armor~
+Apocryphan hero armor is lying here in a heap.~
+This armor glows with the light of divine power.  You do not feel
+worth to wear it.  It has the holy symbol of the apocrypha etched
+into the center front.
+~
+9 1025 1025
+20 0 10 0
+7 100000 5000
+A
+19 2
+A
+18 1
+#16924
+obj armor evil apocryphan obj~
+the evil apocryphan armor~
+The evil apocryphan armor is lying here in a large heap.~
+This armor is clouded in evil darkness, as you cannot even see your
+own reflection in the black metal.
+~
+9 2097668 1025
+15 0 10 0
+7 100000 5000
+A
+19 2
+A
+18 2
+#16925
+obj dagger bright obj~
+the Bright Dagger of Apocrypha~
+The Bright Dagger of Apocrypha is here.~
+This is a curvy dagger, which possesses the great magical gift of death.
+You wonder if you are worthy enough to use such a great treasure!
+~
+5 1089 24577
+2048 6 6 11
+5 1000000 20000
+A
+18 1
+A
+19 4
+#16926
+obj dagger dark obj~
+the Dark Dagger of Apocrypha~
+The Dark Dagger of Apocrypha is here.~
+This is a curvy dagger, which possesses the great magical gift of death.
+You wonder if you are worthy enough to use such a great treasure!
+~
+5 2097665 24577
+1024 6 6 11
+5 1000000 20000
+A
+18 4
+A
+19 1
+#16927
+obj circle protection white~
+a White Circle of Protection~
+You see a glowing white circle floating before you.~
+~
+9 631936 16385
+0 0 10 0
+0 75000 2500
+A
+20 -1
+A
+24 -1
+A
+23 -1
+A
+12 -5
+#16928
+obj darkwave wave dark~
+the Darkwave~
+You see a magical stream of water before you... the Darkwave.~
+~
+5 2204276 8193
+1 2 15 4
+1 5 5
+A
+19 1
+A
+13 5
+A
+17 -5
+#16929
+obj cloak sanctuary~
+the Cloak of Sanctuary~
+You see something glowing... it's some kind of cloak!~
+~
+9 1048673 1025
+0 0 10 0
+1 5 5
+A
+36 -1
+A
+17 -5
+A
+3 -1
+A
+22 -1
+$~
+#999999

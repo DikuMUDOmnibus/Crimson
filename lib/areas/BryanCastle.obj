@@ -1,0 +1,342 @@
+#16200
+obj key black~
+a dark black key~
+Someone has left a dark black key here.~
+~
+18 4 1
+16200 0 10 0
+3 100 -1
+#16201
+obj demon nacho~
+a Demon Nacho~
+A Demon Nacho is here chewing on your leg~
+~
+19 0 1
+10 0 10 0
+1 20 5
+#16202
+obj key bryan castle~
+the key to Castle Bryan~
+A large, iron key lies here.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#16203
+obj key cream~
+a cream colored key~
+A light brown key is here, collecting dust.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#16204
+obj key blood red~
+a blood red key~
+A dark red key lies here.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#16205
+obj key fire red~
+a fire red key~
+A bright red key catches your attention.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#16206
+obj ghostly helmet~
+a ghostly helmet~
+An old ghostly helmet has been left here.~
+~
+9 1130500 17
+12 0 10 0
+4 4000 20000
+A
+26 0
+A
+32 0
+A
+33 0
+A
+13 -50
+#16207
+obj iron maiden~
+an iron maiden~
+A large iron maiden is on the ground, unoccupied at the moment.~
+~
+9 130 9
+20 0 10 0
+40 200000 50000
+A
+13 -128
+A
+13 -128
+A
+13 -128
+A
+13 -128
+#16208
+obj shiny breast plate~
+a shiny metal breast plate~
+A plate of shining metal lies here.~
+~
+9 527360 9
+8 0 10 0
+21 40000 10000
+A
+18 2
+#16209
+obj shiny arm plates~
+a pair of shiny metal arm plates~
+A set of shiny metal arm plates lies here.~
+~
+9 527360 257
+6 0 10 0
+8 4000 1000
+A
+18 2
+#16210
+obj shiny leg plates~
+a pair of shiny metal leg plates~
+A set of shiny metal leg plates lies here.~
+~
+9 527360 33
+5 0 10 0
+8 2250 800
+A
+18 2
+#16211
+obj shiny gauntlets~
+a pair of shiny metal gauntlets~
+A pair of shiny metal gauntlets lies here.~
+~
+9 527360 129
+6 0 10 0
+4 4000 1000
+A
+18 2
+#16212
+obj ghostly blade~
+a ghostly blade~
+An odd ghoslty blade has been left here.~
+~
+5 2097156 8193
+0 4 5 3
+13 300000 75000
+#16213
+obj fluffy pillow~
+a fluffy pillow~
+A large, white pillow has been left here.~
+~
+5 98304 8193
+0 1 2 7
+8 8000 2000
+A
+14 -10
+#16214
+obj ladel death~
+the Ladel of Death~
+A simple wooden ladel lies here.~
+~
+9 524800 16385
+2 0 10 0
+2 44000 11000
+A
+23 -2
+A
+19 1
+A
+5 1
+#16215
+obj crested bracers~
+a pair of crested bracers~
+A set of gold bracers lies here.~
+~
+9 525569 257
+7 0 10 0
+9 40000 10000
+A
+1 3
+A
+2 -1
+#16216
+obj silvery chain mail armor~
+a silvery chain mail armor~
+There is a nice suit of chain mail armor here.~
+~
+9 2097217 9
+6 0 10 0
+20 80000 20000
+A
+12 25
+#16217
+obj marching boots~
+a pair of marching boots~
+A pair of military boots lies here.~
+~
+9 1061888 65
+0 0 10 0
+4 16000 4000
+A
+2 1
+A
+14 40
+A
+19 1
+#16218
+obj knee spikes~
+a pair of knee spikes~
+A pair of spiked knee guards rests here.~
+~
+9 1070082 33
+8 0 10 0
+6 48000 12000
+A
+19 2
+#16219
+obj battle axe giant~
+a giant battle axe~
+There is a giant battle axe resting on the ground here.~
+~
+5 1060864 1
+32768 10 2 3
+16 80000 20000
+A
+19 2
+A
+18 -2
+#16220
+obj dagger light~
+the Dagger of Light~
+A gleaming dagger has been dropped here.~
+~
+1 525313 65537
+0 0 1000000 0
+3 44000 11000
+A
+19 1
+A
+18 2
+#16221
+obj dagger darkness~
+the Dagger of Darkness~
+A shiny, obsidian dagger lies here.~
+~
+1 524804 65537
+0 0 1000000 0
+2 44000 11000
+A
+19 1
+A
+17 5
+#16222
+obj royal leggings~
+the Royal Leggings~
+A pair of fancy leggings has been placed here.~
+~
+9 524288 33
+6 0 10 0
+8 40000 10000
+A
+14 20
+#16223
+obj magic ball sphere black~
+a magic ball~
+A small black sphere has been carelessly left here.~
+~
+9 524288 16385
+0 0 10 0
+4 75000 15000
+A
+4 -1
+A
+3 2
+A
+24 2
+#16224
+obj knight seal~
+a knight's seal~
+A knight seal has been dropped here.~
+~
+9 2116608 16385
+5 0 10 0
+4 90000 21000
+A
+18 2
+A
+19 2
+#16225
+obj heavy battle armor~
+a heavy battle armor~
+Some heavy battle armor is lying here.~
+~
+9 1055745 9
+9 0 10 0
+22 100000 25000
+A
+19 1
+A
+18 2
+A
+13 10
+#16226
+obj recurved bow~
+a recurved bow~
+An average looking bow is resting on the ground here.~
+~
+5 524288 8193
+0 4 6 8
+10 40000 7000
+A
+17 5
+A
+18 1
+#16227
+obj amber ring~
+an amber ring~
+A small amber ring is lying on the ground here.~
+~
+9 1048576 3
+3 0 10 0
+1 40000 10000
+A
+12 20
+#16228
+obj hat funky magic~
+a funky magic hat~
+A funky looking magic-user's hat has been left here.~
+~
+15 0 17
+50 0 10 0
+4 5 10
+A
+17 5
+#16229
+obj black opal bracelet~
+a black opal bracelet~
+A black opal bracelet has been left here.~
+~
+9 524292 4097
+2 0 10 0
+4 50000 12000
+A
+19 2
+A
+18 1
+#16230
+obj signet ring bryan~
+the signet ring of Bryan~
+The King must have left his ring here.~
+~
+9 1049600 3
+0 0 10 0
+1 50000 15000
+A
+19 2
+A
+18 1
+$~
+#999999

@@ -1,0 +1,60 @@
+#1
+mob Puff~
+Puff~
+Puff the Magic Dragon is here selling Magic Mushrooms.
+~
+~
+4196361 0 1000 S
+26 -12 1 1340d1+0 4d3+30
+30000 39000
+8 8 2
+#2
+mob black stallion horse~
+The black stallion~
+The black stallion warely watches you.
+~
+A proud, black stallion stands here, his head held high.  He warely
+watches you as a breeze swirls around him, lifting his mane.
+~
+16777416 33554464 1000 S
+43 1 0 10d15+50 3d10+10
+1000000 10000000
+8 8 0
+#3
+mob dracula vampire~
+Dracula~
+A tall humanoid
+~
+A tale human male with chalk white skin dressed in elegant cloths.
+~
+36176680 1140850912 0 S
+44 -10 0 20d20+2000 10d15+15
+1000000 1000000
+8 8 1
+#4
+mob Cindy Crawford~
+Cindy Crawford, Cauchy's secretary~
+Cindy Crawford, Cauchy's Secretary, says to you politely, "Please have a seat.  Cauchy will be right with you."
+~
+She is so good-tempered and has the warmest smile that reassures you.
+~
+8 0 1000 S
+50 0 -20 20000d9+50000 100d90+90
+0 0
+8 8 2
+#5
+mob rick rock~
+Rick, the Rock~
+A very strong-looking piece of rock is here... wait, is it moving?!
+~
+A dull, grey rock....
+
+
+Hey!  It just moved!
+~
+262216 1074266368 0 S
+1 0 -100 5000d4+1000 1d1+1
+1 0
+8 8 0
+$~
+#999999

@@ -1,0 +1,13 @@
+#20600
+mob DragonMaster Master~
+a DragonMaster~
+A DragonMaster is here, keeping watch over the Dragon's Head.
+~
+The DragonMaster has a dark red glow to his eyes, much like the Dragon's.
+~
+74 8 1 S
+15 27 0 1d20+1 1d20+5
+15000 50000
+8 8 1
+$~
+#999999

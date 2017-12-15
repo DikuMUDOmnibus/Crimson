@@ -1,0 +1,122 @@
+#18800
+obj statue~
+The Venom Statue~
+A Statue of Venom the Heroine is here.~
+~
+12 262147 0
+0 0 10 0
+2147483647 0 2147483647
+E
+sta~
+This is a larger-than-life sized statue of Venom the Heroine. All her features
+were done perfectly, so it must have taken a lot of time, and very skilled
+artists to complete.
+~
+#18801
+obj fountain~
+the marble fountain~
+A large, marble fountain is here.~
+~
+17 1 0
+1000 1000 15 0
+2147483647 0 2147483647
+E
+fountain~
+This is gigantic fountain. It's made of marble and is delicately designed and decorated with precious stones.
+~
+#18802
+obj torch~
+A golden key~
+A golden key studded with large diamonds is laying on the ground.~
+~
+18 0 1
+0 0 10 0
+1 5 5
+#18803
+obj note~
+a note~
+A note is here, pinned to the wall.~
+~
+16 262144 0
+1 2 3 4
+2147483647 0 2147483647
+E
+note~
+Why are you wasting all your time reading this note. This note wasn't meant for you. GO AWAY!
+~
+#18804
+obj fountain~
+a fountain~
+A fountain is here, it is decorated with goat skulls.~
+~
+17 262148 0
+200 200 13 0
+2147483647 0 2147483647
+E
+fountain~
+This is a dark fountain, and it's decorated with goat skulls.
+~
+#18805
+obj flask potion~
+a big ol' flask of whoop-ass~
+A big ol' flask of whoop-ass is laying here.~
+~
+10 65 1
+50 36 1 39
+2 5000000 100000
+#18806
+obj moldy cheese~
+a moldy peice of cheese~
+A moldy, fly covered peice of cheese is here, stinking up the room~
+~
+19 0 1
+100 0 0 0
+1 10000 5
+E
+moldy cheese~
+Gross! This is one nasty smelling peice of cheese. The smell doesn't seem to
+bother the flies that are on it, though.
+~
+E
+moldy cheese~
+Gross! This is one nasty smelling peice of cheese. The smell doesn't seem to buther the flys that are eating it, though.
+~
+E
+moldy cheese~
+Gross! This is one nasty smelling peice of cheese. The smell doesn't seem to
+bother the flys that are eating it, though.
+~
+#18807
+obj strange, glowing wand~
+a wand~
+A strange, glowing wand is here.~
+~
+3 2097219 147457
+45 50 50 86
+5 1000000 50000
+E
+wand~
+This wand is made out of some weird, unidentifiable metal. It is inscribed with strange characters that you've never seen...
+~
+#18808
+obj golden cane~
+a golden cane~
+A shiny, golden cane is here, resting against the wall.~
+~
+5 8192 8193
+0 0 10 0
+8 25000 7000
+A
+7 1
+A
+19 2
+#18809
+obj torch~
+a torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

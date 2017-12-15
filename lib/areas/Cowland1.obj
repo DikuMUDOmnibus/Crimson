@@ -1,0 +1,497 @@
+#8100
+obj cow ring~
+a cow ring~
+A cow ring is lying on the ground here.~
+~
+9 1 1
+35 28 28 28
+1 5 5
+#8101
+obj Fries~
+box of fries~
+A box of fries is here, just waiting to be eaten!~
+~
+19 0 1
+100 0 0 0
+10 5 10000000
+#8102
+obj fountain~
+Cowman's First Fountain...~
+Cowman's First Fountain~
+~
+17 69 0
+10000 10000 6 0
+1 2147483647 10000
+E
+Cowman's First Fountain~
+This Is Cowman's first fountain, It's filled with lemonaide!
+~
+#8103
+obj key~
+The Key To the unstable room.~
+The key to the unstable room is here.~
+~
+18 262144 1
+0 0 10 0
+1 5 5
+#8104
+obj container~
+A Food Container~
+A Food Container Is Here, Keeping The Fries Nice And Warm!~
+~
+15 0 0
+100 0 0 0
+1 5 5
+#8105
+obj poster~
+a torch~
+A Poster is posted here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+poster~
+If You're here, have some delicious red lemonaid, straight
+from Cowman's own cookbook, also, if there's any left, have
+a box of fries, too!
+Oh, the fries are in the container!
+~
+#8106
+obj sign~
+a sign~
+A giant glowing blue sign is here, suspended in the air~
+~
+12 82 0
+0 0 10 0
+1 5 5
+E
+sign~
+                     B-E-W-A-R-E
+We, the wizards coucil, have deemed this place unfit for any travellers.
+Any to go down from here do it at the risk of their own lives. Where you
+are about to go is the underworld and it is filled with aggressive spirits,
+demons and other dark beings.
+You have been warned!
+~
+#8107
+obj sign~
+a sign~
+A sign is here, read it.~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+sign~
+Due to a careless spell of mine, i have opened an unstable portal in the
+room under your feet, it has been spitting out monsters for awhile so.....
+I think you can enter it without harm being done to you but i dont know
+where it will lead you. please be careful. There is a key here to the
+door, if you need it, just take it and unlock the door then drop it for
+another to use, thank you.
+-The Holy Cow
+~
+#8108
+obj Sign~
+a Sign~
+There is a GIANT 10 storey sign here, READ IT~
+~
+12 65 0
+0 0 0 0
+1 5 5
+E
+sign~
+Do NOT kill the cows in this zone. they are all protected by the cow
+protector who you have no chance of winning a fight against!
+
+                REMEMBER THIS!
+~
+#8109
+obj Ultimate Potion~
+the Ultimate Potion~
+The Ultimate Potion is lying here, glowing.~
+~
+10 1 16385
+35 1 39 36
+8 5 2000
+#8110
+obj Flowing Robe~
+a Flowing Black Robe~
+A black robe lays here, floating around the floor.~
+~
+9 524288 5
+18 0 10 0
+3 1000 500
+A
+14 15
+#8111
+obj Brass Pitchfork~
+a Brass Pitchfork~
+A brass pitchfork is here, stuck in the ground.~
+~
+5 0 8193
+0 2 4 7
+10 50 200
+#8112
+obj Gold Pitchfork~
+a Gold Pitchfork~
+A gold pitchfork is stuck in the ground here.~
+~
+5 524288 8193
+0 3 4 11
+13 200 500
+#8113
+obj Collar~
+a Dog Collar~
+A Dog Collar lies here, a tag on it says it's Bidderdoo's...~
+~
+9 524288 5
+22 0 10 0
+3 1000 700
+A
+1 -1
+A
+3 1
+A
+4 1
+#8114
+obj ThePunisher~
+the Punisher~
+A sword lies here, 'Punisher' is written in gold on the blade.~
+~
+5 2 8192
+2048 5 10 3
+40 10000 10000
+A
+14 -125
+A
+14 -125
+A
+14 -125
+A
+14 -125
+#8115
+obj apron~
+a Food Stained Apron~
+A Food Stained Apron lies here, dirty as heck!~
+~
+9 524288 1025
+21 0 10 0
+3 500 500
+A
+36 -1
+#8116
+obj amulet stonesinger~
+the Amulet of the Stonesinger~
+An emerald amulet sparkles as it hovers over the ground.~
+~
+9 2100225 5
+36 0 10 0
+6 1000 1000
+E
+amulet stonesinger~
+This ancient artifact, carved out of the stone of mount Midgaard ages ago
+by the gnomes beneath the great mountain is used to grant the wearer the
+power of the element of Stone. It can only be worn by one of good intent.
+~
+A
+1 2
+A
+3 -1
+A
+13 20
+#8117
+obj carrot sword~
+a Carrot Sword~
+A Carrot Sword lies here, putting down roots.~
+~
+5 524288 8193
+0 2 5 11
+10 50 50
+A
+17 -1
+#8118
+obj bean sprout cap~
+a Beansprout Cap~
+A Beansprout Cap is here twitching and writhing.~
+~
+9 1069056 16
+20 0 10 2
+8 100 100
+A
+1 2
+A
+3 -1
+A
+4 -1
+#8119
+obj legloaf~
+some Legloaf~
+A piece of Legloaf is here, waiting to be put on.~
+~
+9 1048576 33
+10 0 10 0
+8 200 75
+#8120
+obj spatula~
+the Lunchlady's Spatula~
+A sparkling spatula is here, glowing from within.~
+~
+3 622592 16385
+30 10 15 15
+3 5 1000
+#8121
+obj sharpened breadstick~
+a Sharpened Breadstick~
+A sharp looking piece of bread lies here.~
+~
+5 0 8193
+0 0 10 0
+1 5 5
+#8122
+obj lettuce key~
+the Lettuce Key~
+A lettuce key is growing from the ground here.~
+~
+18 262144 1
+8122 0 10 0
+1 5 5
+#8123
+obj cabbage leaves leave armor~
+some Cabbage Leaf Armor~
+A giant cabbage leaf is here.~
+~
+9 524288 9
+12 0 10 0
+10 500 2000
+A
+1 1
+#8124
+obj blue dragon~
+the Blue Guardian Dragon~
+A Blue Guardian Dragon eyes you warily from the shadows.~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+blue guardian dragon~
+A Giant Blue dragon is here, protecting it's master RaydenX. It stares at you
+with it's cold blue eyes, ready to pounce at the slightest sharp movement. It's
+giant muscles ripple under it's scales as it positions itself for attack. You
+notice that the room temperature drops greatly every time the dragon exhales.
+~
+#8125
+obj list members x clan~
+the List~
+A list of X Clan members is posted on the wall here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+list xclan members x clan~
+RaydenX
+Cowman
+ScorpionX
+DeathbringerX
+Xagor
+Shade
+Darkdemon
+Galvanizer
+CrimsonX
+~
+#8126
+obj radiant blue onyx pendant~
+a Radiant Blue Onyx Pendant~
+A Blue pendant made of some smooth type of stone is lying here.~
+~
+9 2129985 5
+35 0 10 0
+4 20000 4000
+E
+pendant radiant blue onyx~
+You see a beatiful pendant carved out of onyx dyed blue by the powers of
+RaydenX. Streams of blue magic flow across it's smooth surface and an
+inner power emanates from within this artifact.
+~
+A
+4 1
+A
+3 1
+A
+12 20
+#8127
+obj vial life energy~
+a Vial of Pure Life Energy~
+A vial lies on the ground here, pulsing with inner power.~
+~
+9 2097217 16385
+20 0 10 0
+3 5 5
+E
+vial life energy pure~
+This is a vial of pure life energy. Light pulses from within as you hold it
+above your head. Whenever you touch it, your skin tingles and you feel strangely
+revitalized.
+~
+A
+13 65
+#8128
+obj Ring death~
+the Ring of Death~
+A dark ring lies here, emanating a feeling of evil.~
+~
+9 2129924 3
+20 0 10 0
+2 5000 5000
+E
+ring death~
+This ring seeps the vile stench of death into the air, turning it rancid
+by the minute. The strange ring's darkness spreads to everything around it,
+cloaking the area in darkness.
+~
+A
+37 -1
+A
+17 -1
+A
+36 -1
+#8129
+obj mage mages boots~
+a Pair of Mages Boots~
+A pair of mages boots lie here, shimmering.~
+~
+9 2211905 65
+20 0 10 0
+5 5000 4000
+E
+mage mages boots~
+These boots shimmer slightly when hit by light, as if encased in diamond.
+It is told that the mage who wears these legendary boots can walk any
+distance and have power greater than any other person.
+~
+A
+14 65
+A
+12 15
+A
+4 2
+#8130
+obj sign~
+a Sign~
+a Sign is Here, Concerning the Zone Below.~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+sign~
+Hey all! The zone below you (The Underworld) is closed right now, as i have to
+still make some more rooms, mobs and objects. If you are below level 30 you
+should stay away because this is one hard zone! I'll tell you guys when The
+Underworld is done and I hope you all like The Land Of Cows!
+Oh, you have to recall now, you cant go back through the portal so you are
+confined to the wiz's council, Cya!
+ 
+---Cowman---
+~
+#8131
+obj key grand hall~
+a Diamond Studded Key~
+A diamond studded key lies here.~
+~
+18 0 1
+8131 0 10 0
+1 5 5
+#8132
+obj potion recall brown~
+a Recall Potion~
+A disgusting brown potion lies here, what could it possibly do?~
+~
+10 0 1
+30 42 10 0
+3 2500 900
+#8133
+obj bottle~
+Bottle~
+There is a bottle of milk here.~
+~
+17 0 1
+10 10 10 0
+3 25 10
+#8134
+obj bottle~
+Bottle~
+There is a bottle here that is filled with... blood!~
+~
+17 0 1
+10 10 13 0
+4 25 10
+#8135
+obj bottle~
+Bottle~
+There is a bottle of what looks like slime here, GROSS!~
+~
+17 0 1
+10 10 9 1
+3 35 10
+#8136
+obj can~
+Can~
+There is a can of Coke here.~
+~
+17 0 1
+10 10 15 0
+3 25 10
+E
+bottle coke cola~
+Always Coca Cola!
+~
+#8137
+obj cup~
+Cup~
+There is a cup of steaing espresso here, yummmm.~
+~
+17 0 1
+8 8 12 0
+3 30 8
+#8138
+obj bottle ale brown~
+a Bottle of Dark Ale~
+A bottle of dark brown alcohol.~
+~
+17 0 1
+10 10 4 0
+3 30 15
+#8139
+obj bottle wine~
+a Bottle of Wine~
+There is a Bottle of Wine here.~
+~
+17 0 1
+12 12 2 0
+3 60 15
+#8140
+obj sign list~
+a Sign~
+Temporary list of drinks for sale.~
+~
+1 0 0
+0 0 10 0
+1 5 5
+E
+sign list~
+Drinks for sale at this Tavern
+ 
+A bottle of Milk - 30 coins
+A Bottle of Warm Goats Blood - 30 coins
+A Bottle of Poison Slime Mold Juice - 25 coins
+A Cup of Espresso - 25 coins
+A Bottle of dark Ale - 35 coins
+A Bottle of Wine - 40 coins
+A Can of Coke - 25 coins
+~
+$~
+#999999

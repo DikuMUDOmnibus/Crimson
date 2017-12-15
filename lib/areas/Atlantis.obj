@@ -1,0 +1,202 @@
+#14500
+obj trident~
+a trident~
+A large, three-pronged trident is lying here.~
+~
+5 524288 8193
+0 3 6 11
+12 1850 600
+A
+18 1
+#14501
+obj shirt scaly~
+a scaly shirt~
+A shirt made of fish scales lies here in the dirt.~
+~
+9 65536 9
+6 0 10 0
+20 2000 1000
+#14502
+obj orb eye deep~
+the Eye of the Deep~
+A large orb is floating above the ground.~
+~
+1 524291 65537
+0 0 -1 0
+1 120000 20000
+A
+3 2
+A
+12 10
+A
+32 50
+A
+26 50
+#14503
+obj bracers Renaissance~
+the Bracers of the Renaissance~
+Some colorful bracers are lying on the ground.~
+~
+9 2 257
+8 0 10 0
+5 80000 30000
+A
+1 1
+A
+4 1
+A
+3 1
+A
+2 1
+#14504
+obj scales waterbeast~
+some scales of the waterbeast~
+Two enormous fish-like scales have been left here.~
+~
+9 65536 33
+9 0 10 0
+11 22000 3000
+A
+19 1
+#14505
+obj bracers protection~
+the Bracers of Protection~
+Some bright blue bracers have been left here.~
+~
+9 1 257
+30 0 10 0
+6 100000 20000
+A
+13 -20
+#14506
+obj robe sea green~
+a sea green robe~
+A green robe with embroidered fish symbols on it is here.~
+~
+9 106496 1025
+8 0 10 0
+5 35000 5000
+A
+12 20
+#14507
+obj trident moon sea~
+the Trident of the Moon Sea~
+The legendary Trident of the Moon Sea rests here!~
+~
+5 1134657 8193
+8 5 6 11
+12 110000 15000
+A
+19 3
+A
+18 3
+#14508
+obj symbol holy pisces necklace~
+a holy symbol of Pisces~
+A necklace with the charm of a fish has been dropped here.~
+~
+9 8448 5
+5 0 10 0
+2 3000 1000
+A
+4 1
+#14509
+obj seaweed belt strip~
+a seaweed belt~
+A long strip of dried seaweed has been left here.~
+~
+9 0 2049
+2 0 10 0
+2 3000 800
+A
+1 1
+#14510
+obj sandals green messenger's~
+a pair of messenger's sandals~
+A pair of bright green sandals is lying here.~
+~
+9 1 65
+4 0 10 0
+4 2000 600
+A
+2 1
+#14511
+obj brotherhood sword~
+the Sword of the Brotherhood~
+A sword with a scaly hilt has been left here.~
+~
+5 1048577 8193
+0 3 9 3
+15 70000 12000
+A
+18 1
+A
+19 2
+#14512
+obj seal brotherhood bracelet~
+the Seal of the Brotherhood~
+A bracelet with a large copper buckle is lying here.~
+~
+9 0 4097
+5 0 10 0
+3 7000 2000
+A
+19 1
+A
+18 -1
+#14513
+obj starfish~
+a hardened, dried starfish~
+A stiff-looking orange starfish is lying here in the dust.~
+~
+5 0 8193
+0 5 3 3
+1 10 8
+#14514
+obj steamed fish~
+a Steamed fish~
+A piece of steamed fish is here.~
+~
+19 0 1
+12 0 10 0
+1 12 5
+#14515
+obj steel shield hardened~
+a hardened steel shield~
+A shiny, steel shield is lying here.~
+~
+9 0 513
+8 0 10 0
+11 3100 500
+#14517
+obj cheese wheel~
+a wheel of cheese~
+A round of wheel of cheese is rolling around on the floor.~
+~
+19 0 1
+18 0 10 0
+4 15 10
+#14518
+obj ring fish goddess~
+the ring of the fish Goddess~
+A glowing blue-green ring has been left here.~
+~
+9 524288 3
+10 0 10 0
+1 100000 25000
+A
+18 1
+A
+19 2
+#14519
+obj helm waterbreathing~
+a helm of waterbreathing~
+A small blue helm rests here.~
+~
+9 0 17
+7 0 10 0
+7 5000 1000
+A
+30 0
+$~
+#999999

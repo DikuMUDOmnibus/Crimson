@@ -1,0 +1,526 @@
+#8100
+mob Cow Protector~
+The Cow Protector~
+The Cow protector is standing here, looking after the cows.
+~
+A Giant, barrel chested man with broad shoulders and strong arms
+stands here. He looks out over the cowfields from his post and when
+he sees trouble, he  transports there to protect the cows. He doesnt
+look like one to be  trifled with!
+~
+8980490 1140850816 1000 S
+35 -46 -10 4050d1+0 104d1+0
+94000 52700
+8 8 1
+#8101
+mob Cow~
+A Cow~
+A cow stands here.
+~
+A cow stands here, chewing her cud and mooing occaisionally. Her wide eyes look
+up at you, gentleness reflected in them as she swats away a fly with her tail.
+Remember, she's protected....
+~
+17039368 256 0 S
+30 -32 -5 3150d1+0 30d2+5
+1 100
+8 8 2
+#8102
+mob Bog Wraith~
+A Bog Wraith~
+A Bog Wraith is floating around here, devouring things.
+~
+You see one of the ledgendary bog wraiths. A long, flowing black
+robe cloaks this undead being as he floats around the bogs,
+devouring little animals... And bigger ones.
+~
+33554444 67108864 -900 S
+18 5 6 589d1+1 26d1+1
+13000 27800
+8 8 0
+#8103
+mob Bog Imp~
+A Bog Imp~
+A Bog Imp is crouched down here, feasting on a newly caught fish.
+~
+This is a Bog Imp, a small creature with wings that eats fish and rats
+it catches from the bogs it lives in. It's claws are long and sharp, and
+the Imp's reflexes are quick, making you think twice about attacking it.
+~
+140 0 -400 S
+15 20 10 350d1+0 20d1+0
+7000 23000
+8 8 0
+#8104
+mob TheCowProtector~
+The Cow Protector (WI)~
+You see the cow protector here, he looks angry...
+~
+You see the Cow Protector here, he doesnt look to happy, judging by
+the red gleam in his eyes.
+~
+2058 67174656 1000 S
+38 -55 -13 4700d1+0 10d10+100
+136000 50000
+8 8 1
+#8105
+mob Farmer~
+the Farmer~
+The Farmer stands here, tending to the needs of the cows.
+~
+This farmer is very stereoypical. He has the old straw hat, the
+pitchfork, the overalls, everything you would expect. His job is
+to tend to the needs of the cows.
+~
+8 0 500 S
+17 9 8 495d1+0 25d1+0
+11000 25600
+8 8 1
+#8106
+mob Farmer~
+the Farmer~
+The Farmer sits here, resting in his bunk.
+~
+This farmer is very stereoypical. He has the old straw hat, the
+pitchfork, the overalls, everything you would expect. His job is
+to tend to the needs of the cows.
+~
+10 0 500 S
+17 9 8 495d1+0 25d1+0
+11000 25600
+8 8 1
+#8107
+mob Farmer~
+Farmer 'Stinky-thumbs' Arbuckle~
+Farmer 'Stinky-thumbs' Arbuckle stands here, having a drink.
+~
+This is Farmer 'Stinky thumbs' Arbuckle. He is the head farmer
+here, in the land of the cows and he does it with his little sidekick,
+the wonderdog Bidderdoo who is now yipping and yapping at his feet.
+~
+10 0 700 S
+21 -3 4 870d1+0 32d1+0
+21000 31500
+8 8 1
+#8108
+mob Bidderdoo~
+Bidderdoo~
+Bidderdoo the wonderdog is here, yapping and biting.
+~
+Bidderdoo the wonderdog is not actually a dog. He used to be a
+wizard that helped out the Holy Cow with experiments and things
+of the like. One day Bidderdoo drank a potion which turned him into
+a dog.
+~
+16777226 0 800 S
+8 25 17 145d1+0 10d1+0
+900 12000
+8 8 1
+#8109
+mob Muglopp~
+Muglopp~
+Muglopp the mud-monster is here, picking it's teeth with bones.
+~
+You see A giant glob of mud sitting in the corner. Upon closer inspection,
+though, you find it to be breathing. This could be the explanation for all
+the bones lying around. Right now, Muglopp is picking its grimy teeth
+with the bones of his last victim.
+~
+10 33554432 -900 S
+28 -24 -3 2500d1+0 53d1+0
+46000 42300
+8 8 0
+#8110
+mob Key Keeper~
+the Key Keeper~
+The Key Keeper stands here, holding the key to the gates.
+~
+The key keeper is a tall lady wearing long white robes with gold
+strands woven into it. She has long blond hair and blue eyes.
+~
+10 2 900 S
+12 21 13 255d1+0 14d1+0
+3000 18200
+8 8 2
+#8111
+mob Woman~
+a Woman~
+A Woman sits here, eating.
+~
+This is just a normal woking woman. She came here to eat
+(what else?).
+~
+10 0 500 S
+12 21 13 250d1+0 14d1+0
+3200 18700
+8 8 2
+#8112
+mob Chef~
+the Chef~
+The Royal Chef is cooking here, his apron is soiled with food.
+~
+The Royal Chef is the person who prepares all the food for the people
+in The Holy Cow's home. He is wearing a white apron... well.. it USED
+to be white, now it is stained with all kinds of foods.
+~
+10 0 600 S
+23 -9 2 1200d1+0 36d1+0
+25000 35000
+8 8 1
+#8113
+mob Serving girl~
+the Serving girl~
+A Serving girl is here, delivering food from the chef to the people.
+~
+This serving girl is very beautiful. She has long, shining hair and
+a nice body. She works all day here to earn a living for herself.
+~
+12 0 800 S
+14 18 11 320d1+0 18d1+0
+7000 21500
+8 8 2
+#8114
+mob Man~
+a Man~
+A Man is sitting here, eating
+~
+This is just a normal, wrking man. He has come to the dining
+hall to eat (what else).
+~
+10 0 500 S
+11 22 14 220d1+0 13d1+0
+3000 17000
+8 8 1
+#8115
+mob Golem~
+the Golem~
+A Giant Rock Golem stands here, protecting the ultimate potion.
+~
+A giant Rock Golem is standing in front of you. He towers over three
+storeys high and was brought here by the Holy Cow from the elemental
+plane of earth. Golems are known to have a few spells up their sleeves,
+also.
+~
+8388874 67108864 0 S
+33 -36 -7 3500d1+0 78d1+0
+70000 48800
+8 8 1
+#8116
+mob Worker~
+a Worker~
+A worker runs around, doing important things.
+~
+This man looks VERY tired! all he does is run around, doing jobs
+for people in the Holy Cow's palace. He delivers packages,
+letters, sweeps the floor, washes the windows and all the
+other worker-like jobs.
+~
+12 67108864 500 S
+22 -6 3 1050d1+0 34d1+0
+27500 33700
+8 8 1
+#8117
+mob Green Bean~
+a Green Bean Guard~
+A Green Bean guard is here, protecting the gates.
+~
+The Green Bean guard stares at you coldly. He keeps looking
+at you suspiciously...
+~
+10 4 900 S
+24 -12 1 1350d1+0 39d1+0
+30000 37200
+8 8 1
+#8118
+mob Potato~
+a Potato~
+A Potato stands here, all it's eyes blinking in unison.
+~
+This potato is the largest of it's kind you have ever seen.
+Almost 4 feet tall, this potato walks around on little
+green sprouts coming out the bottom. All it's eyes stare
+at you and you can barely supress a shudder.
+~
+8 0 600 S
+21 -3 4 900d1+0 32d1+0
+21000 32500
+8 8 0
+#8119
+mob Radish~
+a Radish Guard~
+A Radish Guard is here, protecting the Lunchlady's room.
+~
+This is a life-size living radish. The muscles lining his tiny
+green arms make him look very tough, despite his small size.
+~
+10 4 1000 S
+27 -21 -2 2200d1+0 49d1+0
+45000 41500
+8 8 0
+#8120
+mob Meatloaf~
+a Piece of meatloaf~
+A piece of meatloaf is loping around.
+~
+Juices are dripping from this piece of meatloaf as it sort of
+slides around.
+~
+8 0 400 S
+25 -15 0 1600d1+0 40d1+0
+35000 38500
+8 8 0
+#8121
+mob Green Bean~
+a Green Bean Guard~
+A Green Bean guard is resting here, his shift over.
+~
+The Green Bean guard is resting here, dont disturb him!
+~
+10 4 900 S
+24 -12 1 1350d1+0 39d1+0
+30000 37200
+8 8 1
+#8122
+mob Carrot~
+a Carrot~
+A Carrot is here, combing it's green hair.
+~
+You have never seen a carrot with such nice hair!
+~
+136 0 500 S
+22 -6 3 1050d1+0 34d1+0
+25000 34000
+8 8 0
+#8123
+mob Chop Suey~
+a Chop Suey guard~
+A Chop Suey guard is here, guarding.
+~
+This Chop Suey Guard is no ordinary chinese dish! He's a
+Ninja chop suey noodle.
+~
+14 0 -900 S
+29 -27 -4 2800d1+0 57d1+0
+50000 45000
+8 8 0
+#8124
+mob Chocolate Pudding~
+some Chocolate Pudding~
+A Bowl of Chocolate Pudding is here, beating up things.
+~
+This evil looking bowl of chocolate pudding looks very
+mean! all it does all day is walk around, beating up the
+other foods.
+~
+44 33554432 -800 S
+27 21 -2 2150d1+0 48d1+0
+42000 42000
+8 8 0
+#8125
+mob Garlic Bread~
+a piece of Garlic Bread~
+A piece of Garlic Bread is standing here, looking mad.
+~
+This Garlic Bread looks mad at something... the lunchlady perhaps?
+Watch out, he has a BAD case of garlic breath!
+~
+4104 33554432 -700 S
+23 -10 2 1200d1+0 36d1+0
+27000 36000
+8 8 1
+#8126
+mob diabolical cabbage overlord~
+the diabolical Cabbage Overlord~
+The diabolical Cabbage Overlord stands here, plotting against the lunchlady.
+~
+This is the Diabolical Cabbage Overlord. The brains of all the
+rebels. He stands here, in all his glory, thinking of a new way
+to overthrow the lunchlady.
+~
+10 67108864 -1000 S
+33 -36 -8 3600d1+0 77d1+0
+75000 50000
+8 8 1
+#8127
+mob Sloppy Joe~
+Sloppy Joe~
+Sloppy Joe walks around here.
+~
+This is Sloppy Joe, the lunchlady's friend and protector. What
+a guy! Sloppy hamburger sauce drips slowly out his head.
+~
+10 0 900 S
+26 -15 -1 1850d1+0 40d1+0
+35000 40000
+8 8 1
+#8128
+mob Pepperoni Pizza~
+a piece of Pepperoni Pizza~
+A piece of Pepperoni Pizza is here, looking at you funny.
+~
+This piece of Pizza is trying hard to keep all of his pepperoni
+from falling off. You can tell it wishes it was a bit cooler in
+here.
+~
+12 33554432 -500 S
+21 0 4 900d1+0 32d1+0
+22000 33000
+8 8 0
+#8129
+mob Liver~
+Liver~
+Liver stands here with his buddy Onion watching people passing through.
+~
+Liver looks very.... livery. He has his arm around his pal Onion.
+~
+10 0 600 S
+22 6 3 1100d1+0 32d1+0
+20000 34000
+8 8 1
+#8130
+mob Onion~
+Onion~
+Onion stands here with her buddy Liver watching people passing through.
+~
+Onion looks very.... oniony. She has her arm around her buddy Liver.
+~
+10 0 600 S
+22 6 3 1100d1+0 32d1+0
+20000 34000
+8 8 2
+#8131
+mob Innkeeper~
+the Innkeeper~
+The Innkeeper is here, cleaning up the inn.
+~
+This is the innkeeper of the famous 'Cow's Breath Inn'. He has
+black, stringy hair and stubble lining his chin. There's a mop in
+his hand he is using to clean up.
+~
+10 0 1000 S
+75 156 -15 50000d1+0 1d1+50
+0 1
+8 8 1
+#8132
+mob Bartender~
+Moe the Bartender~
+Moe the Bartender is here, getting prank calls.
+~
+This Italian bartender has been serving drink at the 'Cow's Breath'
+since his childhood. He looks angry, having just threatened
+another prank caller. He seems to get a lot of those these days! He
+wipes the bar absently.~
+10 0 0 S
+75 156 -15 50000d1+0 1d1+50
+0 1
+8 8 1
+#8133
+mob The Holy Cow~
+The Holy Cow~
+The Holy Cow beams a radiant smile at you as he walks around.
+~
+This is The Holy Cow. The owner of this palace and god of all cows.
+Just being around this fair being makes you feel like you are
+invincible. A blue nimbus surrounds his body.
+~
+520 128 -100 S
+75 -24 -15 50000d1+0 88d1+50
+0 1
+8 8 0
+#8134
+mob Farrix~
+Farrix~
+A 2 foot man named Farrix is here, selling magical items.
+~
+This tiny man is one of the ledgendary Pysks. A race of tiny people
+related to sprites. He has black hair and is wearing a tiny blue suit.
+He is selling magical items.
+~
+10 0 0 S
+75 156 -15 50000d1+0 1d1+50
+0 1
+8 8 1
+#8135
+mob Lunchlady~
+the Lunchlady~
+The Lunchlady is here, governing Lunchlady Land.
+~
+This is the famous lunchlady. She is wearing blue plastic gloves
+and a hair net because her red hair is falling out. She has brown
+orthapedic shoes to correct her bad case of the gout. Her breath
+reeks of tuna and there's lots of black hairs coming out of her
+nose. When she smiles, you can see she has a bad case of gum
+disease.
+~
+10 0 500 S
+75 156 -15 50000d1+0 1d1+50
+0 1
+8 8 2
+#8136
+mob Tester~
+the Tester~
+The Tester is here, waiting to be tested...
+~
+It's just here for cow to test weapons, etc. on, it has LOTS of hp but no
+gold or eq.
+~
+10 67108864 0 S
+1 30 5 25000d1+0 1d1+1
+0 1
+8 8 0
+#8137
+mob Morkai~
+Morkai the Red~
+Morkai the Red is standing here, performing an experiment.
+~
+Red robes cloak the slightly-chubby figure of Morkai the Red. The
+most powerful of the order of the red robes, Morkai has come here
+to protect the gate to the underworld with the other three.
+~
+264 128 0 S
+34 -42 -9 3850d1+0 91d1+0
+100000 53000
+8 8 1
+#8138
+mob Dalamar~
+Dalamar the Black~
+Dalamar of the Black robes stands here staring at you evilly.
+~
+Dalamar the Black is a shady figure dressed all in the black shrouds
+wonr by those of his mage class. This elf is a renegade who was exiled
+from his homeland for using the black arts.
+~
+264 128 -900 S
+34 -42 -9 4000d1+0 91d1+0
+80000 55000
+8 8 1
+#8139
+mob Gandalf~
+Gandalf the Grey~
+Gandalf the Grey sits here, blowing multicolored smoke rings.
+~
+Gandalf the Grey wears grey robes and a fant smile touches the corners of his
+withered cheeks as he puffs on his pipe. A tall hat lies beside him, hovering
+over the ground. His dark blue eyes show a kindness and power you have never
+seen.
+~
+264 128 500 S
+34 -42 -9 4000d1+0 91d1+0
+80000 55000
+8 8 1
+#8140
+mob rayden raydenx blue~
+RaydenX the Blue~
+RaydenX stands here, mixing his BioAlchemical components.
+~
+RaydenX the Blue of the almighty X Clan stands here, mixing components
+for his BioAlchemical experiments. He is wearing a robe of shimmering
+blue silk and a pendant of radiant blue onyx. His eyes crackle with
+thunder.
+~
+264 128 0 S
+34 -42 -9 4000d1+0 91d1+0
+80000 55000
+8 8 1
+$~
+#999999

@@ -1,0 +1,3 @@
+#!/bin/csh
+tar -cvf crimtar *.h *.c makefile.bak
+gzip crimtar

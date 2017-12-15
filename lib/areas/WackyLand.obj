@@ -1,0 +1,1007 @@
+#17301
+obj glass key~
+a glass key~
+There is a transparent key lying on the ground.~
+~
+18 32 16385
+17301 0 10 0
+1 5000 -1
+#17302
+obj ivory key~
+an ivory key~
+A key delicatly carved out of ivory is here.~
+~
+18 0 1
+17302 4 5 5
+1 5000 -1
+#17303
+obj little box~
+a little box~
+A little box is here hovering in the air.~
+~
+15 1 0
+30 5 0 0
+99999999 15000 7500
+#17304
+obj bloody key~
+a bloody key~
+There is a key here, covered in blood.~
+~
+18 16 1
+17304 6 6 6
+1 5000 -1
+#17305
+obj fuzz bird feather~
+a feather of the Fuzz bird~
+A colorful feather lies on the ground here.~
+~
+1 524353 65537
+0 0 10000 0
+1 5000 1000
+A
+17 -3
+A
+12 15
+A
+27 -1
+#17306
+obj fuzzy breast plate~
+a fuzzy breast plate~
+There is a very fuzzy looking breast plate here.~
+~
+9 1147202 9
+20 20 10 0
+10 30000 7500
+A
+2 2
+A
+23 -2
+A
+18 1
+#17307
+obj shield cloud giants~
+a shield of the Cloud Giants~
+A strange looking piece of cloud is here.~
+~
+9 1049665 513
+21 0 10 0
+2 100000 20000
+A
+2 2
+A
+13 20
+#17308
+obj sword cloud giants~
+The Sword of the Cloud Giants~
+A giant sword made of clouds is lying on the floor here.~
+~
+5 1078337 8193
+0 7 4 3
+10 200000 50000
+A
+18 2
+A
+19 3
+A
+17 -3
+#17309
+obj cloud chest~
+a small chest made of clouds~
+Sitting on the floor is a small chest completely made of clouds.~
+~
+15 40 0
+20 7 17310 0
+99999 60000 -1
+#17310
+obj cloud key~
+a cloud key~
+A key made of delicate looking clouds is on the floor.~
+~
+18 0 1
+20 4 17310 0
+1 5000 -1
+#17311
+obj glowing yellow key~
+a glowing yellow key~
+There is a key here that is glowing an eerie yellow color.~
+~
+18 1 1
+17311 0 10 0
+1 5000 -1
+#17312
+obj rune carved war hammer~
+a rune carved warhammer~
+A massive warhammer with runes carved into it is here.~
+~
+5 1060929 8193
+0 5 5 7
+10 150000 75000
+A
+19 5
+A
+18 -1
+A
+37 -1
+#17313
+obj propellered beanie~
+a propellered beanie~
+A beanie with a cute little propeller is sitting on the ground.~
+~
+9 2097218 17
+30 0 10 0
+3 90000 60000
+A
+2 1
+A
+13 30
+A
+9 -4
+A
+18 3
+#17314
+obj diamond knuckles~
+a pair of diamond knuckles~
+There is a pair of very dangerous looking knuckles made of diamond here.~
+~
+5 4223572 8193
+1 9 4 11
+8 150000 80000
+A
+19 5
+A
+18 2
+A
+17 -3
+#17315
+obj small steel key~
+a small steel key~
+A small steel key is here.~
+~
+18 0 1
+17315 0 10 0
+1 5000 -1
+#17316
+obj rune bracelet~
+a rune bracelet~
+A bracelet covered with runes is here.~
+~
+9 1048609 4097
+20 0 10 0
+3 100000 20000
+A
+36 -1
+A
+19 2
+#17317
+obj fountain~
+a fountain~
+There is a fountain here gurgling out an endless stream of pinkish water.~
+~
+17 1 0
+100000 100000 0 0
+1 5 5
+#17318
+obj woog's sash power~
+Woog's Sash of Power~
+A midnight black sash is here.~
+~
+9 2117700 2049
+25 0 10 0
+5 175000 30000
+A
+41 1
+A
+13 50
+A
+19 2
+#17319
+obj gold dragon scale armor~
+a suit of gold dragon scale armor~
+A suit of golden dragon scale armor is here shining brilliantly.~
+~
+9 2125889 9
+35 0 10 0
+15 200000 75000
+A
+3 -2
+A
+2 -1
+A
+23 -5
+A
+19 2
+#17320
+obj gogo dodo cloak~
+Gogo the Dodo's Cloak~
+A pile of cloth made from a very soft and sturdy material is here.~
+~
+9 1146944 1025
+17 0 10 0
+3 80000 30000
+A
+2 1
+A
+12 30
+#17321
+obj fork~
+a fork~
+There is a fork stuck firmly in the ground here.~
+~
+12 0 0
+0 0 10 0
+1 5 -1
+#17322
+obj medallion wackyland chess club~
+a medallion of the Wackyland Chess Club~
+A medallion with an interesting design engraved in it is here.~
+~
+9 2097217 5
+16 0 10 0
+3 80000 20000
+A
+13 25
+A
+31 -1
+A
+33 -1
+A
+3 2
+#17323
+obj ring darkness~
+a ring of darkness~
+A pitch black ring is here.~
+~
+9 1049156 3
+20 0 10 0
+2 100000 15000
+A
+19 2
+#17324
+obj titanium arm plates~
+a pair of titanium arm plates~
+A pair of VERY strong looking arm plates is here.~
+~
+9 1053761 257
+26 0 10 0
+8 125000 25000
+A
+18 2
+#17325
+obj wand fiery rage~
+a wand of fiery rage~
+A deep red wand is here.~
+~
+3 98884 147457
+35 20 20 86
+3 75000 10000
+#17326
+obj bubbling black potion~
+a bubbling black potion~
+A vial of a bubbling black liquid is here.~
+~
+10 68 1
+35 1 9 36
+1 30000 5000
+#17327
+obj escape staff~
+an Escape Staff~
+A long, twisted staff is here.~
+~
+4 2196545 147457
+35 30 30 2
+5 50000 20000
+A
+13 25
+#17328
+obj spear darkness~
+a Spear of Darkness~
+On the ground, is a long spear made of a pitch black material.~
+~
+5 1069636 8193
+0 6 5 11
+10 75000 50000
+A
+19 2
+A
+18 -2
+#17329
+obj winged boots~
+a pair of winged boots~
+A pair of boots with wings attached to them are sitting on the ground.~
+~
+9 1115201 65
+20 0 10 0
+5 80000 25000
+A
+42 1
+A
+14 100
+#17330
+obj sceptre eternal darkness~
+the Sceptre of Eternal Darkness~
+A sceptre is here, emitting a ghastly black light.~
+~
+1 2097732 65537
+0 0 2147483647 0
+5 125000 35000
+A
+17 -10
+A
+26 -1
+A
+31 -1
+A
+32 -1
+#17331
+obj sceptre eternal light~
+the Sceptre of Eternal Light~
+There is a sceptre here giving off an endless stream of light.~
+~
+1 2100289 65537
+0 0 2147483647 0
+5 200000 30000
+A
+19 3
+A
+18 3
+A
+36 -1
+A
+26 -1
+#17332
+obj obsidian leg plates~
+a pair of obsidian leg plates~
+There are a pair of shiny black leg plates here.~
+~
+9 1053188 33
+19 0 10 0
+6 90000 10000
+#17333
+obj diamond gauntlets~
+a pair of diamond gauntlets~
+A pair of magnificent gauntlets made of diamond is here.~
+~
+9 1049665 129
+22 0 10 0
+10 130000 40000
+A
+1 2
+A
+18 2
+A
+2 -1
+#17334
+obj serpentine rapier~
+a serpentine rapier~
+A rapier with a snake-like blade is here.~
+~
+5 1051220 8193
+0 6 5 11
+10 50000 30000
+A
+19 2
+A
+24 -3
+A
+17 -1
+#17335
+obj gleaming silver warhammer~
+a gleaming silver warhammer~
+A huge, gleaming warhammer is here.~
+~
+5 1049921 8193
+0 7 4 7
+15 90000 40000
+A
+19 5
+A
+18 -2
+#17336
+obj ivory sign~
+new ivory sign~
+There is an ivory sign here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+sign~
+The pond may not be as deep as you think!
+~
+#17337
+obj glowing yellow sign~
+a glowing yellow sign~
+There is a glowing yellow sign here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+sign~
+Do stop by the bedroom.
+~
+#17338
+obj bloody sign~
+a bloody sign~
+There is a bloody sign here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+sign~
+Pitfalls may not be as dangerous as you think!
+~
+#17339
+obj glass sign~
+a glass sign~
+There is a glass sign here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+sign~
+The hard ground beneath your feet may not be as solid as you think~
+#17340
+obj cryogen's mystical blue robe~
+Cryogen's Mystical Blue Robe~
+A freezing-cold robe is here on the ground.~
+~
+9 4301890 1025
+30 0 10 0
+8 250000 95000
+A
+43 1
+A
+1 -2
+A
+24 -4
+#17341
+obj orb magic immunity~
+Cauchy's Orb of Magic Immunity~
+A pitch black orb is here hovering in mid-air.~
+~
+9 4194372 16385
+5 0 10 0
+5 300000 100000
+A
+29 1
+#17342
+obj pooky's warhammer destruction~
+Pooky's Warhammer of Destruction~
+There is a HUGE glowing warhammer here wanting to crush something into dust.~
+~
+5 4207171 8193
+1088 8 5 6
+20 300000 100000
+A
+19 6
+A
+2 -2
+A
+14 -50
+A
+13 30
+#17343
+obj renegade's indestructable plate mail~
+Renegade's Indestructable Plate Mail~
+A suit of VERY stong-looking plate mail is here.~
+~
+9 4288578 9
+40 0 10 0
+15 300000 100000
+A
+41 1
+A
+19 2
+A
+28 1
+A
+24 -5
+#17344
+obj banzai's energy shield~
+Banzai's Energy Shield~
+There is a gigantic shield here, made of what appears to be pure energy.~
+~
+9 4194371 513
+25 0 10 0
+12 300000 100000
+A
+45 1
+A
+12 50
+A
+13 50
+#17345
+obj sculpture~
+the sculpture~
+There is a beautiful sculpture here... what it resembles, you are not too sure.~
+~
+12 0 0
+0 0 10 0
+1 5 -1
+#17346
+obj gold bladed katana~
+a gold bladed katana~
+A sword with a 3 foot long gold blade is here eager to slice and dice something.~
+~
+5 2117697 8193
+0 6 6 3
+10 150000 80000
+A
+19 3
+A
+18 2
+A
+2 -1
+#17347
+obj statue mayor midgaard~
+the statue of the mayor of Midgaard~
+A statue of the Mayor of Midgaard is here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+#17348
+obj statue king adrian arnath~
+the statue of King Adrian of Arnath~
+A statue of King Adrian of Arnath is here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+#17349
+obj statue karak vampire wraith lord~
+the statue of Karak, the Vampire Wraith Lord~
+A statue of Karak, the Vampire Wraith Lord is here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+#17350
+obj statue gargath arch-duke tarterus~
+the statue of Gargath, the Arch-duke of Tarterus~
+A statue of Gargath, the Arch-duke of Tarterus is here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+#17351
+obj statue carnage god despair~
+the statue of Carnage, the God of Despair~
+A statue of Carnage, the God of Despair is here.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+#17352
+obj compass~
+a compass~
+A compass is sitting on the ground here.~
+~
+12 0 16385
+0 0 10 0
+1 2000 200
+A
+14 25
+#17353
+obj no-name brand raft~
+a No-Name brand raft~
+There is a cheap-looking rubber raft here.~
+~
+22 0 1
+0 0 10 0
+3 2000 20
+#17354
+obj long spear~
+a long spear~
+There is a long spear sitting on the ground.~
+~
+5 544768 8193
+0 4 4 11
+10 20000 2000
+#17355
+obj morning star~
+a morning star~
+A nasty looking morning star is here.~
+~
+5 528384 8193
+0 6 3 6
+8 20000 2000
+#17356
+obj scroll~
+a scroll which reads 'tnodgh'~
+A scroll has been left here.~
+~
+2 64 1
+22 16 16 42
+1 2400 100
+#17357
+obj iron shod quarterstaff~
+an iron shod quarterstaff~
+An iron shod quarterstaff lies on the ground here.~
+~
+5 524288 8193
+0 6 3 6
+8 25000 2500
+#17358
+obj wand magic missiles~
+a wand of magic missiles~
+A floresecent blue wand is here.~
+~
+3 524353 147457
+23 6 6 32
+3 5000 500
+#17359
+obj dirk~
+a dirk~
+A sharp-looking dirk is here.~
+~
+5 540672 8193
+0 6 4 11
+3 30000 3000
+#17360
+obj large slice pepperoni pizza~
+a LARGE slice of pepperoni pizza~
+A VERY delicious slice of pepperoni pizza is here, steaming hot.~
+~
+19 0 1
+40 0 0 0
+2 1500 50
+#17361
+obj sign~
+a bright, neon sign~
+There is a bright, neon sign here demanding to be read.~
+~
+12 3 0
+0 0 10 0
+1 5 5
+E
+sign~
+WACKYLAND WILDLIFE SANCTUARY IS NOW OPEN TO THE WEST!
+COMING SOON:  WACKYLAND ARENA
+~
+#17362
+obj air bubble~
+an air bubble~
+There is a bubble gingerly floating in the air here.~
+~
+9 65 17
+0 0 10 0
+1 0 -1
+A
+30 -1
+#17363
+obj spiked blue collar~
+a spiked blue collar~
+A cute looking blue collar with some nasty looking spikes is here.~
+~
+9 1048642 5
+2 0 10 0
+4 60000 6000
+A
+18 2
+A
+19 1
+#17364
+obj amulet giant squid~
+Amulet of the Giant Squid~
+A black, pulsating amulet is here.~
+~
+9 4196950 5
+30 0 10 0
+5 150000 75000
+A
+41 1
+A
+13 75
+A
+19 3
+A
+18 3
+#17365
+obj amethyst bracelet~
+an amethyst bracelet~
+A beautiful bracelet made of a purple rock is here.~
+~
+9 2162752 4097
+13 0 10 0
+3 100000 12000
+A
+19 2
+#17366
+obj arena sign~
+a sign~
+A VERY large sign is here. Whoever put this sign here really wanted to make sure that people read it.~
+~
+12 7 0
+0 0 10 0
+1 5000 -1
+E
+sign~
+Welcome one, welcome all to the Wackyland Arena!
+Please make note that you can only enter through these doors, and cannot
+exit through them.
+
+Warning:  The creatures in this arena vary greatly in strength.  Entering
+          MAY be hazardous to your health.
+~
+#17367
+obj armageddon's orb destruction~
+Armageddon's Orb of Destruction~
+A large, black orb is here releasing an eerie light.~
+~
+9 4205126 16385
+25 0 10 0
+5 250000 90000
+A
+41 1
+A
+19 6
+A
+18 6
+A
+3 -2
+#17368
+obj black diamond ring~
+a black diamond ring~
+A ring made of a black rock is here.~
+~
+9 4194884 3
+35 0 10 0
+3 200000 60000
+A
+24 -5
+A
+23 -5
+A
+12 50
+#17369
+obj shadow helm~
+a shadow helm~
+A transparent helm is here... you think..~
+~
+9 2101344 17
+26 0 10 0
+12 200000 70000
+A
+36 1
+A
+12 30
+#17370
+obj battlyn's sparkling broadsword~
+Battlyn's Sparkling Broadsword~
+A massive broadsword is here sparkling away..~
+~
+5 2125889 8193
+0 8 5 3
+13 220000 100000
+A
+19 3
+A
+18 2
+A
+17 -5
+#17371
+obj blackened full platemail~
+a blackened full platemail suit~
+A very strong and durable full platemail suit is here, blackened for some unknown reason...~
+~
+9 4223044 9
+40 0 10 0
+16 200000 90000
+A
+13 30
+#17372
+obj mirror shield~
+a mirror shield~
+You can see a very clear reflection of yourself in a shield that is lying on the ground here.~
+~
+9 4194369 513
+33 0 10 0
+7 180000 60000
+A
+24 -8
+A
+23 -8
+A
+21 -8
+A
+20 -8
+#17373
+obj charred bone bracelet~
+a charred bone bracelet~
+A bracelet made of charred bone is here.~
+~
+9 2097216 4097
+22 0 10 0
+4 160000 50000
+A
+13 20
+A
+19 2
+#17374
+obj robe high sorcery~
+a Robe of High Sorcery~
+A beautiful robe covered with runes is here.~
+~
+9 2220098 1025
+30 0 10 0
+7 175000 75000
+A
+12 100
+A
+3 2
+#17375
+obj diamond wand~
+a diamond wand~
+A diamond wand is here glistening in the light.~
+~
+3 2195456 147457
+35 15 15 25
+3 130000 40000
+#17376
+obj dark dwarven leg plates~
+a pair of dark dwarven leg plates~
+A pair of strong leg plates is here.~
+~
+9 1053184 33
+18 0 10 0
+6 120000 35000
+#17377
+obj dark dwarven arm plates~
+a pair of dark dwarven arm plates~
+A pair of strong arm plates is here.~
+~
+9 1053184 257
+20 0 10 0
+6 120000 35000
+#17378
+obj blood stained flail~
+a blood stained flail~
+A flail is here, completely stained with blood.~
+~
+5 1049664 8193
+0 8 4 6
+10 150000 80000
+A
+19 2
+A
+18 1
+A
+1 -1
+#17379
+obj prayer beads~
+some prayer beads~
+A necklace consisting of beads has been left here.~
+~
+9 1159168 5
+15 0 10 0
+2 80000 30000
+A
+3 2
+A
+4 2
+A
+12 75
+#17380
+obj giant wooden club~
+a giant wooden club~
+A GIANT wooden club is here.~
+~
+5 528384 8193
+0 7 4 6
+15 50000 10000
+A
+19 3
+#17381
+obj jade amulet~
+a jade amulet~
+An intricately carved amulet made of jade is here.~
+~
+9 1048641 5
+15 0 10 0
+4 75000 25000
+A
+18 1
+A
+19 1
+#17382
+obj jade bracelet~
+a jade bracelet~
+A bracelet made of a bright green rock is here.~
+~
+9 1114177 4097
+10 0 10 0
+3 70000 22000
+A
+18 1
+A
+19 1
+#17383
+obj shell giant turtle~
+the shell of a giant turtle~
+A fairly large sized shell is here.~
+~
+9 1134592 9
+23 0 10 0
+12 60000 20000
+#17384
+obj fine mesh chainmail~
+a fine mesh chainmail~
+A chainmail armor, made completely of fine mesh is here.~
+~
+9 1114112 9
+24 0 10 0
+9 75000 25000
+A
+19 2
+#17385
+obj jewelled belt~
+a jewelled belt~
+A belt with many jewels stuck in it is here.~
+~
+9 1048576 2049
+18 0 10 0
+5 60000 20000
+A
+19 1
+A
+18 1
+#17386
+obj black slime~
+some black slime~
+Some black slime is here.... it doesn't smell too pleasant!~
+~
+19 0 1
+10 0 0 0
+2 2000 200
+#17387
+obj giant television~
+a GIANT television~
+A GIANT television is here beckoning you to watch it.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+television~
+Hmm... there seems to be nothing on the screen... or maybe only the GODS
+are able to see it..?  Perhaps they use it to watch your every move in
+the comfort of this room.
+~
+#17388
+obj pool table~
+a pool table~
+A very elegant pool table is in one corner of the room.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+pool~
+Looks like fun.
+~
+E
+table~
+Looks like fun.
+~
+#17389
+obj ring holding~
+a ring of holding~
+A dull grey ring is here.~
+~
+15 524354 3
+75 0 10 0
+5 25000 2500
+#17390
+obj torch~
+a torch~
+A torch is lying here.~
+~
+5 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

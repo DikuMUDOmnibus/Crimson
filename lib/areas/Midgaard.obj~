@@ -1,0 +1,904 @@
+#3000
+obj beer barrel~
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 1
+50 50 1 0
+65 300 100
+#3001
+obj beer bottle~
+a bottle~
+A beer bottle has been left here.~
+~
+17 0 1
+8 8 1 0
+10 20 8
+#3002
+obj ale bottle~
+a bottle~
+A dark bottle of ale has been left here.~
+~
+17 0 1
+8 8 3 0
+10 10 3
+#3003
+obj firebreather bottle~
+a bottle~
+A firebreather has been left here.~
+~
+17 0 1
+8 8 7 0
+10 50 17
+#3004
+obj local bottle~
+a bottle~
+A dark bottle has been left here.~
+~
+17 0 1
+8 8 8 0
+10 20 7
+#3010
+obj bread~
+a bread~
+A loaf of bread has been left here.~
+~
+19 0 1
+12 0 0 0
+1 10 10
+#3011
+obj danish pastry~
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 1
+5 0 0 0
+1 5 5
+#3020
+obj dagger~
+a dagger~
+A dagger with a long thin blade is here.~
+pierce~
+5 0 8193
+0 1 4 11
+1 10 3
+#3021
+obj sword small~
+a small sword~
+A small sword lies here.~
+slash~
+5 0 8193
+0 1 6 11
+3 60 20
+E
+inscription~
+It says : May this sword be a good companion.
+~
+E
+sword small~
+The small sword seems to have an inscription of some sort.
+~
+#3022
+obj sword long~
+a long sword~
+A long sword has been left here.~
+slash~
+5 0 8193
+0 1 8 3
+8 600 200
+#3023
+obj club wooden~
+a wooden club~
+A simple looking wooden club is here.~
+pound~
+5 0 8193
+0 1 3 7
+3 12 4
+#3024
+obj warhammer~
+a warhammer~
+A medium sized warhammer is here.~
+pound~
+5 0 8193
+0 1 5 7
+6 50 17
+#3030
+obj torch~
+a torch~
+A large torch rests on the ground here.~
+~
+1 0 65537
+0 0 24 0
+1 10 3
+#3031
+obj lantern~
+a lantern~
+A brass lantern has been dropped here.~
+~
+1 0 65537
+0 0 96 0
+1 50 17
+#3032
+obj bag~
+a bag~
+A small bag is on the ground here.~
+~
+15 0 1
+50 0 0 0
+2 20 7
+#3033
+obj globe~
+a small globe~
+A small globe is resting at the middle of the room.~
+~
+12 0 0
+10 0 0 0
+5 50 7
+E
+globe~
+ DarkWood                    Snotling Camp        DwarfCity
+    |                              |                  |    SilverDale
+    |                     Gnome ---|        DrowCity -|       |
+    |-|           Bryan   Village  |                  |   |---|
+      |           Castle           |       Newbie     |---|
+      |             |     Tower of |       Village        |
+    |-|             |-----Sorcery  |          |         Mines
+    |                  |           |          |        of Moria
+    | Arachnos  Sewer------|       |          |           |
+    |    |                 |       |          |           |
+    |---- Forest of -------+-------+----- MidGaard -------------------|
+    |     Hoan Dor         |       |          |-------|     |         |
+    |            |         |       |        Sewer     |     |         |
+ VampLair        |         |       |                  |     |         |
+              Shaolin   |--|       |      Redfernes   |   Lair of     |
+              Temple    |          |      Residence   | the Ratmen    |
+                      Elfin        |----------|       |               |
+                     Citadel                  |       |         |=====|
+                        |        Thief Guild -|       |         |
+              Thalos ---|                 GraveYard   |      Arnath
+                        |                             |
+                      Egypt          Amazon Jungle =======Atlantis
+~
+#3040
+obj breast plate~
+a breast plate~
+A breast plate is lying on the ground.~
+~
+9 69632 9
+7 0 0 0
+100 18000 6000
+#3041
+obj chain mail shirt~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+~
+9 69632 9
+5 0 0 0
+60 2500 650
+#3042
+obj shield~
+a shield~
+A small wooden shield is lying on the ground.~
+~
+9 4096 513
+2 0 0 0
+3 100 33
+#3043
+obj jacket soft leather~
+a leather jacket~
+A soft leather jacket is lying on the ground.~
+~
+9 65536 9
+2 0 0 0
+10 200 60
+#3044
+obj jacket studded~
+a studded leather jacket~
+A studded leather jacket is lying on the ground.~
+~
+9 69632 9
+3 0 0 0
+20 500 150
+#3045
+obj jacket scale mail~
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+~
+9 69632 9
+4 0 0 0
+40 1000 300
+#3046
+obj bronze breast plate~
+a bronze breast plate~
+A bronze breast plate is lying on the ground.~
+~
+9 69632 9
+6 0 0 0
+80 7000 2250
+#3050
+obj scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 1
+12 53 -1 -1
+1 2000 50
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#3051
+obj potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 1
+12 19 -1 -1
+1 2000 50
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#3052
+obj scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 1
+12 42 -1 -1
+4 2000 100
+E
+scroll~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#3053
+obj wand~
+a wand of invisibility~
+A wand has carelessly been left here.~
+~
+3 64 16385
+12 2 2 29
+2 4000 100
+E
+wand~
+The wand is an old dark stick. You notice a small symbol etched at the
+base of the wand. It looks like this:
+
+     \ /
+    - O -
+     / \
+~
+#3054
+obj staff~
+a staff of sleep~
+A staff has carelessly been left here.~
+~
+4 64 16385
+12 1 1 38
+7 5000 100
+E
+staff~
+The staff is made of old oak, and is around five feet long. It fits
+perfectly into your hand. You notice a small symbol etched at the
+base of the staff, it looks like:
+
+  ZZZZZ
+     Z
+    Z
+   Z
+  ZZZZZ  z   z
+~
+#3060
+obj raft~
+a raft~
+A raft has been left here.~
+~
+22 0 1
+0 0 0 0
+75 400 25
+E
+raft~
+The raft looks very primitive.
+~
+#3061
+obj canoe~
+a canoe~
+A canoe has been left here.~
+~
+22 0 1
+0 0 0 0
+32 1000 2000
+E
+canoe~
+The canoe is fairly light.
+~
+#3070
+obj gauntlets bronze~
+a pair of bronze gauntlets~
+A pair of bronze gauntlets is lying on the ground.~
+~
+9 4096 129
+6 0 0 0
+8 1750 550
+#3071
+obj gloves leather~
+a pair of leather gloves~
+A pair of leather gloves is lying on the ground.~
+~
+9 0 129
+3 0 0 0
+3 75 25
+#3075
+obj helmet bronze~
+a bronze helmet~
+A bronze helmet is lying on the ground.~
+~
+9 69632 17
+6 0 0 0
+8 3500 1200
+#3076
+obj cap leather~
+a leather cap~
+A leather cap is lying on the ground.~
+~
+9 65536 17
+3 0 0 0
+3 150 50
+#3080
+obj leggings bronze~
+a pair of bronze leggings~
+A pair of bronze leggings is lying on the ground.~
+~
+9 4096 33
+6 0 0 0
+8 3500 1200
+#3081
+obj pants leather~
+a pair of leather pants~
+A pair of leather pants is lying on the ground.~
+~
+9 65536 33
+3 0 0 0
+8 150 50
+#3085
+obj sleeves bronze~
+a pair of bronze sleeves~
+A pair of bronze sleeves is lying on the ground.~
+~
+9 4096 257
+6 0 0 0
+8 1750 550
+#3086
+obj sleeves leather~
+a pair of leather sleeves~
+A pair of leather sleeves is lying on the ground.~
+~
+9 0 257
+2 0 0 0
+4 75 25
+#3096
+obj board bulletin~
+a bulletin board~
+A glowing board stands here...the work of the gods.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3097
+obj immboard board bulletin~
+a bulletin board~
+You see various immortal scribblings on this board.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3098
+obj board bulletin~
+a bulletin board~
+The drawings of many zonelords cover this board.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3099
+obj board bulletin~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3100
+obj tea cup~
+a cup~
+A cup has been set here.~
+~
+17 0 1
+8 8 11 0
+1 5 1
+E
+cup~
+It is a small simple cup.
+~
+#3101
+obj coffee cup~
+a cup~
+A cup has been set here.~
+~
+17 0 1
+8 8 12 0
+1 7 1
+E
+cup~
+It is a small simple cup.
+~
+#3102
+obj water cup~
+a cup~
+A cup has been set here.~
+~
+17 0 1
+16 16 0 0
+1 2 1
+E
+cup~
+It is a large simple cup.
+~
+#3120
+obj key iron~
+a key~
+An iron key has been left here.~
+~
+18 262144 1
+0 0 0 0
+1 0 -1
+E
+key iron~
+The iron key is not special.
+~
+#3121
+obj key rusty~
+a key~
+A rusty key has been left here.~
+~
+18 262144 1
+0 0 0 0
+1 0 -1
+E
+key rusty~
+The key is a fairly large rusty key. You notice a lot of dirt it.
+~
+#3122
+obj key wooden~
+a key~
+A wooden key has been left here.~
+~
+18 262144 1
+0 0 0 0
+1 0 -1
+E
+key wooden~
+The wooden key is not special.
+~
+#3123
+obj key brass~
+a key~
+A brass key has been left here.~
+~
+18 0 1
+0 0 0 0
+1 0 -1
+E
+key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#3130
+obj desk drawer~
+a desk~
+A desk is set against the western wall.~
+The desk looks very sparse, there is a drawer in the left side.
+~
+15 0 0
+34 15 3122 0
+100 0 100000
+E
+drawer~
+You notice a keyhole in the drawer.
+~
+#3131
+obj Biff's torch~
+a Biff's torch~
+A small glowing stick is left here.~
+~
+1 0 16385
+0 0 -1 0
+1 0 -1
+#3132
+obj gold coins~
+some gold~
+A lot of gold is here.~
+Looks like at least 10,000 coins.
+~
+20 0 1
+52385 0 0 0
+0 52385 0
+#3133
+obj city key~
+the City Key of Midgaard~
+The very big City Key is lying here.~
+It is probably the biggest key you have seen in your life.  It is made from
+polished gold and has various patterns on it along with the Midgaard Coat of
+Arms.
+~
+18 262144 1
+0 0 0 0
+10 10000 -1
+#3134
+obj newbie map~
+a newbie map~
+A newbie map board is right in front of you.~
+~
+12 0 0
+0 0 0 0
+100 600 200
+E
+map~
+                      Map Room  Temple Altar                     N
+                          |          |                           |
+                 Chat---Reading---Temple of---Donation        W--+--E
+                 Room    Room     Midgaard      Room             |
+                                     |                           S
+To Snotling Camp                     |        Entrance to
+& Gnome Village          Cleric----Temple-----Grunting Bar-----Grunting
+    ^                    Guild     Square  (up to Reception      Bar
+    |                                |     and Dressing Room
+    |                                |     where you are now)
+    |                                |
+    |     Magic Shop    Bakery       |       Grocery   Weaponsmith
+    |          |          |          |          |           |
+ Inside-------Main Street-+-------Market-----The Main Street-----Inside
+East Gate      |          |       Square        |           |   West Gate
+    |     Mage Guild   Armorer  (Fountain)   Pet Shop  Warrior Guild
+    |                                |
+    +-----------Poor Alley-+-------Common-------+-Dark Alley--------|
+    |                      |       Square       |         |         |
+    |                 Grubby Inn     |        Thief     Levee   Warehouse
+To South of Town                    Dump      Guild   (Captain)
+~
+#3135
+obj fountain~
+a fountain~
+A small white fountain is standing at the end of the road.~
+~
+17 0 0
+50 50 0 0
+500 3000 1000
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#3136
+obj coins gold~
+a small pile of gold coins~
+A small pile of gold coins lies here.~
+~
+20 0 1
+20 0 0 0
+0 0 0
+#3400
+obj candlestick~
+a candlestick~
+A pewter candlestick is standing here.~
+~
+1 0 16385
+0 0 24 0
+5 150 50
+E
+candlestick~
+It is a rather old-looking three-armed candlestick made from pewter.  Its
+candles are a yellowish white colour.
+~
+#3401
+obj star amulet~
+an amulet~
+A silver and blue star amulet lies here.~
+~
+3 65 5
+10 0 0 0
+1 0 0
+A
+25 5
+A
+13 30
+#3402
+obj wand~
+a wand~
+A twisted wooden wand lies here.~
+~
+3 64 131073
+10 0 0 0
+1 5 5
+#3403
+obj brand new sword~
+a brand new sword~
+Someone left a brand new sword here.~
+~
+5 0 8193
+0 1 4 11
+1 0 1
+#3404
+obj newbie wear~
+a designer newbie wear~
+Some designer newbie wear lays in a heap at your feet.~
+~
+9 0 9
+1 0 10 0
+1 0 1
+#3405
+obj mark rose~
+a mark of the rose~
+A special mark of the Rose Clan glows in front of you.~
+~
+8 97 17
+4 0 10 0
+0 0 0
+A
+33 0
+A
+32 0
+A
+26 0
+A
+31 0
+#3406
+obj garter~
+a pink lacey garter~
+a pink lacey garter lays here.~
+~
+12 0 33
+0 0 10 0
+1 5 5
+#3407
+obj wedding dress~
+some wedding dress~
+A sheer white silk wedding dress lays here.~
+~
+12 0 9
+0 0 10 0
+1 5 5
+#3408
+obj tuxedo tux~
+a black tuxedo~
+A black tuxedo lays here.~
+~
+12 0 9
+0 0 10 0
+1 5 5
+#3409
+obj bow tie~
+a bow tie~
+A tie lays on the ground.~
+~
+12 0 5
+0 0 10 0
+1 5 5
+#3410
+obj engagement ring~
+an engagement ring~
+A thin gold ring with a large diamond set in it is here.~
+~
+9 0 3
+0 0 10 0
+1 5 5
+#3411
+obj birthday cake~
+a birthday cake~
+A birthday cake lies here on the floor.~
+~
+19 0 1
+24 0 10 0
+1 5 5
+#3412
+obj reimb sword~
+a high level reimb sword~
+A dull metal sword lies here.~
+~
+5 1048576 8193
+0 3 10 3
+6 12000 3000
+A
+18 1
+A
+19 1
+#3413
+obj reimb armor~
+a high level reimb armor~
+A suit of dull metal armor lies in the dust.~
+~
+9 1048576 9
+8 0 10 0
+20 20000 5000
+A
+19 1
+A
+18 1
+#3414
+obj reimb helmet~
+a high level reimb helmet~
+A dull metal helmet lies in the dirt.~
+~
+9 1048576 17
+5 0 10 0
+5 4000 1000
+A
+18 2
+#3415
+obj reimb shield~
+a high level reimb shield~
+A dull metal sheild lies in the dust.~
+~
+9 1048576 513
+10 0 10 0
+5 2000 500
+A
+19 1
+#3416
+obj reimb sword~
+a low level reimb sword~
+A shoddy sword lies in the dust.~
+~
+5 0 8193
+0 1 12 3
+4 2000 500
+#3417
+obj reimb armor~
+a low level reimb armor~
+A shoddy suit of armor lies in the dust.~
+~
+9 0 9
+4 0 10 0
+10 500 125
+#3418
+obj reimb helmet~
+a low level reimb helmet~
+A shoddy helmet lies in the dirt.~
+~
+9 0 17
+3 0 10 0
+3 40 10
+#3419
+obj reimb shield~
+a low level reimb shield~
+A shoddy shield has been left here to rot.~
+~
+9 0 513
+3 0 10 0
+5 60 15
+#3420
+obj gauntlets might~
+the Gauntlets of Might~
+A shiny pair of gauntlets lies here.~
+~
+9 0 129
+0 0 10 0
+1 5 5
+#3421
+obj Midgaard fountain~
+a fountain~
+A fountain is here, merrily bubbling away.~
+~
+17 1 0
+1000000 1000000 0 0
+1 5 5
+#3422
+obj blank~
+blank~
+blank~
+~
+18 0 16385
+3422 0 10 0
+1 5 -1
+#3423
+obj blank~
+blank~
+blank~
+~
+18 0 16385
+3423 0 10 0
+1 5 -1
+#3424
+obj note~
+a note~
+A note is pinned to the wall here.~
+~
+16 0 16385
+0 0 10 0
+1 5 5
+#3425
+obj blank~
+blank~
+blank~
+~
+18 0 16385
+3425 0 10 0
+1 5 -1
+#3426
+obj blank~
+blank~
+blank~
+~
+18 0 16385
+3426 0 10 0
+1 5 -1
+#3427
+obj blank~
+blank~
+blank~
+~
+1 256 1
+0 0 10 0
+1 100000 -1
+#3428
+obj potion blue~
+a blue potion of healing~
+A small crystal vial with blue liquid inside is here.~
+~
+10 64 1
+30 0 0 15
+5 1500 1300
+#3429
+obj cane~
+a candy cane~
+A small red and white candy cane lies here.~
+~
+10 0 1
+30 0 0 16
+1 10000 1300
+#3430
+obj necktie~
+a necktie~
+The mayor's necktie is lying on the ground.~
+~
+9 0 5
+0 0 10 0
+1 5 5
+#3431
+obj autorent notice~
+a Crimson auto-rent notice~
+A piece of paper has been carelessly dropped here.~
+~
+13 0 1
+0 0 10 0
+1 0 0
+$~
+#999999

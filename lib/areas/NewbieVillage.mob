@@ -1,0 +1,482 @@
+#8000
+mob young child~
+the child~
+A young child peeks at you from the shadows.
+~
+  The small child hides from you in the shadows.  He looks pretty shy,
+but is curious enough about strange visiters to take a peek at you.
+~
+206 0 1000 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8001
+mob healer woman~
+the healer~
+A woman dressed in healer green greets you.
+~
+  A woman dressed in the traditional healers green turns toward you.
+She smells of herbs and potions.  It looks like she was making something
+when you came in.
+~
+602 0 1000 S
+3 30 22 64d1+0 2d3+1
+300 4500
+8 8 0
+#8002
+mob baker~
+the baker~
+The baker stands here, nerviously glacing at his ovens.
+~
+  The roundish baker is ready to serve you, but he seems nervios about
+leaving his ovens with bread in them!
+~
+74 0 1000 S
+4 29 21 76d1+0 3d3+0
+400 6000
+8 8 0
+#8003
+mob butcher~
+the butcher~
+The butcher stands here covered in animal blood.
+~
+  The butcher is covered in blood and looks like he wants to get back
+to his job of hacking up animals and freezing them.
+~
+74 0 1000 S
+4 29 21 76d1+0 3d3+0
+400 6000
+8 8 0
+#8004
+mob pathfinder~
+the pathfinder~
+The patherfinder walks by, taking a break from roaming the woods.
+~
+  The pathfinder looks strong and lithe and able to take care of herself
+in the woods.  A few scars mark her skin to prove that she can survive
+in the wilds.  She looks like she loves roaming the woods and bringing
+back meat better than walking in this small village.
+~
+72 0 1000 S
+5 28 20 90d1+0 2d3+3
+500 7500
+8 8 0
+#8005
+mob herder~
+a herder~
+A dirty herder stands here leaning on his staff.
+~
+  A herder dirty from his work stands here watching you.  He looks like
+he knows what to do with that staff of his and has had plenty of practice
+using it on his herds.
+~
+74 0 800 S
+2 31 23 52d1+0 2d3+0
+200 3000
+8 8 0
+#8006
+mob fieldworker worker~
+a worker~
+A fieldworker toils in the fields season after season.
+~
+  A hardy and strong looking workers ignores you and contines with the work
+waiting to be done.
+~
+74 0 900 S
+2 31 23 52d1+0 2d3+0
+200 3000
+8 8 0
+#8007
+mob beggar~
+a beggar~
+A beggar cowers here in a corner, begging for gold.
+~
+  This beggar looks half-starved and like he can't put up much of a fight.
+He doesn't look very rich, either.
+~
+232 0 500 S
+1 32 25 3d4+10 1d6+0
+50 1500
+8 8 0
+#8008
+mob young child~
+a child~
+A young child plays here.
+~
+  A young child is playing here, ignoring you for the fancies of her
+imagination.  She looks like an active youngling, but like she doesn't
+get quite enough food for her age.
+~
+204 0 1000 S
+1 32 25 3d6+10 1d4+2
+5 1500
+8 8 0
+#8009
+mob warrior girl~
+a warrior girl~
+A warrior girl is here practicing with her weapons.
+~
+  This young, quick girl looks like she's been practicing with her small
+sword for some time by the look of her muscles.
+~
+72 0 900 S
+3 30 24 40d1+0 3d1+0
+75 4500
+8 8 0
+#8010
+mob mother~
+a mother~
+A tired looking mother stands here looking for her child.
+~
+  A tired looking mother is searching for her child, who is probably
+out playing to late and is going to get a spanking.
+~
+88 0 1000 S
+2 31 23 52d1+0 2d3+0
+200 3000
+8 8 0
+#8011
+mob sick man~
+a sick man~
+A sick man lies here looking pretty ill.
+~
+  This man looks pretty sick.  You're not sure what he has, but he
+looks pretty green in the face...whatever he has.
+~
+88 0 750 S
+2 31 23 52d1+0 2d3+0
+100 3000
+8 8 0
+#8012
+mob rabbit~
+a rabbit~
+A cute little brown rabbit is eating here.
+~
+  This cute little brown rabbit looks like an ideal pet..if you could
+catch him..
+~
+16777418 0 100 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8013
+mob deer~
+a deer~
+A small deer stands here in a clearing.
+~
+  This small deer looks like it's barely been able to survive in this
+small woods it lives in, but it still looks fleet.
+~
+16777418 0 300 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8014
+mob small fish~
+a fish~
+A small fish swims near you in the stream.
+~
+  The small, golden fish looks very speedy, but if you can hit it,
+rather easy to kill.
+~
+16777290 0 1000 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8015
+mob innmaster~
+the innmaster~
+The innmaster stands here waiting to find you a room.
+~
+  The innmaster towers over you he is so tall, but he looks like a pretty
+friendly guy willing to serve you.
+~
+74 0 800 S
+4 29 21 76d1+0 3d3+0
+400 6000
+8 8 0
+#8016
+mob barkeeper~
+a barkeeper~
+A barkeeper stands at the bar waiting to take your order.
+~
+  This man looks like he used to adventure before getting enough money
+to buy this bar and settle down here.
+~
+74 0 1000 S
+4 29 21 76d1+0 3d3+0
+400 6000
+8 8 0
+#8017
+mob young wench~
+a young wench~
+A young wench dashes through the crowded room.
+~
+  This young and pretty wench looks rather harried as she dashes through
+the crowded room to serve the customers.
+~
+90 0 850 S
+2 31 23 52d1+0 2d3+0
+80 3000
+8 8 0
+#8018
+mob drunk~
+a drunk~
+A drunk leans against a wall for support.
+~
+  A drunk leans against the wall here, obviously very drunk
+and rather careless right now.
+~
+72 0 650 S
+2 31 23 52d1+0 2d3+0
+100 3000
+8 8 0
+#8019
+mob troll~
+a troll~
+An ugly runt of a troll stands ready to protect his den here.
+~
+  This small, ugly troll looks a bit dangerous looking at his long, sharp
+claws and teeth.  You might want to bring some friends along
+to help next time..
+~
+16777326 67108872 0 S
+5 28 20 90d1+0 3d3+1
+500 7500
+8 8 0
+#8020
+mob lazy man~
+lazy man~
+A lazy man sits here in the sun doing nothing.
+~
+  This man looks like he's a lazy bum, but still able to swing his fists very 
+well!
+~
+74 0 600 S
+3 30 22 64d1+0 2d3+1
+200 4500
+8 8 0
+#8021
+mob bored man~
+a bored man~
+A bored man sits here trying to find something to do.
+~
+  This man doesn't seem to know what to do with himself and might
+even welcome a fist-fight now and then to spice up life.
+~
+74 0 800 S
+3 30 22 64d1+0 2d3+1
+100 4500
+8 8 0
+#8022
+mob villager woman~
+a villager woman~
+A villager woman walks through the crowds here.
+~
+  This villager woman strides through this crowd, obviously going
+somewhere.  She swings her bulk through the crowds expertly.
+~
+88 0 1000 S
+2 31 23 52d1+0 2d3+0
+200 3000
+8 8 0
+#8023
+mob kid~
+a kid~
+A kid runs around here playing games.
+~
+  This kid looks like he has plenty of energy and rather swift of foot,
+but otherwise pretty harmless.
+~
+216 0 800 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8024
+mob storekeeper keeper~
+a storekeeper~
+The storekeeper stands at the counter waiting to serve you.
+~
+  The squat storekeeper looks rather strong from all the time he's spent
+moving things around his store.
+~
+78 0 700 S
+4 29 21 76d1+0 3d3+0
+400 6000
+8 8 0
+#8025
+mob blacksmith smith~
+the blacksmith~
+The blacksmith stands before you, black from his fires.
+~
+  The blacksmith is covered with black soot and his muscles bulge from
+his work.  He doesn't look like a guy you want to taggle with, especially
+with that hammer of his..
+~
+74 0 900 S
+4 29 21 76d1+0 3d3+0
+400 6000
+8 8 0
+#8026
+mob woodworker worker~
+a woodworker~
+A woodworker is carefully working on a piece of wood here.
+~
+  This woodworker looks strong from moving wood around and good at his
+detailed work.
+~
+74 0 900 S
+4 29 21 76d1+0 3d3+0
+400 6000
+8 8 0
+#8027
+mob small hunting dog~
+a dog~
+A small hunting dog romps around you in the street.
+~
+  This small hunting dog looks like here's pretty good at helpping
+in the hunt with his teeth and swiftness, but right now he looks
+like he's having fun off the job.
+~
+16777416 0 300 S
+1 32 24 40d1+0 3d1+0
+80 1500
+8 8 0
+#8028
+mob servant~
+A servant~
+A servant works hard at his duties.
+~
+  This servant is working hard at his job, but is obviously ready to
+go off and do his master's biding.
+~
+74 0 900 S
+2 31 23 52d1+0 2d3+0
+200 3000
+8 8 0
+#8029
+mob rich man~
+a rich man~
+A rich man lounges here waiting for the harvest to come in.
+~
+  This rich man is very well dressed..for a village.  It looks to you like
+he owns this manor in which he sits.
+~
+78 0 400 S
+3 30 22 64d1+0 2d3+1
+500 4500
+8 8 0
+#8030
+mob rich wife~
+a rich wife~
+The rich-man's rich wife stands here directing people.
+~
+  This woman is well dressed..for a villager.  She's busy running the
+house while her husband makes sure the crops are tended that make them
+so rich.
+~
+74 0 500 S
+3 30 22 64d1+0 2d3+1
+400 4500
+8 8 0
+#8031
+mob chicken~
+a chicken~
+A chicken walks around looking for food on the ground.
+~
+  This chicken looks harmless at first glance, but then you realize that
+those claws and beak could do a lot of damage.
+~
+16777436 0 500 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8032
+mob calf~
+a calf~
+A calf wanders around here looking for some grass to eat.
+~
+  This young calf looks rather harmless as it searches for grass, but
+when it kicks out at a fly, you realize its hooves could HURT.
+~
+16777306 0 500 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8033
+mob cow~
+a cow~
+A cow stands here lazily flicking the flies away.
+~
+  This white and black cow stands here watching her calf and flicking away
+the flies.  Like her son, her hooves look like they would HURT if they hit
+you.
+~
+16777306 0 500 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8034
+mob bull~
+a bull~
+A large bull stands here, watching you closely.
+~
+  This old bull looks rather dangerous, dispite his age.  He seems
+to be getting ideas about you from the movement of color from your
+clothes.
+~
+16777290 0 1000 S
+2 31 23 52d1+0 2d3+0
+80 3000
+8 8 0
+#8035
+mob dark horse~
+a dark horse~
+A dark, worn-down horse rests here.
+~
+  This old horse looks like he's seen a lot of work in his lifetime,
+but he still looks cranky enough to hit you hard with those hooves
+of his.
+~
+16777418 0 1000 S
+2 31 23 52d1+0 2d3+0
+80 3000
+8 8 0
+#8036
+mob goat~
+a goat~
+A goat stands here munching on whatever he can reach.
+~
+  A goat stands here ignoring you..except for those tasty clothes.  His
+horns are still fairly small, but look like something to avoid.
+~
+16777310 0 300 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8037
+mob pig~
+a pig~
+An old pig stands here looking for some food.
+~
+  This old pig looks like he's hungry and fat.  He seems to be much more
+in this mud than you and has more bulk to throw around.
+~
+16777294 0 300 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#8038
+mob white filly~
+a white filly~
+A white filly romps around the field.
+~
+  This young filly seems to love life and is having fun dashing all
+over this field.
+~
+16777418 0 1000 S
+2 31 23 52d1+0 2d3+0
+100 3000
+8 8 0
+$~
+#999999

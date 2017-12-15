@@ -1,0 +1,304 @@
+#13200
+obj sledgehammer hammer~
+a sledgehammer~
+A large, heavy sledgehammer has been left here.~
+~
+5 0 8193
+0 2 3 7
+8 10 10
+A
+18 -1
+#13201
+obj key rusty heavy~
+a heavy rusty key~
+Somebody has dropped a heavy looking key on the ground here.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#13202
+obj key small bronze~
+a small bronze key~
+Somebody has dropped a small bronze key on the ground here.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#13203
+obj key heavy black iron~
+a heavy iron key~
+Somebody has dropped a black iron key on the ground here.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#13204
+obj shield unbound~
+an unbound shield~
+A poor quality shield is lying on the ground here.~
+~
+9 0 513
+3 0 10 0
+3 80 25
+#13205
+obj helmet leather skaven~
+a skaven leather helmet~
+A skaven's leather helmet is lying on the ground here.~
+~
+9 0 17
+5 0 10 0
+4 800 100
+#13206
+obj jacket leather skaven~
+a skaven leather jacket~
+A skaven's leather jacket is lying on the ground here.~
+~
+9 0 9
+3 0 10 0
+11 900 300
+#13207
+obj skirt leather skaven~
+a skaven leather skirt~
+A skaven's leather skirt is lying on the ground here.~
+~
+9 0 33
+3 0 10 0
+5 600 50
+#13208
+obj amulet brown~
+a brown amulet~
+A brown amulet looks as if it has been dropped here.~
+~
+9 1606144 5
+3 0 10 0
+9 40000 6000
+A
+24 -5
+A
+12 20
+A
+13 15
+#13209
+obj warpscroll warp scroll~
+a skaven warpscroll~
+A strange looking scroll is resting on the ground here.~
+~
+2 0 1
+30 10 10 10
+1 5 5
+#13210
+obj dagger warpstone skaven~
+a warpstone dagger~
+A black, evil looking dagger has been left on the ground.~
+~
+5 625172 8193
+0 5 3 8
+4 10000 4000
+A
+18 5
+A
+19 3
+A
+5 -1
+#13211
+obj dagger serrated skaven~
+a serated dagger~
+A vicious looking serated dagger is lying on the ground here.~
+~
+5 0 8193
+0 3 4 8
+1 1200 100
+A
+19 2
+#13212
+obj charm warpstone skaven~
+a warpstone charm~
+A skaven waprstone charm is lying here, soaking up the light.~
+~
+9 2580 5
+2 0 10 0
+20 10000 6000
+A
+18 1
+A
+19 1
+#13213
+obj charm warpstone huge skaven~
+a huge warpstone charm~
+A huge warpstone charm is lying here, soaking up the light.~
+~
+9 2580 5
+3 0 10 0
+30 45000 15000
+A
+18 2
+A
+19 2
+#13214
+obj sphere white skaven~
+a white sphere~
+A white sphere has embedded itself in the ground here.~
+~
+12 1051153 16385
+0 0 10 0
+12 120000 35000
+A
+12 40
+A
+9 15
+A
+4 1
+A
+3 1
+#13215
+obj sword warpstone huge~
+a huge warpstone sword~
+A huge warpstone sword is lying here, soaking up the light.~
+~
+5 2128404 8193
+7 7 4 3
+20 100000 60000
+A
+18 4
+A
+19 2
+#13216
+obj helmet spiked black skaven~
+a spiked black skaven helmet~
+A huge spiked black skaven helmet is resting here.~
+~
+9 66064 17
+10 0 10 0
+15 4000 8250
+A
+19 1
+#13217
+obj platemail spiked suit skaven plate mail~
+a suit of black spiked skaven platemail~
+A suit of spiked platemail is lying here in a heap.~
+~
+9 592400 9
+15 0 10 0
+80 100000 25000
+A
+19 2
+#13218
+obj greaves spiked skaven~
+a pair of black spiked skaven greaves~
+A pair of black skaven greaves are lying here.~
+~
+9 2576 33
+13 0 10 0
+23 30000 4000
+A
+19 1
+#13219
+obj bracelet warpstone spiked~
+a spiked warpstone bracelet~
+A black spiked warpstone bracelet has been left here.~
+~
+9 526868 4097
+8 0 10 0
+9 15000 4500
+A
+19 2
+A
+18 -1
+#13220
+obj axe huge two-handed~
+a huge two-handed axe~
+A huge 2-handed axe is lying on the ground here.~
+~
+5 524288 8193
+0 3 6 3
+16 15000 6000
+A
+19 3
+A
+18 2
+#13221
+obj pickaxe pick axe~
+a pickaxe~
+A vicious looking pickaxe has been left here.~
+~
+5 0 8193
+0 2 3 3
+8 900 300
+A
+19 1
+A
+18 -1
+#13222
+obj sword serrated skaven short~
+a serated skaven short sword~
+A viciously serrated skaven short sword is lying here.~
+~
+5 0 8193
+0 4 4 3
+4 600 350
+A
+19 2
+#13223
+obj halberd serrated skaven~
+a serated skaven halberd~
+A viciously serated skaven halberd is lying here.~
+~
+5 0 8193
+0 4 5 3
+11 800 550
+#13224
+obj club wooden huge~
+a huge wooden club~
+A huge wooden club has been dropped here.~
+~
+5 0 8193
+0 3 2 5
+15 400 25
+A
+19 2
+#13225
+obj club huge wooden spiked~
+a huge spiked club~
+A huge spiked club made of wood is lying here.~
+~
+5 0 8193
+0 3 2 5
+15 450 40
+A
+18 1
+#13226
+obj robe green grey seer's~
+the Grey Seer's Robe~
+A green robe is lying crumpled on the floor.~
+~
+15 0 1025
+40 0 10 0
+9 35000 2500
+A
+24 -4
+A
+3 1
+A
+5 -1
+#13227
+obj scraps~
+some foraged scraps of food~
+Some foraged scraps of food are lying here in a pile.~
+~
+19 0 1
+8 0 10 0
+1 5 5
+#13228
+obj whip spiked skaven~
+a viciously spiked whip~
+A viciously spiked whip is coiled here on the floor.~
+~
+5 0 8193
+0 4 3 2
+3 500 135
+A
+18 -1
+A
+19 1
+$~
+#999999

@@ -1,0 +1,1052 @@
+#13600
+Blank~
+~
+27 8 1
+D4
+void~
+~
+2 -1 3001
+S
+#13601
+begin ~
+The~
+27 8 1
+S
+#13602
+Forest trail~
+As you wander down the trail, you notice small animals darting through the
+brush.  The trees seem larger and more crowded here.  You notice that the
+temperature has become slightly colder.
+~
+27 0 3
+D0
+A small meadow.~
+~
+0 -1 13603
+S
+#13603
+A small meadow.~
+You emerge from the forest to find yourself in a small meadow carpeted with
+wildflowers.  The mountains to the north are barely visible through the
+treetops.
+~
+27 0 2
+D0
+To dark to tell.~
+~
+0 -1 13604
+D2
+Forest trail.~
+~
+0 -1 13602
+S
+#13604
+A trail.~
+The forest here is very dark and cold.  It seems as if you have fallen off the
+edge of the world.  What was that?!...You remember something about a lost
+place to the north.  What was its name?  Ahh, now you remeber...Artica, the
+lost city of the north.
+~
+27 5 3
+D0
+To dark to tell.~
+~
+0 -1 13605
+D2
+A small meadow.~
+~
+0 -1 13603
+S
+#13605
+The dead forest.~
+You are wandering aimlessly through the Dead Forest.  The trees here are so
+close together that no light can penetrate through the dense foliage to warm
+the chilly air.  As you wander, you notive something that you failed to
+notice before.  There are no forest sounds here...only eerie silence.
+~
+27 1 3
+D0
+A small clearing.~
+~
+0 -1 13606
+D2
+A small forest.~
+~
+0 -1 13604
+S
+#13606
+The basin.~
+You emerge from the forest to find yourself at the base of a large towering
+ice formation.  The air here chills you to the bone.  As you take time to
+examine the glacier, you notice a small level area to walk on.
+~
+27 0 2
+D0
+The ice trail.~
+~
+0 -1 13607
+D2
+To dark to tell.~
+~
+0 -1 13605
+S
+#13607
+The icy trail.~
+The trail here is quite slippery and it is very hard to maintain
+your balance.  The walls of the glacier rise high above you.  As you look
+at the walls to the north, you notice a small crevice in the ice...
+~
+27 0 5
+D0
+The crevice.~
+~
+0 -1 13608
+D2
+A basin.~
+~
+0 -1 13606
+S
+#13608
+The crevice through the ice.~
+You are inside a crevice in the ice. It is a tight squeeze here but you are
+not all that uncomfortable.~
+27 264 5
+D1
+Icy trail.~
+~
+0 -1 13609
+D2
+The icy trail.~
+~
+0 -1 13607
+S
+#13609
+Overlook.~
+To the east you see a mist-covered valley.  Mountain peaks can be seen
+poking through the blanket of mist everywhere.  As you look to the south
+you see the small town of Midgaard.
+~
+27 0 5
+D1
+An Icy trail.~
+~
+0 -1 13610
+D3
+A Crevice.~
+~
+0 -1 13608
+S
+#13610
+The Icy ledge.~
+You are sitting on the top of a large hill.  To the east is a trail going
+down.  It looks as if once you go down, you won't get back up.  Another trail
+leads south along the side of the ledge.
+~
+27 0 5
+D2
+An Icy trail.~
+~
+0 -1 13611
+D3
+An Icy trail.~
+~
+0 -1 13609
+D5
+Slippry trail down.~
+~
+0 -1 13629
+S
+#13611
+An Icy trail.~
+You are on an icy trail.  From here it goes east, north, and south.
+~
+27 0 5
+D0
+An Icy trail.~
+~
+0 -1 13610
+D1
+You see a valley.~
+~
+0 -1 13613
+D2
+A Valley.~
+~
+0 -1 13612
+S
+#13612
+You are blinded by the snow and wind.~
+Becuse of the snow and wind you are quite blinded.
+~
+27 0 5
+D0
+You are quite blinded.~
+~
+0 -1 13612
+D1
+You are quite blinded.~
+~
+0 -1 13612
+D2
+You are quite blinded.~
+~
+0 -1 13612
+D3
+You are quite blinded.~
+~
+0 -1 13611
+S
+#13613
+The valley of snow.~
+You are in the south end of a valley.  It is hard to see as the snow and wind
+make your eyes hurt.  You see a trail to the north.  The trail you came in on
+seems to have disappeared.
+~
+27 0 4
+D0
+Snow.~
+~
+0 -1 13614
+S
+#13614
+The northwest end of the valley.~
+The wind blows off the mountain high above your head. This creates an
+unusual calm here. You see a cave to the north, a trail to the east, and south
+of here.
+~
+27 0 4
+D0
+A cave mouth.~
+~
+0 -1 13630
+D1
+The east side of the valley.~
+~
+0 -1 13615
+D2
+The south end of the valley.~
+~
+0 -1 13613
+S
+#13615
+Snowy valley.~
+It sorta reminds you of the great white north eh. You see a trail to the
+south and and east.
+~
+27 8 4
+D1
+Snowy valley.~
+~
+0 -1 13618
+D2
+Snowy valley.~
+~
+0 -1 13616
+D3
+Snowy valley.~
+~
+0 -1 13614
+S
+#13616
+Snowy valley.~
+You are in the valley of snow there is a trail east of you.
+~
+27 0 4
+D0
+Snowy valley.~
+~
+0 -1 13615
+D1
+An icy trail.~
+~
+0 -1 13617
+S
+#13617
+An icy trail.~
+You are on an icy trail you have a choice to make here.... go east or go
+south on the trails. Or west the way you came.
+~
+27 0 4
+D1
+An icy trail.~
+~
+0 -1 13619
+D2
+An icy trail.~
+~
+0 -1 13620
+D3
+Snowy Valley.~
+~
+0 -1 13616
+S
+#13618
+End of Valley.~
+You have come to a spot in the valley where you can only go back the way you
+came the snow and mountains are inpassable here.
+~
+27 0 4
+D3
+Snowy valley.~
+~
+0 -1 13615
+S
+#13619
+An icy trail.~
+You are on an icy trail you can go east or west.
+~
+27 0 4
+D1
+An icy trail.~
+~
+0 -1 13622
+D3
+an Icy trail.~
+~
+0 -1 13617
+S
+#13620
+Rocky path.~
+The path you are on starts to get slippery...Your footing is very unsure.
+You see what looks like an old stone wall here. You see a trail west of here.
+~
+27 0 4
+D0
+An icy trail.~
+~
+0 -1 13617
+D3
+Rocky path.~
+~
+0 -1 13621
+S
+#13621
+The frozen end.~
+You have run into a sher wall of ice there is nowhere to go but back the
+way you came. Whats that there in the ice shapes.
+~
+27 0 4
+D1
+Rocky path.~
+~
+0 -1 13620
+S
+#13622
+An icy trail.~
+You stand on an icy trail there is a cabin to the east. And the trail goes
+to the north here.
+~
+27 0 4
+D0
+An icy trail.~
+~
+0 -1 13624
+D1
+You see a door to a cabin. On the door is a note.
+The note reads.
+
+                               Welcome to my cabin.
+                                   come on in.
+                             stay as long as you need.
+                            Please replace what you use.
+~
+door~
+9 -1 13623
+D3
+An icy trail.~
+~
+0 -1 13619
+S
+#13623
+The cabin.~
+This place is lavishly furnished. Paintings adorn the walls. There is a bed
+table, and chairs. In the east wall there is a fireplace burning bright
+and hot. It throws many shadows on the walls. This place is warm it makes
+you want to stay here. There is a creake in the floor.
+~
+27 8 1
+D3
+An icy trail.~
+door~
+9 -1 13622
+D5
+An ice cave.~
+floor~
+9 -1 13631
+S
+#13624
+An icy path.~
+This path is real icy. Becareful or you just might take a fall. The path
+looks as if it gets worse to the north. It seems clear too the south.
+~
+27 0 4
+D0
+An icy path.~
+~
+0 -1 13625
+D2
+An icy trail.~
+~
+0 -1 13622
+S
+#13625
+An L in the icy path.~
+There's a bend in the path. The path goes on south and east.
+~
+27 0 4
+D1
+An icy path.~
+~
+0 -1 13626
+D2
+An icy path.~
+~
+0 -1 13624
+S
+#13626
+The icy path.~
+This is the icy path. It leads east and west.
+~
+27 0 4
+D1
+An icy path.~
+~
+0 -1 13627
+D3
+An icy path.~
+~
+0 -1 13625
+S
+#13627
+The icy path up the mountain.~
+You are on the icy path. You can go up the mountain or west from here.
+~
+27 0 4
+D3
+An icy trail.~
+~
+0 -1 13626
+D4
+The top of the world.~
+~
+0 -1 13628
+S
+#13628
+The top of the world.~
+You can see everything in this world from here. To bad your eyes aren't that
+good for if they where you could map the whole world. You can go down and
+west from here. It looks as if if you go down you may not get back up to
+here.
+~
+27 0 4
+D3
+An Icy trail.~
+~
+0 -1 13627
+D5
+Mid-way down mountain.~
+~
+0 -1 13661
+S
+#13629
+The Icy ledge.~
+You are looking over an icy ledge on the side of a large hill, wondering
+where to go now.  When you look down you see only death.  When you try to
+climb back up you can't... what to do now...
+~
+27 0 5
+S
+#13630
+The frost giants cave.~
+You are standing in a used cave there is all kinds of large stuff here.
+Could it be a giants stuff. Maybe its some of the Frost Giants stuff.
+Maybe this is there home.
+~
+27 8 2
+D2
+Out side.~
+~
+0 -1 13614
+S
+#13631
+An ice cave.~
+You are standing in an ice cave the exits are to the south, east, north,
+and up.
+~
+27 8 2
+D0
+An ice cave.~
+~
+0 -1 13632
+D1
+An ice cave.~
+~
+0 -1 13634
+D4
+The cabin.~
+floor~
+9 -1 13623
+S
+#13632
+An ice cave.~
+You are standing in an ice cave the exits are to the south, east, north,
+and west.
+~
+27 8 2
+D1
+An ice cave.~
+~
+0 -1 13633
+D2
+An ice cave.~
+~
+0 -1 13631
+S
+#13633
+An ice cave.~
+You are standing in an ice cave the exits are to the south, west, and north.
+~
+27 8 2
+D2
+An ice cave.~
+~
+0 -1 13634
+D3
+An ice cave.~
+~
+0 -1 13632
+S
+#13634
+An ice cave.~
+You are standing in an ice cave splashing can be heard to the south. There are
+exits to the north and west. To the south you see a wall.
+~
+27 9 2
+D0
+An ice cave.~
+~
+0 -1 13633
+D2
+Splashing cave.~
+wall~
+1 -1 13635
+D3
+An ice cave.~
+door~
+0 -1 13631
+S
+#13635
+Underground lake.~
+As you look at the huge lake before you. You see somithing move far off to
+the south. There is an ice sheet to the west. And the lake is also to the
+east.
+~
+27 8333 2
+D0
+An ice cave.~
+wall~
+17 -1 13634
+D1
+Lich room.~
+ice~
+13 13603 13636
+D2
+Undergound lake.~
+~
+0 -1 13637
+D3
+Undergound lake.~
+~
+0 -1 13644
+S
+#13636
+Crypt of Sir Leanne Triksky.~
+You are in a small room 10 feet by 15 feet. There is a large rectangular slab
+of marble in the center of the room. On the top of the marble slab is a large
+coffin.
+~
+27 8 2
+D3
+The undergound lake.~
+ice~
+29 13603 13635
+S
+#13637
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+north, south, west and east on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13635
+D1
+The underground lake.~
+~
+0 -1 13638
+D2
+The underground lake.~
+~
+0 -1 13641
+D3
+The underground lake.~
+~
+0 -1 13645
+S
+#13638
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+south, west and east on the lake.
+~
+27 9 7
+D1
+The underground lake.~
+~
+0 -1 13639
+D2
+The underground lake.~
+~
+0 -1 13642
+D3
+The underground lake.~
+~
+0 -1 13637
+S
+#13639
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+south, west and north on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13640
+D2
+The underground lake.~
+~
+0 -1 13643
+D3
+The underground lake.~
+~
+0 -1 13638
+S
+#13640
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+south on the lake.
+~
+27 9 7
+D2
+The underground lake.~
+~
+0 -1 13639
+S
+#13641
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+south, north, east, and west on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13637
+D1
+The underground lake.~
+~
+0 -1 13642
+D2
+The underground lake.~
+~
+0 -1 13648
+D3
+The underground lake.~
+~
+0 -1 13646
+S
+#13642
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+south, north, east, and west on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13638
+D1
+The underground lake.~
+~
+0 -1 13643
+D2
+The underground lake.~
+~
+0 -1 13649
+D3
+The underground lake.~
+~
+0 -1 13641
+S
+#13643
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+south, north, and west on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13639
+D2
+The underground lake.~
+~
+0 -1 13650
+D3
+The underground lake.~
+~
+0 -1 13642
+S
+#13644
+The undergound lake.~
+You are on an underground lake. The water is worm for as cold as the air here
+is. You can go to the east or south from here.
+~
+27 9 7
+D1
+Undergound lake.~
+~
+0 -1 13635
+D2
+Undergound lake.~
+~
+0 -1 13645
+S
+#13645
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+weat into a cave or north, south, and east on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13644
+D1
+The underground lake.~
+~
+0 -1 13637
+D2
+The underground lake.~
+~
+0 -1 13646
+D3
+A cave.~
+~
+0 -1 13655
+S
+#13646
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+south, north, and east on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13645
+D2
+The underground lake.~
+~
+0 -1 13647
+D3
+The underground lake.~
+~
+0 -1 13641
+S
+#13647
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+north and east on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13646
+D1
+The underground lake.~
+~
+0 -1 13648
+S
+#13648
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+north, west, and east on the lake.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13641
+D1
+The underground lake.~
+~
+0 -1 13649
+D3
+The underground lake.~
+~
+0 -1 13647
+S
+#13649
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+north, west, and east on the lake. And south to an icy shore.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13642
+D1
+The underground lake.~
+~
+0 -1 13650
+D2
+An icy shore.~
+~
+0 -1 13652
+D3
+The underground lake.~
+~
+0 -1 13648
+S
+#13650
+The underground lake.~
+You are on the water of the underground lake the water is worm. You can go
+north, and west on the lake. And south into a cave.
+~
+27 9 7
+D0
+The underground lake.~
+~
+0 -1 13643
+D2
+A cave.~
+~
+0 -1 13651
+D3
+The underground lake.~
+~
+0 -1 13649
+S
+#13651
+begin ~
+The~
+27 8 1
+S
+#13652
+begin ~
+The~
+27 8 1
+S
+#13653
+begin ~
+The~
+27 8 1
+S
+#13654
+begin ~
+The~
+27 8 1
+S
+#13655
+begin ~
+The~
+27 8 1
+S
+#13656
+begin ~
+The~
+27 8 1
+S
+#13657
+begin ~
+The~
+27 8 1
+S
+#13658
+begin ~
+The~
+27 8 1
+S
+#13659
+begin ~
+The~
+27 8 1
+S
+#13660
+begin ~
+The~
+27 8 1
+S
+#13661
+Mid-way down the mountain.~
+You have come tha large hole in the mountain. You can go into the mountain
+east if you want or down to the valley floor. As you look east at the hole
+you see claw marks as big as a house.
+~
+27 0 5
+D5
+The icy ledge.~
+~
+0 -1 13610
+S
+#13662
+begin ~
+The~
+27 8 1
+S
+#13663
+begin ~
+The~
+27 8 1
+S
+#13664
+begin ~
+The~
+27 8 1
+S
+#13665
+begin ~
+The~
+27 8 1
+S
+#13666
+begin ~
+The~
+27 8 1
+S
+#13667
+begin ~
+The~
+27 8 1
+S
+#13668
+begin ~
+The~
+27 8 1
+S
+#13669
+begin ~
+The~
+27 8 1
+S
+#13670
+begin ~
+The~
+27 8 1
+S
+#13671
+begin ~
+The~
+27 8 1
+S
+#13672
+begin ~
+The~
+27 8 1
+S
+#13673
+begin ~
+The~
+27 8 1
+S
+#13674
+begin ~
+The~
+27 8 1
+S
+#13675
+begin ~
+The~
+27 8 1
+S
+#13676
+begin ~
+The~
+27 8 1
+S
+#13677
+begin ~
+The~
+27 8 1
+S
+#13678
+begin ~
+The~
+27 8 1
+S
+#13679
+begin ~
+The~
+27 8 1
+S
+#13680
+begin ~
+The~
+27 8 1
+S
+#13681
+begin ~
+The~
+27 8 1
+S
+#13682
+begin ~
+The~
+27 8 1
+S
+#13683
+begin ~
+The~
+27 8 1
+S
+#13684
+begin ~
+The~
+27 8 1
+S
+#13685
+begin ~
+The~
+27 8 1
+S
+#13686
+begin ~
+The~
+27 8 1
+S
+#13687
+begin ~
+The~
+27 8 1
+S
+#13688
+begin ~
+The~
+27 8 1
+S
+#13689
+begin ~
+The~
+27 8 1
+S
+#13690
+begin ~
+The~
+27 8 1
+S
+$~
+#999999

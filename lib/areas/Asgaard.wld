@@ -1,0 +1,634 @@
+#16400
+Before the Labrynth~
+Before you stands a great grim tower. You hear the screams and shrieks of banshies, ghouls and monsters. Screams and shreeks th
+at makes you shiver.
+The tower's shape changes everytime you blink your eyes. ~
+51 0 7
+D0
+The ice appears REAL thin that way!~
+~
+0 -1 16405
+D1
+The small cove
+~
+~
+0 -1 16401
+D4
+The exclusive zonelord boardroom lies above.
+~
+~
+0 -1 8311
+D5
+The great market square of Midgaard lies below.
+~
+~
+0 -1 3014
+S
+#16401
+The cove~
+There is no vegetation on this part of the land. Everything you see is covered
+with a thin layer of frost that hasnt been touched in years. To the east, an
+eerie fog settles over the land and to the west is the river.
+~
+51 0 2
+D1
+The path
+~
+~
+0 -1 16402
+D3
+The river is here, freezing over.~
+~
+0 -1 16400
+S
+#16402
+The path~
+As you walk down the path, it become completely emcompassed in a thick fog. 
+It is hard to see 2 feet in front of you! The path returns west and possibly
+east, but who can tell in this fog? That might have even been a trail to the
+north.
+~
+51 0 4
+D0
+It appears to be a small, rocky trail. Do you trust your eyes in this fog?~
+~
+16 -1 16404
+D1
+Hmmmm, looks like the trail continues?~
+~
+0 -1 16403
+D3
+There is a cove there, frozen over.
+~
+~
+0 -1 16401
+S
+#16403
+The foggy path~
+The fog is EXTREEMLY thick here. You continue to trip over small things that
+you would swear weren't there a second ago. This fog is so thick that you can
+probably reach out and get some to take home with you! You can probably go 
+most directions, but who knows?
+~
+51 0 3
+D0
+There is lots of fog that way!
+~
+~
+0 -1 16411
+D1
+It is quite foggy that way!
+~
+~
+0 -1 16409
+D2
+The fog is real thick that way!
+~
+~
+0 -1 16410
+D3
+The fog is too thick to see anything!~
+~
+0 -1 16402
+S
+#16404
+The trail ~
+The trail here climbs the side of a cliff. It becomes rather steep here, and
+loose rock makes climbing difficult. The view from the top of this cliff must
+be awsome, for from here the scenery is simply amazing! You can see from here
+to the end of the earth, and maybe just a little farther. The trail continues
+north and through the fog it appears that there is a path to the south.
+~
+51 0 5
+D0
+The trail goes up and around a corner.
+~
+~
+0 -1 16406
+D2
+You think you can see a pathway.~
+~
+16 -1 16402
+S
+#16405
+The thin ice!~
+As you step on to the ice you wonder, is the ice too thin? Then, as you hear 
+loud cracking noises and the ice beneath you gives way, you realize it is too
+thin! The current swiftly washes you and your equipment of to the netherworlds
+under the ice, never too be seen again! Sorry, you are DEAD!~
+51 8198 8
+S
+#16406
+The trail turns~
+This is the top of the cliff. Hold your breath for what you are about to see
+will certainly take it away! The view of the surrounding lands is one of the
+most awsome there is! From here a small village can be seen at the base of the
+cliff and far off to the east, there is a rainbow of the likes you have never
+seen! It appears to be almost solid, and rests just off the ground. Could this
+be the fabled Rainbow bridge to Asgaard? There trail returns south down the 
+face off the cliff and there is a small ledge to the west.
+~
+51 0 5
+D2
+The trail slopes downward, leveling out a little.
+~
+~
+0 -1 16404
+D3
+There is a small, crumbling ledge there.
+~
+~
+0 -1 16408
+S
+#16407
+The hidden cave~
+This small cave is apparently being used as a dwelling. There is a cot in one
+corner and a table is set against the wall. There are several indentions that
+have been carved into the sides of this cave, all filled with various bottles
+and jugs. They are all labled in a language you dont seem to recognize, 
+although it looks familiar.
+~
+51 8 5
+D1
+The wall shimmers, as if it were made oout of water!
+~
+~
+16 -1 16408
+S
+#16408
+The ledge~
+There is almost no room for you to stand on this ledge. As you peek over the
+edge, it begins to crumble! Lucky for you, your reflexes are quick, or you 
+might have been in the rockslide making its way down the cliff. To bad you
+came all this way for nothing, as the trail dead ends into a strange looking
+wall. The only way out is the way you came.
+~
+51 0 5
+D1
+The top of the cliff is that way.
+~
+~
+0 -1 16406
+D3
+The wall shimmers as if it were made of water!
+~
+~
+16 -1 16407
+S
+#16409
+The foggy path~
+This path is so foggy, you hardly know which way is up! There are some strange
+noises coming from out of the fog, but from which direction? You can go in all
+directions.
+~
+51 8 3
+D0
+Really foggy that way!
+~
+~
+0 -1 16409
+D1
+Foggy, real foggy!
+~
+~
+0 -1 16411
+D2
+It is REAL foggy!
+~
+~
+0 -1 16403
+D3
+The fog is increadably thick that way!
+~
+~
+0 -1 16411
+S
+#16410
+The foggy path~
+This path is so foggy, you hardly know which way is up! There are some strange
+noises coming from out of the fog, but from which direction? You can go in all
+directions.
+~
+51 8 3
+D0
+The fog is getting annoying!
+~
+~
+0 -1 16411
+D1
+The fog clears!
+~
+~
+0 -1 16412
+D2
+How about some more fog?
+~
+~
+0 -1 16410
+D3
+Fog, fog, fog, and more fog.
+~
+~
+0 -1 16409
+S
+#16411
+The foggy path~
+This path is so foggy, you hardly know which way is up! There are some strange
+noises coming from out of the fog, but from which direction? You can go in all
+directions.
+~
+51 8 3
+D0
+Hmm, more fog.
+~
+~
+0 -1 16403
+D1
+This fog is getting old!
+~
+~
+0 -1 16409
+D2
+Lots of fog that way!
+~
+~
+0 -1 16403
+D3
+Yup, more fog that way!
+~
+~
+0 -1 16409
+S
+#16412
+The clearing~
+Here, the fog ends abruptly as if it had run into a wall. From this clearing,
+you can see a small villiage to the east. The path returns to the fog to the
+west.
+~
+51 0 2
+D1
+The path enters a small town.
+~
+~
+0 -1 16413
+D3
+Lots of fog that way!
+~
+~
+0 -1 16411
+S
+#16413
+The well trodden path~
+This is where the small path becomes a real road as it enters the town. The
+ground levels out and the path is much smoother. Although it is a fairly well
+used trail, there doesn't seem to have been anyone on it in a little while. 
+The path returns towards the fog to the west and the road goes east into the 
+town.
+~
+51 0 2
+D1
+The town of Ashall.
+~
+~
+0 -1 16414
+D3
+There is a small clearing, ending in a wall of fog.
+~
+~
+0 -1 16412
+S
+#16414
+The main road~
+This is a small town, made up mostly of small houses and shops. There are not
+many people nearby, maybe because of you! A few friendly people say something
+to you in a language you have never heard before. There is a store to the 
+north that smells good, and the road leaves east and west.
+~
+51 0 1
+D0
+The bakery is there, smelling delicious!
+~
+~
+0 -1 16415
+D1
+The road heads towards the center of town.
+~
+~
+0 -1 16416
+D3
+The clearing is that way.
+~
+~
+0 -1 16413
+S
+#16415
+The bakery~
+This is a pleasant smeeling place, as rightfully it should be. There are
+several racks of baked goods against the far wall. The only way out is south.
+~
+51 0 0
+D2
+The road.
+~
+~
+0 -1 16414
+S
+#16416
+The main road~
+The mood of this town seems to become more festive as you go. The appears to
+be some sort of celebration going on here. People are running about, laughing
+and shouting. The center of this uproar seems to be near the center of the
+town. The road goes east and west.
+~
+51 0 1
+D1
+That is the center of town.
+~
+~
+0 -1 16417
+D3
+The road towards the end of town.
+~
+~
+0 -1 16414
+S
+#16417
+The center of town~
+This appeared to be the center of activity, but once you get near, it becomes
+obvious that it is only a long line to get into the hall to the south. There 
+seems to be some sort of festival going on, as everyone is shouting and
+cheering. There is a very important looking road to the north, the main road
+continues east and west and you can probably still squeeze into the hall to
+the south.
+~
+51 0 1
+D0
+There is a well used path, leading towards the keep.
+~
+~
+0 -1 16418
+D2
+The great hall is that way, but it is almost full!
+~
+~
+0 -1 16430
+D3
+The road heads off through the town.
+~
+~
+0 -1 16416
+S
+#16418
+The royal road~
+This is a very wide road, although its not all that impressive. It is, however
+very wide and flat, as if many men have traveled it at one time. The raod ends
+at a drawbridge leading to a small but well fortified building. The road goes
+south towards the center of town and north to the drawbridge.
+~
+51 0 1
+D0
+The drawbridge crosses the moat, filled with frozen water.
+~
+~
+0 -1 16419
+D2
+The road heads back towards the center of town.
+~
+~
+0 -1 16417
+S
+#16419
+The drawbridge~
+This drawbridge guards the home of the leader of the Viking people, St. Olaf.
+Although not a large building, it is very well guarded and is probably not the
+best place to try to conquer. The entrance foyer is to the north and the Royal
+road leaves south.
+~
+51 0 1
+D0
+The entrance foyer winds through the keep.
+~
+~
+0 -1 16420
+D2
+The royal road is there.
+~
+~
+0 -1 16418
+S
+#16420
+The entrance foyer~
+This is a small, dark hallway leading through the keep. The keep itself is a 
+rather small, dank building, not all that impressive. There is a small hallway
+to the west and the audience chamber of St. Olaf is to the north.
+~
+51 8 0
+D0
+The audience chamber of St. Olaf, enter with respect!
+~
+~
+0 -1 16421
+D2
+The drawbidge leads out of the keep.
+~
+~
+0 -1 16419
+D3
+The hallway leads off into the dark.
+~
+~
+0 -1 16422
+S
+#16421
+The audience chamber of St. Olaf~
+This is a rather dull, empty room. Somehow, you can almost feel the power of
+the viking people's leader just by the room he rules from. There are two huge
+wooden thrones sitting at the far end of the room, the only furniture in the
+room. Upon a closer inspection, the thrones reveal an amazing amount of care 
+and love. They are completly engraved with scenes of different battles from
+the past and are so well polished, you can see yourself in the shine! There
+is a door to the east and the foyer is to the south.
+~
+51 8 0
+D1
+There is a small stairwell there.
+~
+door~
+1 -1 16425
+D2
+The small, dark foyer
+~
+~
+0 -1 16420
+S
+#16422
+The hallway~
+This hallway is much smaller than the foyer, although it is just as busy. 
+the smell food drifts your way from the far end of the hallway and to the 
+north is door.
+~
+51 9 0
+D0
+The spare bedroom is beyond the doorway.
+~
+door~
+1 -1 16423
+D1
+The hallway joins the entrance foyer near the drawbridge.
+~
+door~
+1 -1 16420
+D3
+The kitchen is a huge mess!
+~
+~
+0 -1 16424
+S
+#16423
+The guest bedroom~
+This is the spare bedroom, often used for Royal guests. It doesn't appear to 
+have been used for a rather long time, as the viking rulers are not known for
+boarding guests. They usually dont make friends when they "visit" other lands.
+The only way out is the door to the south.
+~
+51 9 0
+D2
+The doorway leads to the dark hallway.
+~
+~
+0 -1 16422
+S
+#16424
+The kitchen~
+This is the not so neat kitchen of the keep. There are pots and pans tossed
+into and on top of the cupboards, some even making their way to the floor. It
+appears as if though someone made a huge meal here and then left in a big
+hurry. The hallway is to the east.
+~
+51 9 0
+D1
+The dark hallway.
+~
+~
+0 -1 16422
+S
+#16425
+The stairwell~
+This is a small, spiral staircase. It is only one level high, and not very 
+ornate. There are no windows in this stairwell, thus it is very dark. To the 
+west is the audience chamber of St. Olaf and there is a landing at the top of
+the stairs.
+~
+51 8 0
+D3
+rstat
+
+~
+door~
+1 -1 16421
+D4
+The stairs end at a small landing.
+~
+~
+0 -1 16426
+S
+#16426
+The landing~
+This is a small landing at the top of the staircase. There is a large wooden
+door to the east with a strange sign on it. The only other way off the landing
+is back down the stairs.
+~
+51 8 0
+D1
+The landing leads into a short hallway.
+~
+~
+0 -1 16427
+D5
+The spiral staircase.
+~
+~
+0 -1 16425
+S
+#16427
+The short hallway~
+This hallway only leads to two doorways, one north and one south. The landing 
+is to the west.
+~
+51 8 0
+D0
+The bedroom of the greatest viking leader, St. Olaf.
+~
+~
+0 -1 16428
+D2
+The bedroom of St. Olaf's only son, Prince Peter.
+~
+~
+0 -1 16429
+D3
+The doorway leads to a small landing.
+~
+~
+0 -1 16426
+S
+#16428
+St. Olaf's bedroom~
+This is the only room in the entire keep that has any kind of decorations in 
+it. There is a large 4-post bed in one corner with a very elaborate quilt 
+covering it. There are several chests of drawers along the other walls and many
+paintings hang on the walls. There is a thick rug on the floor that reminds you
+of many of the furry creatures you have encountered outside of the keep. On one
+of the drawers is a small wash basin and a small pitcher. The door leads back
+into the hallway.
+~
+51 8 0
+D2
+The short hallway is that way.
+~
+~
+0 -1 16427
+S
+#16429
+The Prince's bedroom~
+This is the bedroom of the king's only son. His room is nothing like that of 
+his parents, probably more to his liking than to thiers. He has no bed, but 
+rather he prefers to sleep on the ground, laying on several quilts and rugs. 
+There is almost no furniture, most of his worldly possesions are piled in heaps
+around the room. the hallway is to the north.
+~
+51 8 0
+D0
+The short hallway is just outside the door.
+~
+~
+0 -1 16427
+S
+#16430
+The entrance to the Great Hall~
+The is the only entrance to what appears to be the largest building in the 
+world! 20 men can walk through the doors shoulder to shoulder and have room to
+spare. However, right now, it is hard to squeeze even one person through the 
+doors because of the crowd that is trying to pour through the door all at 
+once. The center of town is to the north, and the hall continues south.
+~
+51 8 0
+D0
+The center of town is that way, and thankfully it is much less crowded!
+~
+~
+0 -1 16417
+S
+#16431
+The feast hall~
+This appeared to be the center of activity, but once you get near, it becomes
+obvious that it is only a long line to get into the hall to the south. There 
+seems to be some sort of festival going on, as everyone is shouting and
+cheering. There is a very important looking road to the north, the main road
+continues east and west and you can probably still squeeze into the hall to
+the south.
+~
+51 0 1
+S
+$~
+#999999

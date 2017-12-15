@@ -1,0 +1,65 @@
+#8200
+obj torc shadow~
+the Torc of Shadow~
+A shadowy torc lies here.
+~
+~
+11 64 5
+0 0 10 0
+0 10000000 0
+A
+26 1
+A
+31 1
+A
+32 1
+A
+33 1
+#8201
+obj staff rowan~
+a rowan staff~
+A staff made of rowan wood lies here.
+~
+~
+4 64 16385
+30 28 28 28
+0 10000 0
+#8202
+obj sword silver~
+the silver sword~
+An ornate silver longsword lies here.
+~
+~
+5 1088 8193
+2056 2 8 3
+4 10000000 100
+A
+18 2
+#8203
+obj staff rowan~
+a rowan staff~
+A rowan staff lies here.
+~
+~
+5 0 8193
+0 1 6 7
+3 50 10
+#8204
+obj key silver~
+a silver key~
+a silver key lies here.
+~
+~
+1 0 8193
+200000 50 50 6
+0 0 0
+#8205
+obj quithpa bread~
+a piece of quithpa~
+a piece of a bread-like substance is lying here.~
+~
+19 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

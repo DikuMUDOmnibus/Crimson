@@ -1,0 +1,146 @@
+#4000
+mob snake~
+the snake~
+A large dreadful snake is hunting for food here.
+~
+It looks hungry.
+~
+65579 8 -200 S
+11 22 14 214d1+0 4d3+5
+10000 16500
+8 8 0
+#4001
+mob snake~
+the green snake~
+A small green snake.
+~
+It looks harmless.
+~
+11 0 -100 S
+7 26 18 126d1+0 3d3+3
+7000 10500
+8 8 0
+#4002
+mob centipede~
+the centipede~
+A small centipede.
+~
+It looks complete harmless.
+~
+10 0 100 S
+3 30 22 64d1+0 2d3+1
+3000 4500
+8 8 0
+#4003
+mob kobold~
+the kobold~
+A ugly kobold.
+~
+It looks ugly.
+~
+76 0 -100 S
+4 29 21 76d1+0 3d3+0
+4000 6000
+8 8 0
+#4004
+mob orc~
+the orc~
+The orc walks around, looking for someone to kill.
+~
+You notice an evil look in his eyes
+~
+108 0 -400 S
+5 28 20 90d1+0 2d3+3
+5000 7500
+8 8 1
+#4005
+mob orc~
+the orc~
+A large orc, really mean.
+~
+He looks dreadful.
+~
+76 0 -500 S
+7 26 18 126d1+0 3d3+3
+7000 10500
+8 8 1
+#4050
+mob warrior~
+the warrior~
+A tall dangerous warrior is here.
+~
+Well surely a strong, brainless fighter.  He has more scars than anyone you
+have seen before.
+~
+110 0 -300 S
+12 21 13 248d1+0 4d3+6
+12000 18000
+8 8 1
+#4051
+mob warrior~
+the warrior~
+A tall warrior.
+~
+He seems to know his way with weapons.
+~
+108 0 -400 S
+7 26 18 126d1+0 3d3+3
+7000 10500
+8 8 1
+#4052
+mob hobgoblin~
+the hobgoblin~
+A small hobgoblin stands here.
+~
+The hobgoblin looks quite lost.
+~
+76 0 -300 S
+6 24 16 162d1+0 4d3+3
+6000 9000
+8 8 1
+#4053
+mob snake~
+the snake~
+A brown snake watches you.
+~
+The snake looks quite mean.
+~
+65579 0 -600 S
+10 23 15 180d1+0 4d3+4
+10000 15000
+8 8 0
+#4054
+mob centipede~
+the centipede~
+A white centipede is here.
+~
+The centipede doesn't really seem to notice you.
+~
+10 0 -100 S
+5 28 20 90d1+0 2d3+3
+5000 7500
+8 8 0
+#4055
+mob hobgoblin~
+the hobgoblin~
+A large hobgoblin is here.
+~
+The hobgoblin looks quite dangerous.
+~
+76 8 -500 S
+10 23 15 180d1+0 4d3+4
+8000 15000
+8 8 1
+#4056
+mob orc~
+the orc~
+An orc is here, looking for something (or perhaps someone ? ) to eat.
+~
+Well he doesn't seem to be friendly.
+~
+108 0 -800 S
+8 25 17 144d1+0 4d3+2
+8000 12000
+8 8 1
+$~
+#999999

@@ -1,0 +1,119 @@
+#4501
+mob wolf~
+The Timberwolf~
+A hungry timberwolf is here, looking for food.
+~
+It looks like it would be more at home in a forest. I wonder why it left.
+~
+16777448 0 0 S
+8 25 17 144d1+0 3d3+4
+8000 12000
+8 8 1
+#4502
+mob white wolf~
+The Huge White Wolf~
+A huge white wolf is here, looking for food.
+~
+It looks like it would be more at home in a forest. I wonder why it left.
+~
+16777320 0 0 S
+12 21 13 248d1+0 4d3+6
+12000 18000
+8 8 1
+#4503
+mob shadow wolf~
+The Huge Shadow Wolf~
+A huge wolf shadow is here, it howls eerily as it hunts for life force.
+~
+Although faintly transparent, its probably solid enough to rip your throat 
+out. Its obviously very evil, and very nasty. I hope you have friends.
+~
+51380328 1074266112 -1000 S
+12 23 18 150d1+0 4d3+4
+12000 18000
+8 8 1
+#4504
+mob vampire shaman orc~
+The Vampire Orc-Shaman~
+An Orc-Shaman is here, he has very well developed canines and pale coloration
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+35914094 10 -1000 S
+20 6 7 560d1+0 5d3+16
+45000 30000
+8 8 1
+#4505
+mob bodyguard orc~
+The Orc Bodyguard~
+A large orc bodyguard is here, eyeing you suspiciously.
+~
+Looks pretty tough, as orcs go...
+~
+110 0 -750 S
+12 21 13 248d1+0 4d3+6
+12000 18000
+8 8 1
+#4506
+mob vampire mayor~
+The Vampire Mayor~
+The mayor is here grinning evily, His eyes are red and glowing.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+35913838 8 -1000 S
+19 3 6 630d1+0 8d3+12
+45000 28500
+8 8 1
+#4507
+mob shadow wolf~
+The Enormous Shadow Wolf~
+An Enormous shadow wolf is here, it growls eerily.
+~
+Although you can see right though it, it still seems quite dangerous...
+perhaps thats because its the size of a large horse...
+~
+51380334 8 -1000 S
+12 21 13 248d1+0 4d3+6
+12000 18000
+8 8 1
+#4508
+mob vampire mistress woman~
+A vampire mistress~
+A provocatively dressed woman is here, her eyes glow red in the darkness.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+35913834 4194378 -1000 S
+23 -9 2 1180d1+0 8d3+20
+55000 34500
+8 8 1
+#4509
+mob rat~
+The giant rat~
+A giant rat is here, it rushes at you with mindless hunger.
+~
+It looks much like any other rat except that its about 3 feet long.
+~
+16777324 8 -200 S
+5 28 20 90d1+0 2d3+3
+5000 7500
+8 8 1
+#4510
+mob vampire nosferatu~
+Nosferatu~
+Nosferatu snarls with rage, and prepares to cast a spell.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy... In fact I hope you have an army
+handy... (Nosferatu is not to be trifled with)
+~
+36438895 138 0 S
+38 -18 -18 15000d1+0 35d8+50
+250000 30000
+8 8 1
+$~
+#999999

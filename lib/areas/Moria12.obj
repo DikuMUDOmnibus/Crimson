@@ -1,0 +1,72 @@
+#4000
+obj ring yellow green~
+a yellow and green ring~
+A ring, with yellow and green ornamentation. It looks very old.~
+~
+9 0 16387
+0 0 0 0
+1 50 20
+E
+ring~
+It feels heavy.
+~
+A
+1 -2
+#4001
+obj corpse~
+a corpse~
+A halfways decayed corpse of a goblin.~
+~
+15 0 1
+1 0 -1 0
+10 0 500
+#4002
+obj coins~
+some coins~
+A small pile of coins.~
+~
+20 0 1
+500 0 0 0
+0 0 0
+#4050
+obj potion purple~
+a purple potion~
+A purple potion is here.~
+~
+10 0 1
+17 14 36 33
+1 500 200
+E
+obj potion purple~
+It looks rather strange!
+~
+#4051
+obj helmet metal~
+a metal helmet~
+A metal helmet in here.~
+~
+9 69632 16401
+0 0 0 0
+4 3000 1000
+E
+helmet metal~
+It looks somehow magical!
+~
+A
+24 -2
+A
+23 -2
+#4052
+obj mushroom~
+a mushroom~
+A small mushroom is here.~
+~
+19 0 16385
+2 0 0 1
+1 9 3
+E
+mushroom~
+Let's put it this way - I wouldn't eat it!
+~
+$~
+#999999

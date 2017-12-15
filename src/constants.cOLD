@@ -1,0 +1,1465 @@
+/* ************************************************************************
+*  file: constants.c                                      Part of DIKUMUD *
+*  Usage: For constants used by the game.                                 *
+*  Copyright (C) 1990, 1991 - see 'license.doc' for complete information. *
+************************************************************************* */
+
+#include "structs.h"
+#include "limits.h"
+#include "constants.h"
+
+const char *ban_types[] = {
+  "no",
+  "new",
+  "select",
+  "all",
+  "ERROR"
+};
+
+const char *spell_wear_off_msg[] = {
+  "RESERVED DB.C",
+  "You feel less protected.",
+  "!Teleport!",
+  "You feel less righteous.",
+  "You feel a cloak of blindness disolve.",
+  "!Burning Hands!",
+  "!Call Lightning!",
+  "You feel more self-confident.",
+  "!Chill Touch!",
+  "You feel yourself exposed.",
+  "!Color Spray!",
+  "!Control Weather!",
+  "!Create Food!",
+  "!Create Water!",
+  "!Cure Blind!",
+  "!Cure Critic!",
+  "!Cure Light!",
+  "You feel better.",
+  "You sense the red in your vision disappear.",
+  "The detect invisible wears off.",
+  "The detect magic wears off.",
+  "The detect poison wears off.",
+  "!Dispel Evil!",
+  "!Earthquake!",
+  "!Enchant Weapon!",
+  "!Energy Drain!",
+  "!Fireball!",
+  "!Harm!",
+  "!Heal",
+  "You feel yourself exposed.",
+  "!Lightning Bolt!",
+  "!Locate object!",
+  "!Magic Missile!",
+  "You feel less sick.",
+  "You feel less protected.",
+  "!Remove Curse!",
+  "The white aura around your body fades.",
+  "!Shocking Grasp!",
+  "You feel less tired.",
+  "You feel weaker.",
+  "!Summon!",
+  "!Ventriloquate!",
+  "!Word of Recall!",
+  "!Remove Poison!",
+  "You feel less aware of your suroundings.",
+  "",  /* NO MESSAGE FOR SNEAK*/
+  "!Hide!",
+  "!Steal!",
+  "!Backstab!",
+  "!Pick Lock!",
+  "!Kick!",
+  "!Bash!",
+  "!Rescue!",
+  "!IDENTIFY!"
+  "!Cause Critic!",
+  "!Cause Light!",
+  "!Damage skill!",
+  "!slash!",
+  "!pierce!",
+  "!bludgeon!",
+  "!parry!",
+  "Whew you're too tired to dodge any more...",
+  "!SCALES!"
+  "!breath fire!",
+  "!breath gas!",
+  "!breath frost!",
+  "!breath acid!",
+  "!breath lightning!",
+  "Things suddenly seem a lot darker now.",
+  "!Second!",
+  "!Third!",
+  "!Fourth!",
+  "You feel yourself fade into existence.",
+  "!restoration!",
+  "You feel your recuperative powers reduced to normal.",
+  "You feel more suseptible to magic.",
+  "You feel more suseptible to magic.",
+  "Your magical sword dissipates into nothingness.",
+  "Your phantasmal hammer winks out of existence.",
+  "!Turn undead!",
+  "!Succor!",
+  "!Donate mana!",
+  "You feel your magical link suddenly break...",
+  "You feel more suseptible to magic...",
+  "You feel more susceptible to magic...",
+  "!dispel magic!", 
+  "You begin to breath normally...", 
+};
+
+
+const int rev_dir[] = 
+{
+   2,
+   3,
+   0,
+   1, 
+   5,
+   4
+}; 
+
+const int movement_loss[]=
+{
+   1, /* Inside     */
+   2,  /* City       */
+   2,  /* Field      */
+   3,  /* Forest     */
+   4,  /* Hills      */
+   6,  /* Mountains  */
+  4,  /* Swimming   */
+  1,  /* Unswimable */
+ 6 /* underwater */
+};
+
+const char *dirs[] = 
+{
+   "north",
+   "east",
+   "south",
+   "west",
+   "up",
+   "down",
+   "\n"
+};
+
+const char *weekdays[7] = { 
+   "the Day of the Moon",
+   "the Day of the Bull",
+   "the Day of the Deception",
+   "the Day of Thunder",
+   "the Day of Freedom",
+   "the day of the Great Gods",
+   "the Day of the Sun" };
+
+const char *month_name[17] = {
+   "Month of Winter",           /* 0 */
+   "Month of the Winter Wolf",
+   "Month of the Frost Giant",
+   "Month of the Old Forces",
+   "Month of the Grand Struggle",
+   "Month of the Spring",
+   "Month of Nature",
+   "Month of Futility",
+   "Month of the Dragon",
+   "Month of the Sun",
+   "Month of the Heat",
+   "Month of the Battle",
+   "Month of the Dark Shades",
+   "Month of the Shadows",
+   "Month of the Long Shadows",
+   "Month of the Ancient Darkness",
+   "Month of the Great Evil"
+};
+
+const int sharp[] = {
+   0,
+   0,
+   0,
+   1,    /* Slashing */
+   0,
+   0,
+   0,
+   0,    /* Bludgeon */
+   0,
+   0,
+   0,
+   0 };  /* Pierce   */
+
+const char *where[] = {
+   "<used as light>    ",
+   "<worn on finger>   ",
+   "<worn on finger>   ",
+   "<worn around neck> ",
+   "<worn around neck> ",
+   "<worn on body>     ",
+   "<worn on head>     ",
+   "<worn on legs>     ",
+   "<worn on feet>     ",
+   "<worn on hands>    ",
+   "<worn on arms>     ",
+   "<worn as shield>   ",
+   "<worn about body>  ",
+   "<worn about waist> ",
+   "<worn on wrist>    ",
+   "<worn on wrist>    ",
+   "<wielded>          ",
+   "<held>             " 
+}; 
+
+
+const char *loc[] = { /* mirrors wear */
+   "light",
+   "lfinger",
+   "rfinger",
+   "neck1",
+   "neck2",
+   "body",
+   "head",
+   "legs",
+   "feet",
+   "hands",
+   "arms",
+   "shield",
+   "aboutbody",
+   "waist",
+   "lwrist",
+   "rwrist",
+   "wield",
+   "held",
+   "\n"
+};
+
+   
+const char *drinks[]=
+{
+   "water",
+   "beer",
+   "wine",
+   "ale",
+   "dark ale",
+   "whisky",
+   "lemonade",
+   "firebreather",
+   "local speciality",
+   "slime mold juice",
+   "milk",
+   "tea",
+   "coffee",
+   "blood",
+   "salt water",
+   "coca cola"
+};
+
+const char *drinknames[]=
+{
+   "water",
+   "beer",
+   "wine",
+   "ale",
+   "ale",
+   "whisky",
+   "lemonade",
+   "firebreather",
+   "local",
+   "juice",
+   "milk",
+   "tea",
+   "coffee",
+   "blood",
+   "salt",
+   "cola"
+};
+
+const int drink_aff[][3] = {
+   { 0,1,10 },  /* Water    */
+   { 3,2,5 },   /* beer     */
+   { 5,2,5 },   /* wine     */
+   { 2,2,5 },   /* ale      */
+   { 1,2,5 },   /* ale      */
+   { 6,1,4 },   /* Whiskey  */
+   { 0,1,8 },   /* lemonade */
+   { 10,0,0 },  /* firebr   */
+   { 3,3,3 },   /* local    */
+   { 0,4,-8 },  /* juice    */
+   { 0,3,6 },
+   { 0,1,6 },
+   { 0,1,6 },
+   { 0,2,-1 },
+   { 0,1,-2 },
+   { 0,1,5 }
+};
+
+const char *color_liquid[]=
+{
+   "clear",
+   "brown",
+   "clear",
+   "brown",
+   "dark",
+   "golden",
+   "red",
+   "green",
+   "clear",
+   "light green",
+   "white",
+   "brown",
+   "black",
+   "red",
+   "clear",
+   "black"
+};
+
+const char *fullness[] =
+{
+   "less than half ",
+   "about half ",
+   "more than half ",
+   ""
+};
+
+const struct title_type titles[MAX_CLASS][MAX_LEV] = {
+{ {"the Man","the Woman",0},           /* Mage */
+  {"the Gomer of Magic","the Gomer of Magic",1},
+  {"the Neophyte Mage","the Neophyte Magess",2500},
+  {"the Beginner Mage","the Beginner Magess",5000},
+  {"the Apprentice Magician","the Apprentice Magician",10000},
+  {"the Scribe of Magic","the Scribess of Magic",20000},
+  {"the Novice Magician","the Novice Magician",40000},
+  {"the Practicer of Cult Arts","the Practicer of Cult Arts",65000},
+  {"the Brewer","the Brewer",100000},
+  {"the Controller","the Controller",150000},
+  {"the Abjurer","the Abjuress",225000},
+  {"the Invoker","the Invoker",325000},
+  {"the Enchanter","the Enchantress",460000},
+  {"the Conjurer","the Conjuress",640000},
+  {"the Magician","the Magician",900000},
+  {"the Master Magician","the Master Magician",1200000},
+  {"the Master Magician","the Master Magician",1550000},
+  {"the Magus","the Craftess",2000000},
+  {"the Warlock of People","the Witch of People",2500000},
+  {"the Warlock of Things","the Witch of Things",3100000},
+  {"the Warlock of Places","the Witch of Places",3800000},
+  {"the Apprentice Wizard","the Apprentice Wizard",4600000},
+  {"the Wizard of Ice","the Wizard of Ice",5500000},
+  {"the Wizard of Dust","the Wizard of Dust",6500000},
+  {"the Wizard of Mud","the Wizard of Mud",7600000},
+  {"the Wizard of Plasma","the Wizard of Plasma",8800000},
+  {"the Wizard of Steam","the Wizard of Steam",10000000},
+  {"the Wizard of Lava","the Wizard of Lava",11300000},
+  {"the Master Wizard","the Master Wizard",12800000},
+  {"the High Wizard","the High Wizard",14500000},
+  {"the Apprentice Sorceror","the Apprentice Sorceress",16500000},
+  {"the Sorceror of Air","the Sorceress of Air",19000000},
+  {"the Sorceror of Water","the Sorceress of Water",22000000},
+  {"the Sorceror of Earth","the Sorceress of Earth",26000000},
+  {"the Sorceror of Fire","the Sorceress of Fire",31000000},
+  {"the Master Sorceror","the Master Sorceress",37000000},
+  {"the Great Sorceror","the Great Sorceress",44000000},
+  {"the Grand Sorceror","the Grand Sorceress",52000000},
+  {"the High Sorceror","the High Sorceress",61000000},
+  {"the Sorceror Lord","the Lady Sorceress",72000000},
+  {"The Crimson Sorceror","the Crimson Sorceress",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar ",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementress",1000000000} },
+
+{ {"the Man","the Woman",0},           /* Cleric */
+  {"the Believer","the Believer",1},
+  {"the Attendant","the Attendant",2500},
+  {"the Acolyte","the Acolyte",5000},
+  {"the Novice","the Novice",10000},
+  {"the Missionary","the Missionary",20000},
+  {"the Adept","the Adept",40000},
+  {"the Deacon","the Deaconess",65000},
+  {"the Vicar","the Vicaress",100000},
+  {"the Priest","the Priestess",150000},
+  {"the Minister","the Lady Minister",225000},
+  {"the Canon","the Canon",325000},
+  {"the Levite","the Levitess",460000},
+  {"the Curate","the Curess",640000},
+  {"the Monk","the Nunne",900000},
+  {"the Healer","the Healess",1200000},
+  {"the Chaplain","the Chaplain",1550000},
+  {"the Expositor","the Expositress",2000000},
+  {"the Bishop","the Bishop",2500000},
+  {"the Arch Bishop","the Arch Lady of the Church",3100000},
+  {"the Patriarch","the Matriarch",3800000},
+  {"the Prelate","the Prelatess",4600000},
+  {"the Prelate of Iron","the Prelatess of Iron",5500000},
+  {"the Prelate of Steel","the Prelatess of Steel",6500000},
+  {"the Cardinal","the Cardinal",7600000},
+  {"the Arch Cardinal","the Arch Cardinal",8800000},
+  {"the High Cardinal","the High Cardinal",10000000},
+  {"the Sanctified","the Sanctified",11300000},
+  {"the Most Sanctified","the Most Sanctified",12800000},
+  {"the Doctor of the Church","the Doctoress of the Church",14500000},
+  {"the High Doctor of the Church","the High Doctoress of the Church",16500000},
+  {"the Arch Doctor of the Church","the Arch Doctoress of the Church",19000000},
+  {"the Doge","the Dogess",22000000},
+  {"the High Doge","the High Dogess",26000000},
+  {"the Arch Doge","the Arch Dogess",31000000},
+  {"the Lord Doge","the Lord Dogess",37000000},
+  {"the Papal","the Papal",44000000},
+  {"the Holy","the Holy",52000000},
+  {"the Most Holy","the Most Holy",61000000},
+  {"the Sainted","the Sainted",72000000},
+  {"the Divinely Ordered","the Divinely Ordered",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},              /* THIEF */
+  {"the Pilferer","the Pilferess",1},
+  {"the Footpad","the Footpad",2500},
+  {"the Filcher","the Filcheress",5000},
+  {"the Pick-Pocket","the Pick-Pocket",10000},
+  {"the Sneak","the Sneak",20000},
+  {"the Pincher","the Pincheress",40000},
+  {"the Cut-Purse","the Cut-Purse",65000},
+  {"the Snatcher","the Snatcheress",100000},
+  {"the Sharper","the Sharpress",150000},
+  {"the Rogue","the Rogue",225000},
+  {"the Robber","the Robber",325000},
+  {"the Magsman","the Magswoman",460000},
+  {"the Highwayman","the Highwaywoman",640000},
+  {"the Burglar","the Burglaress",900000},
+  {"the Thief","the Thief",1200000},
+  {"the Knifer","the Knifer",1550000},
+  {"the Quick-Blade","the Quick-Blade",2000000},
+  {"the Killer","the Murderess",2500000},
+  {"the Brigand","the Brigand",3100000},
+  {"the Cut-Throat","the Cut-Throat",3800000},
+  {"the Seventh-Order Shadowwalker","the Seventh-Order Shadowwalker",4600000},
+  {"the Sixth-Order Shadowwalker","the Sixth-Order Shadowwalker",5500000},
+  {"the Fifth-Order Shadowwalker","the Fifth-Order Shadowwalker",6500000},
+  {"the Fourth-Order Shadowwalker","the Fourth-Order Shadowwalker",7600000},
+  {"the Third-Order Shadowwalker","the Third-Order Shadowwalker",8800000},
+  {"the Second-Order Shadowwalker","the Second-Order Shadowwalker",10000000},
+  {"the First-Order Shadowwalker","the First-Order Shadowwalker",10000000},
+  {"the Fifth-Order Wraithkin","the Fifth-Order Wraithkin",11300000},
+  {"the Fourth-Order Wraithkin","the Fourth-Order Wraithkin",12800000},
+  {"the Third-Order Wraithkin","the Third-Order Wraithkin",14500000},
+  {"the Second-Order Wraithkin","the Second-Order Wraithkin",16500000},
+  {"the First-Order Wraithkin","the First-Order Wraithkin",19000000},
+  {"the Third Shadowform","the Third Shadowform",22000000},
+  {"the Second Shadowform","the Second Shadowform",31000000},
+  {"the Shadowform","the Shadowform",37000000},
+  {"the Concealed","the Concealed",44000000},
+  {"the Kharass","the Kharassess",52000000},
+  {"the Arcan","the Arcaness",61000000},
+  {"the Lord Thief","the Lady Thief",72000000},
+  {"the Silent Horror","the Silent Horror",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},              /* Warrior */
+  {"the Swordpupil","the Swordpupil",1},
+  {"the Recruit","the Recruit",2500},
+  {"the Sentry","the Sentress",5000},
+  {"the Fighter","the Fighter",10000},
+  {"the Soldier","the Soldier",20000},
+  {"the Warrior","the Warrior",40000},
+  {"the Veteran","the Veteran",65000},
+  {"the Swordsman","the Swordswoman",100000},
+  {"the Fencer","the Fenceress",150000},
+  {"the Combatant","the Combatess",225000},
+  {"the Hero","the Heroine",325000},
+  {"the Myrmidon","the Myrmidon",460000},
+  {"the Swashbuckler","the Swashbuckleress",640000},
+  {"the Mercenary","the Mercenaress",900000},
+  {"the Swordmaster","the Swordmistress",1200000},
+  {"the Lieutenant","the Lieutenant",1550000},
+  {"the Champion","the Lady Champion",2000000},
+  {"the Dragoon","the Lady Dragoon",2500000},
+  {"the Cavalier","the Cavalier",3100000},
+  {"the Knight","the Lady Knight",3800000},
+  {"the Knight","the Lady Knight",4600000},
+  {"the Knight of the Silver Sword","the Lady Knight of the Silver Sword",5000000},
+  {"the Knight of the Gold Sword","the Lady Knight of the Gold Sword",5500000},
+  {"the Knight of the Platinum Sword","the Lady Knight of the Platinum Sword",6500000},
+  {"the Knight of the Silver Crown","the Lady Knight of the Silver Crown",7600000},
+  {"the Knight of the Gold Crown","the Lady Knight of the Gold Crown",8800000},
+  {"the Knight of the Platinum Crown","the Lady Knight of the Platinum Crown",10000000},
+  {"the Knight of the Serpent","the Lady Knight of the Serpent",11300000},
+  {"the Knight of the Hawk","the Lady Knight of the Hawk",12800000},
+  {"the Knight of the Falcon","the Lady Knight of the Falcon",14500000},
+  {"the Knight of the Crescent","the Lady Knight of the Crescent",16500000},
+  {"the Knight of the Star","the Lady Knight of the Star",20500000},
+  {"the Knight of the Moon","the Lady Knight of the Moon",25000000},
+  {"the Knight of the Sun","the Lady Knight of the Sun",30000000},
+  {"the Knight of the Eagle","the Lady Knight of the Eagle",37000000},
+  {"the Knight of the Talon","the Lady Knight of the Talon",44000000},
+  {"the Knight of the Dawn","the Lady Knight of the Dawn",52000000},
+  {"the Knight of the Rose","the Lady Knight of the Rose",61000000},
+  {"the Knight of the Dragon","the Lady Knight of the Dragon",72000000},
+  {"the Lord","the Lord",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},           /* Bard */
+  {"the Novice Bard","the Novice Bard",1},
+  {"the Apprentice Bard","the Apprentice Bard",2500},
+  {"the Bard","the Bard",5000},
+  {"the Novice Storyteller","the Novice Storytelleress",10000},
+  {"the Storyteller","the Storytelleress",20000},
+  {"the High Storyteller","the High Storytelleress",40000},
+  {"the Novice Taleweaver","the Novice Taleweaver",65000},
+  {"the Taleweaver","the Taleweaver",100000},
+  {"the High Taleweaver","the High Taleweaver",150000},
+  {"the Novice Thoughtspinner","the Novice Thoughtspinneress",225000},
+  {"the Thoughtspinner","the Thoughtspinneress",325000},
+  {"the High Thoughtspinner","the High Thoughtspinneress",460000},
+  {"the Journeyman","the Journeywoman",640000},
+  {"the Initiated Journeyman","the Initiated Journeywoman",900000},
+  {"the Wanderer","the Wanderess",1200000},
+  {"the Wordweaver","the Wordweaveress",1550000},
+  {"the High Wordweaver","the High Wordweaveress",2000000},
+  {"the Novice Minstrel","the Novice Lady Minstrel",2500000},
+  {"the Minstrel","the Lady Minstrel",3100000},
+  {"the Arch Minstrel","the Arch Lady Minstrel",3800000},
+  {"the Novice Troubadour","the Novice Troubador",4600000},
+  {"the Troubador","the Troubador",5000000},
+  {"the Troubador of Tears","the Troubador of Tears",5500000},
+  {"the Troubador of Roses","the Troubador of Roses",6500000},
+  {"the Troubador of Dew","the Troubador of Dew",7600000},
+  {"the Troubador of Night","the Troubador of Night",8800000},
+  {"the Troubador of Tempests","the Troubador of Tempests",10000000},
+  {"the Troubador of Dreams","the Troubador of Dreams",11300000},
+  {"the Troubador of Sighs","the Troubador of Sighs",12800000},
+  {"the Troubador of Stars","the Troubador of Stars",14500000},
+  {"the Troubador of Tales","the Troubador of Tales",16500000},
+  {"the Troubador of Thoughts","the Troubador of Thoughts",19000000},
+  {"the Troubador of Sunrise","the Troubador of Sunrise",22000000},
+  {"the Troubador of Sight","the Troubador of Sight",31000000},
+  {"the Troubador of Peace","the Troubador of Peace",37000000},
+  {"the Troubador of Earth","the Troubador of Earth",44000000},
+  {"the Troubador of Sea","the Troubador of Sea",52000000},
+  {"the Troubador of Flame","the Troubador of Flame",61000000},
+  {"the Troubador of Sky","the Troubador of Sky",72000000},
+  {"the Lord Bard","the Lord Bard",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},           /* Kai */
+  {"the Third Initiate","the Third Initiatess",1},
+  {"the Second Initiate","the Second Initiatess",2500},
+  {"the Initiate","the Initiate",5000},
+  {"the Third Adept","the Third Adeptess",10000},
+  {"the Second Adept","the Second Adeptess",20000},
+  {"the Adept","the Adept",40000},
+  {"the Veteran","the Veteran",65000},
+  {"the Swordsman","the Swordswoman",100000},
+  {"the Fencer","the Fenceress",150000},
+  {"the Combatant","the Combatess",225000},
+  {"the Hero","the Heroine",325000},
+  {"the Myrmidon","the Myrmidon",460000},
+  {"the Swashbuckler","the Swashbuckleress",640000},
+  {"the Mercenary","the Mercenaress",900000},
+  {"the Swordmaster","the Swordmistress",1200000},
+  {"the Lieutenant","the Lieutenant",1550000},
+  {"the Champion","the Lady Champion",2000000},
+  {"the Dragoon","the Lady Dragoon",2500000},
+  {"the Cavalier","the Cavalier",3100000},
+  {"the Knight","the Lady Knight",3800000},
+  {"the Warmarn","the Warmarn",4600000},
+  {"the Warmarn of Wood","the Warmarn of Wood",5000000},
+  {"the Warmarn of Fire","the Warmarn of Fire",5500000},
+  {"the Warmarn of Steel","the Warmarn of Steel",6500000},
+  {"the Warmarn of Water","the Warmarn of Water",7600000},
+  {"The 26th level Hero","The 26th Level Heroine",8800000},
+  {"The 27th level Hero","The 27th Level Heroine",10000000},
+  {"The 28th level Hero","The 28th Level Heroine",11300000},
+  {"The 29th level Hero","The 29th Level Heroine",12800000},
+  {"The 30th level Hero","The 30th Level Heroine",14500000},
+  {"The 31st level Hero","The 31st Level Heroine",16500000},
+  {"The 32nd level Hero","The 32nd Level Heroine",19000000},
+  {"The 33rd level Hero","The 33rd Level Heroine",22000000},
+  {"The 34th level Hero","The 34th Level Heroine",31000000},
+  {"The 35th level Hero","The 35th Level Heroine",37000000},
+  {"The 36th level Hero","The 36th Level Heroine",44000000},
+  {"The 37th level Hero","The 37th Level Heroine",52000000},
+  {"The 38th level Hero","The 38th Level Heroine",61000000},
+  {"The 39th level Hero","The 39th Level Heroine",72000000},
+  {"The 40th level Hero","The 40th Level Heroine",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},
+  {"the Anti-Paladin","the Anti-Paladin",1},      /* Drakkhar Warriors */
+  {"the Anti-Paladin","the Anti-Paladin",2500},
+  {"the Anti-Paladin","the Anti-Paladin",5000},
+  {"the Fighter","the Fighter",10000},
+  {"the Soldier","the Soldier",20000},
+  {"the Warrior","the Warrior",40000},
+  {"the Veteran","the Veteran",65000},
+  {"the Swordsman","the Swordswoman",100000},
+  {"the Fencer","the Fenceress",150000},
+  {"the Combatant","the Combatess",225000},
+  {"the Hero","the Heroine",325000},
+  {"the Myrmidon","the Myrmidon",460000},
+  {"the Swashbuckler","the Swashbuckleress",640000},
+  {"the Mercenary","the Mercenaress",900000},
+  {"the Swordmaster","the Swordmistress",1200000},
+  {"the Lieutenant","the Lieutenant",1550000},
+  {"the Champion","the Lady Champion",2000000},
+  {"the Dragoon","the Lady Dragoon",2500000},
+  {"the Cavalier","the Cavalier",3100000},
+  {"the Knight","the Lady Knight",3800000},
+  {"The 21st level Hero","The 21st Level Heroine",4600000},
+  {"The 22nd level Hero","The 22nd Level Heroine",5000000},
+  {"The 23rd level Hero","The 23rd Level Heroine",5500000},
+  {"The 24th level Hero","The 24th Level Heroine",6500000},
+  {"The 25th level Hero","The 25th Level Heroine",7600000},
+  {"The 26th level Hero","The 26th Level Heroine",8800000},
+  {"The 27th level Hero","The 27th Level Heroine",10000000},
+  {"The 28th level Hero","The 28th Level Heroine",11300000},
+  {"The 29th level Hero","The 29th Level Heroine",12800000},
+  {"The 30th level Hero","The 30th Level Heroine",14500000},
+  {"The 31st level Hero","The 31st Level Heroine",16500000},
+  {"The 32nd level Hero","The 32nd Level Heroine",19000000},
+  {"The 33rd level Hero","The 33rd Level Heroine",22000000},
+  {"The 34th level Hero","The 34th Level Heroine",31000000},
+  {"The 35th level Hero","The 35th Level Heroine",37000000},
+  {"The 36th level Hero","The 36th Level Heroine",44000000},
+  {"The 37th level Hero","The 37th Level Heroine",52000000},
+  {"The 38th level Hero","The 38th Level Heroine",61000000},
+  {"The 39th level Hero","The 39th Level Heroine",72000000},
+  {"The 40th level Hero","The 40th Level Heroine",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},        /* Demon Knight */
+  {"the Demon Knight","the Demon Knight",1},
+  {"the Demon Knight","the Demon Knight",2500},
+  {"the Demon Knight","the Demon Knight",5000},
+  {"the Fighter","the Fighter",10000},
+  {"the Soldier","the Soldier",20000},
+  {"the Warrior","the Warrior",40000},
+  {"the Veteran","the Veteran",65000},
+  {"the Swordsman","the Swordswoman",100000},
+  {"the Fencer","the Fenceress",150000},
+  {"the Combatant","the Combatess",225000},
+  {"the Hero","the Heroine",325000},
+  {"the Myrmidon","the Myrmidon",460000},
+  {"the Swashbuckler","the Swashbuckleress",640000},
+  {"the Mercenary","the Mercenaress",900000},
+  {"the Swordmaster","the Swordmistress",1200000},
+  {"the Lieutenant","the Lieutenant",1550000},
+  {"the Champion","the Lady Champion",2000000},
+  {"the Dragoon","the Lady Dragoon",2500000},
+  {"the Cavalier","the Cavalier",3100000},
+  {"the Knight","the Lady Knight",3800000},
+  {"The 21st level Hero","The 21st Level Heroine",4600000},
+  {"The 22nd level Hero","The 22nd Level Heroine",5000000},
+  {"The 23rd level Hero","The 23rd Level Heroine",5500000},
+  {"The 24th level Hero","The 24th Level Heroine",6500000},
+  {"The 25th level Hero","The 25th Level Heroine",7600000},
+  {"The 26th level Hero","The 26th Level Heroine",8800000},
+  {"The 27th level Hero","The 27th Level Heroine",10000000},
+  {"The 28th level Hero","The 28th Level Heroine",11300000},
+  {"The 29th level Hero","The 29th Level Heroine",12800000},
+  {"The 30th level Hero","The 30th Level Heroine",14500000},
+  {"The 31st level Hero","The 31st Level Heroine",16500000},
+  {"The 32nd level Hero","The 32nd Level Heroine",19000000},
+  {"The 33rd level Hero","The 33rd Level Heroine",22000000},
+  {"The 34th level Hero","The 34th Level Heroine",31000000},
+  {"The 35th level Hero","The 35th Level Heroine",37000000},
+  {"The 36th level Hero","The 36th Level Heroine",44000000},
+  {"The 37th level Hero","The 37th Level Heroine",52000000},
+  {"The 38th level Hero","The 38th Level Heroine",61000000},
+  {"The 39th level Hero","The 39th Level Heroine",72000000},
+  {"The 40th level Hero","The 40th Level Heroine",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},           /* Elfin Knight */
+  {"the Elfin Knight","the Elfin Knight",1},
+  {"the Elfin Knight","the Elfin Knight",2500},
+  {"the Elfin Knight","the Elfin Knight",5000},
+  {"the Fighter","the Fighter",10000},
+  {"the Soldier","the Soldier",20000},
+  {"the Warrior","the Warrior",40000},
+  {"the Veteran","the Veteran",65000},
+  {"the Swordsman","the Swordswoman",100000},
+  {"the Fencer","the Fenceress",150000},
+  {"the Combatant","the Combatess",225000},
+  {"the Hero","the Heroine",325000},
+  {"the Myrmidon","the Myrmidon",460000},
+  {"the Swashbuckler","the Swashbuckleress",640000},
+  {"the Mercenary","the Mercenaress",900000},
+  {"the Swordmaster","the Swordmistress",1200000},
+  {"the Lieutenant","the Lieutenant",1550000},
+  {"the Champion","the Lady Champion",2000000},
+  {"the Dragoon","the Lady Dragoon",2500000},
+  {"the Cavalier","the Cavalier",3100000},
+  {"the Knight","the Lady Knight",3800000},
+  {"The 21st level Hero","The 21st Level Heroine",4600000},
+  {"The 22nd level Hero","The 22nd Level Heroine",5000000},
+  {"The 23rd level Hero","The 23rd Level Heroine",5500000},
+  {"The 24th level Hero","The 24th Level Heroine",6500000},
+  {"The 25th level Hero","The 25th Level Heroine",7600000},
+  {"The 26th level Hero","The 26th Level Heroine",8800000},
+  {"The 27th level Hero","The 27th Level Heroine",10000000},
+  {"The 28th level Hero","The 28th Level Heroine",11300000},
+  {"The 29th level Hero","The 29th Level Heroine",12800000},
+  {"The 30th level Hero","The 30th Level Heroine",14500000},
+  {"The 31st level Hero","The 31st Level Heroine",16500000},
+  {"The 32nd level Hero","The 32nd Level Heroine",19000000},
+  {"The 33rd level Hero","The 33rd Level Heroine",22000000},
+  {"The 34th level Hero","The 34th Level Heroine",31000000},
+  {"The 35th level Hero","The 35th Level Heroine",37000000},
+  {"The 36th level Hero","The 36th Level Heroine",44000000},
+  {"The 37th level Hero","The 37th Level Heroine",52000000},
+  {"The 38th level Hero","The 38th Level Heroine",61000000},
+  {"The 39th level Hero","The 39th Level Heroine",72000000},
+  {"The 40th level Hero","The 40th Level Heroine",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} },
+
+{ {"the Man","the Woman",0},           /* Dragon-Kin */
+  {"the Dragon-Kin Warrior","the Dragon-Kin Warrior",1},
+  {"the Dragon-Kin Warrior","the Dragon-Kin Warrior",2500},
+  {"the Dragon-Kin Warrior","the Dragon-Kin Warrior",5000},
+  {"the Fighter","the Fighter",10000},
+  {"the Soldier","the Soldier",20000},
+  {"the Warrior","the Warrior",40000},
+  {"the Veteran","the Veteran",65000},
+  {"the Swordsman","the Swordswoman",100000},
+  {"the Fencer","the Fenceress",150000},
+  {"the Combatant","the Combatess",225000},
+  {"the Hero","the Heroine",325000},
+  {"the Myrmidon","the Myrmidon",460000},
+  {"the Swashbuckler","the Swashbuckleress",640000},
+  {"the Mercenary","the Mercenaress",900000},
+  {"the Swordmaster","the Swordmistress",1200000},
+  {"the Lieutenant","the Lieutenant",1550000},
+  {"the Champion","the Lady Champion",2000000},
+  {"the Dragoon","the Lady Dragoon",2500000},
+  {"the Cavalier","the Cavalier",3100000},
+  {"the Knight","the Lady Knight",3800000},
+  {"The 21st level Hero","The 21st Level Heroine",4600000},
+  {"The 22nd level Hero","The 22nd Level Heroine",5000000},
+  {"The 23rd level Hero","The 23rd Level Heroine",5500000},
+  {"The 24th level Hero","The 24th Level Heroine",6500000},
+  {"The 25th level Hero","The 25th Level Heroine",7600000},
+  {"The 26th level Hero","The 26th Level Heroine",8800000},
+  {"The 27th level Hero","The 27th Level Heroine",10000000},
+  {"The 28th level Hero","The 28th Level Heroine",11300000},
+  {"The 29th level Hero","The 29th Level Heroine",12800000},
+  {"The 30th level Hero","The 30th Level Heroine",14500000},
+  {"The 31st level Hero","The 31st Level Heroine",16500000},
+  {"The 32nd level Hero","The 32nd Level Heroine",19000000},
+  {"The 33rd level Hero","The 33rd Level Heroine",22000000},
+  {"The 34th level Hero","The 34th Level Heroine",31000000},
+  {"The 35th level Hero","The 35th Level Heroine",37000000},
+  {"The 36th level Hero","The 36th Level Heroine",44000000},
+  {"The 37th level Hero","The 37th Level Heroine",52000000},
+  {"The 38th level Hero","The 38th Level Heroine",61000000},
+  {"The 39th level Hero","The 39th Level Heroine",72000000},
+  {"The 40th level Hero","The 40th Level Heroine",84000000},
+  {"the Immortal","the Immortal",125000000},
+  {"the Avatar","the Avatar",200000000},
+  {"the God","the Goddess",300000000},
+  {"the Greater God","the Greater Goddess",400000000},
+  {"the OverLord of CrimsonWorld","the Lady Ruler of CrimsonWorld",500000000},
+  {"the Implementor","the Implementor",1000000000} }
+
+};
+
+const char *item_types[] = {
+   "UNDEFINED",
+   "LIGHT",
+   "SCROLL",
+   "WAND",
+   "STAFF",
+   "WEAPON",
+   "!FIRE WEAPON",
+   "!MISSILE",
+   "TREASURE",
+   "ARMOR",
+   "POTION",
+   "WORN",
+   "OTHER",
+   "TRASH",
+   "TRAP",
+   "CONTAINER",
+   "NOTE",
+   "DRINKCON",
+   "KEY",
+   "FOOD",
+   "MONEY",
+   "PEN",
+   "BOAT",
+   "!ZCMD",
+   "\n"
+};
+
+const char *wear_bits[] = {
+   "TAKE",
+   "FINGER",
+   "NECK",
+   "BODY",
+   "HEAD",
+   "LEGS",
+   "FEET",
+   "HANDS",
+   "ARMS",
+   "SHIELD",
+   "ABOUT",
+   "WAIST",
+   "WRIST",
+   "WIELD",
+   "HOLD",
+   "THROW",
+   "LIGHT-SOURCE",
+   "USABLE",
+   "\n"
+};
+
+const char *extra_bits[] = {
+   "GLOW",
+   "HUM",
+   "DARK",
+   "LOCK",
+   "EVIL",
+   "INVISIBLE",
+   "MAGIC",
+   "NODROP",
+   "BLESS",
+   "ANTI-GOOD",
+   "ANTI-EVIL",
+   "ANTI-NEUTRAL",
+   "ANTI-MAGE",
+   "ANTI-THIEF",
+   "ANTI-CLERIC",
+   "ANTI-WARRIOR",
+   "ANTI-DRAGON",
+   "GOOD",
+   "NORENT",
+   "DIFFICULT",
+   "EXPERT",
+   "HEROIC",
+   "AVATAR",
+   "NOSEE",
+   "\n"
+};
+
+
+const char *weapon_bits[] = {
+   "POISONOUS",
+   "BLINDING",
+   "!PARALYZING",
+   "SILVER",
+   "WOOD-STAKE",
+   "VAMPIRIC",
+   "MANA-DRAINING",
+   "GOOD",
+   "NEUTRAL",
+   "EVIL",
+   "GOOD-SLAYER",
+   "EVIL-SLAYER",
+   "UNDEAD-SLAYER",
+   "DRAGON-SLAYER",
+   "ANIMAL-SLAYER",
+   "GIANT-SLAYER",
+   "\n"
+};
+
+
+const char *room_bits[] = {
+   "DARK",
+   "DEATH",
+   "NO_MOB",
+   "INDOORS",
+   "ANTI-LAWFULL",
+   "ANTI-NEUTRAL",
+   "ANTI-CHAOTIC",
+   "!NO_MAGIC",
+   "!TUNNEL",
+   "PRIVATE",
+   "DRAINS_MAGIC",
+   "HARMFULL1",
+   "HARMFULL2",
+   "NO_TELEPORT",
+   "\n"
+};
+
+const char *zflag_bits[] = {
+   "TESTING",
+   "NOENTER",
+   "\n"
+};
+
+const char *dirty_bits[] = {
+   "UNSAVED",
+   "SCRAMBLED",
+   "SHOWN",
+   "\n"
+};
+
+const char *exit_bits[] = {
+   "IS-DOOR",
+   "PICKPROOF",
+   "LOCKED",
+   "CLOSED",
+   "HIDDEN",
+   "\n"
+};
+
+const char *sector_types[] = {
+   "Inside",
+   "City",
+   "Field",
+   "Forest",
+   "Hills",
+   "Mountains",
+   "WaterSwim",
+   "WaterNoSwim",
+   "Underwater",
+   "\n"
+};
+
+const char *equipment_types[] = {
+   "Special",
+   "Worn on right finger",
+   "Worn on left finger",
+   "First worn around Neck",
+   "Second worn around Neck",
+   "Worn on body",
+   "Worn on head",
+   "Worn on legs",
+   "Worn on feet",
+   "Worn on hands",
+   "Worn on arms",
+   "Worn as shield",
+   "Worn about body",
+   "Worn around waist",
+   "Worn around right wrist",
+   "Worn around left wrist",
+   "Wielded",
+   "Held",
+   "\n"
+};
+   
+const char *affected_bits[] = 
+{  "BLIND",
+   "INVISIBLE",
+   "DETECT-EVIL",
+   "DETECT-INVISIBLE",
+   "DETECT-MAGIC",
+   "SENSE-LIFE",
+   "HOLD",
+   "SANCTUARY",
+   "GROUP",
+   "UNUSED",
+   "CURSE",
+   "FLAMING-HANDS",
+   "POISON",
+   "PROTECT-EVIL",
+   "!PARALYSIS",
+   "!MORDENS-SWORD",
+   "WIZINVIS",
+   "SLEEP",
+   "!DODGE",
+   "SNEAK",
+   "HIDE",
+   "FEAR",
+   "CHARM",
+   "FOLLOW",
+   "BREATHWATER",  /*not used , I think... */
+   "DARKSIGHT",
+   "REGENERATION",
+   "!MINOR-WARDS",
+   "!MAJOR-WARDS",
+   "MAGIC-RESIST",
+   "MAGIC-IMMUNE",
+   "\n"
+};
+
+const char *apply_types[] = {
+   "NONE",
+   "STR",
+   "DEX",
+   "INT",
+   "WIS",
+   "CON",
+   "!SEX",
+   "!CLASS",
+   "!LEVEL",
+   "AGE",
+   "!CHAR_WEIGHT",
+   "!CHAR_HEIGHT",
+   "MANA",
+   "HIT",
+   "MOVE",
+   "!GOLD",
+   "!EXP",
+   "AC",
+   "HITROLL",
+   "DAMROLL",
+   "SAVING_PARA",
+   "SAVING_ROD",
+   "SAVING_PETRI",
+   "SAVING_BREATH",
+   "SAVING_SPELL",
+   "!EXTRA_ATTACKS",
+   "DETECT-INVIS",
+   "DARKSIGHT",
+   "MAGIC-RESIST",
+   "MAGIC-IMMUNE",
+   "BREATHWATER",
+   "DETECT-MAGIC",
+   "SENSE-LIFE",
+   "DETECT-EVIL",
+   "!SNEAK",
+   "INVISIBILITY",
+   "IMPROVED-INVIS",
+   "REGENERATION",
+   "!MINOR-WARDS",
+   "!MAJOR-WARDS",
+   "UNDETECTABLE-INVIS",
+   "GOD_STR",
+   "GOD_DEX",
+   "GOD_INT",
+   "GOD_WIS",
+   "GOD_CON",
+   "\n"
+};
+
+const char *pc_class_types[] = {
+   "UNDEFINED",
+   "Magic User",
+   "Cleric",
+   "Thief",
+   "Warrior",
+   "Bard",
+   "Kai ", /* must be minimum 4 chars */
+   "Drakkhar",
+   "Demon-Knight",
+   "Elfin-Knight",
+   "Dragon-Kin Warrior",
+   "\n"
+};
+
+const char *npc_class_types[] = { /* Not used anywhere yet */
+   "Normal",
+   "Undead",
+   "Humanoid",
+   "Animal",
+   "Dragon",
+   "Giant",
+   "\n"
+};
+
+const char *action_bits[] = {
+   "SPEC",
+   "SENTINEL",
+   "SCAVENGER",
+   "ISNPC",
+   "NICE-THIEF",
+   "AGGRESSIVE",
+   "STAY-ZONE",
+   "WIMPY",
+   "MAGE",
+   "PRIEST",
+   "THIEF",
+   "BREATHES-FIRE",
+   "BREATHES-GAS",
+   "BREATHES-ACID",
+   "BREATHES-LIGHTNING",
+   "BREATHES-FROST",
+   "POISONOUS",
+   "!PARALYZING",
+   "NOCHARM",
+   "DRAINS-XP",
+   "CLASS-SHADOW",
+   "CLASS-VAMPIRE",
+   "CLASS-DRAGON",
+   "CLASS-GIANT",
+   "CLASS-ANIMAL",
+   "CLASS-UNDEAD",
+   "\n"
+};
+
+
+const char *player_bits[] = {
+   "BRIEF",
+   "NOSHOUT",
+   "COMPACT",
+   "DONTSET",
+   "ANSI",
+   "NOSUMMON",
+   "NOGOSSIP",
+   "NOAUCTION",
+   "NOGRATS",
+   "PKILLER",
+   "ENFORCER",
+   "NOTELL",
+   "ASSIST",
+   "AUTOSPLIT",
+   "ATTACKER",
+   "WIMPY",
+   "SHOW-ROOM",
+   "SHOW-HP",
+   "SHOW-MANA",
+   "SHOW-MOVE",
+   "SHOW-EXITS",
+   "NOHASSLE",
+   "MUZZLED",
+   "NOSYS",
+   "NOIMM",
+   "NOCLAN",
+   "AUTOLOOT",
+   "AUTOAGGR",
+   "AUTOJUNK",
+   "AUTOEAT",
+   "\n"
+};
+
+
+const char *position_types[] = {
+   "Dead",
+   "Mortally wounded",
+   "Incapacitated",
+   "Stunned",
+   "Sleeping",
+   "Resting",
+   "Sitting",
+   "Fighting",
+   "Standing",
+   "\n"
+};
+
+const char *connected_types[] =  {
+   "Playing",
+   "Get name",
+   "Confirm name",
+   "Read Password",
+   "Get new password",
+   "Confirm new password",
+   "Get sex",
+   "Read messages of today",
+   "Read Menu",
+   "Get extra description",
+   "Get class",
+   "\n"
+};
+
+/* [class], [level] (all) */
+const int thaco[MAX_CLASS][MAX_LEV] = {
+   { 100,30,30,30,29,29,29,28,28,28,27,27,27,26,26,26,25,25,25,24,24,                 /*Mage*/
+         24,23,23,23,22,22,22,20,20,20,19,19,19,18,18,18,17,17,17,16,16,16,15,15,15},
+   { 100,30,30,29,29,28,28,27,27,26,26,25,25,24,24,23,23,22,22,21,21,                 /*Cleric*/
+         20,20,19,19,18,18,17,17,16,16,15,15,14,14,13,13,12,12,11,11,10,10, 9, 9, 8},
+   { 100,30,30,30,28,28,28,26,26,26,24,24,24,22,22,22,20,20,20,18,18,                 /*Thief*/
+         18,16,16,16,14,14,14,12,12,12,10,10,10, 8, 8, 8, 6, 6, 6, 4, 4, 4, 2, 2, 2},
+   { 100,30,29,28,27,26,25,24,23,22,21,20,18,17,16,15,14,13,12,11,10,                 /*Warrior*/
+          9, 8, 7, 6, 5, 4, 3, 2, 1, 0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13,-14,-15},
+   { 100,30,30,29,29,28,28,27,27,26,26,25,25,24,24,23,23,22,22,21,21,                 /*Bard*/
+         20,20,19,19,18,18,17,17,16,16,15,15,14,14,13,13,12,12,11,11,10,10, 9, 9, 8},
+   { 100,30,30,30,28,28,28,26,26,26,24,24,24,22,22,22,20,20,20,18,18,                 /*Kai*/
+         18,16,16,16,14,14,14,12,12,12,10,10,10, 8, 8, 8, 6, 6, 6, 4, 4, 4, 2, 2, 2},
+   { 100,30,30,30,28,28,28,26,26,26,24,24,24,22,22,22,20,20,20,18,18,                 /*Drakkhar*/
+         18,16,16,16,14,14,14,12,12,12,10,10,10, 8, 8, 8, 6, 6, 6, 4, 4, 4, 2, 2, 2},
+   { 100,30,29,28,27,26,25,24,23,22,21,20,18,17,16,15,14,13,12,11,10,                 /*Demon-Knight*/
+          9, 8, 7, 6, 5, 4, 3, 2, 1, 0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13,-14,-15},
+   { 100,30,29,28,27,26,25,24,23,22,21,20,18,17,16,15,14,13,12,11,10,                 /*Elf-Knight*/
+          9, 8, 7, 6, 5, 4, 3, 2, 1, 0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13,-14,-15},
+   { 100,30,29,28,27,26,25,24,23,22,21,20,18,17,16,15,14,13,12,11,10,                /*Dragon Warrior*/
+          9, 8, 7, 6, 5, 4, 3, 2, 1, 0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13,-14,-15}
+};
+
+/* [ch] strength apply (all) */
+const struct str_app_type str_app[31] = {
+   { -6,-6,   0,  0 },  /* 0  */
+   { -5,-5,   2,  1 },  /* 1  */
+   { -4,-5,   5,  2 },
+   { -3,-3,  10,  3 },  /* 3  */
+   { -2,-2,  20,  4 },
+   { -1,-2,  35,  5 },  /* 5  */
+   {  0,-1,  50,  6 },
+   {  0,-1,  65,  7 },  /* 7  */
+   {  0,-1,  80,  8 },
+   {  0, 0,  90,  9 },
+   {  0, 0, 100, 10 }, /* 10  */
+   {  0, 0, 110, 11 },
+   {  0, 0, 120, 12 },
+   {  0, 1, 130, 13 }, /* 13  */
+   {  0, 1, 160, 14 },
+   {  0, 1, 210, 15 }, /* 15  */
+   {  1, 2, 270, 16 },
+   {  2, 2, 345, 18 },
+   {  2, 3, 425, 20 }, /* 18  */
+   {  3, 7, 525, 22 },
+   {  3, 8, 675, 25 }, /* 20  */
+   {  4, 9, 850, 30 },
+   {  4,10,1000, 35 },
+   {  5,11,1200, 40 }, /* 23  */
+   {  5,12,1500, 45 },
+   {  6,13,2000, 50 }, /* 25  */
+   {  6,14,6000, 60 },
+   {  7,15,7000, 70 },  
+   {  7,16,8000, 80 }, /* 28  */
+   {  8,17,9000, 90 }, 
+   {  8,18,10000,100}  /* 30  */
+};
+
+/* [dex] skill apply (thieves only) */
+const struct dex_skill_type dex_app_skill[31] = {
+   {-99,-99,-90,-99,-60},   /* 0 */
+   {-90,-90,-60,-90,-50},   /* 1 */
+   {-80,-80,-40,-80,-45},
+   {-70,-70,-30,-70,-40},
+   {-60,-60,-30,-60,-35},
+   {-50,-50,-20,-50,-30},   /* 5 */
+   {-40,-40,-20,-40,-25},
+   {-30,-30,-15,-30,-20},
+   {-20,-20,-15,-20,-15},
+   {-15,-10,-10,-20,-10},
+   {-10, -5,-10,-15, -5},   /* 10 */
+   { -5,  0, -5,-10,  0},
+   {  0,  0,  0, -5,  0},
+   {  0,  0,  0,  0,  0},
+   {  0,  0,  0,  0,  0},
+   {  0,  0,  0,  0,  0},   /* 15 */
+   {  0,  5,  0,  0,  0},
+   {  5, 10,  0,  5,  5},
+   { 10, 15,  5, 10, 10},
+   { 15, 20, 10, 15, 15},
+   { 15, 20, 10, 15, 15},   /* 20 */
+   { 20, 25, 10, 15, 20},
+   { 20, 25, 15, 20, 20},
+   { 25, 25, 15, 20, 20},
+   { 25, 30, 15, 25, 25},
+   { 25, 30, 15, 25, 25},   /* 25 */
+   { 30, 35, 20, 20, 30},
+   { 35, 40, 25, 25, 35},
+   { 40, 45, 30, 30, 40},
+   { 45, 50, 35, 35, 45},
+   { 99, 99, 99, 99, 99}    /* 30 */
+};
+
+/* [level] backstab multiplyer (thieves only) */
+const byte backstab_mult[MAX_LEV] = {
+   1,   /* 0 */
+   2,   /* 1 */
+   2,
+   2,
+   2,
+   3,   /* 5 */
+   3,
+   3,
+   3,
+   3,
+   4,   /* 10 */
+   4,
+   4,
+   4,
+   4,
+   5,   /* 15 */
+   5,
+   5,
+   5,
+   5,
+   6,   /* 20 */
+   6,
+   6,
+   6,
+   6,
+   7,    /* 25 */
+   7,
+   7,
+   7,
+   7,
+   8,    /* 30 */
+   8,
+   8,
+   8,
+   8,
+   9,    /* 35 */
+   9,
+   9,
+   9,
+   9,
+   10,    /* 40 */
+   11,
+   12,
+   13,
+   14,
+   15     /* 45 */
+
+};
+
+/* [dex] apply (all) */
+const struct dex_app_type dex_app[31] = {
+   {-6,-6, 6},   /* 0 */
+   {-5,-5, 5},   /* 1 */
+   {-4,-4, 5},
+   {-3,-3, 4},
+   {-2,-2, 3},
+   {-1,-1, 2},   /* 5 */
+   { 0, 0, 1},
+   { 0, 0, 0},
+   { 0, 0, 0},
+   { 0, 0, 0},
+   { 0, 0, 0},   /* 10 */
+   { 0, 0, 0},
+   { 0, 0, 0},
+   { 0, 0, 0},
+   { 0, 0, 0},
+   { 1, 0,-1},   /* 15 */
+   { 1, 1,-2},
+   { 2, 2,-3},
+   { 2, 2,-4},
+   { 3, 3,-4},
+   { 3, 3,-4},   /* 20 */
+   { 4, 4,-5},
+   { 4, 4,-5},
+   { 5, 4,-5},
+   { 5, 5,-6},
+   { 6, 5,-6},   /* 25 */
+   { 6, 6,-7}, 
+   { 7, 7,-8},
+   { 7, 8,-9},
+   { 8, 9,-10},
+   { 9,10,-11}   /* 30 */
+};
+
+/* [con] apply (all) */
+const struct con_app_type con_app[31] = {
+   {-6,20},   /* 0 */
+   {-5,25},   /* 1 */
+   {-4,30},
+   {-3,35},
+   {-2,40},
+   {-2,45},   /* 5 */
+   {-1,50},
+   {-1,55},
+   {-1,60},
+   { 0,65},
+   { 0,70},   /* 10 */
+   { 0,75},
+   { 0,80},
+   { 1,85},
+   { 1,88},
+   { 1,90},   /* 15 */
+   { 1,95},
+   { 2,97},
+   { 2,99},
+   { 3,99},
+   { 3,99},   /* 20 */
+   { 4,99},
+   { 4,99},
+   { 5,99},
+   { 5,99},
+   { 6,99},   /* 25 */
+   { 6,99},
+   { 7,99},
+   { 7,99},
+   { 8,99},
+   { 9,100}   /* 30 */
+
+};
+
+/* [int] apply (all) */
+const struct int_app_type int_app[31] = {
+   3,
+   5,    /* 1 */
+   7,
+   8,
+   9,
+   10,   /* 5 */
+   11,
+   12,
+   13,
+   15,
+   17,   /* 10 */
+   19,
+   22,
+   25,
+   30,
+   35,   /* 15 */
+   40,
+   45,
+   50,
+   53,
+   55,   /* 20 */
+   58,
+   61,
+   64,
+   67,
+   70,   /* 25 */
+   73,
+   76,
+   79,
+   85,
+   95   /* 30 */
+};
+
+/* [wis] apply (all) */
+const struct wis_app_type wis_app[31] = {
+   0,   /* 0 */
+   0,   /* 1 */
+   0,
+   0,
+   0,
+   0,   /* 5 */
+   0,
+   1,
+   1,
+   1,
+   1,   /* 10 */
+   2,
+   2,
+   2,
+   3,
+   3,   /* 15 */
+   4,
+   4,
+   5,   /* 18 */
+   5,
+   6,   /* 20 */
+   6,
+   7,
+   7,
+   8,
+   8,  /* 25 */
+   9,
+   10,
+   11,
+   12,
+   13   /* 30 */
+};

@@ -1,0 +1,126 @@
+#7900
+obj key large steel~
+a large key~
+A large steel key has been left here.~
+~
+18 0 1
+2 0 0 0
+2 10 -1
+E
+steel key~
+This huge key is made from solid steel.
+~
+#7901
+obj key copper~
+a copper key~
+A copper key has been left on the floor.~
+~
+18 0 1
+2 0 0 0
+2 10 -1
+E
+copper key~
+This little key is made from copper.
+~
+#7911
+obj key~
+a small brass key~
+A small brass key lies here.~
+~
+18 0 1
+7910 0 0 0
+1 10 -1
+E
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+#7915
+obj skull dark~
+a dark skull~
+A small skull stares at you.~
+~
+1 524288 65537
+0 0 240 0
+10 60000 10000
+A
+17 -10
+A
+27 -1
+A
+26 -1
+#7916
+obj bracelet translucent~
+a translucent bracelet~
+A bracelet is lying here.~
+~
+9 524288 4097
+0 0 10 0
+1 20000 10000
+A
+17 -5
+A
+13 25
+#7917
+obj history book~
+a history book~
+This history book looks interesting.~
+~
+12 1048576 16385
+0 0 10 0
+1 20000 10000
+A
+17 -15
+A
+3 2
+#7918
+obj staff bronze~
+a bronze staff~
+A bronze staff lies here on the ground.~
+~
+5 1048576 8193
+0 6 4 6
+1 35000 20000
+A
+18 2
+A
+19 2
+#7919
+obj cloak dark~
+a dark cloak~
+A dark piece of cloth is on the floor.~
+~
+11 1048580 5
+0 0 10 0
+20 80000 15000
+A
+17 -25
+A
+24 -2
+#7920
+obj ice cube~
+an ice cube~
+An ice cube is melting on the floor.~
+~
+9 524288 17
+20 0 10 0
+10 60000 10000
+A
+13 25
+#7922
+obj translucent orb~
+a translucent orb~
+a surge of energy emanates from mid air.~
+~
+5 2203648 8193
+0 5 7 6
+15 120000 65000
+A
+24 -5
+A
+18 4
+A
+19 4
+A
+9 -7
+$~
+#999999

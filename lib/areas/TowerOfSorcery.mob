@@ -1,0 +1,749 @@
+#13000
+mob shadow guardian~
+A shadow guardian~
+A shadow guardian screams a challenge and attacks.
+~
+It seems to made of nothing more than darkness...
+~
+104 524298 -350 S
+9 23 16 162d1+0 4d3+4
+900 13500
+8 8 0
+#13001
+mob adventurer~
+A lost adventurer~
+An emaciated adventurer is here looking lost and hopeless.
+~
+He looks haggard and sickly, no doubt he's been lost here for quite some time.
+~
+142 0 400 S
+8 25 17 144d1+0 3d3+4
+500 12000
+6 8 1
+#13002
+mob edgar~
+Edgar~
+Edgar the Human Swordpupil is looking for something here.
+~
+Edgar says 'pardon me, can you tell me where to buy cups?'
+
+You see before you, one of Midgaard's finest fighting elite, the mighty 
+bunny slayer himself, Edgar the horrible!
+~
+156 0 1000 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 1
+#13003
+mob diamond golem~
+The golem~
+A huge diamond golem is standing guard here.
+~
+It looks quite strong.
+~
+106 8 500 S
+23 -9 2 1180d1+0 6d3+24
+20000 34500
+8 8 0
+#13004
+mob mage young~
+A mage~
+A young mage wanders about, oblivious to all.
+~
+He seems to be contemplating life, love and the mysteries of the universe,
+then again, he may just have a headache.
+~
+200 8 450 S
+10 23 15 180d1+0 4d3+4
+1000 15000
+8 8 1
+#13005
+mob strick bartender~
+Strick the bartender~
+Strick is here levitating drinks to his customers.
+~
+He looks rather harmless, but then again so does a sleeping dragon.
+~
+74 8 750 S
+25 -15 0 1500d1+0 5d3+30
+20000 37500
+8 8 1
+#13006
+mob tatorious wizard~
+Tatorious~
+Tatorious the wizard is here counting his earnings.
+~
+Tatorious winks at you mischeviously.
+~
+330 8 900 S
+25 -9 2 1180d1+0 8d3+20
+20000 37500
+8 8 1
+#13007
+mob ezmerelda cook~
+Ezmerelda~
+Ezmerelda the cook is here stirring a large pot of something.
+~
+~
+74 8 -500 S
+20 0 5 700d1+0 5d3+20
+15000 30000
+8 8 2
+#13008
+mob assistant mage~
+The cook's assistant~
+The cook's assistant is here assisting the cook.
+~
+~
+202 8 -200 S
+11 22 14 214d1+0 4d3+5
+1000 16500
+8 8 1
+#13009
+mob prisoner mage~
+The prisoner~
+A prisoner is chained to the wall here.
+~
+Though his clothes are all in rags, you can see that at one time they must
+have been fine garments. A metal muzzle has been fitted over the poor 
+wretch's mouth, wether to keep him from screaming, or to silence his spell
+casting you cannot tell.
+He looks quite mad, no doubt he's been mistreated horribly.
+~
+494 0 100 S
+16 18 11 316d1+0 5d3+8
+5000 24000
+8 8 1
+#13010
+mob jailor mage~
+The Jailor~
+The Jailor is here enjoying a comfortable nap.
+~
+He looks rather dirty.
+~
+74 8 100 S
+17 9 8 490d1+0 4d3+16
+8000 25500
+4 4 1
+#13011
+mob broom~
+A broom~
+A straw broom is here leaning against the wall.
+~
+The broom screams 'Take that you lout!'
+~
+110 8 50 S
+7 26 18 126d1+0 3d3+3
+700 10500
+8 8 0
+#13012
+mob lesser guardian hands~
+A pair of disembodied hands~
+A pair of disembodied hands floats in the air here.
+~
+The hands twitch witch anticipation of strangling someone.
+~
+104 0 -400 S
+9 24 16 162d1+0 3d3+5
+900 13500
+8 8 0
+#13013
+mob guardian greater eyes~
+A pair of disembodied eyes~
+A pair of disembodied eyes floats here glaring at you.
+~
+The eyes smolder with hatred.
+~
+104 8 -600 S
+15 15 10 350d1+0 5d3+10
+3000 22500
+8 8 0
+#13014
+mob mage visitor~
+The mage~
+A visiting mage is here snoring away in peaceful slumber.
+~
+He looks quite sleepy
+~
+462 8 250 S
+12 23 15 180d1+0 4d3+4
+2000 18000
+4 4 1
+#13015
+mob apprentice young~
+A young apprentice magic user~
+A young apprentice magic user is here doing magical studies.
+~
+She looks quite intent on her studies
+~
+202 0 400 S
+7 26 18 126d1+0 3d3+3
+700 10500
+6 6 2
+#13016
+mob apprentice young~
+A young apprentice~
+A young apprentice is here mumbling words of magic to himself.
+~
+He looks to be oblivious to all but the spell he is memorizing.
+~
+202 0 380 S
+7 26 18 126d1+0 3d3+3
+700 10500
+8 8 1
+#13017
+mob apprentice young~
+A young apprentice~
+A young apprentice is sleeping here.
+~
+He seems to be dreaming.
+~
+202 0 350 S
+7 26 18 126d1+0 3d3+3
+700 10500
+4 4 1
+#13018
+mob apprentice young~
+A young apprentice~
+A young apprentice is here teasing a cornered kitten.
+~
+He looks like a mischevious youth.
+~
+202 0 -200 S
+7 26 18 126d1+0 3d3+3
+700 10500
+8 8 1
+#13019
+mob kitten~
+A small kitten~
+A small kitten is here meowing in terror.......
+~
+The little ball of fur looks very unhappy, singed fur and a few minor burns
+mark its mottled coat.
+~
+202 0 500 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 2
+#13020
+mob student~
+A student~
+A student of spells is here looking quite bored.
+~
+The student yawns.
+~
+202 0 350 S
+8 25 17 144d1+0 3d3+4
+800 12000
+6 6 1
+#13021
+mob instructor mage~
+An intructor of magic~
+The instructor screams at your interruption and attacks you.
+~
+He looks quite angry at your interruption.
+~
+362 8 300 S
+14 21 13 248d1+0 4d3+6
+4000 21000
+8 8 1
+#13022
+mob student~
+A student of spells~
+A student of spells is here trying to master invisibility.
+~
+He blinks in and out of existance, trying to master the spell.
+~
+202 10 400 S
+8 25 17 144d1+0 3d3+4
+500 12000
+8 8 1
+#13023
+mob teacher mage~
+A spell teacher~
+A spell teacher screams at your interruption and attacks.
+~
+~
+106 10 300 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 1
+#13024
+mob student~
+A student of spells~
+A student of spells has fallen asleep at her desk here.
+~
+She looks to have collapsed from sheer boredom.
+~
+202 8 400 S
+9 24 16 162d1+0 3d3+5
+500 13500
+4 4 2
+#13025
+mob wizard speaker mage~
+A wizard~
+An old wizard is here making a speech.
+~
+~
+458 8 400 S
+18 12 9 420d1+0 4d3+14
+10000 27000
+8 8 1
+#13026
+mob mage young~
+A young mage~
+A young mage is here learning hand to hand combat.
+~
+~
+202 8 300 S
+9 24 16 162d1+0 3d3+5
+700 13500
+8 8 1
+#13027
+mob mistress battle~
+The battle mistress~
+The battle mistress is here teaching the fine uses of a dagger.
+~
+She looks quite rugged. In fact, she more resembles a warrior than a magic
+user.
+~
+874 8 200 S
+21 3 6 630d1+0 5d3+18
+15000 31500
+8 8 2
+#13028
+mob mage teacher~
+A spell teacher~
+A spell teacher is here relaxing.
+~
+~
+330 8 200 S
+15 20 12 282d1+0 4d3+8
+5000 22500
+5 5 1
+#13029
+mob wizard~
+An aged wizard~
+An aged wizard is sleeping here.
+~
+~
+490 8 350 S
+20 6 7 560d1+0 5d3+16
+15000 30000
+4 4 1
+#13030
+mob scribe mage~
+A scribe~
+A scribe is here working on some manuscripts.
+~
+~
+462 8 400 S
+14 9 13 490d1+0 4d3+16
+4000 21000
+8 8 1
+#13031
+mob scribe mage~
+A scribe~
+A scribe is here working diligently on some translations.
+~
+She looks quite cute, too bad her only interest seems to be the words of
+lore she is translating.
+~
+202 8 500 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 2
+#13032
+mob master scribe~
+The master scribe~
+The master scribe is here looking a little upset.
+~
+He seems to be so old, his skin has become nothing but a giant wrinkle.
+The master scribe screams 'How dare you interrupt my important work???'
+~
+234 8 100 S
+22 -6 3 1020d1+0 5d3+24
+20000 33000
+8 8 1
+#13033
+mob assistant scribe~
+The scribe's assistant~
+The scribe's assistant is here folding parchments.
+~
+~
+234 8 100 S
+16 12 9 420d1+0 4d3+14
+7000 24000
+8 8 1
+#13034
+mob master enchanter mage~
+The Enchanter~
+The Enchanter is here placing a dweomer upon well made sword.
+~
+~
+362 8 -200 S
+25 -9 2 1180d1+0 6d3+22
+30000 37500
+8 8 1
+#13035
+mob sword dancing~
+A dancing sword~
+An well crafted sword lies on the work table here.
+~
+It looks quite sharp.
+~
+106 0 -500 S
+18 6 7 560d1+0 5d3+16
+10000 27000
+8 8 0
+#13036
+mob alchemist~
+The Mad Alchemist~
+The Mad Alchemist babbles something un-comprehensible and attacks.
+~
+He looks like he's been quaffing too many potions. His eyes dart around
+wildly, and he starts to drool.
+
+The Mad Alchemist throws back his head and cackles with insane glee!
+~
+238 8 150 S
+24 -12 1 1340d1+0 8d3+22
+25000 36000
+8 8 1
+#13037
+mob master summoner~
+The master summoner~
+The master summoner is here holding gateways open to other planes.
+~
+~
+362 8 -200 S
+30 -24 -3 2400d1+0 6d3+40
+50000 45000
+8 8 1
+#13038
+mob master charmer~
+The master charmer~
+The master charmer utters the words, 'uuuzzldctz.'
+~
+The master charmer sizes you up, always looking for a new pet.
+~
+298 8 -400 S
+23 -3 4 860d1+0 5d3+22
+22000 34500
+8 8 1
+#13039
+mob golem wooden~
+A wooden golem~
+A wooden golem stands a silent vigil here, guarding the stairs.
+~
+He looks flamable
+~
+106 8 100 S
+21 -3 4 860d1+0 5d3+22
+15000 31500
+8 8 0
+#13040
+mob master binder~
+The master spell binder~
+The master spell binder is here re-charging a blackened wand.
+~
+The master spell binder snarls at you and attacks.
+~
+494 8 -500 S
+23 -3 4 860d1+0 6d3+20
+22000 34500
+8 8 1
+#13041
+mob master maker~
+The golem maker~
+The golem maker is here chiselling some stones.
+~
+~
+106 8 300 S
+21 -3 4 860d1+0 5d3+22
+18000 31500
+8 8 1
+#13042
+mob golem granite~
+A granite golem~
+A granite golem stands here waiting to do its master's bidding.
+~
+It looks like a statue, until you see it shamble towards you.
+~
+106 0 300 S
+20 0 5 700d1+0 5d3+20
+15000 30000
+8 8 0
+#13043
+mob golem bronze~
+A bronze golem~
+A bronze golem stands here shining in the light.
+~
+He looks rather dim witted.
+~
+74 0 350 S
+18 6 7 560d1+0 5d3+16
+10000 27000
+8 8 0
+#13044
+mob golem flesh~
+A flesh golem~
+A flesh golem stands guard here.
+~
+It looks to be made of a mix match of different body parts, some don't even
+resemble anything human.
+~
+106 0 200 S
+12 21 13 248d1+0 5d3+4
+2000 18000
+8 8 0
+#13045
+mob golem cloth~
+A cloth golem~
+A cloth golem wanders around here.
+~
+It looks like a bunch of old rags, quite supprising it can actually walk.
+~
+78 0 350 S
+8 24 17 144d1+0 5d3+0
+800 12000
+8 8 0
+#13046
+mob golem adamantite~
+An adamantite golem~
+An adamantite golem stands here looking very dangerous.
+~
+It seems to be forged of dark metal. It looks both incredibly strong, and
+durrable, but somewhat un-intelligent.
+~
+78 0 350 S
+25 -15 0 1500d1+0 5d3+30
+20000 37500
+8 8 0
+#13047
+mob golem clay~
+A clay golem~
+A clay golem stands guard here.
+~
+~
+110 8 200 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 0
+#13048
+mob master illusionist mage~
+The master of illusions~
+An enormous multi-colored three-headed dragon growls at you.
+~
+The immage of an ugly dragon flickers slightly, and where the dragon was
+now stands a small harmless looking old man.
+~
+462 8 150 S
+21 3 6 630d1+0 4d3+20
+15000 31500
+8 8 1
+#13049
+mob necromancer master~
+The Necromancer~
+The Necromancer is here raising undead servants.
+~
+Attired all in black, the Necromancer is tall and gangly, but still quite
+an imposing figure. A dark cowl shrouds most of his face, but two blazing
+embers which must serve as eyes can be seen through the shadow.
+The Necromancer shrieks some obsenities and orders his minions to attack.
+~
+362 8 -950 S
+27 -15 0 1500d1+0 10d3+20
+30000 40500
+8 8 1
+#13050
+mob skeleton undead~
+An animated skeleton~
+An animated skeleton screams silently and attacks.
+~
+It seems to feel no pain, and hacks at you ruthlessly
+~
+33554538 8 -500 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 0
+#13051
+mob undead giant~
+An undead giant~
+An undead giant lumbers towards you.
+~
+~
+41943150 8 -500 S
+18 6 7 560d1+0 5d3+16
+10000 27000
+8 8 0
+#13052
+mob witch hag~
+An ugly witch~
+An ugly witch is here scrying out secrets.
+~
+She has no face at all, just blank skin, rather disturbing. From about where
+her mouth should be, comes a disgusting giggling sound that makes your skin
+crawl with revulsion.
+~
+366 8 -450 S
+20 6 7 560d1+0 5d3+16
+15000 30000
+8 8 2
+#13053
+mob librarian mage~
+The Librarian~
+The Librarian has fallen asleep at his desk here.
+~
+He looks like a rather peaceful old man.
+~
+490 8 450 S
+23 -3 4 860d1+0 6d3+20
+22000 34500
+4 4 1
+#13054
+mob apprentice~
+The master's apprentice~
+The master's apprentice leaps to halt your passage.
+~
+A powerful wizard in his own right, the apprentice of the master of balance
+has given up his station in the mageguild hierarchy in order to serve the
+great master in hopes of gleaning secrets one could never hope to uncover
+alone.
+~
+366 8 0 S
+24 -6 3 1020d1+0 7d3+20
+24000 36000
+8 8 1
+#13055
+mob cat grey familiar~
+A grey cat~
+A grey cat is lounging lazily here.
+~
+The grey cat cocks an ear towards you, sensing your scrutiny, then purrs
+contentedly.
+It looks rather harmless, untill you notice its very large claws.
+~
+74 524290 0 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 2
+#13056
+mob master guildmaster grey~
+The master of Neutrality~
+The master of Neutrality stands here comtemplating the balance of the universe.
+~
+He looks quite peaceful.
+~
+262474 136 0 S
+30 -24 -3 2400d1+0 8d3+36
+40000 45000
+8 8 1
+#13057
+mob apprentice black~
+A black robed apprentice~
+A black robed apprentice jumps from the shadows and attacks.
+~
+She bears a wicked looking scar down the side of her face, though once she
+must have been beautiful, now the scar combined with what seems to be a
+permenent scowl make her looks quite fearsome.
+~
+366 524296 -750 S
+20 6 7 560d1+0 5d3+16
+15000 30000
+8 8 2
+#13058
+mob cat black familiar~
+A black cat~
+A black cat with its fur up hisses at you.
+~
+It looks both mean and dangerous, petting seems to be completely out of
+the question.
+~
+65610 524296 -800 S
+16 12 9 420d1+0 5d3+12
+5000 24000
+8 8 0
+#13059
+mob master guildmaster black~
+The master of the black robes~
+The master of the black robes is here plotting vile deeds.
+~
+The master glares at you.
+~
+262478 136 -1000 S
+30 -24 -3 2400d1+0 8d3+36
+40000 45000
+8 8 1
+#13060
+mob apprentice white~
+A white robed apprentice~
+A white robed apprentice screams at your desecration of goodness.
+~
+He looks like a fanatic.
+The apprentice screams 'Thou art unworthy of this honor!'
+~
+106 8 750 S
+20 6 7 560d1+0 5d3+16
+15000 30000
+8 8 1
+#13061
+mob cat white familiar~
+A white cat~
+A white cat is here preening its fur.
+~
+It seems to be nothing more than a large ball of fluf with claws.
+~
+65610 524296 800 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 0
+#13062
+mob master guildmaster white~
+The master of goodness~
+The master of goodness is here frowning at your intrusion.
+~
+He looks like a self rightious bastard.
+~
+262474 136 1000 S
+30 -24 -3 2400d1+0 8d3+36
+40000 45000
+8 8 1
+#13063
+mob cat chalico familiar~
+A chalico cat~
+A large chalico cat is here.
+~
+It looks incredibly large for a cat, no doubt a giant of its species. 
+A beautiful jewel encrusted colar about its neck is its only adornments.
+~
+65610 524296 800 S
+25 -15 0 1500d1+0 5d3+30
+30000 37500
+8 8 0
+#13064
+mob guildmaster grand master~
+The Grand Master~
+The Grand Master of Magic is sitting here.
+~
+She looks quite comfortable on her emerald throne. Amazingly young and 
+pretty for one of such stature in the mageguild, no doubt she has kept her
+youthful appearance through the use of strong magics.
+The Grand Master pets her familiar and smiles at you in confidence.
+~
+262474 136 0 S
+44 -60 -15 5000d1+0 30d3+120
+150000 66000
+8 8 2
+#13065
+mob wizard~
+A wizard~
+A wandering wizard is here mumbling to himself.
+~
+~
+332 524296 350 S
+17 15 10 350d1+0 5d3+10
+8000 25500
+8 8 1
+$~
+#999999

@@ -1,0 +1,2977 @@
+#3000
+The Dressing Room~
+You are in a white walled room.  A thought enters your brain telling you to
+dress here. (Type WEAR ALL to dress up if you wonder how)  There is an exit
+down to the Donation Room, where you could find some useful stuff donated 
+by those experienced players if you were lucky.  The south exit leads to
+the reception of the Midgaard Inn, where you can rent a comfortable private
+room when you decide to leave later.  The Royal Academy of CrimsonMUD, 
+generally known as the MUD School, lies to the north.  Newbies are greatly
+welcome to visit the Academy.
+~
+2 12 0
+D0
+The Royal Academy of CrimsonMUD lies to the north.
+~
+~
+0 -1 2900
+D2
+The Midgaard Inn Reception lies to the south.
+~
+~
+0 -1 3008
+D5
+You see the Midgaard Donation Room.
+~
+~
+0 -1 3419
+S
+#3001
+The Temple of Midgaard~
+You are in the southern end of the temple hall in the Temple of Midgaard.  The
+temple has been constructed from giant marble blocks, eternal in appearance,
+and most of the walls are covered by ancient wall paintings picturing Gods, 
+Giants and peasants.  Large steps lead down through the grand temple gate, 
+descending the huge mound upon which the temple is built and ends on the 
+temple square below.
+~
+2 12 0
+D0
+At the northern end of the temple hall is a statue and a huge altar.
+~
+~
+0 -1 3054
+D1
+The donation room lies to the east.
+~
+~
+0 -1 3419
+D2
+You look down the huge stone steps at the temple square below.
+~
+~
+0 -1 3005
+D3
+The reading room
+~
+~
+0 -1 3413
+S
+#3002
+Clerics' Inner Sanctum~
+This is the inner sanctum.  A picture of the mighty Thor, is hanging on the
+wall, just above the altar which is set against the western wall.  There is 
+a ladder leading up at the corner.
+~
+2 12 0
+D0
+You see your favorite place, the bar of divination.
+~
+~
+0 -1 3003
+D4
+You see a comfortable resting room.
+~
+~
+0 -1 3442
+S
+#3003
+Clerics' Bar~
+The bar is one of the finest in the land, lucky it is members only.  Fine
+furniture is set all around the room.  A small sign is hanging on the wall.
+~
+2 12 0
+D1
+You see the entrance.
+~
+~
+0 -1 3004
+D2
+You see the inner sanctum.
+~
+~
+0 -1 3002
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialities, and tell the price of each.
+~
+S
+#3004
+Entrance to Clerics' Guild~
+The entrance hall is a small modest room, reflecting the true nature of the
+Clerics.  The exit leads north to the Guild Boulevard.  A small entrance to
+the bar is in the western wall.
+~
+2 8 0
+D0
+You see the Guild Boulevard.
+~
+~
+0 -1 3024
+D3
+You see the bar, richly decorated with really stylish furniture.
+~
+~
+0 -1 3003
+S
+#3005
+The Temple Square~
+You are standing on the Temple Square.  Huge marble steps lead up to the temple
+gate.  The Map Room lies to the west, and the old Grunting Boar Inn is to the
+east.  Just south of here, you see the Market Square, the center of Midgaard.
+~
+2 0 1
+D0
+You see the temple.
+~
+~
+0 -1 3001
+D1
+You see the good old Grunting Boar Inn.
+~
+~
+0 -1 3006
+D2
+You see the Market Square.
+~
+~
+0 -1 3014
+D3
+The Map Room lies to the west.
+~
+~
+0 -1 3420
+S
+#3006
+Entrance to the Grunting Boar Inn~
+You are standing in the entrance hall of the Grunting Boar Inn.  The hall
+has been wisely decorated with simple but functional furniture.  A small
+staircase leads up to the reception and the bar is to the east.
+~
+2 8 0
+D1
+Surprise! You see the bar.
+~
+~
+0 -1 3007
+D3
+You see the temple square.
+~
+~
+0 -1 3005
+D4
+You see the room reception.
+~
+~
+0 -1 3008
+S
+#3007
+The Grunting Boar~
+You are standing in the bar.  The bar is set against the northern wall, old
+archaic writing, carvings and symbols cover its top.  A fireplace is built into
+the western wall, and through the southeastern windows you can see the temple
+square.  This place makes you feel like home.  A small sign with big letters 
+is fastened to the bar.
+~
+2 8 0
+D3
+You see the exit to the entrance hall.
+~
+~
+0 -1 3006
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialities, and tell the price of each.
+~
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+S
+#3008
+The Reception~
+You are standing in the reception.  The staircase leads down to the entrance
+hall and up to the dressing room. There is a small sign on the counter.
+~
+2 8 0
+D0
+You see the Dressing Room.
+~
+~
+0 -1 3000
+D5
+You see the entrance hall.
+~
+~
+0 -1 3006
+E
+sign~
+Rooms are expensive but good!  You may:
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+#3009
+The Bakery~
+You are standing inside the small bakery.  A sweet scent of Danish and fine
+bread fills the room.  The bread and Danish are arranged in fine order on the
+shelves, and seem to be of the finest quality.  A small sign is on the counter.
+~
+2 136 0
+D2
+You see the Broadway.
+~
+~
+0 -1 3013
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc. etc.
+The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+~
+E
+sign~
+Free instructions provided by the store:
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+S
+#3010
+The General Store~
+You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.  A small note hangs on the wall.
+~
+2 8 0
+D2
+You see the Broadway.
+~
+~
+0 -1 3015
+E
+note~
+The note reads:
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3011
+The Weapon Shop~
+You are inside the weapon shop.  There is a small note on the counter.
+~
+2 8 0
+D2
+You see the Broadway.
+~
+~
+0 -1 3016
+E
+note~
+The note reads:
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3012
+West Broadway~
+You are at the end of the Broadway of Midgaard.  The street continues east
+towards the Market Square.  The magic shop is to the north and to the west is
+the city gate.  A shop for sale lies to the south.
+~
+2 0 1
+D0
+You see the magic shop.
+~
+~
+0 -1 3033
+D1
+You see the Broadway.
+~
+~
+0 -1 3013
+D2
+You see a shop for sale.
+~
+~
+0 -1 3034
+D3
+You see the city gate.
+~
+~
+0 -1 3040
+S
+#3013
+West Broadway~
+You are on the Broadway passing through the City of Midgaard.  South of here 
+is the entrance to the Armoury, and the bakery is to the north.  East of here
+is the Market Square.
+~
+2 0 1
+D0
+You see the bakery.
+~
+~
+0 -1 3009
+D1
+You see the market square.
+~
+~
+0 -1 3014
+D2
+You see the armoury.
+~
+~
+0 -1 3020
+D3
+You see the Broadway.
+~
+~
+0 -1 3012
+S
+#3014
+Market Square~
+You are standing on the Market Square, the famous square of Midgaard.  A large,
+peculiar looking statue is standing in the middle of the square.  Roads lead in
+every direction, north to the Temple Square, south to the Common Square, east
+and westbound to the Broadway.
+~
+2 0 1
+D0
+You see the temple square.
+~
+~
+0 -1 3005
+D1
+You see the Broadway.
+~
+~
+0 -1 3015
+D2
+You see the common square.
+~
+~
+0 -1 3025
+D3
+You see the Broadway
+~
+~
+0 -1 3013
+E
+statue~
+What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
+~
+S
+#3015
+East Broadway~
+You are on the Broadway crossing through town.  To the north is the general
+store, and the Broadway continues east.  To the west, you see and hear the
+market place.  To the south, a small door leads into the Pet Shop.
+~
+2 0 1
+D0
+You see the general store.
+~
+~
+0 -1 3010
+D1
+You see the Broadway.
+~
+~
+0 -1 3016
+D2
+You see the Pet Shop.
+~
+~
+0 -1 3031
+D3
+You see the market square.
+~
+~
+0 -1 3014
+S
+#3016
+East Broadway~
+You are on the Broadway.  To the north is the weapon shop and to the south is
+a shop for sale.  To the east, you leave town and to the west, the street
+leads to the Market Square.
+~
+2 0 1
+D0
+You see the weapon shop.
+~
+~
+0 -1 3011
+D1
+You see the city gate.
+~
+~
+0 -1 3041
+D2
+You see a shop for sale.
+~
+~
+0 -1 3035
+D3
+You see the Broadway leading to the market square.
+~
+~
+0 -1 3015
+S
+#3017
+Entrance to Mages' Guild~
+The entrance hall is a small, poor lighted room.
+~
+2 8 0
+D2
+You see the Guild Boulevard.
+~
+~
+0 -1 3024
+D3
+You see your favourite place, the Mages' Bar.
+~
+~
+0 -1 3018
+S
+#3018
+Mages' Bar~
+The bar is one of the wierdest in the land.  Mystical images float around
+the air.  Illusions of fine furniture appear all around the room.
+~
+2 12 0
+D0
+You see the laboratory.
+~
+~
+0 -1 3019
+D1
+You see the lobby.
+~
+~
+0 -1 3017
+S
+#3019
+Mages' Laboratory~
+This is the Magical Experiments Laboratory.  Dark smoke-stained stones arch
+over numerous huge oaken tables, most of these cluttered with strange-looking
+pipes and flasks.  The floor is covered with half-erased pentagrams and even
+weirder symbols, and a blackboard in a dark corner has only been partially
+cleaned, some painful-looking letters faintly visible.  There is a ladder at
+the corner leading up.
+~
+2 12 0
+D2
+You see the bar.
+~
+~
+0 -1 3018
+D4
+You see a comfortable resting room.
+~
+~
+0 -1 3443
+S
+#3020
+The Armoury~
+The armoury with all kinds of armours on the walls and in the window.  You
+see helmets, shields and chain mails.  To the north is the main street.  
+On the wall is a small note.
+~
+2 8 0
+D0
+You see the Broadway.
+~
+~
+0 -1 3013
+E
+note~
+You can use these commands for trading:
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+S
+#3021
+Entrance Hall to the Guild of Swordsmen~
+Thie is a place where one has to be careful not to say something wrong (or
+right).  To the east is the bar and to the south is the Guild Boulevard.
+~
+2 8 0
+D1
+You see the swordsmen's bar, many noises comes from there.
+~
+~
+0 -1 3022
+D2
+The boulevard lies to the south.
+~
+~
+0 -1 3044
+S
+#3022
+The Bar of Swordsmen~
+The bar of swordsmen, once upon a time beautifully furnished.  But now the
+furniture is all around you in small pieces.  To the south is the yard, and
+to the west is the entrance hall.
+~
+2 12 0
+D2
+You see the practise yard.
+~
+~
+0 -1 3023
+D3
+You see the entrance hall to the Swordsmen's Guild.
+~
+~
+0 -1 3021
+S
+#3023
+The Tournament and Practise Yard~
+The practise yard of the fighters.  To the north is the bar.  A ladder at the
+corner leads up.
+~
+2 12 0
+D0
+You see the bar.
+~
+~
+0 -1 3022
+D4
+You see a comfortable resting room.
+~
+~
+0 -1 3444
+S
+#3024
+Guild Boulevard~
+You are on the Guild Boulevard.  North of here is the entrance to the Guild
+for Magic Users.  The entrance to the Clerics' Guild lies to the south, and
+the Common Square lies to the east.  The boulevard continues west.
+~
+2 0 1
+D0
+You see the entrance to the Mages' Guild.
+~
+~
+0 -1 3017
+D1
+You see the common square.
+~
+~
+0 -1 3025
+D2
+You see the entrance to the Clerics' Guild.
+~
+~
+0 -1 3004
+D3
+The bouvelard continues to the west.
+~
+~
+0 -1 3044
+S
+#3025
+The Common Square~
+You are in the Common Square.  People pass you, talking to each other.  To the
+west is the Guild Boulevard and to the east is the Dark Alley.  To the north,
+this square is connected to the Market Square.  You notice a nasty smell to the
+south.
+~
+2 0 1
+D0
+You see the market square.
+~
+~
+0 -1 3014
+D1
+You see the dark alley.
+~
+~
+0 -1 3026
+D2
+You see the city dump.
+~
+~
+0 -1 3030
+D3
+You see the Guild Boulevard.
+~
+~
+0 -1 3024
+S
+#3026
+The Dark Alley~
+You are on the dark alley.  To the west is the Common Square and to the south
+is the Grubby Inn.  The alley continues east.
+~
+2 0 1
+D1
+The alley continues east.
+~
+~
+0 -1 3045
+D2
+You see the Grubby Inn.
+~
+~
+0 -1 3048
+D3
+You see the common square.
+~
+~
+0 -1 3025
+S
+#3027
+Entrance Hall to the Guild of Thieves~
+This is a place where you can lose both your life and your money, if you are 
+not careful.  To the north is the Guild Boulevard and to the east is the 
+thieves' bar.
+~
+2 8 0
+D0
+You see the Guild Boulevard.
+~
+~
+0 -1 3044
+D1
+You see the thieves bar, where everything disappears.
+~
+~
+0 -1 3028
+S
+#3028
+The Thieves' Bar~
+The bar of the thieves.  Once upon a time this place was beautifully furnished,
+but now it seems almost empty.  To the south is the yard, and to the west is 
+the entrance hall.  (Maybe the furniture has been stolen?!)
+~
+2 12 0
+D2
+You see the secret yard.
+~
+~
+0 -1 3029
+D3
+You see the entrance hall to the Thieves' Guild.
+~
+~
+0 -1 3027
+E
+furniture~
+As you look at the furniture, the chair you sit on disappears.
+~
+S
+#3029
+The Secret Yard~
+The secret practise yard of thieves and assassins.  To the north is the bar
+A ladder leads up to the resting room.
+~
+2 12 0
+D0
+You see the bar.
+~
+~
+0 -1 3028
+D4
+A comfortable resting room is up here.
+~
+~
+0 -1 3441
+S
+#3030
+The Dump~
+The dump, where the people from the city drop their garbage.  Through the
+garbage you can see a large junction of pipes, looks like the entrance to the
+sewer system.  South of here you see the river and to the north is the common
+square.
+~
+2 4 2
+D0
+You see the common square.
+~
+~
+0 -1 3025
+D2
+You see the river slowly flowing west, but notice that it would be impossible
+to reach the river due to all the garbage and a steep river bank.
+~
+~
+0 -1 -1
+D5
+You see the sewers.
+~
+~
+0 -1 7030
+S
+#3031
+The Pet Shop~
+The Pet Shop is a small crowded store, full of cages and animals of various
+sizes.  There is a sign on the wall.
+~
+2 8 0
+D0
+You see the Broadway.
+~
+~
+0 -1 3015
+E
+sign~
+The sign reads:
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+  Instructions for having pets:
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+  You can name the pet you buy as : "buy <pet> <name>"
+ Regards,
+ The Shopkeeper
+~
+S
+#3032
+Pet Shop Store~
+This is the small dark room in which the Pet shop keeps his pets.  It is vital
+that this room's virtual number is exactly one larger than the Pet Shop number.
+~
+2 8 0
+S
+#3033
+The Magic Shop~
+Behind the counter you see various items, neatly placed in racks, presumably
+most of them are magic.
+~
+2 8 0
+D2
+You see the Broadway.
+~
+~
+0 -1 3012
+S
+#3034
+A Shop for Sale~
+Look for new shop here.
+~
+2 8 0
+D0
+You see the Broadway.
+~
+~
+0 -1 3012
+S
+#3035
+A Shop for Sale~
+Look for new shop here.
+~
+2 12 0
+D0
+You see the Broadway.
+~
+~
+0 -1 3016
+S
+#3040
+Inside the West Gate of Midgaard~
+You are by two small towers that have been built into the city wall and 
+connected with a footbridge across the heavy wooden gate.  West Broadway leads
+east and Wall Road leads south from here.
+~
+2 0 1
+D0
+Wall road continues north.
+~
+~
+0 -1 3406
+D1
+You see the Broadway.
+~
+~
+0 -1 3012
+D2
+You see the road running along the inner side of the city wall.  You notice
+that it is called Wall Road.
+~
+~
+0 -1 3042
+D3
+The city gate is to the west.
+~
+gate~
+1 3133 3052
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3041
+Inside the East Gate of Midgaard~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  East Broadway leads
+west from here.
+~
+2 0 1
+D1
+You see the city gate.
+~
+gate~
+0 3133 3053
+D3
+You see Broadway.
+~
+~
+0 -1 3016
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3042
+Wall Road~
+You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.
+~
+2 0 1
+D0
+You see the city gate.
+~
+~
+0 -1 3040
+D2
+The road continues further south.
+~
+~
+0 -1 3043
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3043
+Wall Road~
+You are walking next to the western city wall.  Wall Road continues further
+north and south.  The Guild Boulevard lies to the east.  Some letters have been
+written on the wall here.
+~
+2 0 1
+D0
+The road continues further north.
+~
+~
+0 -1 3042
+D1
+The Guild Boulevard lies to the east.
+~
+~
+0 -1 3044
+D2
+The road continues further south.
+~
+~
+0 -1 3047
+E
+letters~
+It says 'Who watches the watchmen?'
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3044
+Guild Boulevard~
+You are on the Guild Boulevard.  North of here is the entrance to the 
+Swordsmen's Guild and the entrance to the Thieves' Guild lies to the south.  
+The boulevard continues to the east.
+~
+2 0 1
+D0
+You see the entrance to the Swordsmen's Guild.
+~
+~
+0 -1 3021
+D1
+The boulevard continues.
+~
+~
+0 -1 3024
+D2
+You see the entrance to the Thieves' Guild.
+~
+~
+0 -1 3027
+D3
+You see the Wall Road.
+~
+~
+0 -1 3043
+S
+#3045
+Alley at Levee~
+You are standing in the alley which continues east and west.  South of here you
+see the levee.
+~
+2 0 1
+D1
+The alley leads east.
+~
+~
+0 -1 3046
+D2
+You see the levee.
+~
+~
+0 -1 3049
+D3
+The alley leads west.
+~
+~
+0 -1 3026
+S
+#3046
+Eastern End of Alley~
+You are standing at the eastern end of the alley, the city wall is just east,
+blocking any further movement.  A small warehouse is directly south of here.
+~
+2 0 1
+D2
+You see the warehouse.
+~
+~
+0 -1 3050
+D3
+You see the alley.
+~
+~
+0 -1 3045
+S
+#3047
+Wall Road~
+You are standing on the road next to the western city wall, which continues
+north.  South of here is a bridge across the river.
+~
+2 0 1
+D0
+You see the road.
+~
+~
+0 -1 3043
+D2
+You see the bridge.
+~
+~
+0 -1 3051
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3048
+Grubby Inn~
+You are inside the old Grubby Inn.  This place has not been cleaned for several
+decades, vile smells make you dizzy.
+~
+2 8 0
+D0
+You see an alley.
+~
+~
+0 -1 3026
+S
+#3049
+Levee~
+You are at the levee.  South of here you see the river gently flowing west.
+The river bank is very low making it possible to enter the river.
+~
+2 0 1
+D0
+You see the Alley.
+~
+~
+0 -1 3045
+D2
+You see the river flowing west.
+~
+~
+0 -1 3203
+S
+#3050
+Warehouse~
+You are inside the warehouse.  The room is decorated with various old items 
+from ships.
+~
+2 8 0
+D0
+You see the Alley.
+~
+~
+0 -1 3046
+S
+#3051
+On the Bridge~
+You are standing on the stone bridge crosses the river.  The bridge is built
+out from the western city wall and the river flows west through an opening
+in the wall ten feet below the bridge.
+~
+2 0 1
+D0
+You see the road.
+~
+~
+0 -1 3047
+D2
+You see the Concourse.
+~
+~
+0 -1 3100
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3052
+Outside the West Gate of Midgaard~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest. The road from the city forks north and
+south and a path leads into the forest.
+~
+2 4 1
+D0
+~
+~
+0 -1 3600
+D1
+The city gate is to the east.
+~
+gate~
+0 3133 3040
+D2
+~
+~
+0 -1 3700
+D3
+The forest edge is to the west.
+~
+~
+0 -1 6000
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3053
+Outside the East Gate of Midgaard~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the east the
+plains stretch out in the distance.
+~
+2 4 1
+D1
+You see the plains.
+~
+~
+0 -1 3503
+D3
+You see the city gate.
+~
+gate~
+0 3133 3041
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3054
+By the Temple Altar~
+You are by the temple altar in the northern end of the Temple of Midgaard.
+A huge altar made from white polished marble is standing in front of you and
+behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
+~
+2 8 0
+D0
+To the north you see a private confessional booth with curtains across it.
+~
+~
+0 -1 3434
+D2
+You see the southern end of the temple.
+~
+~
+0 -1 3001
+E
+altar~
+Even though the altar is more than ten feet long it appears to be made from a
+single block of white virgin marble.
+~
+E
+statue odin king god~
+The statue represents the one-eyed Odin sitting on a his throne.  He has
+long, grey hair and beard and a strict look on his face.  On top of the
+throne, just above his shoulders, his two ravens Hugin and Munin are sitting
+and at his feet are his wolves Gere and Freke.
+~
+S
+#3055
+Odin's Store~
+This is the small dark room in which Odin keeps the player items that he
+takes care of.  It is vital that this room's virtual number is exactly one
+larger than the room by the temple altar.
+~
+2 8 0
+S
+#3100
+Northwest End of Concourse~
+You are at the concourse, the city wall is just west.  A small promenade
+goes east, and the bridge is just north of here.  The concourse continues
+south along the city wall.
+~
+2 0 1
+D0
+You see the Bridge.
+~
+~
+0 -1 3051
+D1
+You see the promenade.
+~
+~
+0 -1 3101
+D2
+The promenade continues far south.
+~
+~
+0 -1 3127
+S
+#3101
+Promenade~
+The river gently flows west just north of here.  The promenade continues
+further east and to the west you see the city wall.  Park Road leads south
+from here.
+~
+2 0 1
+D1
+The promenade.
+~
+~
+0 -1 3102
+D2
+Park Road leads south.
+~
+~
+0 -1 3131
+D3
+You see the Concourse.
+~
+~
+0 -1 3100
+S
+#3102
+Promenade~
+The river gently flows west just north of here.  The promenade continues both
+east and west.  South of here you see the entrance to the park, and a small
+building seems to be just east of the entrance.
+~
+2 0 1
+D1
+You see the promenade.
+~
+~
+0 -1 3103
+D2
+You see the park entrance.
+~
+~
+0 -1 3105
+D3
+You see the promenade.
+~
+~
+0 -1 3101
+S
+#3103
+Promenade~
+The river gently flows west just north of here.  The promenade continues both
+east and west.  A small path leads south.  Looking across the river you see
+the levee.
+~
+2 0 1
+D1
+You see the Concourse.
+~
+~
+0 -1 3104
+D2
+The small path leads south.
+~
+~
+0 -1 3132
+D3
+You see the promenade.
+~
+~
+0 -1 3102
+S
+#3104
+Northeast End of Concourse~
+You are at the Concourse.  The city wall is just east and a small promenade 
+goes west.  Looking across the river you see a building that resembles a 
+warehouse.  The Concourse continues south along the city wall.
+~
+2 0 1
+D2
+The Concourse continues south.
+~
+~
+0 -1 3130
+D3
+You see the promenade.
+~
+~
+0 -1 3103
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3105
+Park Entrance~
+You are standing just inside the small park of Midgaard.  To the north is the
+promenade and a small path leads south into the park.  To your east is the 
+famous Park Cafe.
+~
+2 4 1
+D0
+You see the promenade.
+~
+~
+0 -1 3102
+D1
+You see Park Cafe.
+~
+~
+0 -1 3106
+D2
+You see the park.
+~
+~
+0 -1 3108
+S
+#3106
+Park Cafe~
+You are inside Park Cafe, a very well lighted, cosy place. The cafe is built
+from large logs. Through the windows in the northern wall you see the river,
+and through the southern window you see many vigorous colourful plants.
+~
+2 8 0
+D3
+You see the park entrance.
+~
+~
+0 -1 3105
+S
+#3107
+Small Path through the Park~
+You are walking along a small path through the park.  The path continues south 
+and east.
+~
+2 0 1
+D1
+~
+~
+0 -1 3108
+D2
+~
+~
+0 -1 3113
+S
+#3108
+Small Path in the Park~
+You are standing on a small path inside the park.  The park entrance is just 
+north of here, and Park Cafe is just east of the entrance.  The path leads 
+further east and west.
+~
+2 0 1
+D0
+You see the northern park entrance.
+~
+~
+0 -1 3105
+D1
+~
+~
+0 -1 3109
+D3
+~
+~
+0 -1 3107
+S
+#3109
+Small Path in the Park~
+You are on a small path running through the park.  It continues west and south 
+and just north of here you see the southern wall of Park Cafe.
+~
+2 0 1
+D2
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3108
+S
+#3110
+Cityguard Head Quarters~
+You are inside a tidy office.
+~
+2 8 0
+D1
+You see the park road.
+~
+door~
+0 3120 3111
+S
+#3111
+Park Road~
+The road continues north and south.  A building is just west of here, you
+notice a sign on the door.  The park entrance is to the east.
+~
+2 0 1
+D0
+~
+~
+0 -1 3131
+D1
+You see the park entrance.
+~
+~
+0 -1 3112
+D2
+~
+~
+0 -1 3118
+D3
+You see the cityguard head quarters.
+~
+door~
+0 3120 3110
+E
+building door sign~
+The sign on the door says:-
+                 Cityguard Head Quarters
+           WARNING: Authorized Personnel Only!
+~
+S
+#3112
+Western Park Entrance~
+You are standing at the western end of the park.  A small path leads east
+into the park and going west through the entrance you will reach Park Road.
+~
+2 4 1
+D1
+~
+~
+0 -1 3113
+D3
+~
+~
+0 -1 3111
+S
+#3113
+A Path in the Park~
+You are in the park.  The paths lead north and west.  Westwards is the park
+entrance and to the east you see a small pond.
+~
+2 0 1
+D0
+~
+~
+0 -1 3107
+D1
+You see the pond.
+~
+~
+0 -1 3114
+D3
+You see the western park entrance.
+~
+~
+0 -1 3112
+S
+#3114
+The Pond~
+You are swimming around in the pond, feeling rather stupid.  You can get back
+on the path from the eastern and western end of the pond.
+~
+2 0 6
+D1
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3113
+S
+#3115
+A Path in the Park~
+You are in the park.  The paths lead north and east.  Eastwards is the park
+entrance and to the west you see a small pond.
+~
+2 0 1
+D0
+~
+~
+0 -1 3109
+D1
+~
+~
+0 -1 3116
+D3
+~
+~
+0 -1 3114
+S
+#3116
+Eastern Park Entrance~
+You are standing at the eastern end of the park.  A small path leads west into
+the park.  Going east through the entrance you will reach Emerald Avenue.
+~
+2 4 1
+D1
+~
+~
+0 -1 3117
+D3
+~
+~
+0 -1 3115
+S
+#3117
+Emerald Avenue~
+You are standing on the north end of Emerald Avenue.  To the north is the
+promenade and to the west is the park entrance.  To the east is the not very
+big Town Hall of Midgaard.
+~
+2 0 1
+D0
+~
+~
+0 -1 3132
+D1
+~
+~
+0 -1 3137
+D2
+~
+~
+0 -1 3119
+D3
+~
+~
+0 -1 3116
+S
+#3118
+Park Road~
+You are on Park Road which leads north and south.  A cottage is just east of 
+here.
+~
+2 0 1
+D0
+~
+~
+0 -1 3111
+D1
+You see a small cottage with an oaken door.  A name plate has been set on it.
+~
+door~
+0 3300 -1
+D2
+~
+~
+0 -1 3135
+E
+plate name~
+The name 'Papi Llon' has been carved into the name plate.
+~
+S
+#3119
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  The road leads north and west.
+~
+2 0 1
+D0
+~
+~
+0 -1 3117
+D3
+~
+~
+0 -1 3133
+S
+#3120
+Road Crossing~
+You are in the middle of the road cross.  Roads lead in all directions.  A
+huge black iron chain as thick as a tree trunk is fastened into the ground at
+the centre of the road cross.  Its other end leads directly upwards towards the
+sky.  A road sign is here.
+~
+2 0 1
+D0
+~
+~
+0 -1 3133
+D1
+~
+~
+0 -1 3136
+D2
+~
+~
+0 -1 3134
+D3
+~
+~
+0 -1 3135
+D4
+The chain disappears in the clouds.
+~
+~
+0 -1 7914
+E
+sign~
+The sign points in all directions:
+   North - Emerald Avenue.
+   East  - Park Road.
+   South - Emerald Avenue.
+   West  - Park Road.
+Someone has added the following with red paint:
+   Up    - Redferne's Flying Citadel.
+~
+E
+chain~
+The the chain reaches the clouds high above you.  It must take some really
+powerful magic to hold such a chain in place.
+~
+S
+#3121
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  The road leads south and east.
+~
+2 0 1
+D1
+~
+~
+0 -1 3134
+D2
+~
+~
+0 -1 3125
+S
+#3122
+Park Road~
+You are on Park Road which leads south and north.  Elm Street is east of here.
+~
+2 0 1
+D0
+~
+~
+0 -1 3136
+D1
+~
+~
+0 -1 3123
+D2
+~
+~
+0 -1 3126
+S
+#3123
+Elm Street~
+You are on Elm Street.  Park Road is to the west and Elm Street continues
+in an easterly direction.
+~
+2 0 1
+D1
+~
+~
+0 -1 3124
+D3
+~
+~
+0 -1 3122
+S
+#3124
+End of Elm Street~
+You are at the end of Elm Street.  An old elm tree grows here.
+~
+2 0 1
+D3
+~
+~
+0 -1 3123
+E
+elm tree~
+The fresh young leaves of the elm tree wave gently in the wind.
+~
+S
+#3125
+Emerald Avenue~
+You are on Emerald Avenue which continues north.  The Concourse is south of 
+here.
+~
+2 0 1
+D0
+~
+~
+0 -1 3121
+D2
+~
+~
+0 -1 3128
+S
+#3126
+Park Road~
+You are on Park Road which continues north.  The Concourse is south of here.
+An old two-storey house is to the east.
+~
+2 0 1
+D0
+~
+~
+0 -1 3122
+D1
+A heavy oaken door is to the east.
+~
+door~
+0 3301 6904
+D2
+~
+~
+0 -1 3129
+E
+house~
+The house is obviously very old and needs painting.  The heavy oaken door is
+equipped with a brass door knocker shaped as a goblin's head.  No name plate
+is to be seen anywhere.
+~
+E
+door knocker~
+As you look at it, the goblin door knocker comes alive!
+The head splutters 'Tiz iz da houze uff Kwiff... Kuiffe... Qwiff... Erhm...'
+The head splutters 'Quiff... Quiffil...  Ne'er mind!  Quiffy livez ere!'
+It opens its mouth wide and gobbles 'Unlokk me!'
+~
+S
+#3127
+On the Concourse~
+You are at the southwest corner of the city wall.  The Concourse leads both
+north and east.
+~
+2 0 1
+D0
+~
+~
+0 -1 3100
+D1
+~
+~
+0 -1 3128
+S
+#3128
+On the Concourse~
+The Concourse continues both east and west.  Emerald Avenue is north of here.
+~
+2 0 1
+D0
+~
+~
+0 -1 3125
+D1
+~
+~
+0 -1 3129
+D3
+~
+~
+0 -1 3127
+S
+#3129
+On the Concourse~
+The Concourse continues both east and west.  Park Road is north of here and
+an iron grate leads south to the graveyard.
+~
+2 0 1
+D0
+~
+~
+0 -1 3126
+D1
+~
+~
+0 -1 3130
+D2
+Through the solid iron bars you see the graveyard.
+~
+grate~
+0 3121 3400
+D3
+~
+~
+0 -1 3128
+S
+#3130
+On the Concourse~
+You are at the southeast corner of the city wall.  The Concourse leads both
+north and west.
+~
+2 0 1
+D0
+~
+~
+0 -1 3104
+D3
+~
+~
+0 -1 3129
+S
+#3131
+Park Road~
+You are at Park Road which continues north and south.
+~
+2 0 1
+D0
+~
+~
+0 -1 3101
+D2
+~
+~
+0 -1 3111
+S
+#3132
+Emerald Avenue~
+You are at Emerald Avenue which continues north and south.  Penny Lane leads
+east from here.
+~
+2 0 1
+D0
+~
+~
+0 -1 3103
+D1
+~
+~
+0 -1 3139
+D2
+~
+~
+0 -1 3117
+S
+#3133
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  To the east the road goes on 
+and to the south is the Road Crossing.
+~
+2 0 1
+D1
+~
+~
+0 -1 3119
+D2
+~
+~
+0 -1 3120
+S
+#3134
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  To the west the road goes on
+and to the north is the Road Crossing.
+~
+2 0 1
+D0
+~
+~
+0 -1 3120
+D3
+~
+~
+0 -1 3121
+S
+#3135
+Park Road~
+You are at a bend on Park Road.  To the north the road goes on and to the east
+is the Road Crossing.
+~
+2 0 1
+D0
+~
+~
+0 -1 3118
+D1
+~
+~
+0 -1 3120
+S
+#3136
+Park Road~
+You are at a bend on Park Road.  To the south the road goes on and to the west
+is the Road Crossing.
+~
+2 0 1
+D2
+~
+~
+0 -1 3122
+D3
+~
+~
+0 -1 3120
+S
+#3137
+The Waiting Room~
+You are standing in the waiting room at the town hall.  Wooden chairs stand
+along the walls and a long desk with a typewriter is placed in the middle of
+the room.
+~
+2 8 0
+D1
+It looks like some kind of office.
+~
+~
+0 -1 3138
+D3
+The exit west leads to Emerald Avenue.
+~
+~
+0 -1 3117
+E
+chairs~
+Not the very least comfortable.
+~
+E
+desk~
+An extremely heavy desk.  It is so large that it doesn't even need drawers.
+Everything can be stored on its top.
+~
+E
+typewriter~
+It is an ancient Quifatronic T-1000 mk I.  These machines are known for their
+incredible durability, and for their even more incredible weight.  They make
+a Cray II look like a laptop.
+~
+S
+#3138
+The Mayor's Office~
+You are in the not very big office of the Mayor of Midgaard.  A large and
+polished but completely empty desk is standing in front of an armchair that
+looks so comfortable that it most of all resembles a bed with the head end
+raised slightly.
+~
+2 8 0
+D3
+The waiting room is to the west.
+~
+~
+0 -1 3137
+E
+desk~
+This desk is obviously very old.  Nevertheless it looks as if has never been
+used.
+~
+E
+chair armchair~
+This chair is really a masterpiece.  A chair where one can sit as comfortably
+as in a bed.  All auditoriums should be equipped with these things.  A shame
+that there wouldn't be room for the students too, though.
+~
+S
+#3139
+Penny Lane~
+You are on Penny Lane.  Emerald Avenue is to the west and Penny Lane continues
+in eastward direction.
+~
+2 0 1
+D1
+~
+~
+0 -1 3140
+D3
+~
+~
+0 -1 3132
+S
+#3140
+Penny Lane~
+You are on Penny Lane.  The narrow road continues north and west.
+~
+2 0 1
+D0
+~
+~
+0 -1 3141
+D3
+~
+~
+0 -1 3139
+S
+#3141
+End of Penny Lane~
+You are at the end of Penny Lane.  The only exit appears to be south.
+~
+2 0 1
+D2
+~
+~
+0 -1 3140
+S
+#3200
+Under the Bridge~
+The arch under the bridge is covered by seaweed for one foot above the surface 
+of the river.  The water gently flows through an opening in the lower part of 
+the city wall.
+~
+2 0 7
+D1
+~
+~
+0 -1 3201
+D3
+The river flows west under the bridge.
+~
+~
+0 -1 3421
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3201
+On the River~
+North of here you see the miserable buildings of the poor alley.  The river
+flows west towards the bridge.  The riverbanks are too steep to climb.
+~
+2 0 7
+D1
+~
+~
+0 -1 3202
+D3
+~
+~
+0 -1 3200
+S
+#3202
+On the River~
+North of here you see the dump.  The river flows from east to west.  The
+riverbanks are too steep to climb.
+~
+2 0 7
+D1
+~
+~
+0 -1 3203
+D3
+~
+~
+0 -1 3201
+S
+#3203
+On the River~
+The levee is directly north of here.  The river flows in an east west
+direction.
+~
+2 0 7
+D0
+~
+~
+0 -1 3049
+D1
+~
+~
+0 -1 3204
+D3
+~
+~
+0 -1 3202
+S
+#3204
+On the River~
+You see the warehouse on the northern riverbank.  East of here you see the
+city wall.  The river flows west towards the levee.
+~
+2 0 7
+D1
+~
+~
+0 -1 3205
+D3
+~
+~
+0 -1 3203
+S
+#3205
+On the River~
+The river enters from a hole in the eastern city wall.  The hole has been
+blocked by several vertically positioned iron bars set into the wall. A
+couple of the bars have been bent apart allowing just enough room to pass
+through.  past the bars you see a large cave.
+~
+2 0 7
+D1
+a large cave.
+~
+~
+0 -1 14501
+D3
+~
+~
+0 -1 3204
+S
+#3400
+A Gravel Road on the Graveyard~
+You are on a well-kept gravel road that leads north-south through the 
+graveyard.  On both sides of the road grow dark evergreen trees.  An iron
+grate is to the north.
+~
+2 0 1
+D0
+Through the solid iron bars you see the Concourse.
+~
+grate~
+0 3121 3129
+D2
+The gravel road continues southwards.
+~
+~
+0 -1 3401
+D3
+A large open grave lies to the west.
+~
+~
+0 -1 3427
+S
+#3401
+A Gravel Road on the Graveyard~
+You are on a well-kept gravel road that leads north-south through the
+graveyard.  On both sides of the road grow dark evergreen trees.
+~
+2 0 1
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3400
+D2
+The gravel road continues southwards.
+~
+~
+0 -1 3402
+S
+#3402
+A Gravel Road on the Graveyard~
+You are on a well-kept gravel road that leads north-south through the
+graveyard.  On both sides of the road grow dark evergreen trees.
+~
+2 0 1
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3401
+D2
+The gravel road continues southwards.
+~
+~
+0 -1 3403
+S
+#3403
+A Gravel Road on the Graveyard~
+You are on a well-kept gravel road that leads north-south through the
+graveyard.  On both sides of the road grow dark evergreen trees.
+~
+2 0 1
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3402
+D2
+The gravel road continues southwards to an open space before a small building.
+~
+~
+0 -1 3404
+S
+#3404
+In Front of the Chapel~
+You are on an open space before a small chapel.  A gravel road leads north
+through the graveyard and the chapel entrance is to the south.
+~
+2 0 1
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3403
+D2
+The chapel door is made of dark wood.
+~
+door~
+0 -1 3405
+S
+#3405
+Inside the Chapel~
+You are in a small, dark chapel.  The dark brown glass in the tiny windows
+do not let much light through.  A few rows of worn wooden benches stand here.
+~
+2 0 1
+D0
+The chapel door is made of dark wood.
+~
+door~
+0 -1 3404
+E
+glass windows~
+The windows must be meant to be dark.  At least they are completely clean.
+~
+E
+benches rows~
+The benches are not of the comfortable kind.
+~
+S
+#3406
+Wall Road~
+You are walking next to the western city wall.  The road continues further
+North.  The city gate is south of here.
+~
+2 0 1
+D0
+Wall Road.
+~
+~
+0 -1 3407
+D2
+To the south is Broadway.
+~
+~
+0 -1 3040
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#3407
+Wall Road~
+You are walking next to the western city wall.  The road continues further
+North.
+~
+2 0 1
+D0
+Towards the gate.
+~
+~
+0 -1 3408
+D2
+Wall Road.
+~
+~
+0 -1 3406
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3408
+Corner Gate to Midgaard~
+You have reached the old Corner Gate of Midgaard.  Beyond the gate you see
+a forest.
+~
+2 0 1
+D0
+You see the light forest.
+~
+gate~
+1 -1 3409
+D2
+Wall road
+~
+~
+0 -1 3407
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#3409
+Light Forest~
+You are in a forested area just outside the Corner Gate of Midgaard.
+~
+2 0 3
+D0
+The forest continues.
+~
+~
+0 -1 3410
+D2
+You see the corner gate.
+~
+gate~
+1 -1 3408
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3410
+Forest~
+The forest continues north and west from here.
+~
+2 0 3
+D0
+More forest...
+~
+~
+0 -1 14369
+D2
+More forest...
+~
+~
+0 -1 3409
+D3
+The forest.
+~
+~
+0 -1 3412
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#3411
+The Kid's Observatory~
+On the walls of this chamber you see an old saddle, an empty gun belt and
+holster.  In a locked case you see two old six shooters.  In the middle of
+the room you see a huge table that appears to be a small scale model of the
+entire mud.  Miniature figures represent each character and mobile.  Every 
+hill, tree, building and cave is represented in perfect detail.  As you
+notice someone walking around the table wearing an old cowboy hat and a worn
+pair of boots you realize he is planning his next move in what canonly be a
+huge game of some kind.
+~
+2 524 1
+S
+#3412
+Forest~
+To the east is a junction in the forest. Off to the west the forest seems
+to change in nature.
+~
+2 0 3
+D1
+The forest.
+~
+~
+0 -1 3410
+D3
+The forest.
+~
+~
+0 -1 8351
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3413
+Reading Room~
+This room has several comfy looking chairs in to sit and relax while you
+read over the news of the day posted on a large bulletin board located on
+the far wall.  You are encouraged to be quiet in this room so others aren't
+disturbed as they read.
+~
+2 12 0
+D1
+The temple.
+~
+~
+0 -1 3001
+D3
+The Chat Room is west.
+~
+~
+0 -1 3433
+S
+#3414
+The North Trade Route~
+A wide, paved road leads out of Midgaard and into the wilderness. Countless
+merchants have used this road to move their goods from city to city in the
+hope of trading and prospering.
+~
+2 8 0
+D0
+The trade route continues north.
+~
+~
+0 -1 3415
+D2
+Through the iron bars of the gate you see the exercise yard of the Temple.
+~
+~
+0 -1 3439
+S
+#3415
+The North Trade Route~
+A wide, paved road leads out of Midgaard and into the wilderness. Countless
+merchants have used this road to move their goods from city to city in the
+hope of trading and prospering.
+~
+2 8 0
+D0
+The trade route continues north.
+~
+~
+0 -1 3416
+D2
+The trade route continues south.
+~
+~
+0 -1 3414
+S
+#3416
+The North Trade Route~
+A wide, paved road leads out of Midgaard and into the wilderness. Countless
+merchants have used this road to move their goods from city to city in the
+hope of trading and prospering.
+~
+2 8 0
+D0
+The trade route continues north.
+~
+~
+0 -1 3417
+D2
+The trade route continues south.
+~
+~
+0 -1 3415
+S
+#3417
+Near the Crossroads~
+The road crosses over another well-used highway ahead, which runs east and
+west. Several wagon wheel tracks and horseshoe prints are impressed into
+the dirt.
+~
+2 8 0
+D0
+The crossroads lie ahead.
+~
+~
+0 -1 3418
+D2
+The trade route comntinues south.
+~
+~
+0 -1 3416
+S
+#3418
+At the Crossroads~
+The roads continue of in all directions, spanning out to the horizons.
+~
+2 12 0
+D2
+The trade route continues south.
+~
+~
+0 -1 3417
+D3
+The road continues continues on through a lightly wooded area, smoke rises
+in the distance.
+~
+~
+0 -1 8055
+S
+#3419
+The Midgaard Donation Room~
+As you enter this room, you feel compelled to drop all items that you no longer
+want or cannot use, so that those less fortunate can take advantage of them.
+~
+2 8204 0
+D3
+The main temple lies to the west.
+~
+~
+0 -1 3001
+D4
+You see the Dressing Room.
+~
+~
+0 -1 3000
+S
+#3420
+The Map Room~
+Upon entering the room, you see a lot of hiking tools, mapping equipment like
+hiking boots, hook, compass, divides, protractors and maps.  Some infamous
+pirates have left their maps here.  Wait, treasure maps?!  Hmmm, hope no one 
+found the treasures yet!
+~
+2 8972 1
+D1
+You see the Temple Square.
+~
+~
+0 -1 3005
+S
+#3421
+Where the River Grows Wider~
+The river grows wider here, as the current picks up pace. Several small fish
+dart about just below the surface of the water. Legends have told of the great
+adventure that lies out west past the walls of Midgaard.
+~
+2 0 7
+D1
+The river flows on.
+~
+~
+0 -1 3200
+D3
+The river flows on to the west.
+~
+~
+0 -1 3422
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3422
+At the Tributary~
+The main river continues to flow on to the west, while a smaller tributary 
+branches off. You cannot tell exactly where either river will take you from
+here.
+~
+2 0 7
+D1
+The river flows on to the east.
+~
+~
+0 -1 3421
+D2
+A tributary branches off to the south.
+~
+~
+0 -1 3423
+D3
+The river flows on to the west.
+~
+~
+0 -1 3426
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3423
+On the Tributary~
+You now travel down a smaller tributary of the great river that runs along
+the south walls of Midgaard. Vast plains lead off to the west, while a more
+lush area, covered with vegetation lies to the south.
+~
+2 0 7
+D0
+The main river flows to the north.
+~
+~
+0 -1 3422
+D2
+The tributary flows on.
+~
+~
+0 -1 3424
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3424
+On the Tributary~
+The current of the tributary begins to pick up pace here, and you have the 
+feeling that it may lead into another large river. The lands around you have
+become more lush and green.
+~
+2 0 7
+D0
+The tributary flows on.
+~
+~
+0 -1 3423
+D2
+The tributary flows on.
+~
+~
+0 -1 3425
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3425
+Near a Large River~
+The tributary joins with a large river here, and you now find yourself 
+surrounded by a lush jungle. The air is humid, and small bug buzz around your
+ears. The large river leads off into the jungle ahead.
+~
+2 0 7
+D0
+The tributary flows on.
+~
+~
+0 -1 3424
+D2
+A large river flows out to the south.
+~
+~
+0 -1 16300
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3426
+On the Great River~
+The great river surges and leaps upons the rocky banks here. The current pulls
+you along away from Midgaard, and out west to the lands that lie beyond.
+~
+2 0 7
+D1
+The river flows on to the east.
+~
+~
+0 -1 3422
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3427
+Near a Large Open Grave~
+An oversized grave has been dug up here. Several sets of foot prints abruptly
+end at it's edges. As you look down into the grave, you think you can see a
+thin, rickety ladder. Hmmm...I wonder what's down there...
+~
+2 0 1
+D1
+A main road runs through the graveyard.
+~
+~
+0 -1 3400
+D5
+A thin, rickety ladder leads down into the darkness.
+~
+~
+0 -1 16601
+S
+#3433
+Chat Room~
+This room contains various lazy-boys along the walls along with some tables 
+in the middle of the room.  There is enough room for everyone to sit and enjoy
+a friendly conversation with fellow mudders.
+~
+2 12 0
+D1
+The Reading Room is east.
+~
+~
+0 -1 3413
+S
+#3434
+Confessional~
+This small wood panelled room has one bench in it and is just big enough to
+turn around in. The curtains across the entrance are enough to muffle all but
+the loudest noises. A small barred window in the east wall connects this
+confessional to the one the high priest would use to listen to you.
+~
+2 8 0
+D2
+To the south you see the alter of Odin and a high priest.
+~
+~
+0 -1 3054
+D5
+A small chamber can be seen below the confessional.
+~
+trap door~
+1 -1 3435
+S
+#3435
+Trap Door under Confessional~
+This small chamber is damp and smells of mold and death. The area looks as
+though it has not been used for ages.
+~
+2 8 0
+D0
+Through the darkness you can see the passageway continues north.
+~
+~
+0 -1 3436
+D4
+The underside of the trap door is just visible.
+~
+trap door trapdoor~
+1 -1 3434
+S
+#3436
+Damp Tunnel~
+This tight damp tunnel goes south to a small room or continues to the north.
+~
+2 9 0
+D0
+To the north you can see the tunnel continues on.
+~
+~
+0 -1 3437
+D2
+Through the darkness you can see a small room.
+~
+~
+0 -1 3435
+S
+#3437
+Dripping Tunnel~
+There is water dripping from the ceiling and walls of this room. The water
+has collected in little puddles on the floor. Rats scurry at your feet
+~
+2 9 0
+D0
+To the north you can just make out the walls of a small room.
+~
+~
+0 -1 3438
+D2
+To the south you can see the tunnel continues into the darkness
+~
+~
+0 -1 3436
+S
+#3438
+Tunnel Exit~
+There is water dripping from the ceiling and walls of this room. At your
+feet rats scurry about avoiding the puddles that have formed. You see the
+outline of a door above your head, and a ladder hanging down.
+~
+2 8 0
+D2
+To the south you see a tunnel heading off in that direction.
+~
+~
+0 -1 3437
+D4
+Through the trap door you see the sky above.
+~
+trap door trapdoor~
+1 -1 3439
+S
+#3439
+Temple Exercise Yard~
+This small well kept yard is where the priests come to walk off a little
+of their daily worries or just to sit and rest. There is a locked wooden
+door in the southern wall of the Temple itself. To the north you can see a
+locked Iron Gate.
+~
+2 8 0
+D0
+You see a trade road running off into the distance.
+~
+gate~
+1 -1 3414
+D2
+To the south you see the storage shed with a closed wooden door.
+~
+door~
+1 -1 3440
+D5
+Through a small wooden door you see a chamber below.
+~
+trap door~
+1 -1 3438
+S
+#3440
+Storage Shed~
+This small room is used to store items to use in maintaining the grounds.
+Currently it is empty.
+~
+2 8 0
+D0
+Temple Yard.
+~
+door~
+1 -1 3439
+S
+#3441
+Thieves' Private Resting Room~
+This is a resting room dedicated to all the thieves and their kins.  Infamous 
+thieves can leave their loot or some excess armor here to benefit other young 
+thieves.  A ladder leaves down to the guild.
+~
+2 12 0
+D5
+The Thief Guild is down here.
+~
+~
+0 -1 3029
+S
+#3442
+Clerics' Private Resting Room~
+This is a resting room dedicated to all the clerics and their kins.  High level
+clerics can leave some excess armor or scrolls here to benefit other young 
+apprentices.  A ladder leaves down to the guild.
+~
+2 12 0
+D5
+The Inner Sanctum is down here.
+~
+~
+0 -1 3002
+S
+#3443
+Mages' Private Resting Room~
+This is a resting room dedicated to all the mages and their kins. Experienced
+sorcerers can leave their excess armor or scrolls here to benefit other young
+apprentices.  A ladder leaves down to the guild.
+~
+2 12 0
+D5
+The ladder leads down to the Mages' Laboratory.
+~
+~
+0 -1 3019
+S
+#3444
+Warriors' Private Resting Room~
+This is a resting room dedicated to all the warriors and their kins.  
+Experienced fighters can leave their excess armor and weapons here to benefit
+other young pupils.  A ladder leaves down to the yard.
+~
+2 12 0
+D5
+The ladder leads down to the Tournament and Practise Yard.
+~
+~
+0 -1 3023
+S
+$~
+#999999

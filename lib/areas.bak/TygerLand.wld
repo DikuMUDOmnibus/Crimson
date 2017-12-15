@@ -1,0 +1,73 @@
+#20200
+A light forest~
+You are in a light forest. There are few trees. There is a path to the east. & west.
+~
+61 8 1
+D0
+~
+~
+0 -1 3000
+D1
+A path
+~
+~
+0 -1 20201
+D3
+~
+delete~
+0 -1 20201
+S
+#20201
+A path~
+You are on a path that leads north. But you see a light forest to the west.
+~
+61 8 1
+D0
+A path
+~
+~
+0 -1 20202
+D3
+A light forest
+~
+~
+0 -1 20200
+S
+#20202
+A path~
+This path leads north to a road you see. You also see some buildings to the
+north. And a little building to the east just up ahead.
+~
+61 8 1
+D0
+A road
+~
+~
+0 -1 20203
+D2
+A path
+~
+~
+0 -1 20201
+S
+#20203
+A road~
+The path now turns into a road, you see a magic shop to the east. And to the norht the road continues.
+It looks like the road leads to some sort of town, though, you cannot see it clearly at the momment.
+~
+61 8 1
+D2
+A path
+~
+~
+0 -1 20202
+S
+#20204
+A road~
+The path now turns into a road, you see a magic shop to the east. And to the norht the road continues.
+It looks like the road leads to some sort of town, though, you cannot see it clearly at the momment.
+~
+61 8 1
+S
+$~
+#999999

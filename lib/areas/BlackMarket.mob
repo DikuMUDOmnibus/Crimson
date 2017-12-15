@@ -1,0 +1,60 @@
+#16100
+mob man old~
+An old blind man~
+An old man stands here turning his head to catch any sound.
+~
+The old man seems to look around without seeing anything.  You finally realize
+that he is blind.  He hears you approach and says,
+"Go back where you came from, you're not wanted here!  You don't belong!"
+~
+4106 161 0 S
+26 5 15 200d2+100 50d2+5
+5000 17000
+8 8 0
+#16101
+mob mayor man~
+Mayor of Dinara~
+The Mayor of Dinara stands here looking thoughtful.
+~
+The mayor of Dinara stands here with a frown on his face.  He has tried
+to make this a good town but he just doesn't have much to work with.
+~
+262410 136 1000 S
+40 -20 -5 300d70+500 45d5+20
+200000 400000
+8 8 0
+#16102
+mob urchin man~
+a street urchin~
+A small man stands here begging for anything you can spare.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 0 -1000 S
+40 30 25 1d1+1 1d1+1
+1 12000
+8 8 0
+#16103
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 0 0 S
+1 30 25 1d1+1 1d1+1
+1 0
+8 8 0
+#16104
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 0 0 S
+1 30 25 1d1+1 1d1+1
+1 0
+8 8 0
+$~
+#999999

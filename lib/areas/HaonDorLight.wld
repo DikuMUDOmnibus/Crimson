@@ -1,0 +1,718 @@
+#6000
+The Edge of the Forest~
+You are standing at the eastern edge of a big forest.  To the east is the 
+West Gate of Midgaard and to the west is a narrow trail, leading in through 
+the forest.
+~
+9 4 2
+D1
+You see the West Gate of the City of Midgaard.
+~
+~
+0 -1 3052
+D3
+You see the narrow forest trail winding westwards in between the trees.
+~
+~
+0 -1 6001
+E
+trees~
+The trees are quite tall considering most of them appear to be quite young.
+On one of the trees, crude letters forming the word "Haon-Dor" have been
+carved into the bark.
+~
+E
+trail~
+The forest trail winds westwards through the trees.
+~
+S
+#6001
+A Trail through the Light Forest~
+You are on a trail leading through the forest.  To the east is the forest edge
+and to the west, the trail leads further into the forest.
+~
+9 4 3
+D0
+~
+~
+0 -1 3602
+D1
+The trail continues eastwards out of the forest.
+~
+~
+0 -1 6000
+D3
+You see the narrow forest trail winding westwards in between the trees.
+~
+~
+0 -1 6002
+E
+birds insects animals~
+Very cute little creatures, they seem to enjoy life.
+~
+E
+trees~
+The trees here are quite young and fresh.  They seem to accommodate many kinds
+of birds, insects and other small animals.
+~
+E
+trail~
+The forest trail winds east-west through the trees.
+~
+S
+#6002
+A Trail through the Light Forest~
+You are on a narrow trail leading east and west through the forest.  To the
+west, the forest gradually becomes more dense.  A small forest path leads
+south.
+~
+9 4 3
+D1
+The trail continues eastwards through the young trees.
+~
+~
+0 -1 6001
+D2
+The small path leads south through the young trees.
+~
+~
+0 -1 6011
+D3
+You see the narrow forest trail winding westwards into the dense forest.
+~
+~
+0 -1 6003
+E
+trees~
+The young, slender trees look beautiful, their fresh, green leaves moving
+lightly in the wind.
+~
+E
+trail~
+The forest trail winds east-west through the trees.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6003
+A Trail through the Dense Forest~
+You are on a trail leading east and west through the dense forest.  To the
+east, the forest gradually seems to become lighter.
+~
+9 4 3
+D1
+The trail continues eastwards to the younger part of the forest.
+~
+~
+0 -1 6002
+D3
+You see the narrow trail winding westwards through the dense forest.
+~
+~
+0 -1 6004
+E
+trees~
+The dense crowns of the mature trees leave only a fraction of the sky to be
+seen through the leaves.
+~
+E
+trail~
+The forest trail seems almost fragile compared to the massive trunks.
+~
+S
+#6004
+A Trail through the Dense Forest~
+You are on a trail leading east and west through the dense forest.  To the
+west, the trees are so huge and their crowns so dense that forest remains in
+total darkness.  A small path leads south through the trees.
+~
+9 4 3
+D1
+The trail continues eastwards through the dense forest.
+~
+~
+0 -1 6003
+D2
+The small path leads south through the trees.
+~
+~
+0 -1 6005
+D3
+The narrow trail almost seems to disappear between the enourmous trunks.
+~
+~
+0 -1 6100
+E
+trees~
+The crowns of the old trees almost cut out all light.
+~
+E
+trail~
+The forest trail seems almost fragile compared to the massive trunks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6005
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest in an unreal twilight illumination.  The path
+continues north and south.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6004
+D2
+The small path leads south through the trees.
+~
+~
+0 -1 6006
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6006
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest in an unreal twilight illumination.  The path
+continues north and east.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6005
+D1
+The small path leads east through the trees.
+~
+~
+0 -1 6007
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6007
+An Intersection in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest in an unreal twilight illumination.  The forest
+gradually lightens to the east.  Paths lead east, west and south.
+~
+9 0 3
+D1
+You can barely make out a clearing to the east.
+~
+~
+0 -1 6008
+D2
+The small path leads south through the trees.
+~
+~
+0 -1 6012
+D3
+The small path leads west through the trees.
+~
+~
+0 -1 6006
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6008
+The Forest Clearing~
+You are in a clearing in the forest.  Lots of fresh stumps of varying sizes
+protrude from the ground and heavy logs are stacked neatly in a big pile
+supported by stakes set into the ground.  Paths lead north, east and west.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6011
+D1
+The small path leads east through the trees.
+~
+~
+0 -1 6009
+D2
+The woods darken.
+~
+~
+0 -1 14101
+D3
+The small path leads west through the trees.
+~
+~
+0 -1 6007
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+stumps~
+There are more stumps than logs and some of the stumps are partly covered in
+moss.
+~
+E
+stakes~
+The stakes keep the logs from rolling down.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+E
+logs~
+Even though the logs have been chopped to shorter pieces, they are quite heavy
+as they are fresh and still filled with sap.
+~
+S
+#6009
+Outside a Small Cabin in the Forest~
+You are outside a small cabin built entirely from heavy logs.  There is a
+wooden door to the north and small paths lead west and south through the trees.
+~
+9 0 3
+D0
+The wooden door is quite sturdy but does not appear to be equipped with a lock.
+~
+door wooden~
+11 -1 6010
+D2
+The small path leads south through the dense forest.
+~
+~
+0 -1 6014
+D3
+The small path leads west through the light forest.
+~
+~
+0 -1 6008
+E
+trees~
+The trees are fairly young, not much more than a hundred years or so.
+~
+E
+paths~
+The path is probably used by the cabin's inhabitants.
+~
+E
+cabin logs~
+It looks simple but comfortable and the slender trees make the whole place seem
+pretty idyllic.  It's a cabin built from logs.  Wooden logs, not system logs.
+~
+S
+#6010
+Inside the Cabin~
+You are inside a small one-room cabin made entirely from heavy logs.  It is
+very sparsely furnished, containing only most basic housekeeping equipment,
+such as a bed, a chair and a table.
+~
+9 8 0
+D2
+The wooden door leads south.
+~
+door wooden~
+1 -1 6009
+E
+table~
+A heavy table that doesn't even appear to rock.
+~
+E
+chair~
+It is made from oak and looks strong and sturdy.
+~
+E
+bed~
+It is definitely not the most comfortable bed you have seen in your life.
+~
+S
+#6011
+A Small Path through the Light Forest~
+You are on a small path leading through the forest.  The trees are tall and
+slender.  Paths lead north and south.
+~
+9 0 3
+D0
+The path leads north through the young trees.
+~
+~
+0 -1 6002
+D2
+The path leads south through the young trees.
+~
+~
+0 -1 6008
+E
+trees~
+The trees are fairly young, not much more than a hundred years or so.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6012
+An Intersection in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest floor in an unreal twilight illumination.  Paths
+lead north, east and south.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6007
+D1
+The small path leads east through the trees.
+~
+~
+0 -1 6013
+D2
+The small path leads south through the trees.
+~
+~
+0 -1 6021
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6013
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest in an unreal twilight illumination.  The path
+continues east and west.
+~
+9 0 3
+D1
+The small path leads east through the trees.
+~
+~
+0 -1 6014
+D3
+The small path leads west through the trees.
+~
+~
+0 -1 6012
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6014
+An Intersection in the Dense Forest~
+You are on a small path leading through the dense forest.  The forest gradually
+lightens to the north.  Paths lead north, east and west.
+~
+9 0 3
+D0
+The path leads north to a lighter part of the forest.
+~
+~
+0 -1 6009
+D1
+The small path leads east through the trees.
+~
+~
+0 -1 6015
+D3
+The small path leads west through the trees.
+~
+~
+0 -1 6013
+E
+trees~
+The crowns of the old trees leave the forest in an unreal twilight 
+illumination.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6015
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest in an unreal twilight illumination.  The path
+continues south and west.
+~
+9 0 3
+D1
+~
+~
+0 -1 3703
+D2
+The small path leads south through the trees.
+~
+~
+0 -1 6016
+D3
+The small path leads west through the trees.
+~
+~
+0 -1 6014
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6016
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest in an unreal twilight illumination.  The path
+continues north and south.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6015
+D2
+The small path leads south through the trees.
+~
+~
+0 -1 6017
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6017
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The forest seems to
+become lighter to the west.  The path continues north and west.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6016
+D3
+The small path leads west through the trees to a lighter part of the forest.
+~
+~
+0 -1 6018
+E
+trees~
+The crowns of the old trees leave the forest in an unreal twilight
+illumination.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6018
+An Intersection in the Light Forest~
+You are on a small path leading through the forest.  A path leads north to a
+small field and other paths lead east and west into the dense forest.
+~
+9 0 3
+D0
+The path leads north to a small, grassy field.
+~
+~
+0 -1 6023
+D1
+The path leads east to a dense part of the forest.
+~
+~
+0 -1 6017
+D3
+The path leads west to a dense part of the forest.
+~
+~
+0 -1 6019
+E
+trees~
+The tall trees are young and slender, not much more than a hundred years or so.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6019
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The forest seems to
+become lighter to the east.  The path continues north and east.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6020
+D1
+The small path leads east through the trees to a lighter part of the forest.
+~
+~
+0 -1 6018
+E
+trees~
+The crowns of the old trees leave the forest in an unreal twilight
+illumination.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6020
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest in an unreal twilight illumination.  The path
+continues south and west.
+~
+9 0 3
+D2
+The small path leads south through the trees.
+~
+~
+0 -1 6019
+D3
+The small path leads west through the trees.
+~
+~
+0 -1 6021
+E
+trees~
+The trees are mostly old beeches and oaks.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6021
+A Small Path in the Dense Forest~
+You are on a small path leading through the dense forest.  To the west there is
+a cave entrance.  The path continues north and east.
+~
+9 0 3
+D0
+The small path leads north through the trees.
+~
+~
+0 -1 6012
+D1
+The small path leads east through the trees.
+~
+~
+0 -1 6020
+D3
+The cave is very dark.
+~
+~
+0 -1 6022
+E
+cave entrance~
+The irregular opening is eight feet wide and six feet tall.  An acrid smell
+emanates from within.
+~
+E
+trees~
+The crowns of the old trees leave the forest in an unreal twilight
+illumination.
+~
+E
+paths~
+The narrow path is probably used by the animals living in the forest.
+~
+S
+#6022
+Inside the Cave~
+You are in a natural cave.  Various sorts of debris cover the stone floor,
+emitting a rather unpleasant smell that makes the air thick and hard to
+breathe.  The only obvious exit is east.
+~
+9 9 0
+D1
+The cave opening is to the east.
+~
+~
+0 -1 6021
+E
+air smell~
+Kind of transparent, but quite noticeable nevertheless.
+~
+E
+cave walls floor stone~
+Quite uninteresting.
+~
+E
+debris~
+It consists mostly of gnawed bones mixed with small pieces of torn fur.
+~
+S
+#6023
+On a Small Grassy Field~
+You are in a small, grassy field somewhere in the forest.  The tall grass 
+nearly reaches your waist, and the surrounding oaks and beeches form an almost
+wall-like thicket on all sides of the field.  A small path leads south through
+the trees.
+~
+9 0 2
+D2
+The small path leads south in between the trees.
+~
+~
+0 -1 6018
+E
+trees thicket~
+The trees form a close thicket.
+~
+E
+path~
+The narrow path is probably used by the animals living in the forest.
+~
+E
+grass~
+The tall grass makes a nice hiding place for animals.
+~
+S
+$~
+#999999

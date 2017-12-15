@@ -1,0 +1,50 @@
+#14900
+mob wozac high priest war~
+Wozac the High Priest of War~
+Wozac the High Priest of War is meditating here.
+~
+You see an old but strong looking man. He is wearing a red robe and has a look
+of grim determination. You decide that you would not want to anger this man,
+or else you just might find out why he is the high priest of war.
+~
+262922 128 1000 S
+40 -48 -11 4200d1+0 8d3+100
+100000 60000
+8 8 0
+#14901
+mob common priest war~
+a common priest of war~
+A common priest of war is here, practising his art.
+~
+You see a young man who has dedicated his life to understanding the art of war
+He looks grim and determined, and there is a look of ambition and hunger in
+his eyes.
+~
+264 128 0 S
+23 9 6 630d1+0 3d10+12
+15000 34500
+8 8 0
+#14902
+mob garbok hunter~
+Garbok the Hunter~
+Garbok the Hunter is standing here, sellig hunting gear.
+~
+You see a seasoned hunter here selling his wares.
+~
+262154 8 0 S
+40 -60 -15 5000d1+0 30d3+120
+100000 60000
+8 8 0
+#14903
+mob guardian dragon~
+A Guardian Dragon~
+The Guardian Dragon of the Tower is standing here.
+~
+You see a Huge Dragon with a long snout and fire coming out of its nostrils.
+~
+262922 136 0 S
+40 -48 -11 4200d1+0 9d3+100
+100000 60000
+8 8 0
+$~
+#999999

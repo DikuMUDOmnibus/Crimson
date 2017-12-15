@@ -1,0 +1,590 @@
+#3000
+mob wizard~
+the Wizard~
+A Wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard. He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+262474 136 900 S
+50 -40 -20 20000d1+20000 100d90+90
+200000 1
+8 8 1
+#3001
+mob baker~
+the Baker~
+The Baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+262218 136 900 S
+50 -40 -20 20000d1+20000 100d90+90
+200000 1
+8 8 1
+#3002
+mob grocer~
+the Grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+262218 136 900 S
+50 -40 -20 20000d1+20000 100d90+90
+200000 1
+8 8 1
+#3003
+mob weaponsmith~
+the Weaponsmith~
+A weaponsmith.
+~
+A young weaponsmith, who still has lots to learn.
+~
+262218 136 900 S
+50 -40 -20 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#3004
+mob armourer~
+the Armourer~
+An Armourer stands here.
+~
+An old but very strong armourer, he has made more armours in his
+lifetime than you have ever seen.
+~
+262218 136 900 S
+50 -40 -20 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#3005
+mob innkeeper~
+the InnKeeper~
+The InnKeeper stands here, waiting for someone to rent a room.
+~
+You notice a tired look in her face.
+~
+262218 136 900 S
+50 -40 -20 20000d1+20000 100d90+90
+200000 1
+8 8 2
+#3006
+mob captain~
+the Captain~
+A retired Captain stands here, selling boats.
+~
+This Captain has eaten more sharks than you have killed peas.
+~
+262218 136 900 S
+50 -40 0 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#3007
+mob sailor~
+the Sailor~
+A Sailor stands here, waiting to help you.
+~
+He looks like a strong, fit sailor.
+~
+262218 0 900 S
+23 -9 2 1180d1+0 3d3+30
+35000 34500
+8 8 1
+#3019
+mob highpriest priest~
+the HighPriest~
+The HighPriest is standing here, offering to sell you a minor miracle.
+~
+From this distance you feel that the old boy is in good with the gods, so
+good in fact that he's making a little coin on the side selling miracles.
+Hope you brought some cash, they're not at all cheap. Type BUY for a list.
+Enter a new description.
+~
+262730 128 1000 S
+50 -60 -20 2000d1+20000 100d90+90
+80000 1
+8 8 2
+#3020
+mob guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she posesses. She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+262154 128 1000 S
+50 -40 -20 20000d1+20000 100d90+90
+80000 1
+8 8 2
+#3021
+mob guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look. You notice that he is surrounded by a white aura.
+~
+262154 128 1000 S
+50 -40 -20 20000d1+20000 100d90+90
+80000 1
+8 8 1
+#3022
+mob guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief. She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+262154 128 1000 S
+50 -60 10 20000d1+20000 100d90+90
+80000 1
+8 8 2
+#3023
+mob guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+262154 136 1000 S
+30 -30 -5 3000d1+0 10d3+40
+20000 45000
+8 8 1
+#3024
+mob sorcerer~
+the Sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive as
+well as defensive spells make him a deadly opponent.
+~
+262410 0 800 S
+30 -30 -5 3000d1+0 10d3+40
+60000 45000
+8 8 1
+#3025
+mob templar~
+the Knight Templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful from persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+262666 0 800 S
+30 -30 -5 3000d1+0 10d3+40
+60000 45000
+8 8 1
+#3026
+mob assassin~
+the Assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+263178 0 800 S
+30 -30 -5 3000d1+0 10d3+40
+60000 45000
+8 8 1
+#3027
+mob knight~
+the Knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+262154 0 800 S
+30 -30 -5 3000d1+0 10d3+40
+60000 45000
+8 8 1
+#3040
+mob bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+262154 136 900 S
+50 -40 -20 20000d1+20000 100d90+90
+200000 1
+8 8 1
+#3041
+mob waiter~
+the Waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+262154 0 900 S
+23 -9 2 1180d1+0 3d3+30
+2000 34500
+8 8 1
+#3042
+mob waiter~
+the Waiter~
+A man who in his young days was a famous sorcerer but now leads a quiet,
+peaceful life as a waiter.
+~
+~
+262154 0 600 S
+23 -9 2 1180d1+0 3d3+30
+2000 34500
+8 8 1
+#3043
+mob waiter~
+the Waiter~
+A waiter who seems to have reach contact with God.
+~
+~
+262154 8 600 S
+23 -9 2 1180d1+0 3d3+30
+2000 34500
+8 8 1
+#3044
+mob waiter~
+the Waiter~
+A waiter who knows where all his costumers has their money.
+~
+~
+262154 0 600 S
+23 -9 2 1180d1+0 3d3+30
+2000 34500
+8 8 1
+#3045
+mob waiter~
+the Waiter~
+A waiter who easily could kill you, and still carry quite a few firebreathers.
+~
+~
+262154 0 600 S
+23 -9 2 1180d1+0 3d3+30
+2000 34500
+8 8 1
+#3046
+mob filthy~
+Filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty. He likes to keep his costumers happy,
+but do not mess with him or else he'll get upset.
+~
+262154 136 600 S
+50 -40 -20 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#3060
+mob cityguard guard~
+the Cityguard~
+A cityguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+201 0 1000 S
+15 15 10 350d1+0 5d3+10
+10000 22500
+8 8 1
+#3061
+mob janitor~
+the Janitor~
+A janitor is walking around, cleaning up.
+~
+~
+9 0 900 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 1
+#3062
+mob fido dog~
+the Beastly Fido~
+Beastly Fido is here.
+~
+Fido is a small dog that has a foul smell and pieces of rotted meat hanging
+around his teeth.
+~
+169 0 -200 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 1
+#3063
+mob mercenary~
+the Mercenary~
+A Mercenary waiting for a job.
+~
+He looks pretty mean.
+~
+12 0 -200 S
+5 28 20 90d1+0 2d3+3
+500 7500
+8 8 1
+#3064
+mob drunk~
+the Drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+8 0 400 S
+2 31 23 52d1+0 4d1+0
+200 3000
+8 8 1
+#3065
+mob beggar~
+the Beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+10 0 400 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 2
+#3066
+mob odif yltsaeb~
+the Odif Yltsaeb~
+Odif Yltsaeb is here, walking backwards.
+~
+Odif is a small god that has been reversed by some dog.
+~
+169 0 -200 S
+0 33 25 20d1+0 2d1+0
+100 750
+8 8 1
+#3067
+mob cityguard guard~
+the Cityguard~
+A cityguard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+262219 0 1000 S
+30 -30 -5 3000d1+0 5d3+50
+50000 45000
+8 8 1
+#3090
+mob kitten~
+the Kitten~
+A small loyal Kitten is here.
+~
+The Kitten looks like a cute, little, fierce fighter.
+~
+14 0 400 S
+1 32 24 40d1+0 3d1+0
+0 1500
+8 8 0
+#3091
+mob puppy~
+the Puppy~
+A small loyal Puppy is here.
+~
+The Puppy looks like a cute, little, fierce fighter.
+~
+14 0 400 S
+1 32 24 40d1+0 3d1+0
+0 1500
+8 8 0
+#3092
+mob beagle~
+the Beagle~
+A small, quick, loyal Beagle is here.
+~
+The Beagle looks like a fierce fighter.
+~
+14 0 400 S
+2 31 23 52d1+0 4d1+0
+0 3000
+8 8 0
+#3093
+mob rottweiler~
+the Rottweiler~
+A large, loyal Rottweiler is here.
+~
+The Rottweiler looks like a strong, fierce fighter.
+~
+14 0 400 S
+3 30 22 64d1+0 5d1+0
+0 4500
+8 8 0
+#3094
+mob wolf~
+the Wolf~
+A large, trained Wolf is here.
+~
+The Wolf looks like a strong, fearless fighter.
+~
+14 0 0 S
+4 29 21 76d1+0 3d3+0
+0 6000
+8 8 0
+#3100
+mob maid~
+the Maid~
+The Maid is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes. A good reason
+for coming here more often.
+~
+262154 136 1000 S
+50 -60 -25 20000d1+20000 100d90+90
+20000 1
+8 8 2
+#3120
+mob Biff~
+Biff the Dragon Slayer~
+Biff the famous Dragon Slayer is telling stories about his recent adventure.
+~
+He looks tough.  By his looks, you have no doubt that he can easily slay any
+dragon.
+~
+262415 1174405548 1000 S
+50 -80 -25 20000d1+20000 100d90+90
+20000 1
+5 5 1
+#3121
+mob swan~
+the Swan~
+A swan is swimming around in the pond.
+~
+The white swan is very elegant.
+~
+10 0 1000 S
+1 32 24 40d1+0 3d1+0
+50 750
+8 8 0
+#3122
+mob duckling~
+the Duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+10 0 1000 S
+0 33 25 20d1+0 2d1+0
+50 750
+8 8 0
+#3123
+mob sparrow~
+the Sparrow~
+A sparrow is flapping around on the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+200 0 1000 S
+0 33 25 20d1+0 2d1+0
+50 750
+8 8 0
+#3124
+mob duck~
+the Duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+72 0 1000 S
+1 32 24 40d1+0 3d1+0
+75 1500
+8 8 0
+#3140
+mob chief~
+the Chief~
+The Chief Guard is looking very upset.
+~
+A very angry chief.
+~
+46 8 1000 S
+17 9 8 490d1+0 2d3+20
+9000 22500
+8 8 1
+#3141
+mob cityguard guard~
+the Cityguard~
+A cityguard stands here, looking very upset.
+~
+A big, strong, angry guard.
+~
+46 0 1000 S
+12 21 13 248d1+0 2d3+10
+2000 22500
+8 8 1
+#3142
+mob secretary~
+the Secretary~
+A secretary is sitting at the desk, typing away on the typewriter.
+~
+She looks very busy.
+The Secretary says, 'Sorry, but the Mayor is extremely busy today.'
+The Secretary says, 'Please have a seat in the meantime.'
+~
+10 0 900 S
+12 21 13 248d1+0 2d3+10
+100 18000
+8 8 2
+#3143
+mob mayor~
+The Mayor of Midgaard~
+The Mayor of Midgaard is sound asleep here.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+262155 1073741960 900 S
+50 -60 -25 20000d1+20000 100d90+90
+20000 1
+4 4 1
+#3144
+mob crier~
+the Town Crier~
+The Town Crier is here, weeping quietly.
+~
+He is very good at his job - completely dissolved in tears.
+~
+136 0 900 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 1
+#3145
+mob special forces~
+Special Forces guard~
+A Special Forces Guard stands here.
+~
+This is the meanest guard you ever seen, definitely special forces.
+~
+66061 102236328 1000 S
+50 -60 -20 20000d1+20000 100d90+90
+10000 1
+8 8 0
+#3146
+mob sly~
+Sly~
+Sly the bounty hunter stands here looking for a PKILLER to waste..
+~
+Only Sly could look this mean and he figures he is pretty smart too since
+he is waiting by the busiest inn in the game.
+~
+328207 1174929576 1000 S
+50 -60 -20 20000d1+20000 100d90+90
+2000 1
+8 8 0
+#3147
+mob slithering slime~
+A Slithering Slime~
+A Slithering Slime oozes around consuming everything in the ground.
+~
+You see a mass of ooze.
+~
+9 0 0 S
+10 23 15 180d1+0 1d3+10
+100 15000
+8 8 0
+$~
+#999999

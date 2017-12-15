@@ -1,0 +1,74 @@
+#6000
+mob john lumberjack~
+John the Lumberjack~
+John the Lumberjack is here, looking for some trees to chop down.
+~
+He is six feet tall and looks quite strong, muscles bulging under his heavy,
+chequered shirt.  His features are worn with hard work and his expression is
+one of a peaceful man leading a simple life.
+~
+262216 0 350 S
+5 28 20 90d1+0 2d3+3
+500 7500
+8 8 1
+#6001
+mob rabbit~
+the cute rabbit~
+A cute rabbit is here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+72 0 0 S
+1 32 24 40d1+0 3d1+0
+50 1500
+8 8 0
+#6002
+mob bear~
+the brown bear~
+A big, brown, angry-looking bear is here.
+~
+The bear is a big, brown, furry animal with very large claws and very sharp
+teeth.  It doesn't resemble those cute little thingies from toy shops at all.
+~
+104 0 -50 S
+8 25 17 150d1+0 5d3+0
+800 12000
+4 8 0
+#6003
+mob rabbit~
+the ferocious rabbit~
+A ferocious rabbit is here, glaring hungrily at you.
+~
+This small, furry creature with long ears and big feet has been attacked by
+the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
+rabbits into ferocious and bloodthirsty monsters.
+~
+104 0 -150 S
+3 30 22 64d1+0 5d1+0
+150 4500
+4 8 0
+#6004
+mob deer~
+the fallow deer~
+A fallow deer is grazing peacefully here.
+~
+She is a graceful creature on long, slender legs, and with large, brown eyes
+looking back at you with an air of watchful interest.
+~
+90 8 350 S
+2 31 23 52d1+0 4d1+0
+100 3000
+8 8 2
+#6005
+mob fox~
+the brown fox~
+A brown fox is here, looking for some rabbits to chew up.
+~
+It is a large fox with beautiful, red-brown fur and a long, thick brush.
+~
+72 0 -50 S
+2 31 23 52d1+0 4d1+0
+100 3000
+8 8 0
+$~
+#999999

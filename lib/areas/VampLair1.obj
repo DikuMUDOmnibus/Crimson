@@ -1,0 +1,642 @@
+#15100
+obj gold pile 350000~
+pile of gold~
+A huge pile of gleaming gold coins has been heaped here.~
+~
+20 0 1
+35000 0 0 0
+15 200 50
+#15101
+obj lead chainmail suit~
+A lead chainmail suit~
+A suit of lead chainmail is lying here.~
+~
+9 2162688 9
+30 0 10 0
+135 175000 30000
+A
+24 -5
+A
+1 3
+#15102
+obj lead pearl bracelet~
+A lead and pearl bracelet~
+A lead bracelet with pearls set in it is lying here.~
+~
+9 1048576 4097
+3 0 10 0
+2 13000 10000
+A
+12 20
+#15103
+obj shroud souls~
+Shroud of Souls~
+A Shroud of Souls has been left here.~
+~
+9 2165248 1025
+30 0 10 0
+9 345000 14000
+A
+12 20
+A
+4 2
+#15104
+obj spiked lead crown~
+A spiked lead crown~
+A spiked crown made of lead is sitting here.~
+~
+9 2165248 17
+12 0 10 0
+17 180000 15000
+A
+37 1
+#15105
+obj winged lead sceptre~
+A winged lead sceptre~
+A winged sceptre made of solid lead is lying here.~
+~
+12 1051136 16385
+0 0 10 0
+17 130000 12500
+A
+19 1
+A
+12 15
+#15106
+obj ring lead~
+A lead ring~
+A solid lead ring is lying here.~
+~
+9 633344 3
+2 0 10 0
+2 6000 5000
+A
+12 10
+#15107
+obj blackened bone sword~
+A blackened bone sword~
+A sword made of blackened bone is lying here.~
+~
+5 524288 8193
+0 4 6 3
+8 50000 30000
+A
+19 2
+A
+18 1
+#15108
+obj blackened bone helmet~
+A blackened bone helmet~
+A helmet made of blackened bone is lying here.~
+~
+9 524288 17
+10 0 10 0
+4 10000 3500
+A
+19 1
+#15109
+obj black silk sleeves~
+A pair of black silk sleeves~
+A pair of black silk sleeves has been dropped here.~
+~
+9 524288 257
+5 0 10 0
+3 50000 8900
+A
+18 1
+A
+19 1
+#15110
+obj blackened bone breast plate~
+A blackened bone breast plate~
+A breast plate made of blackened bone is lying here.~
+~
+9 2162688 9
+30 0 10 0
+6 95000 11700
+A
+19 1
+#15111
+obj black silk robe~
+A black silk robe~
+A black silk robe is lying here crumpled up.~
+~
+9 589824 1025
+10 0 10 0
+7 5 9000
+#15112
+obj blackened steel sword~
+A blackened steel sword~
+A sword made of blackened steel is lying here.~
+~
+5 0 8193
+0 4 4 3
+15 13000 3000
+A
+18 -1
+#15113
+obj blackened steel plate~
+A blackened steel plate~
+A chest plate made of blackened steel is lying here.~
+~
+9 2162688 9
+25 0 10 0
+45 18000 2500
+#15114
+obj black book grimoire~
+A black grimoire~
+A heavy black book is lying on the ground here.~
+~
+12 528 16385
+0 0 10 0
+4 55000 7000
+A
+12 20
+A
+5 -1
+#15115
+obj firestone necklace~
+A firestone necklace~
+A necklace with a glowing red stone is lying here.~
+~
+9 2097152 5
+40 0 10 0
+1 80000 50000
+#15116
+obj silver dagger Iesha~
+a silver dagger of Iesha~
+A sharp looking silver dagger is lying here.~
+~
+5 0 8193
+0 4 3 8
+5 24000 7800
+A
+19 2
+A
+18 3
+#15117
+obj huge meat cleaver~
+A huge meat cleaver~
+A dangerous looking meat cleaver is lying here.~
+~
+5 0 8193
+0 3 3 3
+13 2500 800
+A
+19 1
+A
+18 -1
+#15118
+obj steel black key~
+A black steel key~
+A black steel key is lying here.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#15119
+obj delicate bone key~
+A bone key~
+A delicate looking key made of bone is lying here.~
+~
+18 0 1
+0 0 10 0
+1 5 -1
+#15120
+obj blackened steel sword broadsword~
+A blackened steel broadsword~
+A broadsword made of blackened steel is lying here.~
+~
+5 1048576 8193
+0 4 6 3
+17 65000 12000
+A
+19 1
+#15121
+obj black dragon horn~
+A black dragon's horn~
+A large blackened dragons horn is lying here.~
+~
+12 1049104 16385
+0 0 10 0
+3 10000 13500
+A
+19 2
+#15122
+obj soft black leather belt~
+A soft black leather belt~
+A black leather belt is lying here.~
+~
+9 524288 2049
+8 0 10 0
+3 45000 9000
+A
+2 3
+A
+14 25
+#15123
+obj darkstone dark stone sword longsword~
+A darkstone longsword~
+A longsword made of black stone is lying here.~
+~
+5 1048592 8193
+0 4 6 3
+14 80000 7000
+A
+12 15
+A
+5 3
+#15124
+obj ring gold runed~
+A gold runed ring~
+A gold ring with lots of small runes is lying here.~
+~
+9 0 3
+8 0 10 0
+1 15000 2000
+A
+19 1
+A
+18 1
+#15125
+obj runed dark sword darksword~
+A runed darksword~
+A large sword with runes down its side is lying here.~
+~
+5 524288 8193
+0 3 5 3
+12 100000 24000
+A
+19 1
+A
+18 2
+#15126
+obj crystal sword broadsword~
+A crystal broadsword~
+A broadsword made of pure crystal is lying here.~
+~
+5 2097152 8193
+0 3 7 3
+15 145000 34000
+A
+13 25
+#15127
+obj emerald dagger maragath~
+A dagger of Maragath~
+An emerald dagger is lying on the ground here.~
+~
+5 1048576 8193
+0 6 3 8
+3 56000 14000
+A
+19 3
+A
+18 6
+#15128
+obj ring iron~
+An iron ring~
+A ring of solid iron is lying here.~
+~
+9 0 3
+2 0 10 0
+1 17000 3000
+A
+18 2
+A
+26 1
+A
+27 1
+#15129
+obj emerald cape~
+An emerald cape~
+An emerald cape has been left in a crumpled heap here.~
+~
+9 1048576 5
+24 0 10 0
+12 65000 7500
+A
+36 1
+#15130
+obj bleeding sword broadsword~
+A blood-red broadsword~
+A broadsword is lying here in a puddle of blood.~
+~
+5 1048576 8193
+0 4 5 3
+15 88000 22000
+A
+19 4
+A
+18 1
+#15131
+obj chocolate strawberry~
+a chocolate covered strawberry~
+A chocolate covered strawberry is lying here.~
+~
+19 0 1
+5 0 10 0
+1 5 5
+#15132
+obj cake slice~
+a slice of birthday cake~
+Somebody has left a slice of birthday cake here.~
+~
+19 0 1
+23 0 10 0
+1 5 5
+#15133
+obj skull jewelled~
+a jewelled skull~
+The skull of a man,encrusted with jewels is resting here.~
+~
+11 524816 16385
+0 0 10 0
+6 100000 24000
+A
+1 2
+A
+5 2
+A
+3 -1
+#15134
+obj suit heavy chain mail~
+a suit of heavy chainmail~
+A heavy looking suit of chainmail is lying here.~
+~
+9 1116160 9
+23 0 10 0
+110 175000 75000
+A
+13 55
+A
+18 -3
+#15135
+obj plate gold breastplate~
+An ornate golden breast plate~
+An ornate breast plate made of gold has been left here.~
+~
+9 2165248 9
+30 0 10 0
+1 150000 65000
+A
+37 1
+A
+19 1
+#15136
+obj helmet gold horned~
+A golden horned helmet~
+A horned helmet made of gold has been left here.~
+~
+9 2097152 17
+35 0 10 0
+25 78000 7800
+#15137
+obj gloves gold~
+A pair of intricate golden gloves~
+A pair of intricately designed golden gloves have been left here.~
+~
+9 2097152 129
+12 0 10 0
+15 27000 7000
+#15138
+obj sleeves gold~
+A pair of golden sleeves~
+An ornate pair of sleeves,crafted from gold is lying here.~
+~
+9 1048576 257
+18 0 10 0
+12 27000 7000
+#15139
+obj legplates gold plates~
+A pair of ornate golden legplates~
+A pair of ornately decorated,golden legplates is lying here.~
+~
+9 2097152 33
+20 0 10 0
+35 35000 6000
+#15140
+obj boots black leather~
+A pair of black leather boots~
+A pair of well worn black leather boots has been left here.~
+~
+9 1048576 65
+8 0 10 0
+9 34500 4500
+A
+14 15
+#15141
+obj ring jade~
+a small jade ring ~
+A small jade ring is resting here.~
+~
+9 0 3
+2 0 10 0
+1 25000 8000
+A
+26 1
+A
+27 1
+#15142
+obj skirt heavy chain mail~
+a heavy chainmail skirt~
+A skirt made of heavy chainmail is lying here.~
+~
+9 1048576 33
+15 0 10 0
+40 120000 45000
+A
+13 20
+A
+2 -3
+#15143
+obj coif heavy chain mail~
+a heavy chainmail coif~
+A coif made of heavy chainmail is lying here.~
+~
+9 524288 17
+20 0 10 0
+23 100000 75000
+A
+13 10
+#15144
+obj sleeves heavy chain mail~
+a pair of heavy chainmail sleeves~
+A pair sleeves made of heavy chainmail is lying here.~
+~
+9 524288 257
+12 0 10 0
+35 105000 24000
+A
+13 15
+#15145
+obj dress black battle~
+a large black battle dress~
+A large black battle dress is lying here in a heap.~
+~
+9 1171968 9
+29 0 10 0
+17 350000 175000
+A
+3 2
+A
+4 3
+A
+12 35
+#15146
+obj cloak purple~
+a decorated purple cloak~
+An intricately decorated purple cloak is lying here.~
+~
+9 524288 1025
+15 0 10 0
+6 6000 2400
+A
+23 -10
+A
+24 -5
+#15147
+obj greatsword flaming sword~
+a huge flaming greatsword~
+A huge greatsword surrounded with flames is lying here.~
+~
+5 2097152 8193
+0 6 5 3
+20 135000 65000
+A
+19 3
+#15148
+obj shield flaming~
+a large flaming shield~
+A large shield enveloped in flames is lying here.~
+~
+9 2097152 513
+25 0 10 0
+20 123000 14500
+#15149
+obj earring amber~
+a small golden earring~
+A small golden earring has been dropped here.~
+~
+11 1048576 17
+0 0 10 0
+1 45000 27000
+A
+2 3
+A
+1 -1
+#15150
+obj sash white silk~
+a white silk sash~
+A sash woven from white silk has been left here.~
+~
+9 1048576 2049
+9 0 10 0
+3 85000 65000
+A
+12 50
+A
+1 -2
+#15151
+obj mace skull~
+a skull shaped mace~
+A mace,crafted from the skull of a man is lying here.~
+~
+5 2097152 8193
+0 5 6 7
+17 75000 7500
+A
+19 2
+A
+18 -1
+#15152
+obj bonestaff staff~
+a bonestaff~
+A long staff crafted from a huge bone is lying here.~
+~
+5 1049104 8193
+0 3 8 7
+14 80000 20000
+A
+18 -1
+A
+3 2
+A
+4 1
+A
+5 1
+#15153
+obj necklace bone~
+a bone necklace~
+A necklace made of bones is lying in a heap here.~
+~
+9 0 5
+7 0 10 0
+1 14500 5400
+A
+5 -2
+A
+37 1
+#15154
+obj ring invisibility~
+a ring of invisibility~
+A small glinting ring has been left here.~
+~
+9 524288 3
+3 0 10 0
+1 5 5
+A
+36 1
+#15155
+obj ring jet black~
+a jet ring~
+A black ring made of jet has been dropped here.~
+~
+9 524304 3
+3 0 10 0
+1 65000 8000
+A
+19 1
+A
+18 3
+#15156
+obj shroud heavy black~
+A heavy black shroud~
+A heavy looking black shroud is lying here.~
+~
+9 1049088 1025
+30 0 10 0
+29 85000 7800
+A
+19 1
+#15157
+obj sword adamantine slender~
+a slender adamantine sword~
+A slender sword made of adamantine has been left here.~
+~
+5 2097152 8193
+0 5 7 3
+9 185000 58500
+A
+19 1
+#15158
+obj rose black~
+a delicate black rose~
+A delicate looking black rose is lying here.~
+~
+11 1048592 17
+0 0 10 0
+1 175000 65000
+A
+19 2
+A
+36 1
+#15159
+obj gift life~
+a life~
+A gift from Fish to all mudders is lying here.~
+~
+13 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

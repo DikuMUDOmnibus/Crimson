@@ -1,0 +1,131 @@
+#7900
+mob Kevin~
+Kevin who is grinning at you~
+A dark haired boy welcomes you.
+~
+A tall spindly fellow. His dark brown eyes glow pleasantly at you from behind
+thin black-rimmed glasses. The grin he wears on his face is unnerving, but he
+does not appear to be interested in matching strengths with you. He knows who
+is the champion amongst the mortals.
+~
+34341130 1140850816 0 S
+41 -15 -30 15d1+0 1d1+1
+600000 500000
+8 8 1
+#7901
+mob Naris young lady~
+Naris~
+A young lady is staring wistfully at a painting.
+~
+She appears to be a princess of some sort. Perhaps the picture she is
+looking at is her betrothed.
+~
+650 0 0 S
+15 20 12 290d1+0 5d3+6
+15000 22500
+8 8 2
+#7902
+mob servant~
+a servant~
+A servant stands here defiantly, unwilling to serve his masters.
+~
+A well built man stands in front of you. He appears to be sick and tired of
+being told what to do all day long. The evil twitch in the corner of his
+mouth is indicating treachery.
+~
+266 1073741952 0 S
+20 12 9 420d1+0 8d3+6
+20000 30000
+8 8 1
+#7903
+mob pet Redferne's~
+a pet~
+Redferne's pet snarls visciously at your entrance.
+~
+The pet eyes you menacingly as you walk through the door. Those beady
+flourescent yellow eyes send shivers up your spine. The teeth on this
+beast are the next thing you notice and it is more than enough to turn
+you back and run out the way you came in.
+~
+42 170 0 S
+18 12 9 420d1+0 8d3+6
+18000 27000
+8 8 0
+#7904
+mob mold~
+a mold~
+There is a HUGE blob of mold rotting on the floor.
+~
+It seems that this stuff used to look like cheese. But then again since when
+did cheese grow teeth that were capable of biting your head off. You wonder
+what kind of cheese this used to be? Feta, Blue? or the smelly kind you
+always hated.
+~
+1036 0 0 S
+18 6 7 560d1+0 10d3+6
+18000 27000
+8 8 0
+#7905
+mob corpse~
+a corpse~
+A corpse leans against the wall awkwardly.
+~
+The corpse is still very well preserved.  It looks very smiliar to the 
+servant standing outside.  If this one is dead, then what is the one outside?
+~
+32778 536870912 0 S
+18 15 10 350d1+0 7d3+6
+20000 27000
+8 8 0
+#7906
+mob Redferne~
+Redferne~
+Redferne beams a pleasant smile in your direction.
+~
+A handsome and charming man. Standing by the window, he looks out across the
+land. Although he seems to be a nice person, it is not advisable to attempt
+to take over his home.
+~
+4362 136 0 S
+24 0 5 700d1+0 10d3+10
+50000 36000
+8 8 0
+#7907
+mob student~
+a student~
+A student of Redferne is sitting here studying history.
+~
+This well mannered boy is busy studying and researching. He is hoping to be
+a powerful ruler like Redferne someday. When the day comes for this boy to
+rule, the land for miles around will never be that same again.
+~
+522 2 0 S
+13 22 14 220d1+0 4d3+5
+13000 19500
+8 8 0
+#7908
+mob shimmering guard~
+a shimmering guard~
+There is a faint shimmering of something.
+~
+A strange diffraction in light catches your attention. It does not appear to
+be a solid object, but as you look closer you know there is something there.
+Just what the thing is is the question!
+~
+2097224 1074790400 0 S
+32 -30 -5 3000d1+0 20d3+20
+100000 48000
+8 8 1
+#7909
+mob guard~
+a gatekeeper~
+A gatekeeper stands at ease in front of the gate.
+~
+A gatekeeper eyes you suspiciously as you walk towards the gate he is guarding.
+~
+10 0 0 S
+10 23 15 180d1+0 6d3+0
+10000 15000
+8 8 0
+$~
+#999999

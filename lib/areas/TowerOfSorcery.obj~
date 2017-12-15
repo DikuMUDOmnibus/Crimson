@@ -1,0 +1,917 @@
+#13000
+obj fountain water~
+a fountain~
+A large fountain is here gurgling out an endless stream of water.~
+~
+17 64 0
+100000 100000 0 0
+5000 10 100000
+#13001
+obj oven black~
+an oven~
+A huge black oven is here.~
+~
+15 1 0
+1000 5 -1 0
+1000 1000 1000
+#13002
+obj locker~
+a meat locker~
+An enormous meat locker is here.~
+~
+15 0 0
+1000 5 -1 0
+1000 1000 1000
+#13003
+obj spice rack~
+a spice rack~
+A spice rack floats in the air here.~
+~
+15 64 1
+50 0 -1 0
+10 1500 500
+#13004
+obj pizza slice~
+a slice of pizza~
+A slice of pizza is here looking very tasty.~
+~
+19 0 1
+15 0 0 0
+1 12 3
+#13005
+obj chunk meat~
+a large chunk of meat~
+A large chunk of meat is here.~
+~
+19 0 1
+24 0 0 1
+2 20 5
+#13006
+obj sandwhich~
+a finger sandwhich~
+A finger sandwhich is here.~
+~
+19 0 1
+20 0 0 0
+2 15 5
+E
+sandwhich
+It would look quite tasty if someone had first removed the fingernails!~
+A
+5 5
+#13007
+obj broom straw~
+#13007
+obj broom straw~
+a straw broom~
+A straw broom is here leaning against the wall.~
+~
+13 0 16385
+0 0 0 0
+5 5 5
+A
+13 5
+#13008
+obj machine coffee~
+a coffee machine~
+A coffee machine is here.~
+~
+15 2 0
+10000 0 -1 0
+10000 10 10
+#13009
+obj cabinet~
+a cabinet~
+A cabinet is here.~
+~
+15 0 0
+5000 13 -1 0
+10000 10 10
+#13010
+obj bar silver~
+a bar of silver~
+A bar of silver has been left here.~
+~
+8 0 1
+0 0 0 0
+10 1000 500
+#13011
+obj bar gold~
+a bar of gold~
+A bar of gold has been left here.~
+~
+8 0 1
+0 0 0 0
+11 2000 750
+#13012
+obj bar mithril~
+a bar of mithril~
+A bar of mithril has been left here.~
+~
+8 0 1
+0 0 0 0
+12 3000 950
+#13013
+obj bar adamantite~
+a bar of adamantite~
+A bar of adamantite has been left here.~
+~
+8 0 1
+0 0 0 0
+15 5000 1000
+#13014
+obj hammer mithril~
+a mithril hammer~
+A mithril hammer has been left here.~
+~
+5 64 8193
+0 2 6 0
+19 10000 1000
+A
+40 2
+A
+1 1
+#13015
+obj chest~
+a chest~
+A chest is here.~
+~
+15 1 0
+5000 15 13016 0
+1000 1000 1000
+#13016
+obj key~
+a small key~
+A small key has been left here.~
+~
+18 0 1
+0 0 0 0
+1 1 -1
+#13017
+obj long sword~
+a long sword~
+A long sword has been left here.~
+~
+5 0 8193
+0 1 8 3
+8 10000 1000
+A
+18 1
+A
+19 2
+#13018
+obj dagger silver~
+a silver dagger~
+A finely crafted dagger made of silver is on the ground here.~
+~
+5 0 8193
+0 3 3 11
+5 15000 1200
+A
+18 2
+A
+19 2
+#13019
+obj scimitar~
+a curved scimitar~
+A curved scimitar is here in a jewel covered sheath.~
+~
+5 0 8193
+0 2 7 3
+10 17500 1950
+A
+13 3
+#13020
+obj staff wooden~
+a wooden staff~
+A wooden staff is against the wall here.~
+~
+5 0 8193
+0 1 4 7
+6 10 5
+#13021
+obj cabinet silver~
+a silver chased cabinet~
+A large cabinet with a silver finish is here.~
+~
+15 0 0
+5000 15 13025 0
+10000 1 1
+#13022
+obj cabinet silver~
+a silver chased cabinet~
+A large cabinet with a silver finish is here.~
+~
+15 0 0
+5000 15 13025 0
+10000 1 1
+#13023
+obj key old~
+an old key~
+An old key is here.~
+~
+18 0 1
+0 0 0 0
+1 1 -1
+#13025
+obj silvery key~
+a silvery key~
+A silvery key has been left here.~
+~
+18 0 1
+0 0 0 0
+1 10000 -1
+#13026
+obj staff red white~
+a red and white staff~
+A red and white staff is leaning against the wall here.~
+~
+4 0 16385
+20 3 3 42
+8 5500 500
+#13027
+obj staff burnt~
+a burnt staff~
+A burnt staff is leaning against the wall here.~
+~
+4 0 16385
+20 4 4 4
+6 1100 600
+#13028
+obj rod black~
+a black rod~
+A black rod has been left here.~
+~
+3 0 16385
+20 3 3 22
+4 1200 200
+#13029
+obj wand wooden~
+a wooden stick~
+A wooden stick is here.~
+~
+3 0 16385
+20 10 10 3
+4 600 60
+#13030
+obj wand metal~
+a metal wand~
+A metal wand is here.~
+~
+3 0 16385
+20 20 4 25
+5 2000 350
+#13031
+obj cauldrin black~
+a black cauldrin~
+A large black cauldrin is here bubbling.~
+~
+15 0 0
+1000 0 -1 0
+5000 5000 500000
+#13032
+obj wings~
+a small pair of bat wings~
+A small pair of bat wings is here.~
+~
+13 0 1
+0 0 0 0
+2 1 1
+#13033
+obj eye eyeball~
+an eyeball~
+An eyeball has been left here.~
+~
+13 0 16385
+0 0 0 0
+1 1 1
+#13034
+obj book tome~
+the book of magic~
+An enormous book is lying open here.~
+~
+15 1 1
+500 0 -1 0
+5000 500000 500000
+#13035
+obj spectacles glasses~
+a pair of spectacles~
+A pair of wire rimed spectacles has been left here.~
+~
+9 64 17
+0 0 0 0
+4 10000 5000
+A
+26 94
+#13036
+obj altar~
+a golden altar~
+A golden altar is here.~
+~
+15 0 0
+1000 5 -1 0
+5000 1 1
+#13037
+obj medallion heart~
+a heart shaped medallion~
+A heart shaped medallion is here.~
+~
+9 320 5
+0 0 0 0
+3 10000 1000
+A
+4 2
+A
+5 -1
+#13038
+obj chest~
+a large chest~
+A large chest is here.~
+~
+15 65 0
+2000 15 13039 0
+5000 500000 5000000
+#13039
+obj key intricate~
+an intricately carved key~
+An intricately carved key has been left here.~
+~
+18 65 16385
+0 0 0 0
+1 10000 -1
+A
+24 -1
+#13040
+obj a pile of coins~
+a pile of coins is here~
+A pile of coins is here.~
+~
+20 0 1
+23574 0 0 0
+1 0 0
+#13041
+obj cloak brown~
+a brown cloak~
+A travel worn cloak has carelessly been left here.~
+~
+9 0 5
+0 0 0 0
+5 2000 250
+A
+17 -5
+A
+24 -3
+#13042
+obj chameleon poncho~
+a chameleon poncho~
+Some multicolored cloth is on the ground here.~
+~
+9 64 1025
+0 0 0 0
+4 15000 5000
+A
+35 5
+#13043
+obj boots worn~
+a pair of old boots~
+A pair of old boots is here.  They look very comfortable.~
+~
+9 64 65
+0 0 0 0
+2 3500 900
+A
+14 15
+#13044
+obj ring seashell~
+a seashell ring~
+A small seashell has been left here.~
+~
+22 64 3
+0 0 0 0
+2 6500 1100
+#13045
+obj backpack leather~
+a leather backpack~
+A leather backpack is here.~
+~
+15 0 1025
+750 0 -1 0
+9 750 50
+#13051
+obj cup brew herbal~
+a herbal brew~
+A herbal brew is here.~
+~
+17 0 1
+5 5 11 1
+2 11 5
+#13052
+obj waybread~
+a waybread~
+A loaf of waybread has been left here.~
+~
+19 0 1
+32 0 0 0
+3 65 5
+#13053
+obj parchment~
+a parchment~
+A parchment has carelessly been left here.~
+~
+16 0 1
+0 0 0 0
+1 75 5
+#13054
+obj quill~
+a feather quill~
+A feather quill has been left here.~
+~
+21 0 16385
+0 0 0 0
+1 100 50
+#13055
+obj cleaver~
+a meat cleaver~
+A meat cleaver is sticking in the wall here.~
+~
+5 0 8193
+0 3 4 3
+8 600 100
+#13056
+obj shackles chain~
+some chain shackles~
+Some chain shackles have been discarded here.~
+~
+9 192 1
+0 0 0 0
+15 750 1000
+A
+12 -100
+A
+14 -82
+#13057
+obj dagger silvery~
+a silvery dagger~
+A long dagger that seems to be made of silver is here.~
+~
+5 64 8193
+0 2 4 11
+5 1200 500
+A
+18 1
+#13058
+obj golden quill feather~
+a golden feather quill~
+A golden feather quill has been left here.~
+~
+21 64 16385
+0 0 0 0
+2 2100 290
+A
+3 1
+#13059
+obj scroll~
+a scroll~
+A scroll is here.~
+~
+2 0 1
+21 4 17 38
+5 3000 1000
+#13060
+obj scroll bound~
+a bound scroll~
+A bound scroll is here blowing in the breeze.~
+~
+2 64 16385
+16 1 2 34
+3 9500 3000
+A
+17 -6
+#13061
+obj tube~
+a long cylindrical tube~
+A long cylindrical tube is rolling around here.~
+~
+15 64 1
+100 5 -1 0
+8 500 50
+#13062
+obj scroll old~
+an old scroll~
+An old scroll has been left here.~
+~
+2 0 1
+10 12 -1 -1
+2 500 100
+#13063
+obj scroll blue~
+a scroll written on blue paper~
+A blue scroll has been left here.~
+~
+2 64 1
+35 24 -1 -1
+5 20000 15000
+#13064
+obj pouch leather~
+a leather pouch~
+A leather pouch is on the ground here.~
+~
+15 64 16385
+150 0 -1 0
+2 1750 50
+#13065
+obj spoon silver~
+a silver stirring spoon~
+A silver stirring spoon has been left here.~
+~
+12 64 16385
+0 0 0 0
+1 5650 900
+A
+24 -1
+#13066
+obj potion blue~
+a blue potion~
+A blue potion is here.~
+~
+10 64 1
+24 27 27 27
+2 9000 500
+#13067
+obj potion red~
+a bright red potion~
+A bright red potion is here.~
+~
+10 64 1
+15 15 -1 -1
+2 1500 500
+#13068
+obj potion green~
+a green potion~
+A green potion is here.~
+~
+10 64 1
+20 4 2 14
+2 1500 150
+#13069
+obj potion efervecent~
+an efervecent potion~
+An efervecent potion is bubbling away here.~
+~
+10 64 1
+16 18 19 20
+2 1000 150
+#13070
+obj white milky potion~
+a milky white potion~
+A milky white potion is here.~
+~
+10 0 1
+14 42 -1 -1
+2 750 50
+#13071
+obj staff black~
+a black staff~
+A black staff is leaning against the wall here.~
+~
+4 64 16385
+18 2 2 2
+5 500 50
+#13072
+obj flute golden~
+a golden flute~
+A golden flute has been left here.~
+~
+4 96 16385
+22 1 1 7
+4 15000 5000
+A
+3 -6
+#13073
+obj figurine~
+a small figurine~
+A small figurine in the shape of a humanoid is standing here.~
+~
+4 64 16385
+21 6 6 80
+4 6000 650
+#13074
+obj belt holster~
+a holstered belt~
+A holstered belt is here.~
+~
+15 0 2049
+20 0 -1 0
+4 290 29
+#13075
+obj wand~
+a blackened wand~
+A blackened wand is here.~
+~
+3 64 16385
+17 5 1 26
+4 2500 500
+#13076
+obj chisel runed~
+a runed chisel~
+A runed chisel is here.~
+~
+5 65 8193
+0 2 3 11
+6 1500 500
+A
+2 1
+#13077
+obj pouch belt beltpouch~
+a beltpouch~
+A beltpouch is here.~
+~
+15 0 2049
+50 0 -1 0
+5 750 50
+#13078
+obj dust ~
+some sparkling dust~
+Some sparkling dust is in a pile here.~
+~
+4 0 16385
+20 1 1 38
+2 1000 150
+#13079
+obj cowl dark~
+a dark cowl~
+A dark cowl is here.~
+~
+9 576 5
+0 0 0 0
+5 1200 400
+A
+17 -8
+A
+24 -3
+#13080
+obj wand ashen~
+an ashen wand~
+An ashen wand is here.~
+~
+3 512 1
+20 4 4 63
+4 2000 600
+#13081
+obj club~
+a huge spiked club~
+A huge spiked club has been left here.~
+~
+5 0 8193
+0 3 5 7
+29 750 200
+#13082
+obj robe grey~
+a grey robe~
+A pile of grey cloth has been left here.~
+~
+15 1600 1025
+50 0 -1 0
+8 5000 750
+A
+17 -9
+A
+24 -2
+#13083
+obj cloak grey~
+a long grey cloak~
+A pile of grey cloth has been left here.~
+~
+9 1600 5
+0 0 0 0
+7 12000 1200
+A
+17 -12
+A
+24 -3
+#13084
+obj bracelet silver~
+a glinting silver bracelet~
+A glinting hoop of silvery metal is here.~
+~
+9 64 4097
+0 0 0 0
+5 5000 500
+A
+17 -5
+#13085
+obj staff~
+an iron shod staff~
+A grey piece of wood has been left here.~
+~
+5 64 8193
+0 2 7 7
+7 9000 3000
+A
+18 3
+#13086
+obj minor ward~
+a ward minor~
+A small clear cube is sitting here.~
+~
+9 65 16385
+0 0 0 0
+5 5000 1000
+A
+17 -5
+#13087
+obj robe black~
+a black robe~
+A pile of black cloth is on the ground here.~
+~
+15 2624 1025
+50 0 -1 0
+8 5000 750
+A
+17 -9
+A
+24 -2
+#13088
+obj bracelet onyx~
+an onyx bracelet~
+A hoop of black onyx is here.~
+~
+9 64 4097
+0 0 0 0
+6 8500 850
+A
+19 2
+#13089
+obj cloak black dark~
+a dark black cloak~
+A pile of black cloth is on the ground here.~
+~
+9 2624 5
+0 0 0 0
+8 9000 950
+A
+17 -12
+A
+24 -3
+#13090
+obj shard black obsidian~
+a sharp shard of obsidian~
+A piece of black glass is here.~
+~
+5 512 8193
+0 2 7 3
+8 12000 2000
+A
+19 3
+#13091
+obj robe white~
+a white robe~
+A pile of white cloth is on the ground here.~
+~
+15 3136 1025
+50 0 -1 0
+7 7500 750
+A
+17 -9
+A
+24 -2
+#13092
+obj bracelet white gold~
+a white gold bracelet~
+A hoop of silvery metal is here.~
+~
+9 64 4097
+0 0 0 0
+5 5000 1000
+A
+18 2
+#13093
+obj cloak white~
+a white cloak~
+A pile of white cloth is on the ground here.~
+~
+9 3392 5
+0 0 0 0
+7 9000 1500
+A
+17 -12
+A
+24 -3
+#13094
+obj ivory dagger~
+an ivory hilted dagger~
+An ivory hilted dagger has been left here.~
+~
+5 1344 8193
+0 2 6 11
+8 12000 1500
+A
+18 1
+A
+19 2
+#13095
+obj collar spiked~
+a spiked collar~
+A small spiked collar is here.~
+~
+9 64 5
+0 0 0 0
+9 10000 5000
+A
+36 7
+#13096
+obj cloak shimmering~
+a shimmering cloak of many colors~
+A multi-colored pile of cloth is here.~
+~
+15 65 5
+100 0 -1 0
+8 25000 5500
+A
+17 -15
+A
+24 -5
+#13097
+obj emerald ring~
+a small emerald ring~
+A small ring with a green gemstone is here.~
+~
+9 64 3
+0 0 0 0
+5 50000 10000
+A
+12 20
+#13098
+obj bracelet emerald~
+an emerald bracelet~
+A beautifully crafted hoop of emerald is here.~
+~
+9 64 4097
+0 0 0 0
+5 30000 3500
+A
+17 -5
+A
+3 1
+#13099
+obj ward major~
+a ward major~
+A large clear crystal cube is here.~
+~
+9 65 16385
+0 0 0 0
+6 20000 6000
+A
+17 -10
+A
+24 -2
+#13100
+obj ebony kris~
+the ebony kris~
+A wavy bladed knife made of ebony is here.~
+~
+5 64 8193
+0 3 4 11
+9 60000 20000
+A
+18 2
+A
+19 4
+#13101
+obj green scale shirt~
+a tight fitting green dragon scale shirt~
+Some green dragon scales which have been sewn together are here.~
+~
+9 65600 9
+8 0 0 0
+9 10000 1000
+A
+2 3
+A
+17 -5
+#13102
+obj fridge refridgerator~
+a fridge~
+A small refridgerator is here.~
+~
+15 2 0
+500 5 -1 0
+5000 1 1
+#13103
+obj bottle vodka~
+a bottle of absolute vodka~
+A bottle of absolute vodka is here begging to be drunk.~
+~
+17 0 16385
+25 25 5 0
+25 1 1
+#13104
+obj juice bottle~
+a bottle of cranberry juice~
+A bottle of cranberry juice is here.~
+~
+17 0 16385
+25 25 2 0
+25 1 1
+$~
+#999999

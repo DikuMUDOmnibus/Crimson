@@ -1,0 +1,3 @@
+#! /bin/csh
+chdir ~rhaksi/Crimson/src
+nohup nice nice serverstart

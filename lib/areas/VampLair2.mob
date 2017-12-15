@@ -1,0 +1,46 @@
+#15200
+mob skeleton guard~
+A skeletal guard~
+A skeletal guard is here, animated by dark forces.
+~
+This is a horrifying sight. The skeleton of a long dead living being, animated
+by some powerful magic as if alive. Its bones look weathered and fragile
+and it almost looks as if it is grinning at you.
+~
+33554440 67108864 -1000 S
+20 0 5 700d1+0 4d3+22
+15000 30000
+8 8 1
+#15201
+mob skeleton warrior~
+A skeletal warrior~
+A skeletal warrior is here, animated by dark forces.
+~
+This looks as if it is the skeleton of a long dead warrior. It is dressed
+in a suit of battle gear that clatters as the skeleton moves around, under
+the influence of powerful and evil magic.
+~
+33554440 67108864 -1000 S
+25 -15 0 1500d1+0 10d3+20
+30000 37500
+8 8 1
+#15202
+mob skeleton champion~
+A skeletal champion~
+A powerful looking skeleton is standing here.
+~
+This is the reanimated skeleton of one of Karak's closest followers, no
+longer able to serve his master naturally, he now stalks this place seeking
+out the enemies of Karak, drawing power from the immense force that is his
+master. His eyes glow with a horrible orange light, and his fiendish grin
+seems to be far more that any normal skeleton could have.
+~
+33816584 67108864 -1000 S
+36 -48 -11 4200d1+0 13d3+90
+94000 54000
+8 8 1
+$~
+#999999
+
+
+

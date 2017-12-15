@@ -1,0 +1,865 @@
+#20400
+Mage Drive~
+The paved road starts here. From here you can either go in the town or leave.
+Town square seems to be ahead.
+~
+62 0 1
+D0
+~
+~
+0 -1 3000
+D2
+It is a road.
+ ~
+~
+0 -1 20401
+S
+#20401
+Mage Drive~
+A nice paved road. It seems to have been magicly produced for it is
+compleatly flawless
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20400
+D2
+It is a road.
+ ~
+~
+0 -1 20402
+S
+#20402
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20401
+D1
+This way enters the creepy Black mage area.
+~
+~
+0 -1 20426
+D2
+It is a road.
+ ~
+~
+0 -1 20403
+D3
+This leads into the normal area of the Red mages.
+~
+~
+0 -1 20427
+S
+#20403
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20402
+D2
+It is a road.
+ ~
+~
+0 -1 20404
+S
+#20404
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20403
+D2
+It is a road.
+ ~
+~
+0 -1 20405
+S
+#20405
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20404
+D2
+This way leads to the Town Square.
+~
+~
+0 -1 20406
+S
+#20406
+Town Square~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20405
+D1
+It is a road.
+ ~
+~
+0 -1 20417
+D2
+It is a road.
+ ~
+~
+0 -1 20407
+D3
+It is a road.
+ ~
+~
+0 -1 20413
+S
+#20407
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+This way leads to the Town Square.
+~
+~
+0 -1 20406
+D2
+It is a road.
+ ~
+~
+0 -1 20408
+S
+#20408
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20407
+D2
+It is a road.
+ ~
+~
+0 -1 20409
+S
+#20409
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20408
+D2
+It is a road.
+ ~
+~
+0 -1 20410
+S
+#20410
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20409
+D1
+This enters the Blue and powerful area of the Blue mages
+~
+~
+0 -1 20439
+D2
+It is a road.
+ ~
+~
+0 -1 20411
+D3
+This way enters the white and wonderful area of the White mages.
+~
+~
+0 -1 20438
+S
+#20411
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20410
+D2
+It is a road.
+ ~
+~
+0 -1 20412
+S
+#20412
+Mage Drive~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+It is a road.
+ ~
+~
+0 -1 20411
+S
+#20413
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+This way leads to Town Square.
+~
+~
+0 -1 20406
+D3
+It is a road.
+ ~
+~
+0 -1 20414
+S
+#20414
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+It is a road.
+ ~
+~
+0 -1 20413
+D3
+It is a road.
+ ~
+~
+0 -1 20415
+S
+#20415
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+This leads into the normal area of the Red mages.
+~
+~
+0 -1 20432
+D1
+It is a road.
+ ~
+~
+0 -1 20414
+D2
+This way leads to the white and wonderful area of the White mages.
+~
+~
+0 -1 20433
+D3
+It is a road.
+ ~
+~
+0 -1 20416
+S
+#20416
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+It is a road.
+ ~
+~
+0 -1 20415
+S
+#20417
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+It is a road.
+ ~
+~
+0 -1 20418
+D3
+This way leads to Town Square.
+~
+~
+0 -1 20406
+S
+#20418
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+It is a road.
+ ~
+~
+0 -1 20419
+D3
+It is a road.
+ ~
+~
+0 -1 20417
+S
+#20419
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+This way seems to get dark and evil.
+~
+~
+0 -1 20421
+D1
+It is a road.
+ ~
+~
+0 -1 20420
+D2
+This way enters the Blue and powerful area of the Blue mages.
+~
+~
+0 -1 20444
+D3
+It is a road.
+ ~
+~
+0 -1 20418
+S
+#20420
+X Lane~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D3
+It is a road.
+ ~
+~
+0 -1 20419
+S
+#20421
+Ebony Alley~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+This Black alley leads on.........
+~
+~
+0 -1 20422
+D1
+Here lies a compleatly destroyed house.
+~
+~
+0 -1 20445
+D2
+It is a road.
+ ~
+~
+0 -1 20419
+S
+#20422
+Ebony Alley~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+This Black alley leads on..........
+~
+~
+0 -1 20423
+D2
+This Black alley leads on.........
+~
+~
+0 -1 20421
+S
+#20423
+Ebony Alley~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+This Black alley leads on..........
+~
+~
+0 -1 20424
+D2
+This Black alley leads on.........
+~
+~
+0 -1 20422
+S
+#20424
+Ebony Alley~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+This enters a dark and evil bar and inn.
+~
+~
+0 -1 20446
+D2
+This Black alley leads on...........
+~
+~
+0 -1 20423
+D3
+This Black alley leads on..........
+~
+~
+0 -1 20425
+S
+#20425
+Ebony Alley~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+This Black alley leads on..........
+~
+~
+0 -1 20424
+D3
+This Black alley leads on...........
+~
+~
+0 -1 20426
+S
+#20426
+Ebony Alley~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+This Black alley leads on...........
+~
+~
+0 -1 20425
+D3
+This way seems to exit the dark.
+~
+~
+0 -1 20402
+S
+#20427
+Scarlet Blvd.~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+This way seems to exit the red tiled road.
+~
+~
+0 -1 20402
+D3
+The Crimson road carrys on.
+~
+~
+0 -1 20428
+S
+#20428
+Scarlet Blvd.~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+The Crimson road carrys on.
+~
+~
+0 -1 20427
+D3
+The Crimson road carrys on.
+~
+~
+0 -1 20429
+S
+#20429
+Scarlet Blvd.~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+The Crimson road carrys on.
+~
+~
+0 -1 20428
+D2
+The Crimson road carrys on.
+~
+~
+0 -1 20430
+S
+#20430
+Scarlet Blvd.~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+The Crimson road carrys on.
+~
+~
+0 -1 20429
+D2
+The Crimson road carrys on.
+~
+~
+0 -1 20431
+S
+#20431
+Scarlet Blvd.~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+The Crimson road carrys on.
+~
+~
+0 -1 20430
+D2
+The Crimson road carrys on.
+~
+~
+0 -1 20432
+S
+#20432
+Scarlet Blvd.~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+The Crimson road carrys on.
+~
+~
+0 -1 20431
+D2
+The red tiled road seems to end this way.
+~
+~
+0 -1 20415
+S
+#20433
+Ivory Ave.~
+The paved road starts here. From here you can either go in the town or leave.
+Town square seems to be ahead.
+~
+62 0 1
+D0
+This seems to exit the Ivory path.
+~
+~
+0 -1 20415
+D2
+The Ivory path presss on.
+~
+~
+0 -1 20434
+S
+#20434
+Ivory Ave.~
+The paved road starts here. From here you can either go in the town or leave.
+Town square seems to be ahead.
+~
+62 0 1
+D0
+The Ivory path presss on.
+~
+~
+0 -1 20433
+D2
+The Ivory path presses on.
+~
+~
+0 -1 20435
+S
+#20435
+Ivory Ave.~
+The paved road starts here. From here you can either go in the town or leave.
+Town square seems to be ahead.
+~
+62 0 1
+D0
+The Ivory path presses on.
+~
+~
+0 -1 20434
+D2
+
+The Ivory path presses on.
+~
+~
+0 -1 20436
+S
+#20436
+Ivory Ave.~
+The paved road starts here. From here you can either go in the town or leave.
+Town square seems to be ahead.
+~
+62 0 1
+D0
+The Ivory path presses on.
+~
+~
+0 -1 20435
+D1
+The Ivory path presses on.
+~
+~
+0 -1 20437
+S
+#20437
+Ivory Ave.~
+The paved road starts here. From here you can either go in the town or leave.
+Town square seems to be ahead.
+~
+62 0 1
+D1
+The Ivory path presses on.
+~
+~
+0 -1 20438
+D3
+The Ivory path presses on.
+~
+~
+0 -1 20436
+S
+#20438
+Ivory Ave.~
+The paved road starts here. From here you can either go in the town or leave.
+Town square seems to be ahead.
+~
+62 0 1
+D1
+The Ivory path seems to end that way.
+~
+~
+0 -1 20410
+D3
+The Ivory path presses on.
+~
+~
+0 -1 20437
+S
+#20439
+Azure Street~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+A Blue road.
+~
+~
+0 -1 20440
+D3
+This seems to exit the Blue road.
+~
+~
+0 -1 20410
+S
+#20440
+Azure Street~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D1
+A Blue road.
+~
+~
+0 -1 20441
+D3
+A Blue road.
+~
+~
+0 -1 20439
+S
+#20441
+Azure Street~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+
+~
+~
+0 -1 20442
+D3
+A Blue road.
+~
+~
+0 -1 20440
+S
+#20442
+Azure Street~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+A Blue road.
+~
+~
+0 -1 20443
+D2
+A Blue road.
+~
+~
+0 -1 20441
+S
+#20443
+Azure Street~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+A Blue road.
+~
+~
+0 -1 20444
+D2
+A Blue road.
+~
+~
+0 -1 20442
+S
+#20444
+Azure Street~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 0 1
+D0
+This way seems to exit the Blue area.
+~
+~
+0 -1 20419
+D2
+A Blue road.
+~
+~
+0 -1 20443
+S
+#20445
+Ravaged Home~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 8 1
+D3
+The Black road.
+~
+~
+0 -1 20421
+S
+#20446
+Entrance to the Savage Bar and Inn~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 8 1
+D2
+There is the bar.
+~
+~
+0 -1 20447
+D3
+This leads back to the Black road.
+~
+~
+0 -1 20424
+S
+#20447
+The Savage Bar~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 8 1
+D0
+This way exits the Bar and Inn.
+~
+~
+0 -1 20446
+S
+#20448
+The Savage Inn~
+A nice paved road. To your east seems black and dark. To your west looks
+normal. The road continous north and south.
+~
+62 8 1
+D0
+There is the bar.
+~
+~
+0 -1 20447
+S
+$~
+#999999

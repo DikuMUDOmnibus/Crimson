@@ -1,0 +1,307 @@
+#15000
+mob adrian king~
+King Adrian of Arnath~
+Adrian, King of Arnath is standing here.
+~
+You see an old and wise looking man. He is wearing a rich and elegant robe
+that covers his feet.
+~
+262922 136 1000 S
+44 -60 -15 5000d1+0 30d3+120
+150000 66000
+8 8 1
+#15001
+mob elite royal guard~
+A Royal Elite Guard of Arnath~
+A Royal Elite Guard of Arnath is standing here.
+~
+You see a strong and honorable man in polished armor.
+~
+524 136 0 S
+34 -30 -5 3000d1+0 15d3+30
+70000 51000
+8 8 1
+#15002
+mob mistik enchantress~
+Mistik, the Enchantress of Arnath~
+Mistik, the Enchantress of Arnath, is standing here.
+~
+You see a beautiful lady with lovely blond hair in a revealing dress.
+Don't let appearances fool you however.
+~
+262410 136 0 S
+35 -33 -6 3200d1+0 12d5+32
+50000 52500
+8 8 2
+#15003
+mob nobleman~
+a nobleman of Arnath~
+A nobleman of Arnath is here, enjoying his blessed life.
+~
+You see a rich and portly man wearing an elegant robe.
+~
+8 136 0 S
+10 25 17 150d1+0 3d3+4
+1000 15000
+8 8 1
+#15004
+mob anson high priest~
+Anson, the High Priest of the White Temple~
+Anson, the High Priest of the White Temple, is standing here.
+~
+You see a old man with long white hair. He is wearing a pure white robe
+and holding a Staff of Mercy.
+~
+262922 8 0 S
+40 -54 -13 4600d1+0 16d5+100
+100000 60000
+8 8 1
+#15005
+mob reece high priest blue~
+Reece, the High Priest of Honor~
+Reece, the High Priest of Honor, is standing here.
+~
+You see a tall and strong man in elegant blue armor.
+~
+262922 8 0 S
+40 -54 -13 4600d1+0 16d5+100
+100000 60000
+8 8 1
+#15006
+mob servant king~
+a king's servant~
+A king's servant is here, performing various chores.
+~
+You see a slave dressed in decent attire. She was born and raised so as
+to best serve her king.
+~
+136 136 0 S
+10 25 17 150d1+0 3d3+4
+1000 15000
+8 8 1
+#15007
+mob white priest~
+A priest of the White Temple~
+A priest of the White Temple is standing here.
+~
+You see a tall and skinny man in a white robe.
+~
+520 8 0 S
+23 -3 4 900d1+0 8d3+16
+20000 34500
+8 8 1
+#15008
+mob blue priest~
+A priest of the Blue Temple~
+A priest of the Blue Temple is standing here.
+~
+You see a strong and smart looking man in a blue robe.
+~
+520 8 0 S
+15 20 12 290d1+0 4d3+8
+5000 22500
+8 8 1
+#15009
+mob ashur cloaked avenger statue~
+Ashur, the Cloaked Avenger~
+Ashur, the Cloaked Avenger, is standing here.
+~
+You see a tall and handsome man with a sharp nose and short black hair.
+He wears a long black and gray cloak that has a hood that covers his eyes.
+He was known as the Cloaked Avenger because he would fight for the innocent
+and helpless in times when the imperial guards were useless, and he wore a lon
+g black cloak to hide his identity and also cause fear in his enemies.
+~
+278538 136 0 S
+35 -33 -6 3200d1+0 16d5+20
+80000 52500
+8 8 0
+#15010
+mob cryogen statue~
+A statue of Cryogen~
+A statue of Cryogen is here, juggling orbs of mystical energy.
+~
+You see a bright and energetic youth who is effortlessly juggling orbs of
+mystical energy.
+~
+294922 136 0 S
+35 -33 -6 3200d1+0 16d5+20
+80000 52500
+8 8 0
+#15011
+mob vlade giant statue~
+A statue of Vlade the Giant~
+A statue of Vlade the Giant is standing here.
+~
+You see a statue of a huge man stading about 10 feet tall. He great strong
+arms and bulk. He looks very friendly and seems to be laughing inwardly.
+~
+266250 136 0 S
+35 -33 -6 3200d1+0 16d5+20
+80000 52500
+8 8 0
+#15012
+mob circe statue~
+A statue of Circe The Heroine~
+A statue of Circe The Heroine is standing here.
+~
+You see a tall woman in emerald armor holding a great white shield.
+~
+264714 136 0 S
+35 -33 -6 3200d1+0 16d5+20
+80000 52500
+8 8 0
+#15013
+mob bor statue~
+A statue of Bor the Hero~
+A statue of Bor the Hero is standing here.
+~
+You see a short and muscular man. He looks almost like a dwarf but he is
+slightly taller and better looking than most dwarves. He is holding a large
+battle axe.
+~
+270346 136 0 S
+35 -33 -6 3200d1+0 16d5+20
+80000 52500
+8 8 0
+#15014
+mob taron hero~
+A statue of Taron The Hero~
+A statue of Taron The Hero is standing here.
+~
+You see a small and thin man. You wonder what he musta done be be considered
+a great hero, then you remember that there was a story you heard when you were
+a child about Taron the great backstabber. He used to go and hunt out orcs and
+other evil things and kill them.
+~
+294922 136 0 S
+35 -33 -6 3200d1+0 16d5+20
+80000 52500
+8 8 1
+#15015
+mob young thief~
+a young thief~
+a young thief is hiding here.
+~
+You see a young and thin boy about 13 yrs old.
+~
+1160 1048584 0 S
+13 20 12 290d1+0 4d3+8
+3000 19500
+8 8 1
+#15016
+mob beggar poor~
+a poor beggar~
+a poor beggar is here, asking for a few coins.
+~
+You see a poor and wretched citizen of southern arnath.
+~
+1032 0 0 S
+16 12 9 420d1+0 5d3+12
+2000 24000
+8 8 1
+#15017
+mob assassin~
+An Assassin~
+An Assassin is here, ready to murder you for your gold.
+~
+You see a thin and young man who looks very mean.
+~
+263208 1048712 0 S
+27 -15 0 1500d1+0 5d5+25
+38000 40500
+8 8 1
+#15018
+mob king beggars~
+The King of the Beggars~
+The King of the Beggars is standing here.
+~
+You see a short and fat man. He looks dirty and yet very very happy.
+~
+263212 1048704 0 S
+40 -54 -13 4600d1+0 16d5+100
+150000 60000
+8 8 1
+#15019
+mob smuggler~
+A smuggler~
+A smuggler is standing here, ready to get you some illegal goods.
+~
+You see a thin man with a sharp hooked nose.  He is wearing leather and looks
+to be a good fighter.
+~
+263336 136 0 S
+33 -33 -6 3200d1+0 16d5+20
+60000 48500
+8 8 1
+#15020
+mob boris baker~
+Boris the Baker~
+Boris the Baker is here, trying to sell some bread.
+~
+You see a strong man in a flour cover apron.
+~
+262152 136 0 S
+50 -60 -25 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#15021
+mob max shopkeeper~
+Max the Shopkeeper~
+Max the Shopkeeper is standing here.
+~
+You see a young man with a sly look and shifty eyes.
+~
+262152 136 0 S
+50 -60 -25 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#15022
+mob durnik armorer~
+Durnik the Armorer~
+Durnik the Armorer is standing here.
+~
+You see a massive man with broad shoulders and huge arms that make yours
+look like a twig.
+~
+262408 136 0 S
+50 -60 -25 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#15023
+mob weaponmaster tomas~
+Tomas the Weaponmaster~
+Tomas the Weaponmaster is standing here.
+~
+You see a strong man with a scar on his face. He moves like a cat and looks
+at you with a wary eye.
+~
+262152 136 0 S
+50 -60 -25 20000d1+20000 100d90+90
+20000 1
+8 8 1
+#15024
+mob ruffian black clad~
+A black-clad ruffian~
+A black-clad ruffian is here looking for some mischief.
+~
+You see a rough and tough man in black. He looks very mean and you feel a need
+to protect your throat.
+~
+263212 8 -1000 S
+31 -33 -6 3200d1+0 16d5+20
+50000 46500
+8 8 1
+#15025
+mob ann~
+Ann~
+A beautiful asian girl named Ann is standing here.
+~
+You see a beautiful asian girl with long black hair and loving eyes.
+~
+8 0 0 S
+40 -60 -15 5000d1+0 30d5+90
+100000 60000
+8 8 2
+$~
+#999999

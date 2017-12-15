@@ -1,0 +1,174 @@
+#13400
+obj muave spice~
+A torch~
+A torch is lying here.~
+~
+19 327680 1
+12 0 5 0
+1 1500 5
+A
+13 5
+#13401
+obj russet spice~
+Russet colored spice~
+A torch is lying here.~
+~
+19 65536 1
+0 0 10 0
+1 5 5
+#13402
+obj Visor Nether~
+A dull, blackened visor~
+The visor is made of a black metal that chills the touch.~
+~
+9 541248 17
+9 0 0 0
+1 4500 10
+A
+32 0
+A
+27 0
+A
+26 0
+A
+33 0
+#13403
+obj Bedroll~
+A torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+#13404
+obj backpack~
+a backpack~
+A backpack is here.~
+~
+15 0 1
+0 0 10 0
+1 5 5
+#13405
+obj Guild Cape~
+A torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+#13406
+obj Mask Forvalaka Hood~
+the Mask of the Forvalaka~
+This mask has the markings of a panther.~
+~
+9 82132 16
+14 0 10 0
+0 6666666 185000
+A
+37 50
+A
+23 5
+A
+13 -125
+A
+13 -125
+#13407
+obj Tabard~
+A torch~
+A torch is lying here.~
+~
+9 4608 1025
+3 0 10 0
+1 800 113
+A
+24 5
+A
+23 5
+A
+13 5
+#13408
+obj Violet Sash Mi'Nas~
+The violet sash of the Mi'Nas~
+A torch is lying here.~
+~
+18 144 2049
+0 0 10 0
+0 170 340
+A
+12 5
+#13409
+obj Minstral Shoes~
+Minstral's Shoes~
+A torch is lying here.~
+~
+11 81984 65
+0 0 10 0
+1 2135 450
+A
+2 3
+A
+14 20
+A
+17 -2
+#13410
+obj Green Sash D'raril~
+The green shash of the D'raril's~
+A torch is lying here.~
+~
+18 16 2049
+0 0 10 0
+1 2135 470
+A
+28 -5
+#13411
+obj Claws~
+Claws of the Forvalaka~
+A torch is lying here.~
+~
+5 1048720 8193
+0 6 6 1
+1 5 210000
+A
+2 6
+A
+19 6
+A
+1 -6
+A
+5 -6
+#13412
+obj Tail Forvalaka Belt~
+A torch~
+A torch is lying here.~
+~
+11 0 2048
+0 0 10 0
+1 5 5
+A
+39 0
+A
+20 6
+A
+13 -100
+A
+12 -100
+#13413
+obj Skin Forvalaka Cloak~
+a cloak~
+A torch is lying here.~
+~
+9 144 9
+0 0 10 0
+1 5 5
+A
+34 0
+#13414
+obj Mushroom Fungus Food~
+A torch~
+A torch is lying here.~
+~
+19 0 1
+0 0 10 0
+1 5 1
+$~
+#999999

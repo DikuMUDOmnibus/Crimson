@@ -1,0 +1,348 @@
+#14200
+mob guard~
+the Guard~
+A Cityguard is here, looking for trouble
+~
+A young man clad in inexpensive armor. He wears a stern look on his face.
+~
+10 0 0 S
+10 23 15 180d1+0 1d3+10
+6000 15000
+8 8 1
+#14201
+mob sandworm worm~
+the Sandworm~
+An enormous sandworm wriggles in the sand.
+~
+Before you lies a giant tube of enormous purple skin. A giant three hunged jaw
+open slowly, exposing a large pink tounge. Whatever this creature is, he looks
+hungry.
+~
+4138 8 0 S
+20 6 7 560d1+0 3d3+20
+50000 30000
+8 8 1
+#14202
+mob peddler~
+the Peddler~
+A peddler is here, selling goods from large baskets.
+~
+This is a simple man with a short black beard and large white turban wrapped
+arouns his head. His goods seem of low quality, and are of little interest to
+you.
+~
+1032 0 0 S
+10 23 15 180d1+0 1d3+10
+4000 15000
+8 8 1
+#14203
+mob Rez shopkeeper~
+Rez~
+Rez the weaponsmith is standing here, looking you up and down.
+~
+Rez is a short, grey-haired man with wide shoulders. He continues to stare at
+you as you look through his shop, and you get the general feeling that he does
+not trust his clientel.
+~
+262154 168 0 S
+50 -40 -20 20000d1+20000 100d90+90
+250000 1
+8 8 1
+#14204
+mob Habib shopkeeper~
+Habib~
+Habib the armorer is here, selling his wears.
+~
+This man has huge caloused hands from pounding on hard steel with a hammer for
+years. Although he is middle-aged, he looks strong, tough, and very healthy.
+~
+262158 136 0 S
+50 -40 -20 20000d1+20000 100d90+90
+250000 1
+8 8 1
+#14205
+mob Omar shopkeeper~
+Omar~
+Omar stands behind a counter, pushing large baskets of food in your direction.
+~
+A look at Omar shows that he has captialized upon one too many large Egyptain
+feasts. However, he still looks as though he could stand tough during a fight.
+~
+262154 136 0 S
+50 -40 -20 20000d1+20000 100d90+90
+250000 1
+8 8 1
+#14206
+mob iona shopkeeper~
+Iona~
+Iona the shopkeeper is here, hanging wet parchments over a rack.
+~
+Iona is a nearly middle aged woman who is dressed in long black robes. Her eyes
+are bright blue in color, which is very rare indeed for this part of the world.
+~
+262410 136 0 S
+50 -40 -20 20000d1+20000 100d90+90
+250000 1
+8 8 2
+#14207
+mob commoner~
+the egyptian commoner~
+An eqyptian commoner is resting here after a long day of work.
+~
+This is a short, thin man, who works long hard days for meager wages.
+~
+8 0 0 S
+6 27 19 108d1+0 8d1+0
+500 9000
+8 8 1
+#14208
+mob guard~
+the Pyramid guard~
+A Pyramid guard is here, watching out for graverobbers
+~
+This is a young man with a short, pointy beard and a shiny helmet on his head.
+He looks as though he is well-trained, and takes his job very seriously.
+~
+10 0 0 S
+15 15 10 350d1+0 2d3+16
+25000 22500
+8 8 1
+#14209
+mob nobleman egyptian~
+the egyptian nobleman~
+An egyptian nobleman is standing here, counting his pocket change.
+~
+This man is overdressed in gaudy fashions. He stinks of expensive perfumes, and
+his face is covered with make up in several places.
+~
+4104 0 0 S
+16 18 11 316d1+0 4d3+10
+25000 24000
+8 8 1
+#14210
+mob captain guard~
+the Captain of the Guard~
+The Captain of the Guard is here, humming softly to himself.
+~
+This man appears to be in his late thirties. His arms and chest are bulging
+with nearly super-human muscles. From his neck dangles a small golden key on a
+string.
+~
+10 0 0 S
+25 -15 0 1500d1+0 2d3+36
+60000 37500
+8 8 1
+#14211
+mob vangar~
+Vangar~
+General Vangar is here, thinking of new ways to kill people.
+~
+Vangar has prematurely grey hair and a straight nose. He wears a large helmet
+on his head and holds a long, straight spear in his hand. He looks like an
+extremely strong and able warrior.
+~
+262154 8 0 S
+30 -30 -5 3000d1+0 5d3+50
+50000 45000
+8 8 1
+#14212
+mob Antonious~
+Antonious~
+Antonious is here, pouring over some battle maps.
+~
+This is a young man in his late twenties. Legends of his great naval fleet and
+glorious victories upon the high seas have made him famous throughout the land.
+Rumors have spread that he is the current lover of Cleopatra.
+~
+262158 136 0 S
+35 -45 -10 4000d1+0 5d3+90
+200000 52500
+8 8 1
+#14213
+mob Cleopatra~
+Cleopatra~
+Cleopatra is lying here, dreaming of her next lover.
+~
+This is the queen of all Egypt, Cleopatra. She is dressed only is loose silk 
+robes, and her face is covered by a veil.
+~
+262410 136 0 S
+40 -48 -11 4200d1+0 8d3+100
+300000 60000
+8 8 1
+#14214
+mob guard bodyguard~
+the bodyguard~
+Cleopatra's Bodyguard is here, guarding against intruders.
+~
+This is a tall dark man dressed in all black, he looks unhappy to see you.
+~
+4138 0 0 S
+20 6 7 560d1+0 3d3+20
+50000 30000
+8 8 1
+#14215
+mob giant brown snake~
+the giant brown snake~
+A giant brown snake with huge fangs slithers by.
+~
+This large reptile has a diamond-shaped head as big as a watermelon! Several
+naturally occuring bright yellow and black stripes ardorn his back.
+~
+65576 8 0 S
+16 12 9 420d1+0 1d3+20
+40000 24000
+8 8 1
+#14216
+mob skeleton slave~
+the skeleton of a slave~
+A skeleton of a slave is standing here, waiting to do the pharaoh's bidding.
+~
+No skin remains on this long-dead, animated corpse. He carries only a long
+sword, but supernatural forces which have raised him from the dead seem to have
+given him incredible strength.
+~
+33554474 8 0 S
+17 9 8 420d1+0 2d3+20
+45000 25500
+8 8 1
+#14217
+mob undead mummy general~
+the mummy of a general~
+A mummy of a general is standing here, longing to have the right to kill again.
+~
+A white skull can barely be seen through a tightly wrapped cloth that covers
+this being's entire body. He silently attacks you.
+~
+33554474 1032 0 S
+20 0 5 700d1+0 5d3+20
+50000 30000
+8 8 1
+#14218
+mob moses~
+Moses~
+Moses, leader of the Isrealites, is here, looking for a way out.
+~
+This is a tall man with a white flowing beard and long hair.  He dons a dark
+blue robe, and looks happy to see you.
+~
+262666 136 0 S
+29 -15 0 1500d1+0 5d3+30
+55000 43500
+8 8 1
+#14219
+mob Tut Tutankahmen~
+Tutankahmen~
+The mummy of the long dead pharaoh Tutankahmen sits here, looking at you.
+~
+The nearly perfectly preserved face of Tutankahmen wears a disturbed expression.He sees to have a helpless look in his eyes. You notice a large unnatural gash
+behind his ear, running down the side of his neck.
+~
+33816586 136 0 S
+35 -39 -8 3600d1+0 2d3+80
+200000 52500
+8 8 1
+#14220
+mob Aelphia~
+Aelphia~
+Aelphia, wife of Tutankahmen, sits here, mourning the death of her dynasty.
+~
+The corpse of this woman has withstood the decay of many long years due the
+embalming process of the ancient Egyptians. She peers into your eyes with a
+look of longing, and you sense that she has had to endure a great hardship for
+many years.
+~
+33816586 136 0 S
+30 -24 -3 2400d1+0 1d3+50
+65000 45000
+8 8 0
+#14221
+mob mummy guard large~
+the large mummy~
+A large mummy is here, guarding the tomb.
+~
+This humanoid is wrapped entirely from head to toe in dingy linen cloth. Only
+a small dark slit has been exposed so that he can see you.
+~
+33554474 1024 0 S
+20 0 5 700d1+0 5d3+20
+50000 30000
+8 8 1
+#14222
+mob mummy wandering~
+the wandering mummy~
+A wandering mummy stumbles across the room.
+~
+A disheleved rotting corpse wanders the halls. He has a blank stare in 
+whatever is left of his eyes. He silently attacks you.
+~
+33554472 1032 0 S
+22 -6 3 1020d1+0 2d3+30
+50000 33000
+8 8 1
+#14223
+mob enormous cobra snake~
+the enormous cobra~
+An enormous cobra lies on the staircase, hissing quietly to itself.
+~
+This immense being appears to measure 30 feet in length! His eyes flicker in
+the dim light, and you have the feeling that he hasn't had a good meal in a 
+long time...
+~
+65578 8 0 S
+27 -21 -2 2100d1+0 4d3+40
+55000 40500
+8 8 1
+#14224
+mob ramses~
+Ramses~
+The preserved of corpse of Ramses, great pharaoh of the Egyptians, is resting
+here.
+~
+The man before you has a stern expression and excellent posture. His skin has
+become pale green, but has hardly decayed after years of lying in a cold, dark
+tomb. He rises slowly, reaizing that the energy from fresh life forms will
+allow him to preserve his body for a longer time.
+~
+33817098 67109000 0 S
+40 -51 -11 4200d1+0 8d3+100
+250000 60000
+8 8 1
+#14225
+mob the big ugly mean aggressive thing~
+the big ugly mean aggressive thing~
+A big ugly mean aggressive thing is here, pouring salt on you.
+~
+The beast standing before you is big ugly mean and aggressive. It looks hungry!
+~
+42 8 0 S
+25 -15 0 1500d1+0 5d3+30
+55000 37500
+8 8 1
+#14226
+mob palace guard~
+the palace guard~
+A palace guard is here keeping watch over the gate.
+~
+This guard look strong and well-trained. Although he is young, he must have
+been some form of military rank to hold this important position.
+~
+262155 0 0 S
+18 6 7 560d1+0 3d3+20
+35000 27000
+8 8 1
+#14227
+mob heucuva~
+the heucuva~
+A heucuva is here, reciting a prayer.
+~
+The is the priest how performed the funeral for Ramses. He now continues to
+recite the prayers which helped Ramses gain entrance into the afterlife for all
+of eternity.
+~
+33817098 1160 0 S
+35 -33 -6 3200d1+0 4d3+60
+200000 52500
+8 8 1
+$~
+#999999

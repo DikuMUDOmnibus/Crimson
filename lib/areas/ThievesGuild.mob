@@ -1,0 +1,285 @@
+#16600
+mob shady thief guard~
+The shady guard~
+A shady guard is here, eyeing you suspiciously.
+~
+This is a shady guard, guarding the entrance to an obviously 
+cooler place.
+~
+106 34078760 -250 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 0
+#16601
+mob quinn thief master~
+Quinn, the Master Thief~
+Quinn, the Master Thief, is expecting your arrival.
+~
+Looking at this suave guy, you would never know that he is the head of 
+this operation.  But then, an ordinary looking guy makes the best 
+thief.  He winks at you and rushes to the attack!
+~
+110 34078856 -200 S
+30 -24 -3 2400d1+0 9d3+34
+50000 45000
+8 8 0
+#16602
+mob head interrogator~
+The Head Interrogator~
+The Head Interrogator is devising a plan to loosen your tongue!
+~
+   A woman with no compassion in her eyes stares at you in disbelief for
+barging into her room.  You think, "How could a woman be the head 
+interrogator?"  But then you realize that only a woman could be cruel
+enough for the job.  She does all she can to kill you.
+~
+266350 33554568 -1000 S
+33 -27 -4 2700d1+0 10d3+36
+68000 48500
+8 8 0
+#16603
+mob annoying hidden guard~
+An annoying hidden guard~
+A hidden mob is here; you can't see him.
+~
+This guard was hidden, which is why you didn't see him until he attacked
+you.  You suspect he is only one of many.
+~
+108 43515912 -185 S
+15 15 10 350d1+0 5d3+10
+5000 2250
+8 8 0
+#16604
+mob scary spider~
+A scary spider~
+A scary spider is looking for someone to suck.
+~
+Even you, a hardened adventurer, is intimidated by this abnormally large
+spider.  It turns its fangs upon you and contemplates whether to suck away.
+~
+16842952 33554432 0 S
+5 28 20 90d1+0 2d3+3
+500 7500
+8 8 0
+#16605
+mob thief blacksmith~
+the blacksmith~
+An enormously strong blacksmith is here, making thiefly tools.
+~
+The thieves' blacksmith is an enormously huge man, with forearms as big as
+your thighs.  He pays no attention to you when you walk in, but continues
+his delicate work on a set of lockpicks.
+~
+295950 33556616 -200 S
+25 -3 4 860d1+0 6d3+20
+30000 37500
+8 8 0
+#16606
+mob graffin's shadow thief~
+the shadow~
+The shadow knows what evil lurks in the hearts of thieves.
+~
+Who knows what evils lurk in the hearts of thieves?  The shadow, of
+course.  And he will know what lurks in your heart too, as soon as he 
+slices it open!
+~
+33932 106430464 -200 S
+15 21 13 248d1+0 4d3+6
+5000 22500
+8 8 0
+#16607
+mob Mystif sage soothsayer~
+Mystif~
+Mystif, resident sage and soothsayer, is telling the future here.
+~
+The secret to a successful thieves guild is a good sage and soothsayer, 
+preferably one who can see the future, as this grizzled old man can.
+He doesn't SEEM to have much physical strength.
+~
+264974 33554568 -1 S
+35 -27 -4 2700d1+0 13d3+30
+80000 52500
+8 8 0
+#16608
+mob ugly otyugh~
+the Otyugh~
+An ugly Otyugh is here, devouring garbage, and YOU!
+~
+The Otyugh is a bulbous creature, six feet high with fearsome teeth and
+tentacles.  As you enter, he raises his tentacles for a strike at fresh meat.
+~
+73774 100663432 0 S
+27 -6 3 1020d1+0 7d3+20
+30000 40500
+8 8 0
+#16609
+mob jhessail~
+Jhessail the Relentless~
+Jhessail the Relentless is preparing to meet her next victum.
+~
+  You see before you a very short woman.  She is only about 3 and 1/2 feet
+tall but she seems very intimidating none the less.  She is here practicing
+her fighting skills and you notice that she moves with lightning speed and
+always goes directly for the kill, never leaving her victums any opportunity
+to harm her.  She seem to be a great warrior in thieves clothing and you see
+a fire building in her eyes as she turns toward you.  She raises her weapons
+and runs directly at you, obviously preparing to add you name to her list of
+deceased foes.
+~
+270446 33816744 -250 S
+30 -18 -1 1800d1+0 7d3+30
+50000 45000
+8 8 0
+#16610
+mob deadly virus~
+The Deadly Virus~
+The Deadly Virus is here, attempting to enter you.
+~
+The Deadly Virus is a thief who earned that name by being quick, invisible,
+and impossible to kill.  Not to mention he messes you up really bad for
+a long time.
+~
+3180 102236296 0 S
+25 0 5 700d1+0 6d3+20
+25000 37500
+8 8 0
+#16611
+mob high thief guard~
+the thief guard~
+A high-ranking thief guard is here, guarding stuff.
+~
+A high level thief guard move with the grace and confidence of a cat.  His
+piercing eyes help in intimidating you as he looks for your weaknesses.
+~
+46 33554568 -100 S
+28 -18 -1 1800d1+0 7d3+30
+40000 42000
+8 8 0
+#16612
+mob the court jester~
+the Court Jester~
+The Court Jester is here, entertaining you.
+~
+The jester in this court has a thankless job.  If for just one day he fails
+to make Quinn laugh, he is sent to the Interrogator for some "reward."  
+He implores you to smile.
+~
+296074 34078848 100 S
+29 -21 -2 2100d1+0 9d3+30
+45000 43500
+8 8 0
+#16613
+mob nick fence~
+Nick~
+Nick the Fence is here, selling not-so-hot merchandise.
+~
+Before you stands a VERY big man with a smile on his face.  He examines you
+nonchalantly and furtively covers his merchandise.  He looks you right in
+the eye and says, "What can i get for ya?"
+~
+267342 101187712 0 S
+27 -12 1 1340d1+0 10d3+20
+35000 40500
+8 8 0
+#16614
+mob rust monster~
+the rust monster~
+A rust monster is here, looking for some food.
+~
+This is a small, flat mammalian-looking create with shovel-shaped tail and a
+craving for metal as food.  It eyes you and then decides it is hungry.
+~
+16818284 100663296 0 S
+15 20 12 290d1+0 5d3+6
+10000 22500
+8 8 0
+#16615
+mob flame salamander fire~
+the flame salamander~
+A fire salamander is here, emerging from the lava flow.
+~
+This is apparently a tall, thin humanoid with red, scaly skin and a tail.
+It has a passion for fire and wields a wicked-looking weapon.
+~
+16779500 33554432 0 S
+10 25 17 150d1+0 5d3+0
+1000 15000
+8 8 0
+#16616
+mob grendel fiery dragon~
+Grendel~
+Grendel, the Fiery Dragon, is here, ruling his people.
+~
+Grendel the dragon rules his people with an even hand.  His symbol is, of 
+course, the scales of justice.  He has little tolerance of people other
+than his own.
+~
+4458762 100663432 0 S
+35 -24 -3 2400d1+0 6d3+40
+80000 52500
+8 8 0
+#16617
+mob glabrezu~
+the glabrezu~
+The glabrezu is here, and it is hungry!
+~
+The glabrezu is a creature native to another plane of existence, a plane
+not as nice as this one.  Needless to say it is not happy about being 
+trapped in this maze, and it wants to take its frustrations out on you.
+~
+8556 101187592 -500 S
+20 15 10 350d1+0 5d3+10
+15000 30000
+8 8 0
+#16618
+mob pit fiend~
+the pit fiend~
+A pit fiend is here, heating up lunch with his breath.
+~
+The horrid abomination before you is one of the ruling race of Tarterus.
+He is EXTREMELY upset about being trapped in this crappy dimension.
+~
+2924 101187592 -1000 S
+20 15 10 350d1+0 5d3+10
+15000 30000
+8 8 0
+#16619
+mob worm purple~
+the purple worm~
+A purple worm is here, existing.
+~
+The purple worm is a gigantic monster, a full 30 feet long and all
+tube.  You almost don't know which end to attack.
+~
+17047598 33554432 0 S
+20 6 7 560d1+0 8d3+10
+15000 30000
+8 8 0
+#16620
+mob black cat~
+the black attack cat~
+The black attack cat is here, guarding the room.
+~
+This black cat is large for its species, but is still as agile
+and powerful as its cousins.  It stares you down with its
+yellow eyes.
+~
+16777386 36175872 0 S
+10 23 15 180d1+0 4d3+4
+1000 15000
+8 8 0
+#16621
+mob foxy lady~
+the foxy lady~
+A foxy lady is here, attempting to seduce you.
+~
+A scantily clad young lady is trying to seduce you.  It doesn't
+matter if you are female too, she will still try to seduce you.
+What is this mud coming to?
+~
+1166 33554560 -250 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 0
+$~
+#999999

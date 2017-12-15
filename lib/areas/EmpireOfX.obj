@@ -1,0 +1,55 @@
+#20600
+obj Heart Black~
+a Dragon's Black Heart~
+a Black Heart is here beating strangly.~
+~
+17 1089540 16385
+50 25 13 0
+3 10000 5000
+A
+36 -1
+A
+37 -1
+#20601
+obj Sword Infernoic~
+a DragonMaster's Infernoic Sword~
+A hot red sword is here burning up the ground.~
+~
+5 512 8193
+2 19 1 0
+1 5 5
+#20602
+obj fountain~
+the Fountain of X~
+The fountain of X is here spreading a calm feeling throughout the empire.~
+~
+17 2 0
+1000 1000 6 0
+1 5 5
+E
+lemonade~
+The liquid inside the fountain look sweet and refreshing.
+~
+A
+37 5
+#20603
+obj fountain~
+the Magical Fountain~
+A Magical Fountain supplies water here.~
+~
+17 1 0
+1000 1000 4 0
+2147483647 0 2147483647
+E
+a marble fountain~
+~
+#20604
+obj torch~
+a torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

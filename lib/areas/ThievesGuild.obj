@@ -1,0 +1,466 @@
+#16600
+obj parrying dagger~
+a parrying dagger~
+A long, oddly shaped dagger is lying here.~
+~
+9 540672 16385
+20 0 10 0
+5 12041 3500
+A
+3 -1
+A
+12 -10
+#16601
+obj key worn old~
+an old, well worn key~
+An old, worn key is lying here.~
+~
+18 262144 1
+16601 0 10 0
+1 1 -1
+#16602
+obj hat feathered flaming~
+a feathered hat~
+A hat with a flaming red feather is lying here, collecting dust.~
+~
+9 1081408 17
+2 0 10 0
+3 100000 15000
+A
+2 3
+A
+36 -1
+A
+3 -1
+A
+26 -1
+#16603
+obj rapier jade-hilted~
+a jade-hilted rapier~
+A jade-hilted rapier is lying here.~
+~
+5 1101952 8193
+64 6 5 3
+9 150000 25000
+A
+18 3
+A
+2 1
+A
+4 -2
+#16605
+obj shiny steel key~
+a shiny steel key~
+A shiny steel key is lying here, glinting with your reflection.~
+~
+18 0 16385
+16605 0 10 0
+3 2 -1
+#16606
+obj tongue loosened~
+a loosened tongue~
+A loosened tongue is lying here, begging to be used.~
+~
+5 0 8193
+0 1 1 7
+1 5 5
+#16607
+obj skeleton~
+a skeleton~
+A skeleton lies here, with some old items among the bones.~
+~
+15 0 0
+500 1 10 0
+100 1 100000000
+#16608
+obj etched teak wood bracelet~
+an etched teak bracelet~
+A bracelet made from teak wood is lying here.~
+~
+9 1069376 4097
+5 0 10 0
+3 10000 5000
+A
+19 2
+A
+1 1
+A
+2 -2
+A
+27 -1
+#16609
+obj spiked hook~
+a spiked hook~
+A nasty looking hook with a BIG spike is lying here.~
+~
+5 1114128 8193
+8192 7 3 3
+15 8000 5000
+A
+19 2
+A
+23 -2
+#16610
+obj old rotten barrel~
+an old, rotten barrel~
+An old, rotten barrel, still holding its contents, is here.~
+~
+17 0 1
+10 8 6 1
+10 1 20
+#16611
+obj pimento loaf~
+a pimento loaf~
+A luscious looking pimento loaf lies here, looking at you.~
+~
+19 0 1
+20 0 10 0
+1 8 2
+#16612
+obj housebreaker's harness~
+a housebreaker's harness~
+A harness of some sort is lying here.  It looks shady.~
+~
+15 589824 2049
+150 0 10 0
+5 200 1000
+A
+14 -5
+A
+2 1
+A
+37 -1
+#16613
+obj lockpicks~
+some lockpicks ~
+Some well-made lockpicks are lying here.~
+~
+11 557088 16385
+1 2 3 4
+1 1400 2000
+A
+2 3
+A
+4 -2
+A
+18 1
+#16614
+obj head cheese~
+some head cheese~
+Some "delicious" looking head cheese is lying here.~
+~
+19 16 16385
+10 0 10 1
+1 1 3
+#16615
+obj stone Eh'Qadish~
+the Stone of Eh'Qadish~
+The Stone of Eh'Qadish was lovingly placed here.~
+~
+9 524289 16385
+5 0 10 0
+1 5 5
+A
+4 2
+A
+12 20
+A
+1 -1
+#16616
+obj backpack~
+a backpack~
+A backpack is lying here.~
+~
+15 524289 1
+300 0 10 0
+10 2000 300
+#16617
+obj speckled sleeves~
+some speckled sleeves~
+Some velvet sleeves, decorated with magical speckles, lie here.~
+~
+9 1056832 257
+5 0 10 0
+3 10000 6000
+A
+12 15
+A
+4 1
+A
+14 -5
+#16618
+obj shiny black pants~
+some shiny pants~
+Some shiny black pants lie crumpled in a corner.~
+~
+9 1146960 33
+3 0 10 0
+3 10000 7000
+A
+12 15
+A
+2 -1
+A
+24 -3
+#16619
+obj hole wall~
+the hole in the wall~
+The is a hole in the wall here.~
+~
+15 0 0
+10000 0 10 0
+1 5 5
+#16620
+obj bottle fine wine~
+a bottle of fine wine~
+A bottle of fine wine is here, completing the mood.~
+~
+17 0 16385
+50 50 2 0
+1 5 5
+#16621
+obj black rose~
+a black rose~
+A hauntingly beautiful black rose is here.~
+~
+13 0 16385
+0 0 10 0
+1 5 5
+#16622
+obj mono~
+a mono~
+Some lucky person got rid of their mono here.~
+~
+13 48 5
+0 0 10 0
+1 0 0
+A
+1 -2
+A
+5 -2
+A
+14 -15
+A
+2 -2
+#16623
+obj tapestry~
+a tapestry~
+A tapestry is here, speaking of old times.~
+~
+13 0 0
+0 0 10 0
+1 5 5
+#16624
+obj ornamental plate mail armor~
+some ornamental plate mail~
+Someone discarded some beautiful armor here.~
+~
+9 2097217 9
+7 0 10 0
+30 100000 15000
+A
+12 25
+A
+3 2
+A
+24 -3
+#16625
+obj eq saver~
+the EQ Saver~
+The EQ Saver is lying here.~
+~
+18 262176 1
+16625 0 10 0
+1 1 -1
+#16626
+obj beautiful evening gown~
+a beautiful evening gown~
+A beautiful evening gown is lying here.~
+~
+11 0 9
+0 0 10 0
+1 5 5
+#16627
+obj ornate case~
+an ornate sword case~
+An ornate sword case is here, displaying priceless weapons.~
+~
+15 32 0
+10000 1 16627 0
+1000 5 10000000
+#16628
+obj ornamental key~
+an ornamental key~
+An ornamental key is lying here.~
+~
+18 0 16385
+16628 0 10 0
+1 1 -1
+#16629
+obj jester hat~
+a red and green jester hat~
+A red and green hat of some sort is here.  It looks silly.~
+~
+9 1052737 17
+5 0 10 0
+3 10000 3000
+A
+5 1
+A
+19 2
+A
+18 -1
+#16630
+obj lace teddy~
+a red, lacey teddy~
+A seductive, red, lacey teddy is lying here.~
+~
+9 524800 9
+3 0 10 0
+1 1000 750
+A
+2 1
+A
+23 -2
+#16631
+obj scales justice~
+some scales of justice~
+The scales of justice are here, keeping balance.~
+~
+9 1048641 16385
+5 0 10 0
+10 10000 3000
+A
+19 1
+A
+12 15
+A
+2 -1
+#16632
+obj trident~
+a red hot trident~
+A red hot trident is lying here, smoldering.~
+~
+5 1 8193
+256 3 7 11
+1 5 5
+A
+18 3
+#16633
+obj shrine~
+a shrine~
+A shrine is here, glorifying an unknown god.~
+~
+15 1 0
+10000 0 10 0
+1 5 5
+#16634
+obj shard doom~
+the Shard of Impending Doom~
+A shard half wrapped in cloth is here.~
+~
+5 1049252 8193
+1027 1 8 11
+5 100000 10000
+A
+19 3
+A
+18 3
+A
+13 -15
+#16635
+obj murky pool~
+a murky pool~
+A murky pool of water covers part of the floor here.~
+~
+15 0 0
+10000 0 10 0
+99 5 1000000000
+#16636
+obj chain mail etherealness~
+some chain mail of etherealness~
+Some chain mail that doesn't look quite real is here.~
+~
+9 2097184 9
+20 0 10 0
+5 100000 15000
+A
+14 -10
+A
+19 1
+#16637
+obj teal satin gloves~
+some teal satin gloves~
+Some teal gloves lie here.~
+~
+9 540736 129
+5 0 10 0
+1 1000 2000
+A
+18 3
+A
+19 1
+A
+33 -1
+#16638
+obj red kango~
+a red kango~
+A red kango is lying here.~
+~
+9 1048640 17
+5 0 10 0
+1 2000 2000
+A
+1 2
+A
+5 2
+A
+4 -1
+A
+19 1
+#16639
+obj pearl necklace~
+a pearl necklace~
+A pearl necklace is here.~
+~
+9 524288 5
+4 0 10 0
+1 1000 500
+A
+13 15
+A
+18 2
+A
+24 -1
+#16640
+obj cloudy crystal ball~
+a cloudy crystal ball~
+A cloudy crystal ball is here, telling the future.~
+~
+9 2097153 16385
+2 0 10 0
+5 10000 5000
+A
+3 3
+A
+4 3
+A
+1 -2
+A
+12 10
+#16641
+obj pointed ruby crown~
+a pointed ruby crown~
+A pointed ruby crown is here.~
+~
+9 1048833 17
+10 0 10 0
+10 10000 10000
+A
+5 2
+A
+9 15
+A
+24 -2
+$~
+#999999

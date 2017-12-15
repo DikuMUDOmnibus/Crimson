@@ -1,0 +1,368 @@
+#0
+obj sword~
+a long sword~
+A long sword has been left here.~
+~
+16 0 1
+10 6 3 0
+1 0 100
+E
+is Renegade's treasure hunt item~
+~
+E
+sword~
+this is Renegade's treasure hunt item
+~
+A
+41 5
+A
+45 5
+A
+42 5
+A
+44 5
+#1
+obj staff~
+A God Emblazened Staff~
+a shimmering band of light cuts through the air~
+~
+5 2097152 8193
+16384 6 6 7
+12 1000 35500
+A
+41 1
+A
+18 3
+A
+19 5
+#2
+obj tulip~
+a cream coloured tulip~
+a single cream coloured tulip~
+~
+12 0 16385
+0 0 10 0
+1 5 5
+#3
+obj shield~
+A God Emblazened Shield~
+there is a shimmering substance~
+~
+9 2 513
+40 0 10 0
+1 5 5
+A
+36 -1
+A
+12 100
+A
+37 -1
+A
+41 4
+#4
+obj oak bed~
+a large oak bed~
+a large oak bed sits in front of the fireplace~
+~
+12 0 0
+0 0 10 0
+1 5 5
+E
+my what a comfortable looking bed. plentyu of room for two as well.~
+my what a comfortable looking bed. plenty of room for two as well.
+~
+E
+bed~
+my that is a comfortable looking bed. plenty of room for two as well.
+~
+#5
+obj nightie~
+a dark velvet silk nightie~
+a dark velvet silk nightie~
+~
+9 1 9
+0 0 10 0
+1 5 5
+#6
+obj stuffed animal~
+a large fluffy stuffed animal~
+a large fluffy stuffed animal~
+~
+9 0 1
+0 0 10 0
+1 5 5
+#7
+obj ring~
+an engagement ring~
+an engagement ring~
+~
+9 1 3
+0 0 10 0
+1 5 5
+#8
+obj dress~
+a royal purple silk dress~
+a royal purple silk dress~
+~
+9 1 9
+0 0 10 0
+1 5 5
+#9
+obj necklace~
+a sparkling necklace~
+a sparkling necklace~
+~
+9 1 5
+0 0 10 0
+1 5 5
+#10
+obj directory~
+a warp-zone directory~
+There is a directory here, demanding to be read~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+directory ~
+Crimson Warp-Zone Directory
+North: Midgaard
+South: Arachnos
+East : Newbie Village
+West : Dwarven Kingdom
+
+Down : Crimson Warp-Zone Level2
+~
+#11
+obj directory~
+directory~
+There is a directory here, demanding to be read~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+directory~
+Crimson Warp-Zone Directory
+
+North: Elfin Citadal
+South: Castle Bryan
+East : Drow City
+West : Silverdale
+
+Up   : Crimson Warp-Zone Level 1
+Down : Crimson Warp-Zone Level 3
+~
+#12
+obj directory~
+directory~
+There is a directory here, demanding to be read~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+directory~
+Crimson Warp-Zone Directory
+
+North: Thalos
+South: Quifael's Residence
+East : Redferne's Residence
+West : Egypt
+
+Up   : Crimson Warp-Zone Level 2
+Down : Crimson Warp-Zone Level 4
+~
+#13
+obj directory~
+directory~
+There is a directory here, demanding to be read~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+directory~
+Crimson Warp-Zone Directory
+
+North: Wackyland
+South: Vampire Lair
+East : Shaolin
+West : Arnath
+
+Up   : Crimson Warp-Zone Level 3
+Down : Crimson Warp-Zone Level 5
+~
+#14
+obj directory~
+directory~
+There is a directory here, demanding to be read~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+directory~
+Crimson Warp-Zone Directory
+North: Gnome Village
+South: Tuscany
+East : Thieves' Guild
+West : Amazon Jungle
+
+Up   : Crimson Warp-Zone Level 4
+Down : Crimson Warp-Zone Level 6
+~
+#15
+obj directory~
+directory~
+There is a directory here, demanding to be read~
+~
+12 1 0
+0 0 10 0
+1 5 5
+E
+directory~
+Crimson Warp-Zone Directory
+
+North: Lair of the Ratmen
+South: Snotling Camp
+East : The Tower of Sorcery
+West : Atlantis
+
+Up   : Crimson Warp-Zone Level 5
+Down : Crimson Warp-Zone Level7
+~
+#16
+obj directory~
+directory~
+There is a directory here, demanding to be read~
+~
+12 1048577 0
+0 0 10 0
+1 5 5
+E
+directory~
+Crimson Warp-Zone Directory
+North: Mud School
+South: Darkwood
+East : Gargath Keep
+
+Up   : Crimson Warp-Zone Level 6
+~
+#17
+obj diamond wedding ring~
+a diamond wedding ring~
+A very expensive looking diamond ring is here.~
+~
+9 65 3
+10 0 10 0
+1 300000 10000
+A
+19 4
+A
+18 4
+A
+13 50
+#18
+obj diamond tiara~
+a diamond tiara~
+A gorgeous diamond tiara is lying here.~
+~
+9 4194369 17
+4 0 10 0
+2 1000000 6000
+A
+9 -4
+A
+28 -1
+A
+13 25
+#19
+obj Sword of Death~
+Sword of Death~
+A powerful sword has been left here.~
+~
+5 4195648 8193
+18464 10 6 3
+5 5000000 100000
+A
+3 2
+A
+19 5
+A
+18 5
+A
+41 2
+#20
+obj Vicious Sword~
+a Vicious Sword~
+Someone has left a good sword here.~
+~
+5 4195649 8193
+0 10 6 3
+5 5000000 100000
+A
+3 2
+A
+18 5
+A
+19 5
+A
+41 2
+#21
+obj pooky sceptre rulership~
+Pooky's Sceptre of Rulership~
+A gleaming sceptre has been accidentally misplaced here.~
+~
+1 4194631 65537
+0 0 10 0
+1 5 5
+#22
+obj fuzzy fur~
+fuzzy fur~
+some fur lies here.~
+~
+9 0 9
+0 0 10 0
+1 5 5
+#23
+obj sign ~
+a sign~
+A sign is here for Pooky...Help Me Please!~
+~
+16 0 0
+0 0 10 0
+1 5 5
+E
+Pooky....How do i get ride of this sign?~
+Pooky....How do i get rid of this sign peminatly from my room?   Vortex~
+#24
+obj torch~
+a torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+#25
+obj jeans~
+blue jeans~
+a pair of jeans lay here~
+~
+13 0 33
+0 0 10 0
+1 5000 5
+#26
+obj delicate black rose~
+a delicate black rose~
+a delicate black rose lies here~
+~
+9 0 17
+10 1 10 10
+5 5 500
+A
+19 2
+A
+36 5
+$~
+#999999

@@ -1,0 +1,212 @@
+#8200
+Aragon's Room of Thinking Creatively~
+You have entered, through some arcane means, a large brightly lit room. The
+walls are covered in books neatly arranged on bookshelves. The titles seem
+to range from fantasy to horror, from Ann Rice to Mercedes Lackey. A patio
+door stands to the south. Through the glass you see a lush forest.
+~
+20 8 0
+D2
+~
+~
+2 -1 8201
+D4
+void~
+~
+2 -1 3001
+S
+#8201
+The path to Llewchr Nor~
+After crossing the bridge over the river, you find yourself on a path leading
+into a darkened wood. Trees tower tall overhead, and birdsong comes from
+within the forest. It is all very seductive, and you feel almost compelled to
+enter.
+~
+20 0 3
+D0
+A large patio door stands to the north, across a bridge
+~
+~
+0 -1 8200
+D2
+The path leads to the south, into the forest.~
+~
+0 -1 8202
+S
+#8202
+Llewchr Nor~
+As you walk into the forest, you feel it close around you. It calls to you
+with a welcoming song. It is very peaceful here. You know that the forest is
+dangerous, but, at this moment, it feels like the calmest place in the world.
+The path leads to the south, deeper into the forest, and to the north, leaving
+the wood.
+~
+20 4 3
+D0
+The path leads north, out of the forest.~
+~
+0 -1 8201
+D2
+The path leads south into the forest~
+~
+0 -1 8203
+S
+#8203
+The crossroads~
+The paths cross here at this part of the forest. East and west lead into the
+forest. South goes deeper into the heart of the forest, while north leaves
+the forest. You feel alone here, in this virgin forest. It seems as if no one
+has ever gone this way before.
+~
+20 0 3
+D0
+A path leads north through the forest.~
+~
+0 -1 8202
+D1
+A path leads east into the forest.~
+~
+0 -1 8204
+S
+#8204
+Llewchr Nor~
+As you travel along this dirt path, you feel a sense of someone watching you.
+As you look around you don't see any person, just trees and plantlife. A small
+patch of wildflowers are on the edge of the path.
+~
+20 0 3
+D1
+The dirt path leads east.~
+~
+0 -1 8205
+D3
+A path leads west to a crossroads.~
+~
+0 -1 8203
+S
+#8205
+Llewchr Nor~
+The path that you walk on is gradually turning from dirt to grass. Flowers are
+growing up along and inside it. The only thing that disturbs the tranquility
+of this place is the feeling of eyes upon you. You, however, see no one. The
+path travels east and west.
+~
+20 0 3
+D1
+The path becomes less well-travelled to the east.~
+~
+0 -1 8206
+D3
+The path leads west.~
+~
+0 -1 8204
+S
+#8206
+deep within Llewcyr Nor~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+D3
+The path gradually widens to the west.~
+~
+0 -1 8205
+S
+#8207
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8208
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8209
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8210
+t~
+
+~
+20 8 1
+S
+#8211
+t~
+
+~
+20 266 3
+S
+#8212
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8213
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8214
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8215
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8216
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8217
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8218
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8219
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+#8220
+the unfinished wasteland~
+You have entered a room that is pure gray. There are no distiguishing markers
+whatsoever. It looks like the person who created this place took a day off.
+~
+20 8 1
+S
+$~
+#999999

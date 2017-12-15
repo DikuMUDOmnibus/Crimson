@@ -1,0 +1,990 @@
+#15550
+Realm of Fire~
+This room is made totally of fire.  Never before have you seen such beauty
+surrounded by death.  There is an ever present feeling of evil that lurks
+here.  A sign on the wall welcomes all visitors to the Plane of Fire.
+~
+44 8 1
+D0
+Too dark to tell.
+~
+~
+0 -1 15551
+D1
+Apollo's Sun Room lies to the east.
+~
+~
+0 -1 15565
+D2
+Grimralde's Torture Room lies to the south.
+~
+~
+0 -1 15576
+D3
+You see the eastern river bank.
+~
+~
+0 -1 15577
+S
+#15551
+The Elemental Lair~
+You step into a dry and dusty room.  You notice the walls begin to move
+as you enter.  The room starts to close in on you and you begin to feel
+enclosed upon.
+~
+44 1544 1
+D0
+A wall of flame lies to the north.
+~
+~
+16 -1 15552
+D2
+The realm of fire lies to the south.
+~
+~
+0 -1 15550
+S
+#15552
+The Circular Room~
+This is a huge circular room.  It glows brightly with flames.  The flames
+reach out and touch you, yet you are not hurt.  You feel safe for a moment,
+then you sense a great evil come upon you.  You look up and you see a 
+gaseous being standing before you, his shadow outlined only by the flames 
+in the walls.
+~
+44 520 1
+D0
+~
+door~
+17 15577 15553
+D1
+It's too dark to tell.
+~
+~
+0 -1 15554
+S
+#15553
+Caribus' Treasure Room~
+As you enter this room you are momentarily blinded as the flames reflect 
+off a shiny substance sitting on the floor.  You regain your sight and 
+realize that the floor here is covered with gold.  
+~
+44 520 1
+D2
+~
+~
+16 -1 15552
+S
+#15554
+Room of Darkness~
+You are surrounded by total darkness, not even the fire lights this room up.
+~
+44 649 1
+D1
+Death's waiting room lies to the east.
+~
+~
+0 -1 15555
+D2
+The Game Room is to the south.
+~
+~
+0 -1 15563
+D3
+~
+~
+16 -1 15552
+S
+#15555
+Death's Waiting Room~
+You hear faint screams but are unsure of which direction they come from.  On 
+the north wall is a warning that is written in blood that reads, "BEWARE...." 
+and that's all it says.  There are a pile of bones with decayed skin right 
+underneath the sign.  
+~
+44 137 1
+D0
+Entrance to the Kingdom of Flame can be seen to the north.
+~
+~
+16 -1 15557
+D1
+The pound --- WOOF WOOF!
+~
+~
+0 -1 15556
+D2
+You see a bright red room.
+~
+~
+0 -1 15564
+D3
+It's to dark to tell.
+~
+~
+0 -1 15554
+S
+#15556
+The Pound~
+This room is cluttered with human sized bones and water dishes the size of
+cow vats.  The room is very small considering the inhabitants of this room
+are in, and you and your party have disrupted their feeding.  The large 
+creatures look at you with hungry eyes and give you a feeling of despair.
+~
+44 9 1
+D2
+The stables are south of here.
+~
+~
+0 -1 15570
+D3
+Death awaits you there.
+~
+~
+0 -1 15555
+S
+#15557
+Entrnace to the Kingdom of Flame~
+You stand before a large gate made of gold and rare jewels.  The gate looks
+well used.  The walls surrounding the gate are unusually tall.  They scale 
+upwards in excess of 50 feet. 
+~
+44 9 1
+D0
+Heading north, you could enter the Kingdom.
+~
+~
+0 -1 15558
+D2
+~
+~
+16 -1 15555
+D3
+~
+~
+16 -1 15560
+S
+#15558
+Drawbridge~
+You stand on an old drawbridge.  The wood is quite splintery and eaten up.
+The bridge stays down all the time to let the weary travellers of this 
+forgotten realm enter at will.  As you look down you notice a lake of fire 
+with some kind of snake like creature diving in and out of the flames.
+~
+44 8 1
+D2
+Death awaits you there.
+~
+~
+0 -1 15557
+D3
+Palace courtyard lies west.
+~
+~
+0 -1 15559
+S
+#15559
+Palace Courtyard~
+This is the huge courtyard of the palace.  There is a bubbling fountain
+spewing beautiful colored blue, white and red flames in the middle of the 
+courtyard.  To the west is a door leading into the huge castle.  There is 
+a sign on the west wall just next to the door.
+~
+44 8 1
+D1
+Entrance to the Kingdom of Flame is east.
+~
+~
+0 -1 15558
+D3
+It's too dark to tell.
+~
+~
+0 -1 15562
+S
+#15560
+Thelmar's Throne Room~
+You have entered the illustrious throne room of King Thelmar.  King Thelmar
+sits upon his throne as a harem of girls dances in front of him while his
+servants tend to his every whim.  He eyes you as you enter.  
+He yells, "GUARDS!!! Intruders!!! Kill the mortals!!!!!"
+~
+44 9 1
+D1
+~
+~
+16 -1 15557
+D3
+~
+door~
+17 15578 15561
+S
+#15561
+The King's Vault~
+This room is perhaps the smallest of all the rooms in the castle, yet appears 
+to be the that is the most used.  You suddenly realize where you have stumbled
+into.  You have entered the king's personal treasure vault.  The amount of 
+gold and items in here make you wonder just how many people the king has had 
+killed to get this stuff.
+~
+44 520 1
+D1
+~
+~
+16 -1 15560
+S
+#15562
+Thelmar's Banquet Hall~
+You blindly step off into thin air.  You scream as you fall 50 feet straight
+down. WHEEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+You look up as you rub your back.  The walls are smooth and there is no way 
+out of here that you can think of.
+~
+44 2568 1
+S
+#15563
+The Game Room~
+This room is filled with light.  There are games of chance going on at the 
+tables while AC/DC's "Highway to Hell" is being played on the jukebox.  
+Over in the corner is a Demon Lord throwing darts at a picture posted on the 
+wall.  Upon closer examination you recognize the picture to be her most 
+holiness, Chani.
+~
+44 12 1
+D0
+Too dark to tell
+~
+~
+0 -1 15554
+D1
+A bright red room lies to the east.
+~
+~
+0 -1 15564
+S
+#15564
+Bright Red Room~
+The sweat begins to drip from your bodies as you enter this extremely hot
+room.  This is virtually a furnace, and you have walked into it.  You start
+to see strange things moving in and out of the walls, you don't know if they
+are real or if you are hallucinating tho.  You reach out to touch one of the
+beings and your hand goes through it as it disappears.  You start to feel
+weaker as the intense heat drains you of your strength.
+~
+44 2056 1
+D0
+Death's Waiting Room lies north.
+~
+~
+0 -1 15555
+D2
+Apollo's Sun Room lies south.
+~
+~
+0 -1 15565
+D3
+You could see the bar there.
+~
+~
+0 -1 15563
+S
+#15565
+Apollo's Sun Room~
+Apollo's charriot stands here shining in all of it's magnificent glory.
+The winged fiery steeds that pull this chariot are hitched and ready to go
+on their next run.  The steeds pay you no attention as they continue to gaze
+out the window into the mortal world.  You get a feeling that there is an
+entrance to the mortal world here.
+~
+44 8 1
+D0
+A bright red room is north. 
+~
+~
+0 -1 15564
+D2
+Apollo's Library is south.
+~
+~
+0 -1 15566
+D3
+Realm of Fire is west.
+~
+~
+0 -1 15550
+S
+#15566
+Apollo's Library~
+This is a small study with bookshelves covering every wall from floor to 
+ceiling.  Titles of the books in this library range from "Magic and Its Uses"
+to "Crying, Being Sensative and Remaining a Man."  As you look around you 
+notice that some of the books appear to be more read than others.  You get 
+the feeling that who ever these belong to is an extremely intelligent person, 
+and if he learned any of the stuff he could be very powerful as well.
+~
+44 8 1
+D0
+Apollo's Sun Room lies north.
+~
+~
+0 -1 15565
+D1
+The Room of Depression is east.
+~
+~
+0 -1 15567
+D2
+The Lair of the Phoenix is south.
+~
+~
+0 -1 15575
+D3
+You see a large cave.
+~
+~
+0 -1 15571
+S
+#15567
+Room of Depression~
+There is a heavy feeling of loss as you enter this room.  Your jolly mood
+has suddenly changed to a very depressed mood.  You start thinking of all
+your friends that have died in combat and begin to shed tears for them.
+You even begin to doubt your self, thinking that there must have been 
+something you could have done to keep your friends alive longer.  The 
+depression moves deep inside you and you can feel it deep in your bones.
+~
+44 1032 1
+D0
+The stables lie north.
+~
+~
+0 -1 15570
+D1
+Apollo's Bedroom is east.
+~
+~
+0 -1 15568
+D3
+Apollo's Library is west.
+~
+~
+0 -1 15566
+S
+#15568
+Apollo's Bedroom~
+This is a highly decorated room.  There is the finest of art work hanging
+on the walls.  There are various other pieces of art sitting around this
+room also.  This room radiates a great amount of light.  There is so much
+light here that you are almost blinded by it.  The room has the perfect
+decorating touch in every way.  It is obvious that who ever lives here
+spends much time here.
+~
+44 8 1
+D1
+You see a wall of flame.....
+~
+door~
+1 15585 15569
+D3
+Depression welcomes you.
+~
+~
+0 -1 15567
+S
+#15569
+Well of Darkness~
+This is a deep well.  There is not much here and the stinch is awful.
+~
+44 521 1
+D3
+Apollo's Bedroom is west.
+~
+~
+0 -1 15568
+S
+#15570
+The Stables~
+This building is a huge stable.  There is hay and other unmentionables that
+litter the ground.  Watch where you walk or you will put your foot in
+something that will not be good.  There is an awful stench here.
+~
+44 8 1
+D0
+It's too dark to tell.
+~
+~
+0 -1 15556
+D2
+Room of Depression is south.
+~
+~
+0 -1 15567
+S
+#15571
+Large Cavern~
+You are in a large cave.  It is quite musty here.  The heat makes the fumes 
+of what you can only guess is bat guanna smell even worse.  There is very 
+little air in this cave.  Most of the air has been sucked out by the immense 
+heat that builds up in here.
+~
+44 8 1
+D1
+Apollo's Library is east.
+~
+~
+0 -1 15566
+D2
+Flame Road lies south of here.
+~
+~
+0 -1 15574
+D3
+Stalagtite Cave is west.
+~
+~
+0 -1 15572
+S
+#15572
+Stalagtite Cave~
+Huge pillars of fire reach down from the ceiling.  The pillars are extremely
+beautiful, but look as if they will fall at any time.  There is a large pillar 
+in the center of the room.  A lone figure sits underneath it.
+~
+44 8 1
+D1
+You see a large cave.
+~
+~
+0 -1 15571
+D2
+A brimstone path lies south.
+~
+~
+0 -1 15573
+S
+#15573
+Brimstone Path~
+This is a brimstone path.  It looks like it does not get used much.
+~
+44 8 1
+D0
+A stalagtite cave is north.
+~
+~
+0 -1 15572
+D1
+Flame Road lies east.
+~
+~
+0 -1 15574
+D3
+You see nothing special.
+~
+~
+16 -1 15576
+S
+#15574
+Flame Road~
+The bricks in this road are cracked and beginning to split as fire seeps
+up from under the bricks.  Your feet begin to burn as you walk this road.
+There are few signs that anyone has ever used this road before.
+~
+44 2056 1
+D0
+You see a large cave.
+~
+~
+0 -1 15571
+D1
+The Lair of the Phoenix is east.
+~
+~
+0 -1 15575
+D3
+A brimstone path lies west.
+~
+~
+0 -1 15573
+S
+#15575
+The Lair of the Phoenix~
+This is the lair of the legendary bird of flame.  As you enter you notice
+a tatoo of sorts on the south wall.  The picture looks like a bird that
+is on fire.  There is a cloud of smoke that fills the air.  The picture is
+gone and now the huge Phoenix stands in front of you awaiting your intentions.
+~
+44 8 1
+D0
+Apollo's Library is north.
+~
+~
+0 -1 15566
+D3
+Flame Road lies west.
+~
+~
+0 -1 15574
+S
+#15576
+Grimralde's Torture Room~
+Various devices of pain fill this room.  In one corner of this room you find 
+a rack.  On the wall's hang various whips, chains and collars.  There is a 
+great sense of loss in this room.
+~
+44 8 1
+D0
+Realm of Fire lies north.
+~
+~
+0 -1 15550
+D1
+You see nothing special.
+~
+~
+0 -1 15573
+S
+#15577
+Eastern River Bank~
+You stand on the edge of a river.  The river is made souly of fire.  There are
+fish that jump in and out of the flames.  The only way across the river is to 
+dive in and make your way across.
+~
+44 12 1
+D0
+You see the eastern river bank.
+~
+~
+0 -1 15590
+D1
+Realm of Fire lies east.
+~
+~
+0 -1 15550
+D2
+You see the south eastern river bank.
+~
+~
+0 -1 15589
+D3
+River of Flame lies to the west.
+~
+~
+0 -1 15578
+S
+#15578
+River of Flame~
+Flames surround you as you swim the river.
+~
+44 4104 1
+D0
+River of Flame continues to flow north.
+~
+~
+0 -1 15595
+D1
+The eastern river bank lies east.
+~
+~
+0 -1 15577
+D2
+Beginning of The River of Flame lies to the south.
+~
+~
+0 -1 15579
+S
+#15579
+Beginning of The River of Flame~
+Flames surround you as you swim the river.  This is where the great river of
+flame begins.  No one is certain just how it came into existance, but it is 
+here and now becomes an obstacle for many mortals and monsters alike.
+~
+44 4104 1
+D0
+River of Flame continue to flows to the north.
+~
+~
+0 -1 15578
+D1
+The south eastern river bank lies to the east.
+~
+~
+0 -1 15589
+D3
+It looks like the Erif Isle.
+~
+~
+0 -1 15580
+S
+#15580
+Erif Isle~
+This is a small island.  Off in the distance you can see a towering volcano
+with puffs of smoke coming out of it at regular intervals.  
+~
+44 12 1
+D1
+Beginning of The River of Flame lies to the east.
+~
+~
+0 -1 15579
+D3
+The Lava Path lies west.
+~
+~
+0 -1 15581
+S
+#15581
+Lava Path~
+This path is made of lava.  It's hard to tell just how old it is, but it
+appears to be very hard.  You get the feeling that this volcano has not
+errupted in some time.  
+~
+44 8 1
+D1
+You see the beach.
+~
+~
+0 -1 15580
+D2
+The base of Mount Hicymuchunga lies to the south.
+~
+~
+0 -1 15582
+S
+#15582
+Base of Mount Hicymuchunga~
+You are at the base of a huge mountain.  From where you are, you can not
+even see the mountain's peek.  There is a huge white cloud around where
+you would guess the peak of this mountain is.  You can only guess what
+the height of this mountain is.  
+~
+44 8 1
+D0
+Lava Path lies north.
+~
+~
+0 -1 15581
+D1
+You see a bed of ashes.
+~
+~
+0 -1 15583
+D2
+The peak of Mount Hicymuchunga lies to the south.
+~
+~
+0 -1 15585
+S
+#15583
+Bed of Ashes~
+There is nothing living here at all.  Everywhere you look you see black, 
+sooty ashes. 
+~
+44 8 1
+D3
+The base of Mount Hicymuchunga lies west.
+~
+~
+0 -1 15582
+D5
+The meeting room is down here.
+~
+~
+16 -1 15584
+S
+#15584
+The Meeting Room~
+This is the meeting room of the tribe of Hicymuchunga.  A fierce head hunting
+tribe that is specific to the Isle of Erif.  There are shrunken heads lying 
+all around the room.  Written on the wall is their formula for shrinking 
+heads.  On another wall you see a picture of a great man forging weapons of 
+some sort with a picture of what appears to be Mount Hicymuchunga in the back
+ground.
+~
+44 520 1
+D3
+You see a wall with a picture of a girl being tossed into a volcano.
+~
+~
+16 -1 15585
+D4
+The bed of ashes is up there.
+~
+~
+0 -1 15583
+S
+#15585
+Peak of Hicymuchunga~
+You are at the peak of this mountain.  The view from here is clouded by a
+white cloud of smoke eminating from the volcano you are now standing on. 
+There are some island natives here getting ready to sacrifice a young girl 
+to the god of the volcano.  
+~
+44 8 1
+D0
+The base of Mount Hicymuchunga lies to the north.
+~
+~
+0 -1 15582
+D5
+You see the blacksmith shop of Vulcan.
+~
+~
+0 -1 15586
+S
+#15586
+Blacksmith Shop of Vulcan~
+This is the black smith shop of Vulcan, the forger of the gods.  There is a
+huge black anvil sitting right in the middle of this room.  The anvil is
+marked and scared from the many poundings it has taken over the years.  You 
+can only think of all the weapons that have been forged here.  
+~
+44 2572 1
+D0
+It's too dark to tell.
+~
+door~
+3 15584 15588
+D2
+It's too dark to tell.
+~
+door~
+3 15588 15587
+D4
+The peak of Mount Hicymuchunga lies up there.
+~
+~
+0 -1 15585
+S
+#15587
+Vault of The Gods~
+This is were Vulcan keeps his money that he makes off of his weapons.
+~
+44 524 1
+D0
+You see the blacksmith shop of Vulcan.
+~
+~
+0 -1 15586
+S
+#15588
+The Forgotten Armmory~
+Here is where all the weapons and armor people no longer wish to have come. 
+Most of the armor and weapons here are of little use to powerful warriors such
+as yourself, but if you search through it you may find some useful items.
+~
+44 524 1
+D2
+You see the blacksmith shop of Vulcan.
+~
+~
+0 -1 15586
+S
+#15589
+South Eastern River Bank~
+You are at the south eastern portion of the river of flame.
+~
+44 12 1
+D0
+The eastern river bank lies north of here.
+~
+~
+0 -1 15577
+D3
+River of Flame is west of here.
+~
+~
+0 -1 15579
+S
+#15590
+Eastern River Bank~
+You move further up the river. 
+~
+44 12 1
+D0
+The eastern river bank is north.
+~
+~
+0 -1 15591
+D2
+The eastern river bank is south.
+~
+~
+0 -1 15577
+D3
+River of Flame lies west.
+~
+~
+0 -1 15595
+S
+#15591
+Eastern River Bank~
+You move further up the river.  Still playing it safe and staying on the bank.
+~
+44 12 1
+D0
+The northern river bank is north.
+~
+~
+0 -1 15592
+D2
+The eastern river bank lies to the south.
+~
+~
+0 -1 15590
+D3
+River of Flame lies to the west.
+~
+~
+0 -1 15594
+S
+#15592
+Northern River Bank~
+You are at the farthest point north the river bank can take you.
+~
+44 12 1
+D2
+The eastern river bank is south.
+~
+~
+0 -1 15591
+D3
+The mouth of the River of Flame is west. 
+~
+~
+0 -1 15593
+S
+#15593
+Mouth of The River of Flame~
+You have entered the mouth of this raging river of flame.  Fish of fire tickle
+your feet and legs as they swim by.
+~
+44 4104 1
+D0
+The cavern of Hopelessness is to the north.
+~
+~
+0 -1 15596
+D1
+The northern river bank lies to the east.
+~
+~
+0 -1 15592
+D2
+River of Flame is south.
+~
+~
+0 -1 15594
+S
+#15594
+River of Flame~
+Flames surround you as you swim in the river.
+~
+44 4104 1
+D0
+The mouth of The River of Flame lies to the north.
+~
+~
+0 -1 15593
+D1
+The eastern river bank lies to the east.
+~
+~
+0 -1 15591
+D2
+River of Flame lies to the south.
+~
+~
+0 -1 15595
+S
+#15595
+River of Flame~
+Flames surround you as you swim in the river.
+~
+44 4104 1
+D0
+River of Flame lies to the north.
+~
+~
+0 -1 15594
+D1
+The eastern river bank lies to the east.
+~
+~
+0 -1 15590
+D2
+River of Flame lies to the south.
+~
+~
+0 -1 15578
+S
+#15596
+Cavern of Hopelesness~
+This cavern gives you the feeling that all hope is lost.  There is nothing
+good about this cavern.  Great evil surrounds it.  You can hear voices
+of people calling out to you "Set us free, oh great warriors."
+There is an evil that makes you want to do nothing more but leave this room.
+~
+44 12 1
+D0
+You see the Great Arch.
+~
+~
+0 -1 15599
+D1
+The House of The Unholy lies to the east.
+~
+~
+0 -1 15597
+D2
+The mouth of The River of Flame lies to the south.
+~
+~
+0 -1 15593
+D3
+The Lair of Darkness lies to the west.
+~
+~
+0 -1 15598
+S
+#15597
+House of the Unholy~
+This is perhaps the house that a devil or very high incarnate of evil live in.
+There are many things here that suggest that evil runs wild here, from the 
+charred bibles laying on the floor to the statue of the great devil Lucifer 
+in the middle of the room.  
+~
+44 8 1
+D3
+The Cavern of Hopelesness lies to the west.
+~
+~
+0 -1 15596
+S
+#15598
+Lair of Darkness~
+The lair is uniquely bright.  Flames dance around more for amusement than
+for entertainment.  A lone figure cloaked in black sits upon a throne
+of scorching flames.  The figure glances up at you and you notice there
+is no face underneath his dark hood.
+~
+44 8 1
+D1
+The Cavern of Hopelesness lies to the east.
+~
+~
+0 -1 15596
+S
+#15599
+The Great Arch~
+This is the great archway of fire.  Evil beings from hell enter this plane
+through this arch.  
+~
+44 8 1
+D2
+The Cavern of Hopelesness lies to the south.
+~
+~
+0 -1 15596
+S
+$~
+#999999

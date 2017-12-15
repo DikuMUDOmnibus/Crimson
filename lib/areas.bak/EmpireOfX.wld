@@ -1,0 +1,320 @@
+#20600
+The Void II~
+This is the Void II.
+~
+63 0 6
+D0
+~
+~
+0 -1 3000
+D4
+The Entrance to the X Empire.
+~
+~
+0 -1 20601
+S
+#20601
+Divergence of X~
+You glance around and take in the surroundings; you are on a wide path in a
+dense forest. To the north you see that the path continues, and to the south
+the forest opens up and reveals a small glade.
+~
+63 0 3
+D0
+You see the divergence continuing northwards.
+~
+~
+0 -1 20602
+D5
+You look down into the Void II and see that it's a one way exit to Midgaard.
+~
+~
+0 -1 20600
+S
+#20602
+Divergence of X~
+You look around and find yourself on a wide path in a dense forest. To the
+north you can make out a large gate, in the shape of an X. To the south you
+see that the path continues.
+~
+63 0 3
+D0
+You see the Crystal gates to the Empire of X. Even from a distance you feel
+the strong aura of magic pulling you towards it.
+~
+~
+0 -1 20603
+D2
+You see the divergence continuing southwards.
+~
+~
+0 -1 20601
+S
+#20603
+The Crystal gates of X~
+You approach the Brilliant Crystal Gates, and gasp for air. The beauty strikes
+you hard, and you admire the gates for many minutes. The coils of the gates
+spiral around in magical designs, and the two largest cross to form an X. The
+Crystal Gates glimmer in the Sunlight, and give you an impression of the
+city behind them. You look through the amazingly cool gates and see a road
+stretching north to the Palace. To the south, a wide path begins.
+~
+63 0 1
+D0
+Beyond the transparent gates you see a road stretching beyond your sight, and
+probably to the end of town.
+~
+gates crystal~
+1 0 20604
+D2
+You see a wide, well used, path traveling southwards.
+~
+~
+0 -1 20602
+S
+#20604
+Grey Lane~
+You are standing on the beginning of Grey Lane, the main street of this Empire.
+Mist rises from the road in large quantities, dissapearing high up into the
+sky. To the north, the lane continues on, granting access to the inner part of
+the empire. To the west you observe a large Dragon's head, eyes open wide, as
+if guarding the entrance to the Empire of X.
+~
+63 0 1
+D0
+The road stretches farther to the north.
+~
+~
+0 -1 20613
+D2
+You see the Crystal Gates of X to your south.
+~
+gate crystal X~
+1 20600 20603
+D3
+You see a monstrous Dragon head lying on the ground.
+~
+~
+0 -1 20605
+S
+#20605
+Dragon's Head~
+You are standing afront a massive Dragon's head. You conclude that any normal
+sized man could enter between the teeth, if the mouth were open. To the east
+you see Grey Lane's beginning.
+~
+63 0 2
+D1
+You see the beginning of Grey Lane.
+~
+~
+0 -1 20604
+D3
+You see the Dragon's Sharp Teeth. Through the cracks you make out the inside
+of it's neck.
+~
+mouth jaws teeth~
+1 0 20606
+S
+#20606
+Dragon's Throat~
+You are inside the Dragon's throat. It is extremely dark, you can barely make
+out the walls, and the slimy tongue that you are standing on sends shivers up
+your spine.
+~
+63 265 0
+D1
+You see the Dragon's Head.
+~
+mouth jaws teeth~
+1 0 20605
+D3
+You see the throat open up and reveal a hollow upper torso.
+~
+~
+0 -1 20607
+S
+#20607
+Dragon's Chest~
+You are inside the Dragon's upper torso. To the north and south, you make out
+it's chest and shoulders. To the east, the walls of unused muscle narrow
+in to form it's throat. To the west, you see the space where the stomache
+used to sit.
+~
+63 9 0
+D0
+That is the Dragon's left shoulder.
+~
+~
+0 -1 20611
+D1
+You see the walls narrow and form the Dragon's throat.
+~
+~
+0 -1 20606
+D2
+That is the Dragon's right shoulder.
+~
+~
+0 -1 20612
+D3
+The remains of the Dragon's stomache is scatterd on the ground over there.
+~
+~
+0 -1 20608
+S
+#20608
+Dragon's Stomache~
+You are standing in the pit of the Dragon's stomache area. You see only the
+remains of the once tasking stomache that served the Dragon. To the east you
+can see the heart of the Dragon. To the west lies the tail.
+~
+63 9 0
+D1
+You see the center of the Dragon's chest there.
+~
+~
+0 -1 20607
+D3
+You see the Dragon's insides narrow in westwards. You conclude that it is the
+Dragon's tail.
+~
+~
+0 -1 20609
+S
+#20609
+Dragon's Tail~
+Here, the walls of the Dragon's insides are quite narrow, and probably used to
+be filled with strong muscle fiber. Westward, the tail shrinks and forms the
+end of the Dragon's massive body. To the east you see the Dragon's stomache.
+~
+63 265 0
+D1
+That is where the Dragon's stomache used to work.
+~
+~
+0 -1 20608
+D3
+The very end of the Dragon's body lies there, it's a dead end.
+~
+~
+0 -1 20610
+S
+#20610
+Dragon's Tail-End~
+There's not really much to see, this is the end of the Dragon's tail. To the
+east lies a more spacious portion of it's tail.
+~
+63 257 0
+D1
+There is the base of the small tail you are in.
+~
+~
+0 -1 20609
+S
+#20611
+Dragon's Shoulder~
+This is the left side of the Dragon's chest, where the shoulder to it's
+wing is connected to the body. To the south you see the heart of the Dragon.
+~
+63 9 0
+D2
+You see the center of the Dragon's Chest.
+~
+~
+0 -1 20607
+S
+#20612
+Dragon's Shoulder~
+This is the right side of the Dragon's chest, where the shoulder to it's
+wing is connected to the body. To the north you see the heart of the Dragon.
+~
+63 9 0
+D0
+You see the center of the Dragon's Chest.
+~
+~
+0 -1 20607
+S
+#20613
+Grey Lane~
+You are standing in the middle of Grey Lane, the main street of this Empire.
+Busy Mages and powerful Sorcerors bustle past you. You observe that the
+black mages swear loudly at others, and pay no attention to outsiders such
+as you. Some white mages smile as they pass you, others merely nod. To the
+north you see a strange grey colored fountain, where mages seem to stop for
+a refreshment. Southwards you see the beginning of Grey Street.
+~
+63 0 1
+D0
+You see a great fountain, surrounded by mages and wizards of various colors.
+~
+~
+0 -1 20614
+D2
+You see the beginning of Grey Lane.
+~
+~
+0 -1 20604
+S
+#20614
+Plaza of Magic~
+You approach the marble fountain and are overwhelmed by the strong aura of
+magic it eminates. Mages of different colors are gathered in small groups,
+discussing magic and other topics openly. To the north, Grey Lane continues to
+another, larger, fountain. To the east, the snowy but warm Ivory Road
+begins. Westward you see the dark and cold Ebony Alley. And to the south,
+Grey Lane travels back to the Gate's of the Empire.
+~
+63 0 1
+D0
+Grey Lane continues north to another fountain.
+~
+~
+0 -1 20615
+D2
+That is the fraction of Grey Lane that heads south.
+~
+~
+0 -1 20613
+S
+#20615
+Grey Lane~
+You are standing between two fountains, and being there, it's probably the
+busiest section of the empire. Mages travel between the two fountains, holding
+discussions and meetings, wizards attempt to control the weather, and small
+apprentices listen intently to their masters in magic. To the north, you
+see the Fountain of X. Westwards, Grey Lane abruptly turns into a Jade Trail.
+To the east, the road turns icy and cold on the terrace called Azure. And
+southwards, you see a magical marble fountain.
+~
+63 0 1
+D0
+You see a Crystal fountain, in the shape of a two dimentional X.
+~
+~
+0 -1 20616
+D2
+You see a marble fountain through the crowds of mages.
+~
+~
+0 -1 20614
+S
+#20616
+Plaza of Magic~
+You approach the marble fountain and are overwhelmed by the strong aura of
+magic it eminates. Mages of different colors are gathered in small groups,
+discussing magic and other topics openly. To the north, Grey Lane continues to
+another, larger, fountain. To the east, the snowy but warm Ivory Road
+begins. Westward you see the dark and cold Ebony Alley. And to the south,
+Grey Lane travels back to the Gate's of the Empire.
+~
+63 0 1
+D2
+You see Grey Lane leading to another fountain.
+~
+~
+0 -1 20615
+S
+$~
+#999999

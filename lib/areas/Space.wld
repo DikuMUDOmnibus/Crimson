@@ -1,0 +1,180 @@
+#8303
+The Kid's Observatory~
+On the walls of this chamber you see an old saddle, an empty gun belt and
+holster.  In a locked case you see two old six shooters.  In the middle
+of the room you see a huge table that appears to be a small scale model
+of the entire mud.  Miniature figures represent each character and mob
+Every hill, tree, building and cave is represented in perfect detail.
+As you notice someone walking around the table wearing an old cowboy hat
+and a worn pair of boots you realize he is planning his next move in
+what can only be a huge game of some kind.
+~
+20 8716 1
+D3
+Board room.
+~
+~
+1 -1 8313
+D5
+Kid's lab.
+~
+~
+9 -1 8306
+S
+#8306
+The Kid's Lab~
+You don't wanna know what happens here.  Doors lead out in all directions to 
+aid in releasing un-imaginable creatures into the relms of mortals.
+  North - Shaolin Temple
+  East  - Tower of Sorcery
+  South - Midgaard
+  West  - DarkWood
+  Up    - Kids Observatory
+  Down  - Midgaard
+~
+20 8204 1
+D0
+To Shaolin Temple.
+~
+~
+1 -1 14168
+D1
+To Tower of Sorcery.
+~
+~
+0 -1 13011
+D2
+To City of Midgaard.
+~
+~
+1 -1 3014
+D3
+To DarkWood.
+~
+~
+0 -1 14092
+D4
+To Kid's Observatory.
+~
+~
+9 -1 8303
+D5
+To City of Midgaard.
+~
+~
+1 -1 3014
+S
+#8310
+The Mortal Board Room~
+This room is intended for the Immortals of this Mud to read and write posts
+concerning everyday Mud life.
+~
+20 8204 1
+D4
+You look up and see another board room.
+~
+~
+0 -1 8311
+D5
+A magic portal to the mortal realm.
+~
+~
+0 -1 3014
+S
+#8311
+Zone Builders Board Room~
+This room is intended for the zone builders of this Mud to read and write
+posts concerning ideas and/or troubles that they might be having involving
+zone creation.
+~
+20 8204 1
+D4
+You look up and see another board room.
+~
+~
+0 -1 8312
+D5
+You look down and see another board room.
+~
+~
+0 -1 8310
+S
+#8312
+Board Room of the Gods~
+This room is intended for the mid level Immortals and Gods of this Mud to
+read and write posts concerning Mud business.  If you cannot read this board
+don't concern yourself with its contents.
+~
+20 8204 1
+D4
+You look up and see yet another board room.
+~
+~
+0 -1 8313
+D5
+You look down and see another board room.
+~
+~
+0 -1 8311
+S
+#8313
+Supreme Board Room~
+This room is intended for the Implementors of this Mud to read and write posts
+concerning Mud business.  If you cannot read this board, there is a reason for
+that and you should not concern yourself with the boards content.
+~
+20 8204 1
+D5
+You look down and see another board room.
+~
+~
+0 -1 8312
+S
+#8314
+Avatar Arena~
+This room is for avatars to fight each other if they wish.
+Rules:
+1. No mortals are to ever be summoned here.
+2. All avatars have to come here willingly.
+3. Corpses are NOT to be looted.
+ 
+If any avatar is caught killing another player anywhere else on the MUD
+they will be demoted to level 1 no questions asked.
+Remember, thats no killing ANY player for ANY reason outside of this room
+there are NO exceptions to this, even if they beg for it.
+                                                                 -Billy
+~
+20 12 1
+D4
+Dressing room.
+~
+~
+0 -1 8315
+S
+#8315
+Avatar Arena Dressing Room~
+This is the dressing room for the avatar arena. (all arenas have one right?)
+The same rules apply to this room as the arena itself.
+~
+20 12 1
+D5
+The avatar arena.
+~
+~
+0 -1 8314
+S
+#8316
+Zone Builders Board Room~
+This room is intended for the zone builders of this Mud to read and write
+posts concerning ideas and/or troubles that they might be having involving
+zone creation.
+~
+20 8204 1
+D0
+You see the dressing room.
+~
+~
+0 -1 3000
+S
+$~
+#999999

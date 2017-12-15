@@ -1,0 +1,37 @@
+#13600
+mob Snow Owl~
+A Snow Owl~
+There is a Snow Owl fling here.
+~
+The Owl is here hunting for small animals to eat.
+~
+8 67117056 1000 S
+13 9 1 5d6+18 3d3+5
+100 10750
+8 8 0
+#13601
+mob Frost Giant~
+A frost Giant~
+There is a large Frost Giant here ready to strike.
+~
+You see a 21' man that must be around 8,000 pounds. He has  snow-white skin,
+blue eyes, and blue hair.
+~
+8650764 67108864 -250 S
+22 2 -1 6d20+250 3d6+13
+15000 35000
+8 8 0
+#13602
+mob Winter Wolf~
+A Winter Wolf~
+A Winter Wolf comes from no where.
+~
+It has a silver coat of fur, and eyes of pale blue. It blends in to the snow
+very will.
+~
+16810088 1572904 0 S
+18 12 1 6d12+100 3d8+5
+1000 10000
+8 8 0
+$~
+#999999

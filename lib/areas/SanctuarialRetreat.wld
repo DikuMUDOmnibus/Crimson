@@ -1,0 +1,2045 @@
+#13700
+Bend in the hallway.~
+You are at a bend in the hallway leading both to your North and to your west.
+The walls glow with a pulsating light and there is a strong sense of
+goodness in the air.
+~
+28 8 1
+D0
+You see a hallway.
+~
+~
+0 -1 13799
+D2
+~
+~
+2 -1 -1
+D3
+You see a hallway
+~
+~
+0 -1 13797
+S
+#13701
+Path before Sanctuary.
+~
+You stop to admire the lush green trees all around you and at the
+same time listen to all the wildlife playing around those trees.
+You think that this place must be enchanted to hold such beauty.
+~
+28 140 3
+D0
+To the north, you see the path continue onwards.
+~
+~
+0 -1 13702
+S
+#13702
+Path before Sanctuary.
+~
+You continue on down the path through this mystical place.
+Everything seems the same except through a break in the trees
+to the north, you see what you believe to be some
+type of castle or resort, you think maybe you should go check it out.
+~
+28 140 1
+D0
+To the north, you can see an end to this forest
+and quite an impressive large structure of some sort.
+~
+~
+0 -1 13703
+D2
+To the south you see where you first found this path.
+~
+~
+0 -1 13701
+S
+#13703
+Gates of Sanctuary.
+~
+Here is where the forest ends to your dismay but as you look up
+you see the gates to an enourmous structure.
+You wonder what kind of structure this size would be here for and why.
+You have a feeling of peace about you.
+~
+28 136 1
+D0
+Throught the gates, you see open grounds within the struture.
+~
+gate gates~
+13 13700 13704
+D2
+To the south, you see your way back into a peaceful forest.
+~
+~
+0 -1 13702
+S
+#13704
+Southern Grounds.
+~
+You step upon what appears to be a well kept grounds
+area.  You see many benches around for sitting on, a sundial
+in further north, trees and plenty of flowers all around
+you. There is a feeling of peacefulness around in the air.
+~
+28 0 1
+D0
+To the north you see more grounds and a sundial of sorts.
+~
+~
+0 -1 13709
+D1
+To the east you see more grounds.
+~
+~
+0 -1 13706
+D2
+To the south you see the gates from which you entered this holy place.
+~
+gate gates~
+13 13700 13703
+D3
+To the west you see more of the souther grounds
+~
+~
+0 -1 13705
+S
+#13705
+Southern Grounds.
+~
+These grounds are definitelly tended regularly. Whoever tends them
+must be quite wealthy for everything is well kept.  You see benches
+around you for sitting on and a door to the west leading
+into the structure and some type of small shack to the south.
+~
+28 0 1
+D0
+To the north you see more grounds.
+~
+~
+0 -1 13708
+D1
+To the east you see the begining of the southern grounds.
+~
+~
+0 -1 13704
+D2
+To the south you see a shack of sorts
+~
+~
+0 -1 13707
+D3
+You see the entrance to the complex.
+~
+door~
+1 -1 13716
+S
+#13706
+Southern Grounds.
+~
+These grounds are definitelly tended regularly.  Whoever tends them
+must be quite wealthy for everything is very well kept.  You see
+benches scattered around you for sitting on to rest your weary
+feet.  To the east, you see a door leading into the structure. 
+Should you investigate further?
+~
+28 0 1
+D0
+To the north you see more grounds.
+~
+~
+0 -1 13710
+D1
+you can't see what lies beyond the door.
+~
+door~
+1 -1 13763
+D3
+To the west you see the begining of the souther grounds.
+~
+~
+0 -1 13704
+S
+#13707
+Groundskeepers Storage Shack.
+~
+This is a storage shack that the groundskeeper uses to keep his
+equipment in.  Most of the equipment in here you have never even
+seen before, but on close inspection, you find a couple of items
+which might be worth taking.
+~
+28 9 0
+D0
+To the north you see the southern grounds.
+~
+~
+0 -1 13705
+S
+#13708
+Central Grounds.
+~
+You have come upon the central part of the main grounds.  The feeling of
+peacefulness you felt earlier is much stronger here.  You begin to think
+that this area has been magically enhanced to provide this serenity. You
+could sit down here and just stay for awhile but you realize that their
+are other more impressing duties to tend to.
+To the east, you see a sundial of sorts with more grounds to the north
+and south.
+~
+28 0 1
+D0
+You see the Northern Grounds.
+~
+~
+0 -1 13712
+D1
+To the east, you see the center part of the grounds and some type of sundial.
+~
+~
+0 -1 13709
+D2
+To the south, you see the southern part of the grounds
+and further south, some type of small shack.
+~
+~
+0 -1 13705
+S
+#13709
+Central Grounds.
+~
+This is the exact center of the grounds.  You think of what a beautiful 
+place this would be to have.  As you look all around you, you can see that
+while these grounds are quite an attraction, the complex which encloses it
+is even more awesome in its own right.  You also see some sort of
+sundial here although it isn't like any sundial you have ever encountered
+before, perhaps you should investigate it further?
+~
+28 72 1
+D0
+More Grounds.
+~
+~
+0 -1 13713
+D1
+To the east you see more grounds.
+~
+~
+0 -1 13710
+D2
+To the south, you see the southern grounds and further south, you see
+the main gates from which you entered.
+~
+~
+0 -1 13704
+D3
+To the west, you see more of the central grounds.
+~
+~
+0 -1 13708
+D5
+You can barely make out some small type of enclosure under
+the sundial.
+~
+~
+16 -1 13711
+S
+#13710
+Central Grounds.
+~
+You have come upon the central part of the main grounds.  The feeling of
+peacefulness you felt earlier is much stronger here.  You begin to think
+that this area has been magically enhanced to provide this serenity. You
+could sit down here and just stay for awhile but you realize that their
+are other more impressing duties to tend to.
+~
+28 0 1
+D0
+More grounds.
+~
+~
+0 -1 13714
+D2
+To the south you see the more grounds.
+~
+~
+0 -1 13706
+D3
+To the west you see the exact center of the grounds with a sundial.
+~
+~
+0 -1 13709
+S
+#13711
+Under the sundial.~
+You see some type of storage area under the sundial.  From the cobwebs
+and dust around here, you can tell that this storage area has not been
+used in a very long time.
+~
+28 524 1
+D4
+You see the sundial and the central grounds from which you came.
+~
+~
+0 -1 13709
+S
+#13712
+Northern Grounds.~
+These grounds are definitelly well tended.  Whoever tends them must be
+quite wealthy.  You see trees scattered throughout the area and benches
+for sitting in.  Overall, this seems like such a peacefull place.  To
+the west, you see a door leading into the complex.
+~
+28 0 1
+D1
+You see more grounds.
+~
+~
+0 -1 13713
+D2
+You see the Central Grounds.
+~
+~
+0 -1 13708
+D3
+You see the entrance to the complex.
+~
+door~
+1 -1 13717
+S
+#13713
+Northern Grounds~
+These grounds are very peacefull in their entireity.  It seems that this plac
+is completely free of any evil taint.  You wonder who would have been able to
+build this haven of goodness in such an evil world and be able to keep it
+so pure.  Far off to both the west and east you see doors leading into the
+complex and directly south you see a sundial.
+~
+28 0 1
+D1
+More grounds.
+~
+~
+0 -1 13714
+D2
+You see a sundial to your south.
+~
+~
+0 -1 13709
+D3
+Far west you see a door.
+2
+~
+~
+0 -1 13712
+S
+#13714
+Northern Grounds.~
+These grounds are definitelly tended regularly.  Whoever tends them
+must be quite wealthy for everything is very well kept.  You see
+benches scattered around you for sitting on to rest your weary
+feet.  To the east, you see a door leading into the structure. 
+Should you investigate further?
+~
+28 12 1
+D1
+You can't see what lies beyond the door.
+~
+door~
+1 -1 13762
+D2
+You see the Central part of the grounds.
+~
+~
+0 -1 13710
+D3
+More of the Northern Grounds.
+~
+~
+0 -1 13713
+S
+#13715
+Storage Closet.
+~
+You see a featureless closet used for the storage of miscellaneous items.
+The oaken smell you detected earlier in the hallway is at its strongest
+in this room yet you detect no visible source of it.
+~
+28 9 1
+D0
+A bend in the hallway.
+~
+door~
+1 13700 13725
+S
+#13716
+Hallway
+~
+You have entered what appears to be a well lighted complex.  The walls around
+you glow with some type of phospherous coating and you smell a faint oaken
+type smell in the air.  There is a door east leading back to the main grounds
+and the hallway continues west.
+~
+28 76 1
+D1
+You see a door.
+~
+door~
+1 -1 13705
+D3
+You see a well lighted hallway.
+~
+~
+0 -1 13718
+S
+#13717
+Hallway~
+You have entered what appears to be a well lighted complex.  The walls around 
+you glow with some type of phospherous coating
+and you smell a faint oaken type smell in the air.
+There is a door east leading back to the main grounds and the hallway
+continues onward west.
+~
+28 76 1
+D1
+You see a door leading back to the main grounds.
+~
+door~
+1 -1 13712
+D3
+You see a well lite hallway.
+~
+~
+0 -1 13719
+S
+#13718
+A well lighted hallway.~
+You are standing in a well lighted hallway where the walls themselves
+glow.  An aura of goodness seems to permiate from the very core of this
+place.
+The hallways continues to the east and to the west you see an intersection.
+~
+28 8 1
+D1
+You see a well lighted hallway.
+~
+~
+0 -1 13716
+D3
+You see a 4-way intersection.
+~
+~
+0 -1 13720
+S
+#13719
+A well lighted hallway.~
+You have are in a well-lit hallway.  The walls seems to have an unnatural
+glow about them as they appear to have some type of phospherous coating.
+Further east you see a door.
+~
+28 8 1
+D1
+The hallway continues east.
+~
+~
+0 -1 13717
+D3
+You see an intersection leading off in all directions.
+~
+~
+0 -1 13721
+S
+#13720
+4-way Intersection.~
+You are standing at a four-way intersection with exits leading all directions
+You can see another intersection to your north and rooms to your south.
+~
+28 8 1
+D0
+You see a well lit hallway leading north and south.
+~
+~
+0 -1 13737
+D1
+You see a well lit hallway.
+~
+~
+0 -1 13718
+D2
+You see a well-lit hallway and rooms further south.
+~
+~
+0 -1 13724
+D3
+You see a hallway leading both east and west.
+~
+~
+0 -1 13736
+S
+#13721
+4-way Intersection.~
+You are standing at a 4-way intersection with exits leading in all
+directions.  You hear the sound of metal clashing upon metal coming from
+the west.
+~
+28 8 1
+D0
+You see a hallway leading both to your north and south.
+~
+~
+0 -1 13750
+D1
+A Brightly lit hallway.
+~
+~
+0 -1 13719
+D2
+A N/S hallway.
+~
+~
+0 -1 13737
+D3
+An E/W Hallway.
+~
+~
+0 -1 13738
+S
+#13722
+4-way Intersection.~
+You are standing at a four-way intersection with exits leading all directions
+~
+28 8 1
+D0
+You see a north-south hallway.
+~
+~
+0 -1 13766
+D1
+You see a hallway leading both west and east.
+~
+~
+0 -1 13773
+D2
+You see a hallway leading both north and south.
+~
+~
+0 -1 13767
+D3
+You see a hallway.
+~
+~
+0 -1 13764
+S
+#13723
+4-way Intersection.~
+You are standing at a four-way intersection with exits leading all directions
+~
+28 8 1
+D0
+You see a hallway leading both north and south.
+~
+~
+0 -1 13767
+D1
+You see a hallway leading both East and West.
+~
+~
+0 -1 13774
+D2
+You see a hallway leading both N/S
+~
+~
+0 -1 13779
+D3
+You see a hallway.
+~
+~
+0 -1 13765
+S
+#13724
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.
+The oaken smell you smelled earlier gets a bit stronger as you procede south.
+~
+28 8 1
+D0
+You see a 4-way Intersection.
+~
+~
+0 -1 13720
+D2
+A bend in the hallway.
+~
+~
+0 -1 13725
+S
+#13725
+Bend in the Hallway.~
+You are at a bend in the hallway with the hallway continuing to both
+the north and the west and you see a door south of you.
+~
+28 8 1
+D0
+A well lit hallway.
+~
+~
+0 -1 13724
+D2
+A door.
+~
+door~
+1 13700 13715
+D3
+A hallway.
+~
+~
+0 -1 13726
+S
+#13726
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+~
+28 8 1
+D1
+A bend in the hallway.
+~
+~
+0 -1 13725
+D3
+A bend in the hallway.
+~
+~
+0 -1 13727
+S
+#13727
+Bend in the hallway.
+~
+You are at a bend in the hallway with the hallway continuing both to the
+North and to the East.  To the south you can hear what sounds
+to be like people working out.
+~
+28 8 1
+D0
+N/S hallway.
+~
+~
+0 -1 13730
+D1
+A well lit hallway.
+~
+~
+0 -1 13726
+D2
+You see an exercise room.
+~
+door~
+1 -1 13728
+S
+#13728
+Exercise room - west.~
+You have entered what appears to be an exercise room of some sort.  Around
+you you see various equipment used to help train the physical form and
+even some equipment used to train the mental form.  The weight room is fairly
+sized and you can see from the state of the equipment that it is well 
+maintained and probably used frequently.
+~
+28 584 0
+D0
+You see a bend in the hallway.
+~
+door~
+1 -1 13727
+D1
+You see the east end of the exercise room.
+~
+~
+0 -1 13729
+S
+#13729
+Exercise room - east.~
+You have entered what appears to be an exercise room of some sort.  Around
+you you see various equipment used to help train the physical form and
+even some equipment used to train the mental form.  The weight room is fairly
+sized and you can see from the state of the equipment that it is well 
+maintained and probably used frequently.
+~
+28 584 0
+D3
+You see the west end of the exercise room.
+~
+~
+0 -1 13728
+S
+#13730
+N/S Hallway.~
+You are standing in a well lit hallway leading both to your North and to
+your East.  You hear splashing sounds coming from the West.
+~
+28 8 1
+D0
+You see a bend in the hallway.
+~
+~
+0 -1 13735
+D2
+Bend in the Hallway.
+~
+~
+0 -1 13727
+D3
+You can't quite tell what lies that way.
+~
+door~
+1 -1 13731
+S
+#13731
+Changing Room.~
+You have wandered into a changing room of some sort.  All around you, you
+see various articles of clothing strewn about in a haphazard manner as
+well as some benches for sitting on and a few storage cabinets.  The 
+splashing sounds grow louder to the west.
+~
+28 588 0
+D1
+N/S hallway.
+~
+door~
+1 -1 13730
+D3
+You see a large pool to the west.
+~
+~
+0 -1 13732
+S
+#13732
+Middle of swimming pool.~
+You have wandered into the swimming area.  The pool itself is quite large
+and the water looks quite inviting and refreshing.  There is a faint
+cholrinic smell in the air and you see a couple of forms swimming lazily about
+in the pool.
+~
+28 8 0
+D0
+you see the swimming pool extend to your north.
+~
+~
+0 -1 13733
+D1
+You see a room for changing.
+~
+~
+0 -1 13731
+D2
+You see the pool extend to your south.
+~
+~
+0 -1 13734
+S
+#13733
+North end of swimming pool.
+~
+You have wandered into the swimming area.  The pool itself is quite large
+and the water looks quite inviting and refreshing.  There is a faint
+cholrinic smell in the air and you see a couple of forms swimming lazily about
+in the pool.
+~
+28 8 0
+D2
+You see the swimming pool extending to your south.
+~
+~
+0 -1 13732
+S
+#13734
+South end of swimming pool.~
+You have wandered into the swimming area.  The pool itself is quite large
+and the water looks quite inviting and refreshing.  There is a faint
+cholrinic smell in the air and you see a couple of forms swimming lazily about
+in the pool.
+You see a lifeguard chair sitting here at the end of the pool.
+~
+28 8 1
+D0
+You see a pool extend to your north.
+~
+~
+0 -1 13732
+S
+#13735
+Bend in the hallway.~
+You are at a bend in the hallway with the hallway continuing both to the
+South and to the East.
+~
+28 8 0
+D1
+You see a hallway leadind both east and west.
+~
+~
+0 -1 13736
+D2
+You see a hallway running North and South.
+~
+~
+0 -1 13730
+S
+#13736
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+~
+28 8 1
+D1
+You see a four-way intersection.
+~
+~
+0 -1 13720
+D3
+You see a bend in the hallway.
+~
+~
+0 -1 13735
+S
+#13737
+N/S Hallway.~
+You are standing in a well-lit hallway leading both to your North and to
+your South.  You detect a very faint oaken smell wafting your way from
+the south.
+~
+28 8 1
+D0
+You see a 4-way intersection.
+~
+~
+0 -1 13721
+D2
+You see a 4-way intersection.
+~
+~
+0 -1 13720
+S
+#13738
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+~
+28 8 1
+D1
+You see an intersection leading in all directions.
+~
+~
+0 -1 13721
+D3
+You see a bend in the hallway.
+~
+~
+0 -1 13739
+S
+#13739
+Bend in the hallway.
+~
+You are at a bend in the hallway with the hallway continuing both to the
+North and to the East.  The sounds of metal clanging against metal becomes
+louder to your north.
+~
+28 8 1
+D0
+You see a hallway leading both north and south.
+~
+~
+0 -1 13740
+D1
+you see a hallway leading both east and west.
+~
+~
+0 -1 13738
+S
+#13740
+N/S Hallway.~
+You are standing in a well-lit hallway leading both North and South.  The
+sounds of metal clashing upon metal grow louder to your west and you
+see a door to your west with two fencing swords painted upon it.
+~
+28 8 1
+D0
+~
+~
+0 -1 13747
+D2
+You see a bend in the hallway.
+~
+~
+0 -1 13739
+D3
+You can't quite tell what lies beyond the door to the west.
+~
+door~
+1 -1 13741
+S
+#13741
+Fencing Area.~
+You see all around you equipment strewn about against the walls used
+in the art of recreational fencing.  You watch a couple pair off in a
+corner against each other in amusement as you wonder what other 
+facilities this retreat offers.  Too bad you aren't a member here, some
+of that equipment looks almost usable.
+~
+28 588 0
+D0
+A fencing area.
+~
+~
+0 -1 13742
+D1
+You see a hallway leading north and south.
+~
+door~
+1 -1 13740
+D2
+~
+~
+0 -1 13746
+D3
+~
+~
+0 -1 13744
+S
+#13742
+Fencing Area.~
+You see all around you equipment strewn about against the walls used
+in the art of recreational fencing.  You watch a couple pair off in a
+corner against each other in amusement as you wonder what other 
+facilities this retreat offers.  Too bad you aren't a member here, some
+of that equipment looks almost usable.
+~
+28 520 0
+D2
+You see a fencing area.
+~
+~
+0 -1 13741
+D3
+A fencing area.
+~
+~
+0 -1 13743
+S
+#13743
+Fencing Area.~
+You see all around you equipment strewn about against the walls used
+in the art of recreational fencing.  You watch a couple pair off in a
+corner against each other in amusement as you wonder what other 
+facilities this retreat offers.  Too bad you aren't a member here, some
+of that equipment looks almost usable.
+~
+28 520 0
+D1
+A fencing area.
+~
+~
+0 -1 13742
+D2
+A fencing area.
+~
+~
+0 -1 13744
+S
+#13744
+Fencing Area.~
+You see all around you equipment strewn about against the walls used
+in the art of recreational fencing.  You watch a couple pair off in a
+corner against each other in amusement as you wonder what other 
+facilities this retreat offers.  Too bad you aren't a member here, some
+of that equipment looks almost usable.
+~
+28 520 0
+D0
+A fencing area.
+~
+~
+0 -1 13743
+D1
+~
+~
+0 -1 13741
+D2
+~
+~
+0 -1 13745
+S
+#13745
+Fencing Area.~
+You see all around you equipment strewn about against the walls used
+in the art of recreational fencing.  You watch a couple pair off in a
+corner against each other in amusement as you wonder what other 
+facilities this retreat offers.  Too bad you aren't a member here, some
+of that equipment looks almost usable.
+~
+28 520 0
+D0
+~
+~
+0 -1 13744
+D1
+~
+~
+0 -1 13746
+S
+#13746
+Fencing Area.~
+You see all around you equipment strewn about against the walls used
+in the art of recreational fencing.  You watch a couple pair off in a
+corner against each other in amusement as you wonder what other 
+facilities this retreat offers.  Too bad you aren't a member here, some
+of that equipment looks almost usable.
+~
+28 520 0
+D0
+~
+~
+0 -1 13741
+D3
+~
+~
+0 -1 13745
+S
+#13747
+Bend in the hallway.~
+You are at a bend in the hallway with the hallway continuing both to the
+South and to the East.
+You also see a door in the north wall with a cross painted on it.
+~
+28 8 0
+D0
+A small and cozy room.
+~
+door~
+9 -1 13751
+D1
+You see a hallway leading both to your east and west.
+~
+~
+0 -1 13748
+D2
+~
+~
+0 -1 13740
+S
+#13748
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+You also see a door in the north wall with a cross painted on it.
+~
+28 8 1
+D0
+A small and cozy room.
+~
+door~
+9 -1 13752
+D1
+You see a bend in the hallway.
+~
+~
+0 -1 13749
+D3
+You see a bend in the hallway.
+~
+~
+0 -1 13747
+S
+#13749
+W/S bend in hallway.~
+You are in a hallway that bends from the west to the south.  There is an
+aura of goodness about in the air and the walls glow with an unnatural
+light.  You see doors leading both to your north and to your east.  The
+door to the north has a cross painted on it.
+~
+28 8 1
+D0
+You see a small and cozy room.
+~
+door~
+9 -1 13753
+D1
+You see an old hallway leading both west and east.
+~
+door~
+1 -1 13754
+D2
+You see a hallway leading both to your north and south.
+~
+~
+0 -1 13750
+D3
+You see a hallway leading both west and east.
+~
+~
+0 -1 13748
+S
+#13750
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.
+The oaken smell you smelled earlier gets a bit stronger as you procede south.
+~
+28 8 1
+D0
+You see a bend in the hallway.
+~
+~
+0 -1 13749
+D2
+You see a 4-way intersction.
+~
+~
+0 -1 13721
+S
+#13751
+Meditation Chamber.~
+You have entered a room which seems both quiet and peacefull.  All around
+you, you can see candles lit up to give the room a more of a suttle feel
+to it.  You think that this would be a great room to come too should the
+daily worries and stress of adventuring ever become too much for you to
+handle.
+~
+28 8776 0
+D2
+You see a bend in the hallway.
+~
+door~
+9 -1 13747
+S
+#13752
+Meditation Chamber.~
+You have entered a room which seems both quiet and peacefull.  All around
+you, you can see candles lit up to give the room a more of a suttle feel
+to it.  You think that this would be a great room to come too should the
+daily worries and stress of adventuring ever become too much for you to
+handle.
+~
+28 8776 0
+D2
+You see a hallway leading both west and east.
+~
+door~
+9 -1 13748
+S
+#13753
+Meditation Chamber.~
+You have entered a room which seems both quiet and peacefull.  All around
+you, you can see candles lit up to give the room a more of a suttle feel
+to it.  You think that this would be a great room to come too should the
+daily worries and stress of adventuring ever become too much for you to
+handle.
+~
+28 9800 0
+D2
+You see a bend in the hallway.
+~
+door~
+9 -1 13749
+S
+#13754
+Hallway.
+~
+You are in a hallway that leads both to the West and to the East.  The hallway
+itself looks old but well traveled and you notice that the hallway is lit
+with torches rather than the other hallways where the walls themselves glow
+with light.  Yet still the general aura of goodness resides even here.
+~
+28 8200 1
+D1
+You see an old hallway.
+~
+~
+0 -1 13755
+D3
+You see a bend in the hallway.
+~
+door~
+1 -1 13749
+S
+#13755
+Hallway.
+~
+You are in a hallway that leads both to the West and to the East.  The hallway
+itself looks old but well traveled and you notice that the hallway is lit
+with torches rather than the other hallways where the walls themselves glow
+with light.  Yet still the general aura of goodness resides even here.
+~
+28 8200 1
+D1
+An old hallway.
+~
+~
+0 -1 13756
+D3
+An old hallway.
+~
+~
+0 -1 13754
+S
+#13756
+Hallway.
+~
+You are in a hallway that leads both to the West and to the East.  The hallway
+itself looks old but well traveled and you notice that the hallway is lit
+with torches rather than the other hallways where the walls themselves glow
+with light.  Yet still the general aura of goodness resides even here.
+~
+28 8200 1
+D1
+An old hallway.
+~
+~
+0 -1 13757
+D3
+an old hallway
+~
+~
+0 -1 13755
+S
+#13757
+Hallway.
+~
+You are in a hallway that leads both to the West and to the East.  The hallway
+itself looks old but well traveled and you notice that the hallway is lit
+with torches rather than the other hallways where the walls themselves glow
+with light.  Yet still the general aura of goodness resides even here.
+To the north, you see a door leading into a dark area.
+~
+28 8200 1
+D1
+An old hallway.
+~
+~
+0 -1 13758
+D3
+An old hallway.
+~
+~
+0 -1 13756
+S
+#13758
+Hallway.
+~
+You are in a hallway that leads both to the West and to the East.  The hallway
+itself looks old but well traveled and you notice that the hallway is lit
+with torches rather than the other hallways where the walls themselves glow
+with light.  Yet still the general aura of goodness resides even here.
+~
+28 8200 1
+D1
+An old hallway.
+~
+~
+0 -1 13759
+D3
+An old hallway.
+~
+~
+0 -1 13757
+S
+#13759
+Hallway.
+~
+You are in a hallway that leads both to the West and to the East.  The hallway
+itself looks old but well traveled and you notice that the hallway is lit
+with torches rather than the other hallways where the walls themselves glow
+with light.  Yet still the general aura of goodness resides even here.
+~
+28 8200 1
+D1
+An old hallway.
+~
+~
+0 -1 13760
+D3
+An old hallway.
+~
+~
+0 -1 13758
+S
+#13760
+Hallway.
+~
+You are in a hallway that leads both to the West and to the East.  The hallway
+itself looks old but well traveled and you notice that the hallway is lit
+with torches rather than the other hallways where the walls themselves glow
+with light.  Yet still the general aura of goodness resides even here.
+~
+28 8200 1
+D1
+You see a bend in the hallway.
+~
+door~
+1 -1 13761
+D3
+An old hallway.
+~
+~
+0 -1 13759
+S
+#13761
+N/E bend in the hallway.~
+You are at a bend in the hallway which leads both to your North and to your
+East.  The walls glow with an unnatural light and you can see a strangely
+carved door to your west.
+~
+28 8200 1
+D1
+You see a hallway leading both east and west.
+~
+~
+0 -1 13768
+D2
+You see a N/S hallway
+~
+~
+0 -1 13766
+D3
+You see an old hallway.
+~
+door~
+1 -1 13760
+S
+#13762
+Hallway~
+You have entered what appears to be a well lighted complex.  The walls around
+you glow with some type of phospherous coating and an aura of goodness seems
+to radiate from the walls themselves.
+You see a door leadig out to your west.
+~
+28 12 1
+D1
+You see a hallway.
+~
+~
+0 -1 13764
+D3
+You see a door leading out to the main grounds.
+~
+door~
+1 -1 13714
+S
+#13763
+Hallway~
+You have entered what appears to be a well lighted complex.  The walls around
+you glow with some type of phospherous coating and an aura of goodness seems
+to radiate from the walls themselves.
+You see a door leading out to your west.
+~
+28 76 1
+D1
+You see a hallway.
+~
+~
+0 -1 13765
+D3
+You see the central grounds.
+~
+door~
+1 -1 13706
+S
+#13764
+A well lighted hallway.~
+You have entered a well-lit hallway.  The walls seem to have an unnatural
+glow about them and you feel a general aura of goodness emenating from
+the walls themselves.  You see a door a bit onwards to your west and the hallw
+ay continues on to your east.
+~
+28 8 1
+D1
+You see a 4-way intersection.
+~
+~
+0 -1 13722
+D3
+You see the entrance to the complex.
+~
+~
+0 -1 13762
+S
+#13765
+A well lighted hallway.~
+You have entered a well-lit hallway.  The walls seem to have an unnatural
+glow about them and you feel a general aura of goodness emenating from
+the walls themselves.  You see a door a bit onwards to your west and the hallw
+ay continues on to your east.
+~
+28 8 1
+D1
+You see a 4-way intersection.
+~
+~
+0 -1 13723
+D3
+You see the entrance to the complex.
+~
+~
+0 -1 13763
+S
+#13766
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.  The
+walls provide you light to see by and there is a general aura of goodness
+hanging about in the air.
+~
+28 8 1
+D0
+You see a bend in the hallway.
+~
+~
+0 -1 13761
+D2
+You see a 4-way intersection.
+~
+~
+0 -1 13722
+S
+#13767
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.  There
+is a general aura of goodness handing about in the air.
+~
+28 8 1
+D0
+You see a 4-way intersection.
+~
+~
+0 -1 13722
+D2
+You see a 4-way intersection.
+~
+~
+0 -1 13723
+S
+#13768
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+You see a door to your north.
+~
+28 12 1
+D0
+You are not sure what is to the north.
+~
+door~
+1 -1 13784
+D1
+You see a bend in the hallway.
+~
+~
+0 -1 13769
+D3
+You see a bend in the hallway.
+~
+~
+0 -1 13761
+S
+#13769
+A E/S bend in the hallway.~
+You have arrived at a bend in the hallway which leads both West and South.
+The walls glow with an unnatural phospheric light and you hear some faint
+gurgling type sounds coming from the North-West.
+~
+28 8 1
+D2
+You see a hallway leading both north and south.
+~
+~
+0 -1 13770
+D3
+You see a hallway leading both west and east.
+~
+~
+0 -1 13768
+S
+#13770
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.  There
+is a general aura of goodness around in the air.
+~
+28 8 1
+D0
+You see a bend in the hallway.
+~
+~
+0 -1 13769
+D2
+You see a bend in the hallway.
+~
+~
+0 -1 13771
+S
+#13771
+Bend in the Hallway.~
+You are at a bend in the hallway with the hallway continuing both to your
+north and to your west.  You can see a door to the east of you.
+You see steam coming out of the door to the east.
+~
+28 8 1
+D0
+You see a hallway leading both North and South.
+~
+~
+0 -1 13770
+D1
+You can't quite see what lies beyond the door to the east.
+~
+door~
+1 -1 13780
+D3
+You see a hallway leading both west and east.
+~
+~
+0 -1 13773
+S
+#13772
+Bend in the Hallway.~
+You are at a bend in the hallway with the hallway continuing both to your
+north and to your west.  You can see a door to the east of you.
+~
+28 8 1
+D0
+You see a hallway leading both north and south.
+~
+~
+0 -1 13776
+D1
+You see a door with strange warding marks on it.  You can't see what lies
+beyond it though.
+~
+door~
+1 -1 13798
+D3
+You see a hallway leading both west and east.
+~
+~
+0 -1 13777
+S
+#13773
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+~
+28 8 1
+D1
+You see a bend in the hallway.
+~
+~
+0 -1 13771
+D3
+You see a 4-way intersection.
+~
+~
+0 -1 13722
+S
+#13774
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+~
+28 8 1
+D1
+You see a bend in the hallway.
+~
+~
+0 -1 13775
+D3
+You see a 4-way intersection.
+~
+~
+0 -1 13723
+S
+#13775
+A E/S bend in the hallway.~
+You have arrived at a bend in the hallway which leads both West and South.
+The walls glow with an unnatural phospheric light.
+~
+28 8 1
+D2
+You see a hallway leading both north and south.
+~
+~
+0 -1 13776
+D3
+You see a hallway leading both west and east.
+~
+~
+0 -1 13774
+S
+#13776
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.  There
+is a general aura of goodness around in the air.
+~
+28 8 1
+D0
+You see a bend in the hallway.
+~
+~
+0 -1 13775
+D2
+You see a bend in the hallway.
+~
+~
+0 -1 13772
+S
+#13777
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+You see a door to your south with warding marks on it.
+~
+28 8 1
+D1
+You see a bend in the hallway.
+~
+~
+0 -1 13772
+D2
+All you can see is the wardings on the door which glow as you look at them.
+~
+door~
+1 -1 13786
+D3
+You see a bend in the hallway.
+~
+~
+0 -1 13778
+S
+#13778
+Bend in the hallway.
+~
+You have reached a bend in the hallway with the hallway continuing to both
+your north and to your east.  The walls glow with an unnatural light and
+you see a door to your west with warding markings on it.
+~
+28 8 1
+D0
+You see a hallway leading both N/S.
+~
+~
+0 -1 13779
+D1
+You see an E/W hallway.
+~
+~
+0 -1 13777
+D3
+You see a door with glowing warding marks on it but you can't see beyond it.
+~
+door~
+1 -1 13792
+S
+#13779
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.  There
+is a general aura of goodness handing about in the air.
+~
+28 8 1
+D0
+You see a 4-way intersection.
+~
+~
+0 -1 13723
+D2
+You see a bend in the hallway.
+~
+~
+0 -1 13778
+S
+#13780
+Sauna Room~
+You have entered a room that seems very hot and you can see steam all around
+you.  The steam makes it hard for you to see really much of anything in
+this room except for an occasional shadow that passes in front of your
+view.
+~
+28 588 0
+D0
+You can't see anything.
+~
+~
+0 -1 13781
+D1
+You can't see anything.
+~
+~
+0 -1 13783
+D3
+You think you see some light but are not sure.
+~
+door~
+1 -1 13771
+S
+#13781
+Sauna Room~
+You have entered a room that seems very hot and you can see steam all around
+you.  The steam makes it hard for you to see really much of anything in
+this room except for an occasional shadow that passes in front of your
+view.
+Even your light has a hard time cutting through this thick and hot steam.
+~
+28 8201 0
+D1
+You can't see anything.
+~
+~
+0 -1 13782
+D2
+You can't see anything.
+~
+~
+0 -1 13780
+S
+#13782
+Sauna Room~
+You have entered a room that seems very hot and you can see steam all around
+you.  The steam makes it hard for you to see really much of anything in
+this room except for an occasional shadow that passes in front of your
+view.
+Even your light has a hard time cutting through this thick and hot steam.
+~
+28 8201 0
+D2
+You can't see anything.
+~
+~
+0 -1 13783
+D3
+You can't see anything.
+~
+~
+0 -1 13781
+S
+#13783
+Sauna Room~
+You have entered a room that seems very hot and you can see steam all around
+you.  The steam makes it hard for you to see really much of anything in
+this room except for an occasional shadow that passes in front of your
+view.
+Even your light has a hard time cutting through this thick and hot steam.
+~
+28 8201 0
+D0
+You can't see anything.
+~
+~
+0 -1 13782
+D3
+You can't see anything.
+~
+~
+0 -1 13780
+S
+#13784
+Bathing Room - Southern end.~
+You are in a room which a contains a large in-ground tub of some kind 
+containing hot and relaxing water.  You think this would be a wonderful
+place to spend your freetime but then you realize that you do not belong
+to this place and decide to move on.
+~
+28 8264 0
+D0
+You see the Northern half of the bathing room.
+~
+~
+0 -1 13785
+D2
+You see a door.
+~
+door~
+1 -1 13768
+S
+#13785
+Bathing Room - Northern end.~
+You are in a room which a contains a large in-ground tub of some kind 
+containing hot and relaxing water.  You think this would be a wonderful
+place to spend your freetime but then you realize that you do not belong
+to this place and decide to move on.
+~
+28 8264 0
+D2
+You see the southern half of the bathing room.
+~
+~
+0 -1 13784
+S
+#13786
+Office.~
+As you enter this room, you are overwhelmed with a tingling sensation as if
+all the scraps of evil in you are trying to burst out and flee in panic.  
+The room itself is well furnished and judging by the furnishings, it must be
+some sort of office.  You see well crafted furniture about, a desk in the
+middle of the room with papers scattered about on it and a shelf containing
+a collection of books and logs.
+~
+28 584 1
+D0
+You see a hallway.
+~
+door~
+1 -1 13777
+D1
+You see another part of the office.
+~
+~
+0 -1 13791
+D3
+You see a storage room.
+~
+door~
+1 -1 13790
+S
+#13787
+Office of Chani Ihl'Varia.~
+You have entered a very plush office where everything around you has a very
+suttle yet comfortable feel to it.  The room is lit up by a very warm glow
+which seems to emminate from the walls themselves.  You also see an oaken
+desk sitting in the middle of the room.  Further west into the room
+you see a fireplace giving off a radiant and soothing glow.  There is a couch
+here used mainly for seating the visitors that come to this place.  The
+aura of goodness which you felt earlier in this place seems at its strongest
+here.  Whoever this Chani Ihl'Varia is, she must be a very special person.
+~
+28 520 1
+D0
+You see a hallway.
+~
+door~
+1 -1 13796
+D1
+You see the eastern part of the office.
+~
+~
+0 -1 13789
+D3
+You see the west end of the office.
+~
+~
+0 -1 13788
+S
+#13788
+Office of Chani Ihl'Varia.~
+You are in the west end of this office.  Here, the walls are still glowing
+and a fireplace takes up most of the west wall.  The fireplace itself has
+ornately carven runes covering the outer sides of it while an eternal flame
+burns slowly inside of it.  There is a white, soft, plush rug laying in front
+of the fireplace that looks cozy enough to simply sleep on while being
+warmed by the fire.  Along side the south wall you see a bookcase with books
+in it covering many topics including various law book covring the laws of
+the realms.  Along the north side of the wall you see a huge couch that
+looks like if you sat in it, you would simply sink into it and maybe never
+be seen by mortal eyes again.  You also notice pictures hanging above
+the north wall, perhaps of Chani's family.  The feeling of goodness resides
+just as strong in this room as it did when you first entered the office.
+~
+28 520 1
+D1
+You see the central part of the office.
+~
+~
+0 -1 13787
+S
+#13789
+Office of Chani Ihl'Varia.~
+This part of the office seems more bussiness like rather than cozy.  You see
+a long, rectangular table in the middle of the room probably used to hold
+important discussions concerning matters of the realm, matters of sanctuary
+or what have you.  Everything here is in a neat and orderly fashion.  You
+also see aproximately eight chairs surrounding this huge table which
+although seems somewhat comfortable, it doesn't inspire one to remain sitting
+for too long.  In the corner of the room you see a big blackboard of some
+type with some writing on it.  The walls light up the room in a warm glow and
+you have the distinct feeling that some important decisions were made in
+this room recently.
+~
+28 520 1
+D3
+You see the central part of the office.
+~
+~
+0 -1 13787
+S
+#13790
+Storage~
+You are in an office storage room.  Around you are scattered old scrolls
+and manuscripts, things which you wouldn't really consider important.  You
+also see other materials laying around as well, perhaps some of it you can
+even use.
+~
+28 520 1
+D1
+You see and office of sorts.
+~
+door~
+1 -1 13786
+S
+#13791
+Office.
+~
+You have entered another part of the office which seems a bit more comfortable
+than the part you just came from.  You see some chairs and a couch 
+scattered around the room, a cabinet of some sort in the corner, and a large
+multi-patterned rug lying in the middile of the floor.
+~
+28 520 1
+D3
+You see and office.
+~
+~
+0 -1 13786
+S
+#13792
+Bend in the hallway.~
+You are at a bend in the hallway with the hallway continuing both to the
+South and to the East.
+To your east you see a door with warding marks on it.
+~
+28 72 0
+D1
+You see a door with glowing warding marks on it but you
+can't see beyond it.
+~
+door~
+1 -1 13778
+D2
+You see a hallway leading both north and south.
+~
+~
+0 -1 13793
+S
+#13793
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.  The
+walls provide you light to see by and there is a general aura of goodness
+hanging about in the air.
+~
+28 8 1
+D0
+You see a bend in the hallway.
+~
+~
+0 -1 13792
+D2
+You see a bend in the hallway.
+~
+~
+0 -1 13794
+S
+#13794
+Bend in the hallway.
+~
+You are at a bend in the hallway with the hallway continuing both to the
+North and to the East.  The wall glow with an unnatural light.
+~
+28 8 1
+D0
+You see a hallway leading both north and south.
+~
+~
+0 -1 13793
+D1
+You see a hallway.
+~
+~
+0 -1 13795
+S
+#13795
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+~
+28 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 13796
+D3
+You see a bend in the hallway.
+~
+~
+0 -1 13794
+S
+#13796
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+To your south, you see a door with strange warding marks on it.
+~
+28 8 1
+D1
+You see a hallway.
+~
+~
+0 -1 13797
+D2
+You feel scraps of evil inside you shudder as you contemplate going through
+the door to your south.
+~
+door~
+1 -1 13787
+D3
+You see a hallway.
+~
+~
+0 -1 13795
+S
+#13797
+E/W Hallway.~
+You are in a hallway leading both to the east and to the west.
+The walls glow with an unnatural light.
+~
+28 8 1
+D1
+You see a bend in the hallway.
+~
+~
+0 -1 13700
+D3
+You see a hallway.
+~
+~
+0 -1 13796
+S
+#13798
+Bend in hallway.~
+You are at a bend in the hallway with the hallway continuing both to your
+north and to your west.  To your west, you see a door with strange warding 
+marks on it.
+~
+28 72 1
+D2
+You see a hallway.
+~
+~
+0 -1 13799
+D3
+You see a door with strange warding marks on it.
+~
+door~
+1 -1 13772
+S
+#13799
+N/S Hallway.~
+You are standing in a well-lit hallway leading both north and south.  The
+walls provide you light to see by and there is a general aura of goodness
+hanging about in the air.
+~
+28 8 1
+D0
+You see a bend in the hallway.
+~
+~
+0 -1 13798
+D2
+You see a bend in the hallway.
+~
+~
+0 -1 13700
+S
+$~
+#999999

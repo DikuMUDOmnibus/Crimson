@@ -1,0 +1,9 @@
+#! /bin/csh
+# gbn 6/11/93: added "nice" so dmserver will not clobber the system
+# Cryogen - moved nice to serverstart so that doesnt clobber system 7/30/9333
+# use between +10 and +20 to select priority
+chdir ..
+while(1)
+  src/dmserver 5005 >>& syslog
+  delscan lib/players
+end

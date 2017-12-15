@@ -1,0 +1,390 @@
+#16700
+The Entrance to DragonSpine~
+   You stand before a huge gate cunningly wrought with gold and silver.  TThis
+gate seems to be the only entrance to the staggeringly immense mountain range
+before you.  In the distance you see the picturesque citadel of Aarquelle.
+~
+55 8 1
+D0
+Beyond the Gate~
+~
+0 -1 16701
+D4
+THe great fountain of Midgaard lies above.
+~
+~
+0 -1 3014
+D5
+THe zonelord boardroom lies below.
+~
+~
+0 -1 8311
+S
+#16701
+Beyond the Gate~
+   Before you lies the wonder and mystery of the fabled land of DragonSpine.  
+To the north you see a carefully carved path.
+~
+55 8 1
+D0
+A Well Trod Path Through the Mountains~
+~
+0 -1 16702
+D2
+The Entrance to DragonSpine~
+~
+0 -1 16700
+S
+#16702
+A Well Trod Path Through the Mountains~
+   The trail rises sharply, ascending the higher reaches of DragonSpine.  With
+every step you take the path widens.
+~
+55 8 1
+D0
+n
+~
+~
+0 -1 16703
+D2
+Beyond the Gate~
+~
+0 -1 16701
+S
+#16703
+A Well Trod Path Through the Mountains~
+   The trail rises sharply, ascending the higher reaches of DragonSpine.  With
+every step you take the path widens.
+~
+55 8 1
+D0
+The Intersection~
+~
+0 -1 16704
+D2
+A Well Trod Path Through the Mountains~
+~
+0 -1 16702
+S
+#16704
+The Intersection~
+   The path is now crossed by a road leading westward.  The path continues to 
+the north; however, the footing deteriorates rapidly.
+~
+55 8 1
+D0
+The Rough Hewn Path~
+~
+0 -1 16705
+D1
+The Dead End~
+~
+0 -1 16705
+D2
+A Well Trod Path~
+~
+0 -1 16703
+D3
+w
+The wide road
+w
+~
+~
+0 -1 16709
+S
+#16705
+The Rough Hewn Path~
+   This path has been carved roughly out of the mountain side.  It has none
+of the calculated beauty of the previous path.
+~
+55 8 1
+D0
+The Rough Hewn Path~
+~
+0 -1 16706
+D2
+The Intersection~
+~
+0 -1 16704
+S
+#16706
+The Rough Hewn Path~
+   This path has been carved roughly out of the mountain side.  It has none
+of the calculated beauty of the previous path.
+~
+55 8 1
+D2
+The Intersection~
+~
+0 -1 16704
+D5
+Before the Lair~
+~
+0 -1 16707
+S
+#16707
+Before the Lair~
+This room is dark and dank.  A cloud of smoke billows out from the room beyond
+It smells as though an animal has taken up residence here.  Yet, what animal
+uses fire, save one?
+~
+55 9 1
+D0
+The Wilder's Lair~
+~
+0 -1 16708
+D4
+The Rough Hewn Path~
+~
+0 -1 16706
+S
+#16708
+The Wilder's Lair~
+   A glance about this cluttered room reveals every sort of junk imaginable
+Everything from children's toys to children's bones is heaped here.  It looks
+like the nest of a giant pack rat.
+~
+55 9 1
+D2
+Before the Lair~
+~
+0 -1 16707
+S
+#16709
+The Wide Road~
+   This road is wide enough for twenty humans to walk abreast.  The road is pa
+ved with irredescent white scales.
+~
+55 8 1
+D1
+~
+~
+0 -1 16704
+D3
+~
+~
+0 -1 16710
+S
+#16710
+The Wide Road~
+   This road is wide enough for twenty humans to walk abreast.  The road is pa
+ved with irredescent white scales.
+~
+55 8 1
+D1
+~
+~
+0 -1 16709
+D3
+~
+~
+0 -1 16711
+S
+#16711
+Along the Wide Road~
+   You begin to see shops cut out of the stone of the surrounding mountains
+The walls are now carved artfully and ivy climbs where it will.
+~
+55 8 1
+D0
+~
+~
+0 -1 16712
+D1
+~
+~
+0 -1 16710
+D2
+~
+~
+0 -1 16713
+D3
+~
+~
+0 -1 16714
+S
+#16712
+The Silver Goblet Inn~
+   This inn is as fancy as the name implies.  All the tables are set with
+silver cutlery, silver plates and, of course, silver goblets.
+~
+55 8 1
+D2
+~
+~
+0 -1 16711
+S
+#16713
+Dorla's Bakery~
+   Appetizing smells waft up from the many ovens in the bakery.  Not only com-
+mon bread but Aarquelle delicacies can be purchased here.
+~
+55 8 1
+D0
+~
+~
+0 -1 16711
+S
+#16714
+The Road to the Castle~
+   The scales here glisten with an almost painful brilliance.  The ivy is part
+icularly green here.
+~
+55 8 1
+D1
+~
+~
+0 -1 16711
+D3
+~
+~
+0 -1 16715
+S
+#16715
+Approaching the Drawbridge~
+   Before you lies a bridge across a clear blue moat.  This seems to be the
+only entrance to the great fortress that looms before you.  Scaling the fifty
+foot wall seems out of the question.
+~
+55 8 1
+D1
+~
+~
+0 -1 16714
+S
+#16716
+Crossing the Drawbridge~
+   This bridge is wrought with mithril and steel.  It couldn't be considered
+a weak link in the castle's defenses despite its ornamentation.
+~
+55 8 1
+D1
+~
+~
+0 -1 16715
+D3
+~
+~
+0 -1 16717
+S
+#16717
+The Courtyard~
+   You are astounded by the amount of green growing things here.  Grass, trees
+and flowers abound.  The amount of water needed by these plants must be 
+phenomenal.
+~
+55 8 1
+D0
+~
+~
+0 -1 16718
+D1
+~
+~
+0 -1 16716
+S
+#16718
+The Receiving Hall of the Dragon King~
+   This huge audience chamber is richly decorated with tapestries and painting
+is a large throne against the back wall.  It is the most enormous chair you 
+have ever seen.
+~
+55 8 1
+D0
+~
+~
+0 -1 16719
+D2
+~
+~
+0 -1 16717
+D3
+~
+~
+0 -1 16720
+S
+#16719
+The King's Study~
+   This small room ajoining the receiving hall is where the king readies his s
+speeches.  There is a large desk cluttered with parchments and documents.
+~
+55 8 1
+D2
+~
+~
+0 -1 16718
+S
+#16720
+The Hallway~
+   This wide vaulted hallway stretches as far as the eye can see.  The white
+marble walls are interuppted only by ornate doors
+~
+55 8 1
+D1
+~
+~
+0 -1 16718
+D3
+~
+~
+0 -1 16721
+S
+#16721
+The Hallway~
+   This wide vaulted hallway stretches as far as the eye can see.  The white
+marble walls are interuppted only by ornate doors
+~
+55 8 1
+D0
+~
+~
+0 -1 16722
+D1
+~
+~
+0 -1 16720
+D3
+~
+~
+0 -1 16723
+S
+#16722
+The Chambers of the Crown Prince~
+   The whole room is cluttered with old weathered toys.  Even though the princ
+has outgrown these toys, he still comes here from time to time to get away
+from the pressures  the court.
+~
+55 8 1
+D2
+~
+~
+0 -1 16721
+S
+#16723
+The Hallway~
+   This wide vaulted hallway stretches as far as the eye can see.  The white
+marble walls are interuppted only by ornate doors
+~
+55 8 1
+D0
+~
+~
+0 -1 16724
+D1
+~
+~
+0 -1 16721
+S
+#16724
+Chamber of the Princess Alya~
+   The youngest daughter of the throne lives here.  This is where she entertai
+ns her guests as well as sewing with her maids.
+~
+55 8 1
+D2
+~
+~
+0 -1 16723
+S
+$~
+#999999

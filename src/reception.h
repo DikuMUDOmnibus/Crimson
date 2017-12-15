@@ -1,0 +1,15 @@
+extern int Rent_get_filename(char *orig_name, char *filename);
+extern int Rent_delete_file(char *name);
+extern void add_obj_cost(struct char_data *ch, struct char_data *re, struct obj_data *obj, struct obj_cost *cost);
+extern bool recep_offer(struct char_data *ch,  struct char_data *receptionist,struct obj_cost *cost);
+extern void obj_store_to_char(struct char_data *ch, struct obj_file_elem *st);
+extern void del_char_objs(struct char_data *ch);
+extern void load_char_objs(struct char_data *ch);
+extern void put_obj_in_store(struct obj_data *obj, struct obj_file_elem *st);
+extern void obj_to_store(FILE *fl, struct obj_data *obj, struct obj_file_elem *st,struct char_data *ch);
+extern void obj_restore_weight(struct obj_data *obj);
+extern void extract_all_objs(struct obj_data *obj);
+extern void del_objs(struct char_data *ch);
+extern void save_obj(struct char_data *ch, struct obj_cost *cost);
+extern void update_obj_file(void);
+extern int receptionist(struct char_data *ch, int cmd, char *arg);

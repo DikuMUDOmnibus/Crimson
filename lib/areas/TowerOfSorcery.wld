@@ -1,0 +1,3225 @@
+#13000
+Entrance to the Shadow Grove~
+Before you, the grove of shadows lies. Giant grey trees are all that can 
+be seen through the thick shadows. A great sense of both power and menace 
+permeates the surrounding area. You have a strange urge to turn back and go
+the way you've come.  A small path leads north into the shadows and another
+leads west to a little used road.
+~
+22 4 3
+D0
+The shadows cloud your vision.
+~
+~
+0 -1 13001
+D3
+A little used road.
+~
+~
+0 -1 3729
+S
+#13001
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13002
+D1
+The shadows obscure you vision.
+~
+~
+0 -1 13003
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13004
+S
+#13002
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of 
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13001
+D1
+The shadows obscure your vision.
+~
+~
+0 -1 13004
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13005
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13003
+S
+#13003
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem the glare at you from all 
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D1
+The shadows obscure your vision.
+~
+~
+0 -1 13004
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13001
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13002
+S
+#13004
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D1
+The shadows obscure your vision.
+~
+~
+0 -1 13002
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13001
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13003
+S
+#13005
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13002
+D1
+The shadows obscure your vision.
+~
+~
+0 -1 13004
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13006
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13003
+S
+#13006
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13005
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13007
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13001
+S
+#13007
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13006
+D1
+The shadows obscure your vision.
+~
+~
+0 -1 13008
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13009
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13010
+S
+#13008
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits lead into shadows,
+you are very confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13005
+D1
+The shadows obscure your vision.
+~
+~
+0 -1 13003
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13009
+S
+#13009
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All directions lead into
+shadows, you are very confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13008
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13006
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13001
+S
+#13010
+The Shadow Grove~
+You are inside the shadow grove. Giant trees seem to glare at you from all
+sides. The shadowy mist obscures most of your vision. Strange sounds of
+moaning and growling come from all directions.  All exits save one lead into
+shadows, you are a little confused.
+~
+22 1 3
+D0
+The shadows obscure your vision.
+~
+~
+0 -1 13007
+D2
+The shadows part to reveal a small clearing.
+~
+~
+0 -1 13011
+D3
+The shadows obscure your vision.
+~
+~
+0 -1 13002
+S
+#13011
+A Small Clearing~
+You are in a small clearing in the shadow grove.  There is chared grass 
+underfoot, and the signs of fire here and there.  It is almost as if the plant
+life shuns this spot. The shadowy mist hovers all around, obscuring your view 
+into the grove.  A small path leads north to some shadowy structure. All other 
+exits are shrouded in shadowy mist.
+~
+22 1 3
+D0
+You can barely make out some sort of building to the north.
+~
+~
+0 -1 13012
+D1
+The shadows obscure your vision.
+~
+~
+0 -1 13007
+D2
+The shadows obscure your vision.
+~
+~
+0 -1 13003
+S
+#13012
+Entrance to the High Tower~
+You have reached the entrance to the high tower of sorcerery. The tower looms 
+above you at an incredible height. It seems to disappear into the storm clouds
+above.  A diamond gate is to the north, guarded by a huge golem. The trail 
+back south has disappeared behind you.
+~
+22 8 0
+D0
+The diamond gate looks incredibly strong.
+~
+gate diamond~
+1 -1 13013
+S
+#13013
+Inside the High Tower of Sorcery~
+You are inside the high tower of sorcery. The sight is truly amazing.  From
+here, it is obvious that somehow, the tower is much larger on the inside than
+it is on the outside. Young mages walk about, completely oblivious to your
+presence.  Exits lead north to the common room, west to the dinning room, east
+to a plain hallway and back south through the gate.
+~
+22 8 0
+D0
+The common room looks quite busy and noisy.
+~
+~
+0 -1 13014
+D1
+~
+~
+0 -1 13015
+D2
+~
+diamond gate~
+1 -1 13012
+D3
+~
+~
+0 -1 13016
+S
+#13014
+Common Room~
+You are in the common room. There are many apprentice warlocks here talking
+and resting, playing games, comparing notes. Obviously they are taking a
+break from their rigorous studies. There are benches, tables and a small
+water fountain here, otherwise the room is quite unremarkable.
+~
+22 8 0
+D0
+~
+~
+0 -1 13017
+D1
+The mages bar can be seen to the east.
+~
+~
+0 -1 13018
+D2
+~
+~
+0 -1 13013
+D3
+~
+~
+0 -1 13019
+S
+#13015
+The Hallway~
+You are in a long hallway, it seems rather unremarkable. The hallway continues 
+east and back west.
+~
+22 8 0
+D1
+~
+~
+0 -1 13030
+D3
+~
+~
+0 -1 13013
+S
+#13016
+Dinning Room~
+You are in the dinning area of the student mages. From the number of tables
+and chairs here, you can see that this room could easily seat several hundred
+people. It is oddly deserted here, obviously not meal time.
+~
+22 8 0
+D1
+~
+~
+0 -1 13013
+D3
+~
+door wooden~
+11 -1 13020
+S
+#13017
+Dark Hallway~
+You are in a dark hallway. It is apparent that this area is seldom used by
+the regular occupants of the tower. Dust covers the floors here.  The faint
+outline of a trapdoor can be seen in the dust.
+~
+22 9 0
+D2
+~
+~
+0 -1 13014
+D5
+~
+trapdoor~
+11 -1 13021
+S
+#13018
+Mages' Tavern~
+You are in mages tavern. The air is smokey and filled with the smells of
+foreign food and drink. The other patrons pay you little heed, as they
+obviously have more interesting things to contemplate. Strick the bartender
+is here waiting to take your order.  The only exit leads back west.
+~
+22 8 0
+D3
+~
+~
+0 -1 13014
+S
+#13019
+The Magic Shop~
+You are in the High Tower's store of magic. Tatorious stands behind the
+counter, selling all sorts of herbs, parchment and other reagents used in
+magical studies.  The only exit leads back east to the common room.
+~
+22 8 0
+D1
+~
+~
+0 -1 13014
+S
+#13020
+The Kitchen~
+You are in a small kitchen. All the usual kitchen type utensils and equipment
+is here, including some not so usual ones. Among the later, a huge black oven
+against one wall, it must be at least 12 feet high.  Opposite the oven is an
+equally enormous meat locker, large enough to comfortably store several
+helpless adventurers no doubt. In the middle of the room, hanging in mid-air 
+is a spice rack.
+~
+22 8 0
+D1
+~
+door wooden~
+11 -1 13016
+S
+#13021
+Below the Trapdoor~
+You are below the trapdoor. It is very dark and dusty here, very little light
+filters through from above. A faint sound of dripping water can be heard in
+the distance below.  A rope ladder leads down.
+~
+22 9 0
+D4
+~
+trapdoor~
+11 -1 13017
+D5
+~
+~
+0 -1 13022
+S
+#13022
+A Damp Intersection~
+You are in a damp intersection of what seems to be the basement of the tower.
+The sound of running water can be heard comming from the south, other than
+that, an almost tangible stillness fills the air.  Passages lead off in all
+directions, and a ladder leads up.
+~
+22 9 0
+D0
+~
+~
+0 -1 13023
+D1
+A faint light can be seen in the distance up the east passage.
+~
+~
+0 -1 13024
+D2
+~
+~
+0 -1 13025
+D3
+~
+~
+0 -1 13026
+D4
+~
+~
+0 -1 13021
+S
+#13023
+A Dark Passage~
+You are at the end of a dark passage which ends in a stout wooden door.
+Other then through the door, the only apparent exit is back the way you came.
+~
+22 9 0
+D0
+~
+oak door~
+15 13023 13027
+D2
+~
+~
+0 -1 13022
+S
+#13024
+A Dark Passage~
+You are at the end of a dark passage. A half opened door is to the east,
+shedding soft light around the edges. Faint snoring sounds can be heard behind
+the door.  Exits lead east through the door, or back west.
+~
+22 9 0
+D1
+~
+door~
+1 -1 13028
+D3
+~
+~
+0 -1 13022
+S
+#13025
+The Stagnant Pool~
+You are at the edge of a stagnant pool of water. The smell here is quite
+nauseating. This is apparently where the denizens of the tower dispose of
+their garbage. Faint gurgling can be heard from benieth the surface of the
+pool.  Exits lead back north, or perhaps for the very adventurous, down into
+the pool.
+~
+22 9 0
+D0
+~
+~
+0 -1 13022
+D5
+No light penetrates the gloom of the stagnant pool.
+~
+~
+0 -1 13029
+S
+#13026
+A Dark Passage~
+You are in a dark passage, which comes to an abrubt stop at what appears to
+be a cave-in to the west. It is certainly unpassable, and perhaps quite 
+dangerous just being this close.  The only exit leads back east.
+~
+22 9 0
+D1
+~
+~
+0 -1 13022
+S
+#13027
+A Dark Cell~
+You are in a dark cell. Straw and dirt cover the floors here, it is very dark.
+Someone, or something seems to be chained to the far wall.  The only exit is
+back south.
+~
+22 9 0
+D2
+~
+oak door~
+15 13023 13023
+S
+#13028
+The Jailor's Office~
+You are in the Jailor's office. It is rather messy here. Judging by the 
+sleeping form of the Jailor on duty, you can surmise that very few, if any
+prisoners survive long enough to spend much time in these dank dungeons.
+The only exit leads back west.
+~
+22 8 0
+D3
+~
+door~
+1 -1 13024
+S
+#13029
+Below the Stagnant Pool~
+As you dive beneith the putrid waters, you feel a strong tug and a whirlpool
+drags you under.  You are sucked into blackness and you feel your lungs
+beginning to burst from lack of oxygen!  Just as you feel your life fading,
+you notice a change in direction, and start to float to the surface.
+~
+22 9 0
+D4
+~
+~
+0 -1 7047
+S
+#13030
+The Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+door wooden~
+11 -1 13032
+D1
+~
+~
+0 -1 13031
+D2
+~
+door wooden~
+11 -1 13033
+D3
+~
+~
+0 -1 13015
+S
+#13031
+A Bend in the Hallway~
+You are at a bend in the hallway. The walls emit a faint magical glow which
+provides enough light to see by.
+~
+22 8 0
+D0
+~
+door wooden~
+11 -1 13034
+D1
+~
+door wooden~
+11 -1 13036
+D2
+~
+door wooden~
+11 -1 13035
+D3
+~
+~
+0 -1 13030
+S
+#13032
+A Store Room~
+You are in a small store room. Assorted junk is piled on shelves or leaning
+against walls.  The only apparent exit is back south.
+~
+22 9 0
+D2
+~
+door wooden~
+11 -1 13030
+S
+#13033
+A Broom Closet~
+You are in a dark broom closet. Many straw brooms and other cleaning 
+instruments have been left here, apparently unused (perhaps the maid quit?).
+The only exit leads back north to the hallway.
+~
+22 9 0
+D0
+~
+door wooden~
+11 -1 13030
+S
+#13034
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13038
+D1
+~
+door wooden~
+11 -1 13037
+D2
+~
+door wooden~
+11 -1 13031
+E
+walls~
+The walls shed a warm light.
+~
+S
+#13035
+Guardians Chamber~
+You are in the chamber of the tower guardians. It is rather sparesely
+furnished, but then again the odd occupants dont look to need furniture.
+Here and there a disembodied pair of hands or eyes flits about.
+~
+22 8 0
+D0
+~
+door wooden~
+11 -1 13031
+S
+#13036
+A Guest Bedroom~
+You are in a small guest bedroom. A small cot is in one corner, and a dusty 
+mirror on one wall, other than that the room looks quite bare, and unused.
+The only apparent exit leads back west to the hallway.
+~
+22 8 0
+D3
+~
+door wooden~
+11 -1 13031
+E
+mirror~
+Why, someone seems to be looing back at you from the other side!
+~
+S
+#13037
+A Guest Bedroom~
+You are in a comfortable looking bedroom. A small globe of magical energy
+floats overhead, providing light. A small cot is in one corner looking
+ever so comfortable, so comfortable in fact ...someone is sleeping in it.
+The only apparent exit leads back west to the hallway.
+~
+22 8 0
+D3
+~
+door wooden~
+11 -1 13034
+S
+#13038
+A Hallway~
+You are in a long hallway leading from the south. The walls emit a faint
+magical glow which provides enough light to see by.  Stairs lead up to the
+next level and the hallway leads back south.
+~
+22 8 0
+D1
+~
+door wooden~
+11 -1 13039
+D2
+~
+~
+0 -1 13034
+D4
+~
+~
+0 -1 13040
+S
+#13039
+The Burnt Room~
+You are in what looks to have once been a guest bed room. The walls are 
+blackened and burnt by what you could only immagine to be magical fire.
+There is no sign of the previous occupant, undoubtedly he left in a hurry.
+The only exit leads back west to the hallway.
+~
+22 9 0
+D3
+~
+door charred~
+11 -1 13038
+S
+#13040
+A Hallway~
+You are in a long hallway leading west from here. The walls emit a faint
+magical glow which provides enough light to see by. Some faint moonlight
+can be seen in the culdesac to the east.  The hallway continues west and
+stairs lead down to the level below.
+~
+22 8 0
+D0
+~
+door oak~
+11 -1 13042
+D1
+Faint moonlight can be seen to the east.
+~
+~
+0 -1 13041
+D3
+~
+~
+0 -1 13043
+D5
+~
+~
+0 -1 13038
+S
+#13041
+A Culdesac~
+You are in a small culdesac. A window to the east is letting in moonlight and 
+a pleasant breeze. Through it, the surrounding country side can be seen.  The 
+only apparent exit leads back west to the hallway.
+~
+22 8 0
+D3
+~
+~
+0 -1 13040
+E
+window east~
+Stretching out as far as the eye can see is a canopy of dark tree tops which
+can only be the Haon-Dor-Dark Forest. A faint light in the distance to the
+northeast marks what is probably the City of Midgaard.
+~
+S
+#13042
+The Apprentice's Barracks~
+You are in the barracks of the apprentice magic users. Here and there, a
+young apprentice sits engrosed in magical study, or practicing a feable
+cantrip. Cots line the walls, and the room continues west.
+~
+22 8 0
+D2
+~
+door oak~
+11 -1 13040
+D3
+~
+~
+0 -1 13044
+S
+#13043
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.  There is a door to the
+north, and the hallway continues west or back east.
+~
+22 8 0
+D0
+~
+door oak~
+11 -1 13044
+D1
+~
+~
+0 -1 13040
+D3
+~
+~
+0 -1 13045
+S
+#13044
+The Apprentice's barracks~
+You are in the barracks of the apprentice magic users. Here and there, a
+young apprentice sits engrosed in magical study, or practicing a feable
+cantrip. Cots line the walls, and the room continues east.
+~
+22 8 0
+D1
+~
+~
+0 -1 13042
+D2
+~
+door oak~
+11 -1 13043
+S
+#13045
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by. Flashes of light can
+be seen under the doorway to the north.
+~
+22 8 0
+D0
+A flash of blue light momentarily lights up the doors outline.
+~
+door oak~
+11 -1 13046
+D1
+~
+~
+0 -1 13043
+D3
+~
+~
+0 -1 13047
+S
+#13046
+The Apprentice's Workshop~
+You are in a small workshop. Writting implements and parchment are strewn
+about on a few worktables. In the far corner several young mages have a
+small kitten cornered and seem to be testing spells upon it.  The only
+apparent exit leads back south to the hallway.
+~
+22 8 0
+D2
+~
+door oak~
+11 -1 13045
+S
+#13047
+A Bend in the Hallway~
+You are at a bend in the hallway. The walls emit a faint magical glow which
+provides enough light to see by.  The hallway continues south and back east.
+~
+22 8 0
+D1
+~
+~
+0 -1 13045
+D2
+~
+~
+0 -1 13048
+S
+#13048
+The Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  There is a closed metal
+door to the west.
+~
+22 8 0
+D0
+~
+~
+0 -1 13047
+D2
+~
+~
+0 -1 13050
+D3
+~
+door metal~
+11 -1 13049
+S
+#13049
+A Classroom~
+You are in a large classroom filled with bored looking students of the art.
+The instructor stops in his lecture on the fine uses of magic missile at your
+entry and lunges to attack you.  The only apparent exit is back east to the
+hallway.
+~
+22 8 0
+D1
+~
+door metal~
+11 -1 13048
+S
+#13050
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13048
+D2
+~
+~
+0 -1 13051
+D3
+~
+door metal~
+11 -1 13052
+S
+#13051
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enought light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13050
+D2
+~
+~
+0 -1 13053
+D3
+~
+door metal~
+11 -1 13054
+S
+#13052
+An Empty Classroom~
+You are in an empty classroom. Some strange sigils are written on a blackboard
+which is floating in the air here. Other than a few desks, it is bare of
+furniture.  The only apparent exit leads back east to the hallway.
+~
+22 8 0
+D1
+~
+door metal~
+11 -1 13050
+S
+#13053
+A Bend in the Hallway~
+You are at a bend in the hallway. The walls emit a faint magical glow which
+provides enough light to see by.  The hallway continues east and north.
+~
+22 8 0
+D0
+~
+~
+0 -1 13051
+D1
+~
+~
+0 -1 13055
+S
+#13054
+An Empty Classroom~
+You are in an apparently empty classroom. A strange feeling of being watched
+comes over you, and you hear the faint russle of robes.  The only apparent
+exit is back east to the hallway.
+~
+22 8 0
+D1
+~
+door metal~
+11 -1 13051
+S
+#13055
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.  A sturdy iron door can
+be seen to the south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13056
+D2
+~
+door sturdy iron~
+11 -1 13057
+D3
+~
+~
+0 -1 13053
+S
+#13056
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.  There is a large oaken
+door to the south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13058
+D2
+~
+door large oaken~
+11 -1 13059
+D3
+~
+~
+0 -1 13055
+S
+#13057
+The Amphitheatre~
+You are in a small amphitheatre. Rows of comfortable looking chairs circle
+a large podium. The echos of your footsteps seem very loud here.  The only
+apparent exit leads north to the hallway.
+~
+22 8 0
+D0
+~
+door sturdy iron~
+11 -1 13055
+S
+#13058
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow providing enough light to see by.  A small door can be seen to
+the south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13060
+D2
+~
+door small~
+11 -1 13061
+D3
+~
+~
+0 -1 13056
+S
+#13059
+The Training Room~
+You are in a large training room. It is filled with battle scared manikins, 
+and many other devices used in the practice of fighting.
+~
+22 8 0
+D0
+~
+door~
+11 -1 13056
+S
+#13060
+A Bend in the Hallway~
+You are at a bend in the hallway. The walls emit a faint magical glow which
+provides enough light to see by.  The hallway continues north and west.
+~
+22 8 0
+D0
+~
+~
+0 -1 13062
+D3
+~
+~
+0 -1 13058
+S
+#13061
+A Dueling Room~
+You are in a large room used for duals arcane. The walls, ceiling and floor
+all bare the scars of many firey spells, but still look quite strong and hold
+fast.  The only exit leads north to the hallway.
+~
+22 8 0
+D0
+~
+door small~
+11 -1 13058
+S
+#13062
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  A doorway can be seen
+to the east.
+~
+22 8 0
+D0
+~
+~
+0 -1 13063
+D1
+~
+door~
+11 -1 13064
+D2
+~
+~
+0 -1 13060
+S
+#13063
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which privides enough light to see by.  A wooden door can been
+seen to the east.
+~
+22 8 0
+D0
+~
+~
+0 -1 13066
+D1
+~
+door wooden~
+11 -1 13065
+D2
+~
+~
+0 -1 13062
+S
+#13064
+The Spellmaster's Lounge~
+You are in a large comfortable looking lounge. Off duty spell teachers are
+here relaxing in their idle time. A large coffee machine is against the far
+wall.  The only apparent exit leads back west to the hallway.
+~
+22 8 0
+D3
+~
+door wooden~
+11 -1 13062
+S
+#13065
+A Bedroom~
+You are in a large, plush bedroom. The owner is obviously someone of high
+standing in the magical community here. An ice mirror is on one wall, and
+a scrying globe sit on a stand in the middle of the room. An enormous bed
+can be seen floating about a meter above the floor.  The only exit leads
+back west to the hallway.
+~
+22 8 0
+D3
+~
+door wooden~
+11 -1 13063
+S
+#13066
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow providing enough light to see by.  A glass door can be seen to
+the east.
+~
+22 8 0
+D0
+~
+~
+0 -1 13068
+D1
+~
+door glass~
+11 -1 13067
+D2
+~
+~
+0 -1 13063
+S
+#13067
+The Study~
+You are in a small, well kept study. Ancient tomes are on shelves on the 
+walls, A huge table sits in the middle of the room, with maps weighted down
+upon it. The only light source here comes from an interestingly non-magical
+oil lamp.  The only apparent exit leads back west to the hallway.
+~
+22 8 0
+D3
+~
+door glass~
+11 -1 13066
+S
+#13068
+Below the Stairs~
+You are at the end of a long hallway. The walls emit a faint magical glow
+which provides enough light to see by. A lesser guardian is here keeping
+silent watch on the entrance to the levels above.  Stairs lead up and the
+hallway continues back south.
+~
+22 8 0
+D2
+~
+~
+0 -1 13066
+D4
+~
+~
+0 -1 13069
+S
+#13069
+Atop the Stairway~
+You are atop a stairway. The halls here look quite a bit less used than
+those below. Obviously access to these magic filled corridors is limmited
+to those of the upper eschelon of mages. The walls here emit a faint blue
+magical aura which provides some light.  The hallway leads west from here
+and the stairs go down.
+~
+22 8 0
+D3
+~
+~
+0 -1 13070
+D5
+~
+~
+0 -1 13068
+S
+#13070
+A Hallway~
+You are in a long hallway stretching east and west. The walls here emit a
+faint magical energy providing enough light to see by.  There is a thick
+looking wooden door to the north.
+~
+22 8 0
+D0
+~
+door wooden~
+11 -1 13071
+D1
+~
+~
+0 -1 13069
+D3
+~
+~
+0 -1 13072
+S
+#13071
+A Small Office~
+You are in a small office. It looks like a caligropher's study, there are
+quills, inkpots and parchments all about on desks and worktables.  A section
+to the west seems to be curtained off, but the flicker of a candle can be
+seen through the curtain.
+~
+22 8 0
+D2
+~
+door wooden~
+11 -1 13070
+D3
+~
+curtain~
+11 -1 13073
+S
+#13072
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint 
+magical glow which provides enough light to see by.
+~
+22 8 0
+D1
+~
+~
+0 -1 13070
+D3
+~
+~
+0 -1 13074
+S
+#13073
+The Master Scribe's Workshop~
+You are in the workshop of the tower's master scribe. Many half finished
+scrolls lay on the writing table in the center of the room. A giant candle
+flickering with soft blue flames provides the only light here.  The only
+apparent exit is the way you came in.
+~
+22 8 0
+D1
+~
+curtain~
+11 -1 13071
+S
+#13074
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.  A half closed door can
+be seen to the north.
+~
+22 8 0
+D0
+A dark room can be seen through the half opened door.
+~
+door wooden~
+11 -1 13075
+D1
+~
+~
+0 -1 13072
+D3
+~
+~
+0 -1 13076
+S
+#13075
+A Store Room~
+You are in a small dark store room. A few common items are stacked upon the
+shelves here, but very little looks interesting.
+~
+22 9 0
+D2
+~
+door wooden~
+11 -1 13074
+S
+#13076
+A Bend in the Hallway~
+You are at a bend in the long hallway. The walls emit a faint magical glow
+which provides enough light to see by.  The hallway continues south and east
+from here.
+~
+22 8 0
+D1
+~
+~
+0 -1 13074
+D2
+~
+~
+0 -1 13077
+S
+#13077
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  An iron bound door can
+be seen to the west.
+~
+22 8 0
+D0
+~
+~
+0 -1 13076
+D2
+~
+~
+0 -1 13078
+D3
+~
+door iron~
+11 -1 13079
+S
+#13078
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  The sharp sound of metal
+on metal can be heard to the west.
+~
+22 8 0
+D0
+~
+~
+0 -1 13077
+D2
+~
+~
+0 -1 13080
+D3
+~
+door iron~
+11 -1 13081
+S
+#13079
+A Store Room~
+You are in a large store room. Bins of ores, minerals and other rare materials
+are here along with many neatly stacked piles of precious metals.  A large
+cabinet with sigils of warding is bolted to one wall.  The ring of metal on
+metal can be heard to the south.
+~
+22 8 0
+D1
+~
+door iron~
+11 -1 13077
+D2
+~
+~
+0 -1 13081
+S
+#13080
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13078
+D2
+~
+~
+0 -1 13083
+S
+#13081
+A Very Hot Room~
+You are in a very hot room. Against one wall is a large forge, magical fires
+crackle within and heavy blue smoke pours into a vent in the cieling.  A rune 
+encrusted mithril anvil is in the center of the room, looking well used and
+other tools of metalurgy hang on a rack which floats about three meters in 
+the air of its own force.
+~
+22 8 0
+D0
+~
+~
+0 -1 13079
+D1
+~
+door iron~
+11 -1 13078
+D2
+~
+door~
+11 -1 13082
+D4
+~
+vent~
+11 -1 13112
+S
+#13082
+The Master Enchanter's Chamber~
+You have entered the master enchanter's chamber. Upon all the walls here are
+racks of finely crafted weapons. A huge chest with a glowing lock is set to
+one side. Several unfinished looking blades rest atop a small work table.
+~
+22 8 0
+D0
+~
+door~
+11 -1 13081
+S
+#13083
+A Bend in the Hallway~
+You are at a bend in a long hallway. The walls emit a faint magical glow 
+which provides enough light to see by.  The hallway continues north and east.
+~
+22 8 0
+D0
+~
+~
+0 -1 13080
+D1
+~
+~
+0 -1 13084
+S
+#13084
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint 
+magical glow which provides enough light to see by.  A steel door can be 
+seen to the south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13085
+D2
+~
+door steel~
+11 -1 13086
+D3
+~
+~
+0 -1 13083
+S
+#13085
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D1
+~
+~
+0 -1 13087
+D3
+~
+~
+0 -1 13084
+S
+#13086
+A Laboratory~
+You are in a small laboratory. Many strange instruments, vials, bottles and
+some scrawled notes are piled about a workbench. This room is very untidy,
+looking almost abandoned, or used by a madman.  The only apparent exits are
+east and north.
+~
+22 8 0
+D0
+~
+door steel~
+11 -1 13084
+D1
+~
+~
+0 -1 13088
+S
+#13087
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enought light to see by.  You can see a steel
+door to the south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13089
+D2
+~
+door steel~
+11 -1 13090
+D3
+~
+~
+0 -1 13085
+S
+#13088
+The Mad Alchemist's Workroom~
+You are in the workroom of The Mad Alchemist. Bubbling braizers, long glass
+tubes and scores of oddly shaped vials and bottles are everywhere.  It is
+incredibly messy here, crushed glass and other trash litter the floor.  The
+only apparent exit is the one you entered by.
+~
+22 8 0
+D3
+~
+~
+0 -1 13086
+S
+#13089
+A Bend in the Hallway~
+You are at a bend in a long hallway. The walls emit a faint magical glow
+which provides enough light to see by.  The hallway continues north and west.
+~
+22 8 0
+D0
+~
+~
+0 -1 13091
+D3
+~
+~
+0 -1 13087
+S
+#13090
+The Pentagram Chamber~
+You are in a large room with a five pointed star etched into the floor.
+A crackling energy field can be seen to the south, it looks quite dangerous.
+~
+22 8 0
+D0
+~
+door steel~
+11 -1 13087
+D2
+The energy field crackles and glows, nothing seems to be beyond.
+~
+~
+0 -1 13092
+S
+#13091
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  A bronze door can be
+seen to the east.
+~
+22 8 0
+D0
+~
+~
+0 -1 13093
+D1
+~
+door bronze~
+11 -1 13094
+D2
+~
+~
+0 -1 13089
+S
+#13092
+Inside the Energy Field~
+You feel a stomach twisting sensation as you enter the energy field, suddenly
+you dont think you are where you were.  You are very confused.
+~
+22 8 0
+D0
+You can't see anything through the energy field.
+~
+~
+0 -1 4115
+D1
+You can't see anything through the energy field.
+~
+~
+0 -1 7429
+D2
+You can't see anything through the energy field.
+~
+~
+0 -1 5120
+D3
+You can't see anything through the energy field.
+~
+~
+0 -1 3014
+D4
+You can't see anything through the energy field.
+~
+~
+0 -1 6137
+D5
+You cant see anything through the energy field
+~
+~
+0 -1 6137
+S
+#13093
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  A bronze door can be
+seen to the east.
+~
+22 8 0
+D0
+~
+~
+0 -1 13096
+D1
+~
+door bronze~
+0 -1 13095
+D2
+~
+~
+0 -1 13091
+S
+#13094
+An Empty Room~
+You are in an empty room. It is both quiet and comfortable here, it looks
+like a safe place to rest.
+~
+22 12 0
+D3
+~
+door bronze~
+11 -1 13091
+S
+#13095
+The Charm Master's Chamber~
+You are in the chambers of the tower's master of charm. Some straw and dirt 
+litters the floor here, it looks to have been recently used by wild animals.
+Strange sounds can be heard through the bars to the north.
+~
+22 8 0
+D0
+~
+cage bars~
+11 -1 13097
+D3
+~
+door bronze~
+11 -1 13093
+S
+#13096
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13098
+D2
+~
+~
+0 -1 13093
+S
+#13097
+The Animal Pens~
+You are in the animal pens. Many caged animals are here looking unhappy.
+Obviously they are destined to be enslaved, or used in some cruel magical
+experimentation.
+~
+22 8 0
+D2
+~
+cage bars~
+11 -1 13095
+S
+#13098
+The End of the Hallway~
+You are at the end of a long north-south hallway. The walls emit a faint
+magical glow which provies enough light to see by.  Stairs here lead up to
+the next level, and the hallway continues south.
+~
+22 8 0
+D2
+~
+~
+0 -1 13096
+D4
+~
+~
+0 -1 13099
+S
+#13099
+Atop the Stairway~
+You are atop the stairway to the upper levels of the high tower. The walls
+emit a faint magical glow which provides enough light to see by.  A hallway
+leads west from here, and the stairs lead down.
+~
+22 8 0
+D3
+~
+~
+0 -1 13100
+D5
+~
+~
+0 -1 13098
+S
+#13100
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.  A silver door can be
+seen to the north.
+~
+22 8 0
+D0
+~
+door silver~
+11 -1 13101
+D1
+~
+~
+0 -1 13099
+D3
+~
+~
+0 -1 13104
+S
+#13101
+A Store Room~
+You are in a large store room. Raw materials are neatly bundled and piled
+here and here. Many freshly cut staves rods and wands of different sizes
+are here.  You can see a silver door to the west.
+~
+22 8 0
+D2
+~
+door silver~
+11 -1 13100
+D3
+~
+door silver~
+11 -1 13102
+S
+#13102
+The Master Spellbinder's Chamber~
+You are in the chambers of the master spell binder. Unlike other work shops
+of similar nature, this one is without furnishings or tools. The spell binder
+obviously needs none for the working of his art.  A silver door can be seen
+to the west.
+~
+22 8 0
+D1
+~
+door silver~
+11 -1 13101
+D3
+~
+door silver~
+11 -1 13103
+S
+#13103
+The Spellbinder's Cache~
+You have discovered the cache of the master spell binder. There are three
+very large silver chased cabinets here, other than that, the room is bare.
+A silver door can be seen to the south.
+~
+22 8 0
+D1
+~
+door silver~
+11 -1 13102
+D2
+~
+door silver~
+11 -1 13105
+S
+#13104
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint 
+magical glow which provides enough light to see by.
+~
+22 8 0
+D1
+~
+~
+0 -1 13100
+D3
+~
+~
+0 -1 13105
+S
+#13105
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+A silver door can be seen to the north.
+~
+22 8 0
+D0
+~
+door silver~
+11 -1 13103
+D1
+~
+~
+0 -1 13104
+D3
+~
+~
+0 -1 13106
+S
+#13106
+A Bend in the Hallway~
+You are at a bend in the long hallway. The walls emit a faint magical glow
+which provides enough light to see by.  The hallway continues east and south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13105
+D2
+~
+~
+0 -1 13107
+S
+#13107
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13106
+D2
+~
+~
+0 -1 13108
+S
+#13108
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  A rusty old door can
+be seen to the west.
+~
+22 8 0
+D0
+~
+~
+0 -1 13107
+D2
+~
+~
+0 -1 13113
+D3
+~
+door rusty~
+11 -1 13109
+S
+#13109
+The Golem Master's Workshop~
+You are in the golem master's workshop. A few unfinished looking humanoid
+forms of different make are here, some moving some not. The animated forms
+lunge to attack you.
+~
+22 8 0
+D0
+~
+~
+0 -1 13110
+D1
+~
+door rusty~
+11 -1 13108
+D2
+~
+~
+0 -1 13111
+D5
+~
+trapdoor~
+11 -1 13112
+S
+#13110
+A Store Room~
+You are in a small store room. Large chunks of clay, stone, wood and many
+other raw materials are here.
+~
+22 8 0
+D2
+~
+~
+0 -1 13109
+S
+#13111
+The Golem Chamber~
+You are in the golem chamber. Golems made of every immaginable material are
+here, ranging in size from a handspan to nearly the cieling. They all seem 
+to be sleeping.
+~
+22 8 0
+D0
+~
+~
+0 -1 13109
+S
+#13112
+It is very dark here...~
+~
+22 9 0
+D4
+~
+trapdoor~
+11 -1 13109
+D5
+~
+vent~
+11 -1 13081
+S
+#13113
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13108
+D2
+~
+~
+0 -1 13114
+S
+#13114
+A Bend in the Hallway~
+You are at a bend in the long hallway. The walls emit a faint magical glow 
+which provides enough light to see by.  The hallway continues north and east
+from here.
+~
+22 8 0
+D0
+~
+~
+0 -1 13113
+D1
+~
+~
+0 -1 13115
+S
+#13115
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D1
+~
+~
+0 -1 13116
+D3
+~
+~
+0 -1 13114
+S
+#13116
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provies enough light to see by.  An emerald door can
+be seen to the south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13119
+D2
+~
+door emerald~
+11 -1 13117
+D3
+~
+~
+0 -1 13115
+S
+#13117
+The Master of Illusion's Chamber~
+You are in the chamber of the master of illusions. The walls here are every
+changing in color and texture, as if they were reforming before your very
+eyes. Many splenderous treasures lie all around in heaps and piles, or at
+least they seem to be treasures...
+~
+22 8 0
+D0
+~
+door emerald~
+11 -1 13116
+D3
+~
+~
+0 -1 13118
+S
+#13118
+A Bedroom~
+You are in the bedroom of the master of illusions. Strange looking items and
+artifacts float here and there in the air. The ripples of strong magic can be
+felt everywhere.  The room seems much larger than it looks...
+~
+22 8 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 13117
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+S
+#13119
+A Hallway~
+You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.  A glass door can be
+seen to the south.
+~
+22 8 0
+D1
+~
+~
+0 -1 13121
+D2
+~
+door glass~
+11 -1 13120
+D3
+~
+~
+0 -1 13116
+S
+#13120
+The Meditation Chamber~
+You are in a meditation chamber. It is very silent here, in fact you cannot
+even hear your own footsteps.  You feel very peaceful.
+~
+22 524 0
+D0
+~
+door glass~
+11 -1 13119
+S
+#13121
+A Bend in the Hallway~
+You are at a bend in the long hallway. The walls emit a faint magical glow
+which provides enough light to see by.  The hallway continues north and west
+from here.
+~
+22 8 0
+D0
+~
+~
+0 -1 13122
+D3
+~
+~
+0 -1 13119
+S
+#13122
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.  A blackened door can
+be seen to the east.
+~
+22 8 0
+D0
+~
+~
+0 -1 13126
+D1
+~
+door black~
+11 -1 13123
+D2
+~
+~
+0 -1 13121
+S
+#13123
+A Dark Room~
+You are in a large dark room. The air here seems quite stale, and a sense of
+extreme dread comes over you. The stench of rotten flesh seems to be wafting
+in from the open doorway to the north.
+~
+22 9 0
+D0
+~
+~
+0 -1 13124
+D3
+~
+door black~
+11 -1 13122
+S
+#13124
+A Dark Room~
+You are in a large dark room. The stench here makes you gag and wretch.
+There are body parts and half rotted corpses strewn about with complete
+abandon. Several operating tables with still forms that resemble nothing
+you've ever seen alive are here.  Tortured screams can be heard from the
+north.
+~
+22 9 0
+D0
+Upon gazing northwards, you are filled with deep dread.
+~
+~
+0 -1 13125
+D2
+~
+~
+0 -1 13123
+S
+#13125
+The Necromancer's Lair~
+You are in the lair of the evil Necromancer. Undead minions of all types,
+human and otherwise stand here waiting to do their master's bidding. Some
+glowing arcane sigils have been etched into walls and floor, no doubt to
+protect the evil master from his own ungodly creations.
+~
+22 9 0
+D2
+~
+~
+0 -1 13124
+S
+#13126
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13127
+D2
+~
+~
+0 -1 13122
+S
+#13127
+A Hallway~
+You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+22 8 0
+D0
+~
+~
+0 -1 13128
+D2
+~
+~
+0 -1 13126
+S
+#13128
+The End of the Hallway~
+You are at the end of a long hallway. The walls here glow with a faint
+magical energy which provides plenty of light.  Stairs lead up to the next
+level here and the hallway continues south.
+~
+22 8 0
+D2
+~
+~
+0 -1 13127
+D4
+~
+~
+0 -1 13129
+S
+#13129
+A Corridor~
+You are at the east end of a long corridor. Obsidian walls engraved with
+ancient runes of power stretch out before you. Magical energies seem to 
+crackle with power all around and whisper in tongues long forgotten, almost
+as if the corridor itself were alive.
+~
+22 8 0
+D3
+~
+~
+0 -1 13130
+D5
+~
+~
+0 -1 13128
+S
+#13130
+A Corridor~
+You are in a long corridor. Obsidian walls engraved with ancient runes of
+power stretch out before you. Magical energies seem to crackle with power all
+around and whisper in tongues long forgotten, almost as if the corridor itself
+were alive.
+~
+22 8 0
+D1
+~
+~
+0 -1 13129
+D3
+~
+~
+0 -1 13131
+S
+#13131
+A Bend in the Corridor~
+You are at a bend in the long corridor. Obsidian walls engraved with ancient
+runes of power stretch out before you. Magical energies seem to crackle with
+power all around and whisper in tongues long forgotten, almost as if the
+corridor itself were alive.
+~
+22 8 0
+D1
+~
+~
+0 -1 13130
+D2
+~
+~
+0 -1 13132
+S
+#13132
+A Corridor~
+You are in a long corridor leading north and south. Obsidian walls engraved
+with ancient runes of power stretch out before you. Magical energies seem to
+crackle with power all around and whisper in tongues long forgotten, almost
+as if the corridor itself were alive.
+~
+22 8 0
+D0
+~
+~
+0 -1 13131
+D2
+~
+~
+0 -1 13133
+S
+#13133
+An Intersection~
+You are at an intersection in the corridor. The obsidian walled halls lead
+off in every direction from here, pulsing with the power of their ancient
+runes.
+~
+22 8 0
+D0
+~
+~
+0 -1 13132
+D1
+~
+~
+0 -1 13134
+D2
+~
+~
+0 -1 13146
+D3
+~
+~
+0 -1 13136
+S
+#13134
+A Corridor~
+You are at the end of a long corridor. Obsidian walls engraved with ancient
+runes of power stretch out before you. A darkened door is to the east.
+Tendrils of mist cling to the floor here, they seem to be seeping from under
+the door.
+~
+22 8 0
+D1
+~
+door black~
+11 -1 13135
+D3
+~
+~
+0 -1 13133
+S
+#13135
+The Scrying Chamber~
+You are in the scying chamber of the high tower of sorcerery. It is here that
+arcane rituals are performed to enable those of the art to look in upon
+denizons throughout the world and spy out their darkest secrets.  A huge black
+cauldrin is in the center of the room, bubbling and gurgling, it pours forth a
+constant stream of smokey fog into the air about you. Here and there on stands
+of different sizes are crystal balls and oddly shaped mirrors.
+~
+22 9 0
+D3
+~
+door black~
+11 -1 13134
+S
+#13136
+A Corridor~
+You have reached an end in the long corridor. Obsidian walls engraved with
+ancient runes of power stretch out before you. The sound of snoring can 
+barely be heard through the door to the west.
+~
+22 8 0
+D1
+~
+~
+0 -1 13133
+D3
+~
+door wooden~
+0 -1 13137
+S
+#13137
+The Entrance to the Library~
+You are in the entrance to the great library of magic. A giant desk is here,
+covered with books parchments and scrolls. Long shelves loaded with row upon
+row of books stretch out in every direction as far as the eye can see.
+~
+22 8 0
+D0
+~
+~
+0 -1 13139
+D1
+~
+~
+0 -1 13136
+D2
+All you can see are books.
+~
+~
+0 -1 13140
+D3
+All you can see are books.
+~
+~
+0 -1 13138
+S
+#13138
+In the Library~
+You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of books,
+tomes and scrolls of every possible shape size and color. The elusive books
+seem to wink in and out of existance before your untrained eyes.  It is very
+quiet here.
+~
+22 8 0
+D0
+~
+~
+0 -1 13141
+D1
+~
+~
+0 -1 13137
+D2
+~
+~
+0 -1 13142
+D3
+~
+~
+0 -1 13143
+S
+#13139
+In the Library~
+You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of books,
+tomes and scrolls of every possible shape size and color. The elusive books 
+seem to wink in and out of existance before your untrained eyes.  It is very
+quiet here.
+~
+22 8 0
+D0
+~
+~
+0 -1 13140
+D1
+~
+~
+0 -1 13142
+D2
+~
+~
+0 -1 13137
+D3
+~
+~
+0 -1 13141
+S
+#13140
+In the Library~
+You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of books,
+tomes and scrolls of every possible shape size and color. The elusive books
+seem to wink in and out of existance before your untrained eyes.  It is very
+quiet here.
+~
+22 8 0
+D0
+~
+~
+0 -1 13137
+D1
+~
+~
+0 -1 13141
+D2
+~
+~
+0 -1 13139
+D3
+~
+~
+0 -1 13142
+S
+#13141
+In the Library~
+You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of books,
+tomes and scrolls of every possible shape size and color. The elusive books
+seem to wink in and out of existance before your untrained eyes.  It is very
+quiet here.
+~
+22 8 0
+D0
+~
+~
+0 -1 13142
+D1
+~
+~
+0 -1 13139
+D2
+~
+~
+0 -1 13138
+D3
+~
+~
+0 -1 13140
+S
+#13142
+In the Library~
+You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of books,
+tomes and scrolls of every possible shape size and color. The elusive books
+seem to wink in and out of existance before your untrained eyes.  It is very
+quiet here.
+~
+22 8 0
+D0
+~
+~
+0 -1 13138
+D1
+~
+~
+0 -1 13140
+D2
+~
+~
+0 -1 13141
+D3
+~
+~
+0 -1 13139
+S
+#13143
+In the Library~
+You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of books,
+tomes and scrolls of every possible shape size and color. The elusive books
+seem to wink in and out of existance before your untrained eyes.  It is very
+quiet here.
+~
+22 8 0
+D1
+~
+~
+0 -1 13138
+D3
+~
+~
+0 -1 13144
+S
+#13144
+Between the Shelves~
+You are in the great library of magic. The shelves seem uncomfortably close
+here, you can barely manuver between them. The musty smell is still strong,
+and the elusive books still hover just out of reach.  A faint flicker of
+light can barely be made out to the north.
+~
+22 8 0
+D0
+~
+~
+0 -1 13145
+D1
+~
+~
+0 -1 13143
+S
+#13145
+The Reading Room~
+You are in a small room completely devoid of furnishings. The only thing
+here is an enormous tome, lying face open on the floor. The great book looks
+both heavy and ancient. Its jewel encrusted bindings are well worn as the
+bark of a tree. Spidery writings seem to crawls across the pages, totally 
+uncomprehensible to your mortal eye. Something seems to be wedged between
+the pages.
+~
+22 8 0
+D2
+~
+~
+0 -1 13144
+S
+#13146
+A Corridor~
+You are in a long corridor leading north and south. Obsidian walls engraved
+with ancient runes of power stretch out before you. Magical energies seem to
+crackle with power all around and whisper in tongues long forgotten, almost
+as if the corridor itself were alive.
+~
+22 8 0
+D0
+~
+~
+0 -1 13133
+D2
+~
+~
+0 -1 13147
+S
+#13147
+The End of the Corridor~
+You are at the end of a long corridor. The obsidian walls come to an abrupt
+halt at the edge of a golden archway here. The hum of power is so strong it
+nearly numbs your body.  The archway lies before you, glowing and pulsing 
+with energy.
+~
+22 8 0
+D0
+~
+~
+0 -1 13146
+D2
+~
+~
+0 -1 13148
+S
+#13148
+The Arched Entrance~
+You feel a slight tingle as you pass through the archway, as if the living
+magical energies here had infused your body, found it wanting and left. The
+intense glow from the arch above you is almost blinding. Through the light
+you can barely make out a stairway leading up.
+~
+22 8 0
+D0
+~
+~
+0 -1 13147
+D4
+~
+~
+0 -1 13149
+S
+#13149
+The Landing~
+You are on a small landing in the middle of a long stairway leading up. Your
+senses seem dulled here, no sound or smell can be detected at all, and the
+only thing you can see in any direction is endless stairway.
+~
+22 8 0
+D4
+~
+~
+0 -1 13150
+D5
+~
+~
+0 -1 13148
+S
+#13150
+An Intersection~
+You are at an intersection of several hallways. You feel as if strange 
+mystical forces are pushing and pulling at each other from all around you.
+The sensation of being trapped, in the middle is almost tangible in the air
+here.  A grey tiled hallway leads south, black tiled east, white tiled west,
+and a multi-colored hallway swirling with patterns that remain just barely
+unrecognizeable is to the north.
+~
+22 8 0
+D0
+~
+~
+0 -1 13173
+D1
+~
+~
+0 -1 13158
+D2
+~
+~
+0 -1 13151
+D3
+~
+~
+0 -1 13165
+D5
+~
+~
+0 -1 13149
+S
+#13151
+A Grey Tiled Hallway~
+You are in a grey tiled hallway leading north and south. Dim balls of energy
+float here and there sheding a warm light, and showing the way.  A feeling
+of peace and balance comes over you.
+~
+22 8 0
+D0
+~
+~
+0 -1 13150
+D2
+~
+~
+0 -1 13152
+S
+#13152
+A Grey Tiled Hallway~
+You are in a grey tiled hallway leading north and south. Dim balls of energy
+float here and there shedding a warm light, and showing the way.  A feeling
+of peace and balance comes over you.  Large grey metal double doors can be
+seen to the south.
+~
+22 8 0
+D0
+~
+~
+0 -1 13151
+D2
+~
+door grey~
+11 -1 13153
+S
+#13153
+The Antechamber~
+You are in the antechamber of the master magician of the grey light. A 
+feeling of strong magic floats in the air about you, almost as if you could
+taste the power held within these walls.  Once your eyes adjust to the
+semi-light, you can make out a larger room to the south.
+~
+22 8 0
+D0
+~
+door grey~
+11 -1 13152
+D2
+~
+~
+0 -1 13154
+S
+#13154
+The Main Chamber~
+A feeling of tranquility comes over you as you enter the main chamber of
+neutrality. Some artifacts are hung on the walls here, or set on stands.
+The room in general looks both comfortable and official. Probably where the
+master of neutrality holds audience.
+~
+22 8 0
+D0
+~
+~
+0 -1 13153
+D1
+~
+~
+0 -1 13156
+D2
+~
+~
+0 -1 13157
+D3
+~
+~
+0 -1 13155
+S
+#13155
+The Study~
+You are in a large study. Shelves filled with many books or arcane knowledge
+are on every wall. A large oaken desk is in the center, with many parchments
+and scrolls on it. The most notable thing in the room is a small set of
+scales, which floats about eye level. In perfect balance, the scales are no
+doubt a sign of the master's neutrality.
+~
+22 8 0
+D1
+~
+~
+0 -1 13154
+S
+#13156
+A Closet~
+You are in a small closet. It is filled with many cloaks, and some other
+apparel.
+~
+22 9 0
+D3
+~
+~
+0 -1 13154
+S
+#13157
+A Bedroom~
+You are in the bedroom of the master magician of neutrality. Curtained windows
+can be seen on the south wall. A large comfortable looking bed takes up most
+of the room.
+~
+22 8 0
+D0
+~
+~
+0 -1 13154
+S
+#13158
+A Dark Hallway~
+You are in a long dark hallway leading east and west. Not much can be seen
+in the unnatural darkness here, but you get a deep sense of dread the further 
+you go.
+~
+22 9 0
+D1
+~
+~
+0 -1 13159
+D3
+~
+~
+0 -1 13150
+S
+#13159
+A Dark Hallway~
+You are in a long dark hallway leading east and west. Not much can be seen 
+in the unnatural darkness here, but you get a deep sense of dread the further
+you go.
+~
+22 9 0
+D1
+~
+~
+0 -1 13160
+D3
+~
+~
+0 -1 13158
+S
+#13160
+The End of the Hallway~
+You are at the end of a long dark hallway. The darkness here is almost 
+tangible in its thickness. A deep sense of fear and loathing comes over you.
+A pair of obsidian doors can be seen to the east.
+~
+22 9 0
+D1
+~
+door obsidian~
+11 -1 13161
+D3
+~
+~
+0 -1 13159
+S
+#13161
+The Chamber of Darkness~
+You are in a vast chamber. The walls fade into darkness, leaving you with a
+very vague idea of the actual size of the room. Swirling here and there in
+the dark, are patches of pure black which seem to suck in your light and 
+leave it that much darker here.
+~
+22 9 0
+D0
+~
+~
+0 -1 13162
+D1
+~
+~
+0 -1 13164
+D2
+~
+~
+0 -1 13163
+D3
+~
+door obsidian~
+11 -1 13160
+S
+#13162
+It is very dark here...~
+~
+22 9 0
+D2
+~
+~
+0 -1 13161
+S
+#13163
+Torture Chamber~
+You are in an ill lit chamber. Intruments of torture hang from a rack on the
+wall, they seem to quiver with anticipation of a victim as if they had a mind
+of their own. An operating table is here, though it is bare.  An extreme 
+feeling of evil permeates the entire area.
+~
+22 9 0
+D0
+~
+~
+0 -1 13161
+S
+#13164
+The Inner Chamber~
+You are in a small dark chamber. Upon the walls are glowing sigils of dark
+power, scrawled and traced in an evil language no longer known to most of 
+this plane of existance. There is an obsidian altar here which seem to glow, 
+but does not shed any light, in fact it seems to be taking light in.
+~
+22 9 0
+D3
+~
+~
+0 -1 13161
+S
+#13165
+A Bright Hallway~
+You are in a long well lit hallway leading east and west. The walls here are
+a milky white color, and glow with a warm luminescence, as does the floor. A
+feeling of goodness permeates the area, and you feel unworthy to tread upon
+these sacred floors.
+~
+22 8 0
+D1
+~
+~
+0 -1 13150
+D3
+~
+~
+0 -1 13166
+S
+#13166
+A Bright Hallway~
+You are in a long well lit hallway leading east and west. The walls here are
+a milky white color, and glow with a warm luminescence, as does the floor. A
+feeling of goodness permeates the area, and you feel unworthy to tread upon
+these sacred floors.  A huge set of double doors in finely worked ivory can
+be seen to the west.
+~
+22 8 0
+D1
+~
+~
+0 -1 13165
+D3
+~
+door ivory~
+11 -1 13167
+S
+#13167
+An Antechamber~
+You are in a small antechamber. It is well lit here, though the source of
+light cannot be seen. It is almost as if the room itself exudes a warm glow
+of goodness. A larger chamber can be seen to the west, but you do not feel
+worthy to pass into it.
+~
+22 8 0
+D1
+~
+door ivory~
+11 -1 13166
+D3
+~
+~
+0 -1 13169
+S
+#13169
+The Chamber of the White Light~
+You are in a vast chamber, its walls floor and ceiling are of an unknown
+metalic material, the brightest white, almost blindingly stark. A flickering
+flame is in the center of the room, seeming to feed off of darkness and
+cleansing the room of any evil. You feel a slight tug at your being as the
+flame flickers towards you.
+~
+22 0 0
+D0
+~
+~
+0 -1 13170
+D1
+~
+~
+0 -1 13167
+D2
+~
+~
+0 -1 13171
+D3
+~
+~
+0 -1 13172
+S
+#13170
+The Meditation Chamber~
+You are in a small meditation chamber. White silk cushions are everywhere,
+looking very comfortable. You get an easy peaceful feeling of relaxation
+here, almost making you want to lie down and fall asleep.
+~
+22 8 0
+D2
+~
+~
+0 -1 13169
+S
+#13171
+A Study~
+You are in a spacious study. It is extremely tidy here, to an almost 
+antisceptic nature. One would wonder how anyone could study without a 
+mess all around them, the master of this chamber obviously can.
+~
+22 8 0
+D0
+~
+~
+0 -1 13169
+S
+#13172
+A Closet~
+You are in a small closet. Cloaks and vests hang from hooks in the wall,
+and a few old boots are all that can be seen here. Rather featureless.
+~
+22 9 0
+D1
+~
+~
+0 -1 13169
+S
+#13173
+A Wide Hallway~
+You are in a large hallway, wide enough to accomodate several people standing
+abreast. The floor here is a swirl of multicolored paterns, in constant
+motion.  A huge grey metal door blocks the way north, it looks quite sturdy.
+~
+22 8 0
+D0
+~
+door metal grey~
+11 13173 13174
+D2
+~
+~
+0 -1 13150
+S
+#13174
+A Wide Hallway~
+You are in a large hallway, wide enough to accomodate several people standing
+abreast. The floor here is a swirl of multicolored paterns, in constant
+motion.  A huge black obsidian door blocks the way north, it looks quite 
+sturdy.
+~
+22 8 0
+D0
+~
+door obsidian black~
+11 13174 13175
+D2
+~
+door metal grey~
+11 13173 13173
+S
+#13175
+A Wide Hallway~
+You are in a large hallway, wide enough to accomodate several people standing
+abreast. The floor here is a swirl of multicolored paterns, in constant
+motion.  A huge white ivory door blocks the way north, it looks quite sturdy.
+~
+22 8 0
+D0
+~
+door ivory white~
+11 13175 13176
+D2
+~
+door obsidian black~
+11 13174 13174
+S
+#13176
+The Entranceway~
+You are at the entrance to the audience chamber of the grand master of magic.
+Beautiful tapestries displaying the ancient masters of lore are on the walls,
+and the floor is covered with a plush multicolored carpet, which seems to
+rustle and move at the touch of your boots.
+~
+22 8 0
+D0
+~
+~
+0 -1 13177
+D2
+~
+door white ivory~
+11 13175 13175
+S
+#13177
+The Audience Chamber~
+You are in a large chamber. Small bolts of energy leap from wall to wall,
+crackling with power. The floor is a swirl of indeterminable colors and
+paterns ever changing. Bright bursts of color seem to explode into the air
+and fade again at random times. All this splender plays about and draws
+attention to a large throne in the center of the room, it seems to be cut
+from a single enormous emerald.
+~
+22 8 0
+D0
+~
+~
+0 -1 13180
+D1
+~
+~
+0 -1 13178
+D2
+~
+~
+0 -1 13176
+D3
+~
+~
+0 -1 13179
+E
+throne~
+The giant emerald is flawless, and must be incredibly valuable.
+~
+S
+#13178
+A Dressing Room~
+You are in a plush dressing room. Fine garments of many styles and some
+outlandish colors hang from a rack suspended in mid air at eye level. The
+only other interesting feature in the room is a large silver mirror on a
+finely crafted gold stand.
+~
+22 8 0
+D3
+~
+~
+0 -1 13177
+S
+#13179
+The Library~
+You are in a small cozy looking library. A few well made books sit atop 
+shelves which span every wall. A large oaken writing table is in the center
+of the room with odd papers and parchments on it. The illumination here, to 
+your surprise is a quite non-magical oil lamp.
+~
+22 8 0
+D1
+~
+~
+0 -1 13177
+S
+#13180
+The Altar~
+You are in a small chapel designed around a beautifully crafted golden altar.
+Many icons to lesser dieties line the room, but it is obvious by one glance
+at the symbols on the altar, that this room was designed for the worship of
+Mystra, the goddess of magic.
+~
+22 8 0
+D1
+~
+door secret~
+11 -1 13181
+D2
+~
+~
+0 -1 13177
+D3
+~
+door secret~
+11 -1 13182
+S
+#13181
+The Treasury~
+You are in a small chamber, the stale air here is testiment to the fact that
+it has gone undisturbed for many years.
+~
+22 8 0
+D3
+~
+door secret~
+11 -1 13180
+S
+#13182
+A Passage~
+You are in a small dark passage, which would be unremarkable if not for the
+fact that it ends in a blindling blue light to the west. On hooks set into
+the wall here there hangs several travel worthy cloaks, and a small leather
+backpack.  It looks as if someone has prepared this room to be used in the
+event speedy evacuation.
+~
+22 9 0
+D3
+~
+~
+0 -1 13183
+S
+#13183
+In the Light~
+You seem to be floating in a magical energy field, though you cannot see the
+source of the energy, you can feel its power pushing at you from all sides,
+completely negating the effects of gravity.  An imperfection in the uniform
+blue can be seen overhead, it might be an exit.
+~
+22 8 0
+D4
+~
+~
+0 -1 3001
+S
+$~
+#999999

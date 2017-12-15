@@ -1,0 +1,13 @@
+#13900
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 0 0 S
+1 30 25 2d2+4 10d3+20
+1 0
+8 8 0
+$~
+#999999

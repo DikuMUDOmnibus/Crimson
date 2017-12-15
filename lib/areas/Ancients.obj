@@ -1,0 +1,364 @@
+#16000
+obj well stone large~
+A large stone well~
+A large stone well has been built here~
+~
+17 0 0
+100000 100000 0 0
+1 5 5
+#16001
+obj Dark Knight Boots~
+a Dark Knight's boots~
+a pair of Dark Knight boots lie on the ground~
+~
+9 2097152 65
+20 0 10 0
+1 150000 10000
+A
+2 2
+A
+19 3
+A
+14 75
+#16002
+obj Dark Knight Stone~
+a Dark Knight's stone~
+a Dark Knight's stone hovers in mid air~
+~
+9 2097152 16385
+20 0 10 0
+1 200000 20000
+A
+24 -5
+A
+19 5
+#16003
+obj Dark Knight Sword~
+a Dark Knight's sword~
+a Dark Knight's sword lies on the ground~
+~
+5 4194304 8193
+0 6 6 3
+1 250000 65000
+A
+17 -10
+A
+13 25
+A
+18 5
+#16004
+obj Blue Flame~
+A Blue Flame~
+A Blue Flame flickers in the air before you~
+~
+9 1048576 65537
+0 0 120 0
+1 150000 15000
+A
+32 -1
+A
+24 -3
+A
+26 -1
+A
+36 -1
+#16005
+obj Dark Knight Ring~
+a Dark Knight's ring~
+a Dark Knight's ring glimmer's on the floor~
+~
+9 2097152 3
+30 0 10 0
+1 100000 10000
+A
+18 5
+A
+19 5
+#16006
+obj Dark Knight Pale Amulet~
+a Dark Knight's pale amulet~
+a Dark Knight's pale amulet is left on the ground~
+~
+9 4194304 5
+30 0 10 0
+1 250000 35000
+A
+12 100
+A
+19 5
+#16007
+obj Dark Knight Blade~
+a Dark Knight's Blade~
+a Dark Knight's Blade protrudes from the ground~
+~
+5 4194304 8193
+3072 9 9 3
+1 5 5
+A
+41 5
+A
+42 5
+A
+17 -70
+A
+24 -9
+#16008
+obj Dark Knight Visor~
+a Dark Knight's visor~
+a Dark Knight's visor lies on the ground~
+~
+9 4194304 17
+30 0 10 0
+1 100000 10000
+A
+27 -1
+A
+37 -1
+A
+13 20
+#16009
+obj Dark Knight Greaves~
+a Dark Knight's greaves~
+a Dark Knight's greaves lay on the ground~
+~
+9 2097152 33
+25 0 10 0
+1 100000 10000
+A
+42 1
+A
+14 50
+#16010
+obj Dark Knight Gloves~
+a Dark Knight's gloves~
+a Dark Knight's gloves lie crumpled on the ground~
+~
+9 4194304 129
+20 0 10 0
+1 150000 20000
+A
+41 2
+A
+2 2
+A
+19 4
+#16011
+obj Dark Knight Vambraces~
+a Dark Knight's vambraces~
+a Dark Knight's Vambraces is left lying on the ground~
+~
+9 2097152 257
+25 0 10 0
+1 175000 17500
+A
+23 -4
+A
+18 3
+#16012
+obj Dark Knight Shield~
+a Dark Knight's shield~
+a Dark Knight's shield is propped up against the wall~
+~
+9 4194304 513
+35 0 10 0
+1 300000 25000
+A
+18 2
+A
+19 3
+#16013
+obj Dark Knight Shroud~
+a Dark Knight's shroud~
+a Dark Knight's shroud lies in heap on the ground~
+~
+9 2097152 1025
+20 0 10 0
+1 200000 25000
+A
+4 3
+A
+3 3
+A
+5 3
+#16014
+obj Dark Knight Buckle~
+a Dark Knight's Buckle~
+a Dark Knight's buckle lies folded on the ground~
+~
+9 2097152 2049
+20 0 10 0
+1 100000 20000
+A
+18 4
+A
+19 4
+#16015
+obj Dark Knight Band~
+a Dark Knight's Band~
+a Dark Knight's band lies on the ground~
+~
+9 4194304 4097
+25 0 10 0
+1 300000 50000
+A
+13 100
+A
+19 5
+#16016
+obj Dark Knight Vest~
+a Dark Knight's vest~
+a Dark Knight's vest lies folded on the ground~
+~
+9 4194304 9
+30 0 10 0
+1 400000 50000
+A
+23 -5
+A
+24 -5
+A
+13 100
+#16017
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+5 2097152 8193
+3072 10 10 3
+1 5 5
+A
+41 9
+A
+42 9
+A
+17 -100
+#16018
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+9 2097152 9
+100 0 10 0
+1 5 5
+A
+19 50
+A
+24 -9
+A
+13 100
+A
+13 100
+#16019
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+9 2097152 17
+100 0 10 0
+1 5 5
+A
+36 -1
+A
+13 100
+A
+30 -1
+A
+24 -9
+#16020
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+9 2097152 33
+100 0 10 0
+1 5 5
+A
+13 100
+A
+18 20
+A
+14 100
+A
+14 100
+#16021
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+9 2097152 65
+100 0 10 0
+1 5 5
+A
+13 100
+A
+14 100
+A
+14 100
+A
+24 -9
+#16022
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+9 2097152 129
+100 0 10 0
+1 5 5
+A
+13 100
+A
+12 100
+A
+12 100
+A
+24 -9
+#16023
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+9 2097152 257
+100 0 10 0
+1 5 5
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+#16024
+obj <invisible>~
+<invisible>~
+something lies on the ground~
+~
+9 2097152 513
+100 0 10 0
+1 5 5
+A
+18 20
+A
+13 100
+A
+13 100
+A
+13 100
+#16025
+obj pack~
+<invisible>~
+something lies on the ground~
+~
+15 2097152 2049
+999 1 10 0
+1 5 5
+A
+24 -9
+A
+14 100
+A
+13 100
+A
+12 100
+$~
+#999999

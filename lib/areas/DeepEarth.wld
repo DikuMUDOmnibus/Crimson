@@ -1,0 +1,301 @@
+#13300
+Blank~
+~
+25 8 1
+S
+#13301
+The Beginning~
+~
+25 8 1
+D0
+~
+~
+0 -1 13307
+D2
+~
+~
+0 -1 13304
+D3
+~
+~
+0 -1 13302
+D4
+ex
+~
+~
+0 -1 13300
+S
+#13302
+Toplevel~
+~
+25 8 1
+D1
+~
+~
+0 -1 13301
+D2
+~
+~
+0 -1 13303
+S
+#13303
+Toplevel~
+~
+25 8 1
+D0
+~
+~
+0 -1 13302
+S
+#13304
+Toplevel~
+There is silence here... Yet when you listen closely, you think you can here 
+The walls maoning in hatred of your presence...
+
+A circular stairway makes its way up along the walls to a hole in the ceiling.
+To the north, the main trail continues.
+~
+25 8 1
+D0
+
+~
+~
+0 -1 13301
+D1
+~
+~
+0 -1 13305
+D5
+~
+~
+0 -1 13306
+S
+#13305
+Toplevel~
+~
+25 8 1
+D3
+~
+~
+0 -1 13304
+S
+#13306
+Toplevel~
+~
+25 8 1
+D4
+~
+~
+0 -1 13304
+S
+#13307
+Toplevel~
+Main path leads down and south.
+~
+25 9 1
+D0
+~
+~
+0 -1 13308
+D1
+~
+~
+0 -1 13309
+D2
+~
+~
+0 -1 13301
+D5
+~
+~
+0 -1 13310
+S
+#13308
+Toplevel~
+Main Path leads down and south.
+~
+25 8 1
+D2
+~
+~
+0 -1 13307
+S
+#13309
+Toplevel~
+~
+25 8 1
+D3
+~
+~
+0 -1 13307
+S
+#13310
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+D4
+~
+~
+0 -1 13307
+D5
+~
+~
+0 -1 13311
+S
+#13311
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+D4
+~
+~
+0 -1 13310
+S
+#13312
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13313
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13314
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13315
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13316
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13317
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13318
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13319
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13320
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13321
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13322
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13323
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13324
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13325
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13326
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13327
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13328
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13329
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13330
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13331
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13332
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13333
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13334
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+#13335
+Second Level~
+Main Path Leads up and east.
+~
+25 9 0
+S
+$~
+#999999

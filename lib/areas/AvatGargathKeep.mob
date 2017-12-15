@@ -1,0 +1,402 @@
+#15900
+mob Guardian Daemon~
+the Guardian Daemon~
+A Guardian Daemon stands here, eliminating intruders.
+~
+The enormous beast reeks of sulphur. His long elephant-like snout pokes out
+from a long furry face with pitch black eyes. He wears a few dirty rags for
+clothing, and bears long, sharp claws and fangs.
+~
+264234 8 -1000 S
+45 -69 -15 8000d1+0 70d3+100
+400000 0
+8 8 0
+#15901
+mob gatehouse guard~
+the gatehouse guard~
+A gatehouse guard is here, gambling with cards and dice.
+~
+Before you stands a man with palid skin and a gaunt face. He seems to be
+worried that you have managed to make it into his bedroom.
+~
+262186 8 0 S
+41 -63 -15 6000d1+0 50d3+100
+200000 0
+8 8 1
+#15902
+mob Displacer Beast~
+the Displacer Beast~
+A hungry displacer beast roams the halls.
+~
+This is a large, four legged beast that resembles a puma, except that it has
+two large tenticles growing out of it's back, and green glowing eyes.
+~
+262188 136 -200 S
+44 -66 -15 7000d1+0 60d3+100
+350000 0
+8 8 0
+#15903
+mob servant~
+a servant~
+A servant cringes at you approach.
+~
+This man cowers at your approach. He babbles on and on about how his master
+wishes only to better the lives of the people of the mortal plane. His mouth
+is filled with rotting teeth, and his language is of poor quality.
+~
+262282 8 200 S
+41 -63 -15 6000d1+0 50d3+100
+200000 0
+8 8 1
+#15904
+mob Chaelin jester~
+Chaelin the jester~
+Chaelin, jester of Gargath is here, thinking of new jokes.
+~
+This man has a round, fat face. His expression, however, contains an evil
+grin and furrow brows. Perhaps you seem to inspire ideas for his next
+performance before Gargath....
+~
+262538 136 500 S
+47 -69 -15 8000d1+0 70d3+100
+500000 0
+8 8 1
+#15905
+mob chef~
+the Master Chef~
+The Master Chef stands here, rotationg the spit of meat.
+~
+The man is clad in a bloody apron and a tall, white, dirty hat. Several of
+the cut of meat he has saved out of the counter resemble human limbs. He
+smiles at you with an evil grin, and slowing beings moving in your direction.
+~
+262186 8 -500 S
+46 -78 -15 20000d1+0 100d3+100
+450000 0
+8 8 1
+#15906
+mob blacksmith~
+the Master Blacksmith~
+The Master Blacksmith is here, pounding on a slab on metal.
+~
+This man has dull grey skin and fiery red eyes. His bulging muscles seem to
+be the work of more a god than a man. He beats down heavily on the strange
+metal slab he is shaping.
+~
+262186 8 0 S
+44 -72 -15 9000d1+0 80d3+100
+350000 0
+8 8 1
+#15907
+mob wraithform~
+a wraithform~
+A translucent being bounds across the room and lunges at you.
+~
+You can see a wispy humanoid shape that lacks a definate shape and legs.
+Two glowing yellow orbs serve as eyes, and ghost-like claws lunge out from
+the darkness.
+~
+262186 136 -200 S
+45 -69 -15 8000d1+0 70d3+100
+400000 0
+8 8 0
+#15908
+mob brewer~
+a brewer~
+The brewer is here, chugging ale.
+~
+This man has an IMMENSE beer belly. He hiccups and pours himself another
+glass of ale.
+~
+262154 8 200 S
+42 -66 -15 7000d1+0 60d3+100
+250000 0
+8 8 1
+#15909
+mob Phase Spider~
+the Phase Spider~
+The Phase Spider shifts in from another plane.
+~
+An immense, hairy spider seems to form from thin air before your eyes. A
+drip of poison rolls of one of his fangs....
+~
+327722 1048584 0 S
+43 -69 -15 8000d1+0 70d3+100
+300000 0
+8 8 0
+#15910
+mob Darkenbeast~
+the Darkenbeast~
+The Darkenbeast is here, chewing on a large bone.
+~
+Before you is a beast with a hunched back and wide, muscular shoulders. You
+can barely make out the shape of his black, sooty body against the dark walls
+of the room. With an irritated growl, he pulls back a huge, three-fingered
+claw.
+~
+266282 1048712 -1000 S
+50 -78 -15 20000d1+0 100d3+100
+650000 0
+8 8 1
+#15911
+mob shadow~
+a shadow~
+A shadow stalks silently through the halls.
+~
+A dark shape darts about the room, hiding and then reappearing. It has no
+definite outline against the dim light.
+~
+278568 1048712 -200 S
+45 -63 -15 6000d1+0 50d3+100
+400000 0
+8 8 0
+#15912
+mob Dark Knight~
+the Dark Knight of Tarterus~
+A Dark Knight of Tarterus stands here, sparring for practice.
+~
+This man's face is hidden behind a black visor made of shiny steel. He is
+clad entirelt in pitch black armor, and spars violently with
+he opponents.
+~
+262154 8 -1000 S
+41 -63 -15 6000d1+0 50d3+100
+200000 0
+8 8 1
+#15913
+mob Dancing Sword~
+the Dancing Sword~
+A magically animated sword rises and attacks!
+~
+This animated blade glows brightly with magic. It silently attacks.
+~
+262186 136 0 S
+48 -78 -15 20000d1+0 100d3+100
+550000 0
+8 8 0
+#15914
+mob Tyneri weaponmaster~
+Tyneri, the Weaponmaster of Gargath~
+Tyneri, the Weaponmaster of Gargath stands here, grinning at you.
+~
+This man has pallid skin and long pointed ears. He twirls his blade in the
+usual elfin style, and look upon you as if you were merely a bug that must be
+squashed by his boot.
+~
+294954 136 -1000 S
+48 -72 -15 9000d1+0 80d3+100
+550000 0
+8 8 1
+#15915
+mob Marble Golem~
+the Marble Golem~
+The Marble Golem stands in your path.
+~
+A large humanoid made entirely of black marble has moved to block the hallway.
+It stands over 10 feet tall.
+~
+262186 8 0 S
+44 -72 -15 9000d1+0 80d3+100
+350000 0
+8 8 0
+#15916
+mob keeper~
+a keeper~
+The beast keeper stands here, preparing a whip.
+~
+The man wears a wide brimmed hat and is clad is dull khaki. He is short yet
+has the build of a wieght lifter.
+~
+262154 8 -450 S
+45 -75 -15 10000d1+0 90d3+100
+400000 0
+8 8 1
+#15917
+mob Mizral avatar jealousy~
+Mizral, Avatar of Jealousy~
+Mizral, Avatar of Jealousy is here, glaring at you.
+~
+Mizral glares at you with deep green eyes. You can see that he is studying
+all that you own and your bodily features, wishing to take the best that you o
+own for himself.
+~
+262954 136 -1000 S
+52 -84 -15 40000d1+0 120d3+100
+800000 0
+8 8 1
+#15918
+mob Astral Discourser~
+the Astral Discourser~
+The Astral Discouser is here, lost in meditation.
+~
+This creatures body is nearly transparent, except for several glowing patches
+which cover its skin. Its glowing blue eyes seem to stare off into empty
+space, as if the being is lost in a trance.
+~
+262410 131208 0 S
+47 -69 -15 8000d1+0 70d3+100
+500000 0
+8 8 0
+#15919
+mob Jiblat~
+the Jiblat~
+The Jiblat is here, wallowing in its own excreted ooze.
+~
+This being is no more than a wallowing ball of glowing slime.
+~
+327690 136 0 S
+44 -66 -15 7000d1+0 60d3+100
+350000 0
+8 8 0
+#15920
+mob Crimson Doom~
+the Crimson Doom~
+A cloud of bright red gas fills the room.
+~
+Amidst the hazy, seemingly toxic gas a spectral face lunges out to gnaw
+at your flesh.
+~
+262410 136 -1000 S
+48 -72 -15 9000d1+0 80d3+100
+550000 0
+8 8 0
+#15921
+mob Ocara torture master~
+Ocara, the Master of Torture~
+The master of torture, Ocara, is here.
+~
+This woman has large upper arms and long black hair. She carries a white hot i
+iron used for branding prisoners.
+~
+262154 136 -1000 S
+50 -84 -15 40000d1+0 120d3+100
+650000 0
+8 8 2
+#15922
+mob invisible stalker~
+an invisible stalker~
+You feel a slight breeze on the back of your neck.
+~
+There appears to be nothing else in the room.
+~
+262184 138 0 S
+43 -63 -15 6000d1+0 50d3+100
+300000 0
+8 8 0
+#15923
+mob acolyte~
+an acolyte~
+An acolyte of Merkuul stands here, washing robes.
+~
+The old and humble man is bent over a tub washing out a spot in a robe.
+~
+262152 8 0 S
+45 -75 -15 10000d1+0 90d3+100
+400000 0
+8 8 1
+#15924
+mob high priest~
+the High Priest~
+The High Priest stands here, uttering prayers to his god.
+~
+The high priest of the temple is dressed is long black robes, and wears a
+white skull-shaped mask over his face. He wears a necklace made of bones
+around his neck.
+~
+262666 136 -1000 S
+50 -78 -15 20000d1+0 100d3+100
+650000 0
+8 8 1
+#15925
+mob Merkuul lord~
+Merkuul, the Mighty Lord of Bones~
+Merkuul, the Mighty Lord of Bones is here, grinning evilly.
+~
+The lord of bones don a black, sooty robes that covers all but his hands and
+head. Each of his hands bares no flesh, but rather are made only of bones. His
+head resembles an enlarged human skull.
+~
+262954 67109000 -1000 S
+52 -84 -15 40000d1+0 120d3+100
+800000 0
+8 8 1
+#15926
+mob demon Pit~
+a demon of the Pit~
+A demon of the Pit rushes to attack fresh blood!
+~
+A howling, raging beast with red, flaming hair and yellow eyes claws 
+mercilessly at your face.
+~
+262188 136 -1000 S
+43 -63 -15 6000d1+0 50d3+100
+300000 0
+8 8 0
+#15927
+mob Querkaf avatar hate~
+Querkaf, Avatar of Hate~
+Querkaf, Avatar of Hate is here, enraged at your entrance.
+~
+Querkaf appears to be a normal man to you at first sight, but soon begins a 
+strange transformation into a grotesque demon of the outer planes as his hatre
+for you grows to god-like proportions.
+~
+262954 136 -1000 S
+52 -84 -15 40000d1+0 120d3+100
+800000 0
+8 8 1
+#15928
+mob Elderiz avatar sin~
+Elderiz, Avatar of Sin~
+Elderiz, Avatar of Sin is here, polishing a dagger.
+~
+Elderiz has taken the form of a satyr, which is a half-man half-goat. He wield
+only a small dagger, but seems to posess super-human strength.
+~
+262954 136 -1000 S
+52 -84 -15 40000d1+0 120d3+100
+800000 0
+8 8 1
+#15929
+mob Pit Fiend~
+the Pit Fiend~
+The Pit Fiend explodes is a burst of interplanar energy.
+~
+This beast has an oversized, horned head with a huge maw filled with several
+rows of yellowing sharp teeth. He bellows forth an earth shaking roar and
+grabs at you.
+~
+264746 136 -1000 S
+50 -78 -15 20000d1+0 100d3+100
+650000 0
+8 8 1
+#15930
+mob Arpedion avatar Doom~
+Arpedion, Avatar of Doom~
+Arpedion, Avatar of Doom is here, feeding off of your fears.
+~
+Arpedion slowly turns towards you, holding out his hands. He wishes to make th
+attack take as long as possible, so he can feed of off your fears for a 
+longer period of time.
+~
+262954 136 -1000 S
+52 -84 -15 40000d1+0 120d3+100
+800000 0
+8 8 1
+#15931
+mob Gargath duke~
+Gargath, the Arch-duke of Tarterus~
+Gargath, the Arch-duke of Tarterus is here, planning your demise.
+~
+Gargath is not man, nor is he beast. Two large, black horns stick out of the
+sides of his red hair atop a grey skinned face. His bulging muscles nearly
+rip through his huge shirt, and massive claws have grown from what were once
+mere fingernails. He grins evilly at you and calmly says, "ANOTHER VISITOR?
+STAY A WHILE.....STAY FOREVER!!!!!
+~
+262954 67109000 -1000 S
+54 -90 -15 60000d1+0 90d5+110
+1000000 0
+8 8 1
+$~
+#999999

@@ -1,0 +1,223 @@
+#14500
+mob guard merman~
+the merman guard~
+A merman guard is here, keeping an eye out for evil intruders.
+~
+The "man" is a short humanoid whose skin is covered with blue-green scales. In
+the sides of his neck you notice three gill slits. He appears to be strong and
+quick for his size.
+~
+10 0 0 S
+16 12 9 420d1+0 1d3+20
+1000 24000
+8 8 1
+#14501
+mob guard sahaugin~
+the sahaugin guard~
+A sahaugin guard is here, staring at you with an evil grin.
+~
+This creature stands on two legs and has dark-green, rough looking skin. 
+His bulging muscles, long, thin claws, and large lower jaw filled with teeth
+seem to make you wary of his presence.
+~
+42 0 -100 S
+18 6 7 560d1+0 3d3+20
+2000 27000
+8 8 1
+#14502
+mob citizen merman~
+the merman citizen~
+A merman citizen is here, walking about the city streets.
+~
+He looks to be about five feet tall and has blue-green scaly skin. His neck 
+has three small gill slits at each side, and they slowly open and close. He
+seems to be in a rush to get somewhere.
+~
+12 0 0 S
+15 15 10 350d1+0 5d3+10
+300 22500
+8 8 1
+#14503
+mob citizen sahaugin~
+the sahaugin citizen~
+A sahaugin citizen stands here, eating a piece of steamed fish.
+~
+This is stocky built creature with wide shoulders and thick muscles. Long sharp
+fingernails grow out from his webbed hands. He eyes you suspiciously.
+~
+12 0 0 S
+15 15 10 350d1+0 10d3+0
+400 22500
+8 8 1
+#14504
+mob Neptune~
+Neptune~
+Neptune, lawful lord of the deep is here.
+~
+This is an immense man with blue-green skin and enormous muscles. Legends have 
+told of his supernatural abilities and the peace he helped to create 
+between the warring factions of the sahaugin and merman people. He now rules
+Atlantis with absolute power, but has enstated a king and queen as a puppet
+government to appease the people of the city.
+~
+262410 136 1000 S
+30 -18 -1 1800d1+0 3d3+50
+50000 45000
+8 8 1
+#14505
+mob Medeak merman wizard magician~
+Medeak~
+The mysterious merman wizard Medeak is here, staring directly into the intense light.
+~
+This man appears to be EXTREMELY old. His back is hunched and he wears a pointy
+white and green hat on his head. He stands in a strange trans before the 
+intense light source, almost as if he is meditating. He does not seem to notice
+you enter the room.
+~
+262410 8 1000 S
+27 -15 0 1500d1+0 5d3+30
+38000 40500
+8 8 1
+#14506
+mob merman shaman~
+the merman shaman~
+The merman shaman of Pisces is here, performing a strange dance.
+~
+The entire extent of this man's skin is covered with odd painted symbols. 
+In fact, he is wearing no clothes other than a thin robe. Although he seems
+to be truly excentric, it is obvious that this man holds a position of unique
+importance amost the people of Atlantis.
+~
+262666 8 700 S
+27 -15 0 1500d1+0 5d3+30
+20000 40500
+8 8 1
+#14507
+mob assistant priest merman~
+the shaman's assistant~
+The shaman's assistant stands here, reciting prayers in a stange language.
+~
+This merman appears to be reciting certain lines of a prayer as the shaman
+performs different parts of his dance. He has a devout look about him, and
+seems annoyed that you have interrupted his ceremony.
+~
+522 0 600 S
+23 -3 4 860d1+0 4d3+24
+10000 34500
+8 8 1
+#14508
+mob merman priest~
+the merman priest~
+A merman priest stands here, chanting a strange prayer.
+~
+This merman clutches a holy symbol of two fish in his hand. His mind seems to
+be lost in prayer.
+~
+520 8 600 S
+18 12 9 420d1+0 1d3+20
+4000 27000
+8 8 1
+#14509
+mob sahaugin blacksmith~
+the sahaugin blacksmith~
+A sahaugin blacksmith is here, pounding on an anvil.
+~
+This is the largest sahaugin you have seen yet. He look VERY strong. His veins
+and muscles bulge as he brings a large hammer down on a peice of wrought iron.
+~
+32778 0 -100 S
+20 6 7 560d1+0 3d3+20
+15000 30000
+8 8 1
+#14510
+mob queen merman~
+the merman queen~
+The queen of the mermen is here, looking at you curiously.
+~
+Although she is respected among the mermen of Atlantis for her supposed power
+and leadership abilities, this queen is really just part of the puppet   
+goevernment that Neptune is using to keep peace among the people.
+~
+262666 8 900 S
+26 -12 1 1340d1+0 4d3+30
+26000 39000
+8 8 2
+#14511
+mob king sahaugin~
+the sahaugin king~
+The bold king of the sahaugin is here, polishing his sword.
+~
+The king has a stern look on his face, and appears to be militant and impatient
+He looks dissappointed to see you here. Little does he know that he really has
+no power here in Atlantis, and he bis just another part of the puppet 
+government set up by Neptune to stop the war between the Mermen and Sahaugin.
+~
+278538 8 -200 S
+23 -3 4 860d1+0 1d3+30
+24000 34500
+8 8 1
+#14512
+mob kraken squid~
+the Kraken~
+The Kraken, legendary monster of the deep is here.
+~
+The is the largest beast you have ever seen! His giant beak has made a hole in
+the dome above, and throught the gushing water he attacks you!
+~
+327722 8 0 S
+39 -57 -14 4800d1+0 22d3+120
+80000 58500
+8 8 1
+#14513
+mob eel~
+the electric eel~
+A long eel is here, slithering among the kelp.
+~
+He is slippery and slimy looking, and an occasiously burst of evergy seem to
+come from his mouth.
+~
+16424 8 0 S
+17 15 10 350d1+0 5d3+10
+100 25500
+8 8 1
+#14514
+mob kreel sage~
+Kreel~
+The sage of Atlantis, Kreel, is here.
+~
+The is a very old merman who is considered to be the wisest man in all
+Atlantis. Many people have come to him for advice over the years, and he
+charges them a great deal for the few words that he gives.
+~
+262410 136 1000 S
+25 -3 4 860d1+0 1d3+30
+30000 37500
+8 8 1
+#14515
+mob merman tradesman~
+the merman tradesman~
+A merman tradesman stands here, checking the dome for cracks.
+~
+The tradesman looks up towards the top of the dome with a worried look on his
+face. Apparently it has been broken before....
+~
+12 0 800 S
+17 9 8 550d1+0 2d3+20
+2000 25500
+8 8 1
+#14516
+mob pisces goddess~
+Pisces~
+Pisces, the goddess of the deep is here.
+~
+A beautful naked woman is here, with radiant skin and soft glowing hair. She
+waves her arms gracefully and several schools of fish swim around her body.
+She stares deep into your eyes with curiosity, as if she has never seen a 
+creature without gills before.
+~
+262410 1140850825 1000 S
+45 -60 -15 5000d1+0 30d3+120
+180000 67500
+8 8 2
+$~
+#999999

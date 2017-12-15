@@ -1,0 +1,679 @@
+#17300
+mob carrion crawler~
+the carrion crawler~
+A carrion crawler is here, wanting to make a meal out of you!
+~
+The carrion crawler is an ugly looking thing with blood and saliva
+just pouring out of its mouth.  The odor of this thing is just HORRIBLE!
+UGHH...!
+~
+335982 8 -100 S
+20 -5 1 80d30+400 6d5+15
+15000 30000
+8 8 0
+#17301
+mob fuzz bird hatchling~
+the Fuzz bird hatchling~
+A Fuzz bird hatchling is here chirping away
+~
+The Fuzz bird hatchling is a little bird with feathers of every color
+imaginable.  Its feathers look VERY soft which you conclude is why they
+are called what they are called.  The bird is chirping a happy tune
+that just gives you a peaceful and easy feeling.
+~
+16777226 0 70 S
+13 3 2 10d10+30 5d2+8
+2500 30000
+8 8 1
+#17302
+mob fuzz bird mother~
+the mother Fuzz bird~
+The mother Fuzz bird is going to make sure that you dont harm her hatchlings by killing you first!
+~
+The mother Fuzz bird is the HUGEST bird you have ever seen.  The bird has
+feathers of every color imaginable and they look incredibily soft.  Its
+talons look razor sharp and you guess she could probably rip you to
+shreads without much effort!
+~
+17072170 136 80 S
+25 -10 1 20d115+120 5d5+10
+15000 30000
+8 8 2
+#17303
+mob cloud giant~
+the cloud giant~
+A gigantic Cloud Giant is here looking for intruders.
+~
+The cloud giant looks like the Stay-Puff marshmellow man.  Except this one's
+made of clouds, not marshmallows! :)
+~
+8388616 8 100 S
+18 -7 0 50d30+135 5d6+10
+20000 30000
+8 8 1
+#17304
+mob kylandria lady cloud giants~
+Kylandria, the Lady of the Cloud Giants~
+A figure made of clouds is here lounging in a recliner.
+~
+The Lady of the Cloud Giants looks like a bunch of clouds stuck together
+to vaguely form the shape of a body with a head, arms and legs.  She has
+glowing yellow eyes that look mysterious, yet friendly.
+~
+8651274 603979912 100 S
+20 -10 0 50d45+175 5d5+20
+25000 30000
+8 8 2
+#17305
+mob wackyland gate guard~
+the Wackyland gate guard~
+A Wackyland gate guard is standing here very alert.
+~
+The gate guard is standing very still and looking very alert.  He is
+standing so still that you wonder if he's actually a statue.
+~
+262154 67109248 0 S
+30 -10 0 100d20+200 30d2+10
+75000 30000
+8 8 1
+#17306
+mob uther innkeeper~
+Uther, the innkeeper of Wackyland Inn~
+Uther, the innkeeper of Wackyland Inn is here looking at you curiously.
+~
+Uther notices you looking at him, and looks back at you strangely.
+~
+262414 136 0 S
+35 -12 0 60d40+300 7d7+35
+75000 30000
+8 8 1
+#17307
+mob oofy kangaroo~
+Oofy, the Kangaroo~
+A mean looking kangaroo is here looking for a fight.
+~
+This looks like one mean kangaroo indeed!  You can see scars, probably from
+previous fights all over his body.  He notices you looking at him, and stares
+back at you with his creepy eyes that brings shiver down your spine!
+~
+17106954 1073741952 -100 S
+35 -20 0 300d10+500 30d2+25
+75000 30000
+8 8 1
+#17308
+mob moogley~
+Moogley~
+Moogley is standing behind the counter, eyeing you suspiciously.
+~
+Moogley is a very frail-looking human.  All she seems to be interested in
+is if you are going to buy something or not.
+~
+262410 67109000 20 S
+30 -10 0 80d30+500 5d5+25
+50000 30000
+8 8 2
+#17309
+mob woog ape~
+Woog, the weaponshop owner~
+A huge ape, presumably the owner of this weaponshop is standing behind the counter.
+~
+Woog sure doesn't look too friendly!  He has an eyepatch covering one of
+his eyes, but it doesn't look like he has any trouble watching for thieves!
+~
+17039370 1140850824 0 S
+35 -20 0 250d9+500 9d6+25
+75000 30000
+8 8 1
+#17310
+mob Fang dragon-kin shopkeeper~
+Fang, the shopkeeper~
+The shopkeeper of this Armory stands here smiling at you.
+~
+Fang looks very friendly, but can probably put up quite a fight if attacked.
+~
+4524042 67109000 0 S
+35 -20 0 200d15+600 8d6+35
+75000 30000
+8 8 1
+#17311
+mob wackyland citizen~
+a citizen of Wackyland~
+A citizen of Wackyland is here doing wacky things.
+~
+This guy sure is wacky!
+~
+140 256 0 S
+17 -7 0 50d5+500 5d5+23
+10000 30000
+8 8 1
+#17312
+mob gogo dodo~
+Gogo the Dodo~
+A peculiar-looking dodo bird is here talking to itself.
+~
+This strange dodo bird smiles back at you and shakes your hand.  "How do
+you do?"
+~
+17055752 603979904 0 S
+30 -8 0 70d30+600 6d3+55
+10000 30000
+8 8 1
+#17313
+mob chessmaster~
+the Chessmaster~
+The Chessmaster is here welcoming you to the Wackyland Chess Club
+~
+This guy must be pretty darn good to become the chessmaster of this place!
+~
+262666 1073741952 0 S
+33 -9 0 100d20+600 5d6+45
+80000 30000
+8 8 1
+#17314
+mob dark knight~
+the Dark Knight~
+A Knight of the forces of darkness is here.
+~
+~
+40 0 -50 S
+25 -20 0 80d30+500 7d7+20
+20000 30000
+8 8 1
+#17315
+mob light knight~
+the Light Knight~
+A Knight of the forces of light is here.
+~
+~
+8 0 50 S
+25 -15 0 80d30+500 7d7+20
+2500 30000
+8 8 1
+#17316
+mob dark queen~
+the Dark Queen~
+The Queen of the forces of darkness is here.
+~
+~
+262666 603979904 -100 S
+35 -20 0 200d15+500 7d8+25
+100000 30000
+8 8 2
+#17317
+mob light queen~
+the Light Queen~
+The Queen of the forces of light is here.
+~
+~
+262666 603979904 100 S
+35 -20 0 200d15+500 8d8+20
+100000 30000
+8 8 2
+#17318
+mob dark bishop~
+the Dark Bishop~
+A bishop of the forces of darkness is here.
+~
+~
+552 67108992 -75 S
+30 -10 0 80d30+300 9d6+15
+80000 30000
+8 8 1
+#17319
+mob light bishop~
+the Light Bishop~
+A bishop of the forces of light is here.
+~
+~
+520 67108992 75 S
+30 -10 0 80d30+350 9d6+12
+80000 30000
+8 8 1
+#17320
+mob dark king~
+the Dark King~
+The king of the forces of darkness is here.
+~
+~
+262410 1140850816 -150 S
+40 -20 0 90d35+600 8d8+30
+125000 30000
+8 8 1
+#17321
+mob light king~
+the Light King~
+The king of the forces of light is here.
+~
+~
+262410 1140850816 150 S
+40 -20 0 90d35+600 8d8+35
+125000 30000
+8 8 1
+#17322
+mob dark rook~
+the Dark Rook~
+A rook of the forces of darkness is here.
+~
+~
+16392 67108992 -50 S
+30 -15 0 70d30+350 8d7+15
+70000 30000
+8 8 1
+#17323
+mob light rook~
+the Light Rook~
+A rook of the forces of light is here.
+~
+~
+16392 67108992 50 S
+30 -14 0 70d30+400 8d7+13
+70000 30000
+8 8 1
+#17324
+mob dark pawn~
+the Dark Pawn~
+A pawn of the forces of darkness is here.
+~
+~
+8360 67108864 -30 S
+25 -9 0 90d35+500 9d5+20
+20000 30000
+8 8 1
+#17325
+mob light pawn~
+the Light Pawn~
+A pawn of the forces of light is here.
+~
+~
+8360 67108864 30 S
+25 -9 0 90d35+400 9d5+20
+20000 30000
+8 8 1
+#17326
+mob wackyland museum official~
+a Wackyland museum official~
+A Wackyland museum official is here.
+~
+The official is here making sure everything is going smoothly
+~
+262152 256 0 S
+30 -20 0 60d40+300 8d7+15
+40000 30000
+8 8 1
+#17327
+mob statue cryogen~
+the statue of Cryogen~
+An intricately carved marble statue of Cryogen is here, looking very alive.
+~
+Cryogen, the mad Artic Mage-God looks very youthful juggling balls of
+pure energy.
+~
+295178 603979912 0 S
+43 -25 0 300d30+1500 30d5+30
+200000 30000
+8 8 1
+#17328
+mob statue cauchy~
+the statue of Cauchy~
+An intricately carved marble statue of Cauchy is here, looking very alive.
+~
+Cauchy is a very friendly looking dragon-kin.  She has a bright smile on
+her face.
+~
+4458506 1140850816 0 S
+43 -30 0 300d30+2000 20d10+50
+200000 30000
+8 8 2
+#17329
+mob statue pooky~
+the statue of Pooky~
+An intricately carved marble statue of Pooky is here, looking very alive.
+~
+You can never tell what Pooky, the mischievious cleric is going to be up to!
+~
+262666 603979904 0 S
+43 -28 0 300d30+1750 18d15+60
+200000 30000
+8 8 2
+#17330
+mob statue renegade~
+the statue of Renegade~
+An intricately carved marble statue of Renegade is here, looking very alive.
+~
+Renegade is a massive warrior with buldging muscles all over his body.
+He could of probably crushed rocks with his bare hands even before he
+became immortal.
+~
+327690 603979904 0 S
+43 -60 -1 300d30+2000 20d8+60
+200000 30000
+8 8 1
+#17331
+mob statue banzai~
+the statue of Banzai~
+An intricately carved marble statue of Banzai is here, looking very alive.
+~
+"BANZAI!!!"
+~
+278538 603979904 0 S
+43 -50 0 300d30+1500 18d8+55
+200000 30000
+8 8 1
+#17332
+mob art critic~
+the art critic~
+An art critic is here, examining the pieces of artwork.
+~
+The art critic has a stern look on her face.  She appears to be deep in
+thought.
+~
+392 67108864 0 S
+25 -10 0 50d40+400 7d6+5
+15000 30000
+8 8 2
+#17333
+mob museum janitor~
+the museum janitor~
+The janitor is here cleaning up.
+~
+The janitor's job here is to clean up any mess that has been made in the
+museum.  He does not concern himself with others.
+~
+262156 68681864 0 S
+20 -8 0 60d30+300 6d5+5
+10000 30000
+8 8 1
+#17334
+mob museum samurai guardsman~
+the museum samurai guardsman~
+A mean-looking guardsman wielding an EXTREMELY dangerous looking sword is standing here.
+~
+The guard doesn't look too happy!
+~
+262154 67109248 0 S
+35 -20 0 80d40+2000 8d8+20
+80000 30000
+8 8 1
+#17335
+mob lost adventurer~
+the lost adventurer~
+A lost adventurer is here wondering where he took a wrong turn.
+~
+The lost adventurer looks very confused and fatigued.
+~
+10 0 0 S
+20 -8 0 60d9+100 5d5+5
+3000 30000
+8 8 1
+#17336
+mob lizard-man warrior~
+a lizard-man warrior~
+A lizard-man warrior is here looking for something to maul.
+~
+This thing doesn't look too friendly!
+~
+8232 0 0 S
+20 -7 0 100d13+100 5d5+5
+10000 30000
+8 8 0
+#17337
+mob lizard-man shaman~
+a lizard-man shaman~
+A lizard-man shaman is here chanting to himself.
+~
+You begin to question what might this shaman be chanting.. it's starting to
+scare you!
+~
+8744 0 0 S
+22 -6 0 85d10+100 4d6+3
+12000 30000
+8 8 1
+#17338
+mob lizard-man necromancer~
+a lizard-man necromancer~
+A lizard-man necromancer is here practicing his deadly spells.
+~
+The lizard-man necromancer glares back at you!
+~
+8488 0 0 S
+23 -7 0 85d10+250 6d4+5
+13000 30000
+8 8 1
+#17339
+mob lizard-man thief~
+a lizard-man thief~
+A lizard-man thief is here sneaking around.
+~
+The lizard-man thief moves around with surprisingly no sound at all!
+~
+9256 1572864 0 S
+24 -12 0 80d15+350 5d5+8
+14000 30000
+8 8 1
+#17340
+mob wackyland pizza delivery boy~
+the Wackyland Pizza delivery boy~
+A youth is here pigging out on some pizza.
+~
+Yeesh!  This guy is food stains all over his clothes!
+~
+262280 67108992 0 S
+25 -8 0 80d30+300 6d5+10
+20000 30000
+8 8 1
+#17341
+mob stray blue cat~
+the stray blue cat~
+There is a stray blue cat here looking very lost.
+~
+What an odd looking cat.
+~
+17039496 1073741824 0 S
+26 -7 0 120d20+200 6d6+5
+20000 30000
+8 8 0
+#17342
+mob thyrak giant squid~
+Thyrak, the Giant Squid of the deep~
+A VERY menacing-looking squid is here swimming around.
+~
+You have NEVER seen a bigger squid than this beast!  You start to shiver
+at the sight of it.
+~
+17121386 1140850824 -150 S
+44 -60 0 600d30+2000 40d4+50
+200000 30000
+8 8 0
+#17343
+mob giant purple bear~
+a giant purple bear~
+A giant purple bear is here sleeping soundly.
+~
+This bear looks pretty tough...
+~
+17039370 0 0 S
+35 -20 0 300d15+1000 9d7+20
+100000 30000
+8 8 0
+#17344
+mob white giraffe~
+a white giraffe~
+A giraffe with white fur is here lounging around.
+~
+This guy's so tall that you have to look right up to see it's head.
+~
+16777224 0 0 S
+27 -10 0 90d25+350 6d7+6
+25000 30000
+8 8 0
+#17345
+mob giant vulture~
+a giant vulture~
+A giant vulture is here looking for a corpse to dine on.
+~
+This vulture is at least 3 times the size of a normal one!  You dont WANT to
+know whose corpse this bird is waiting to eat...!
+~
+16777356 0 0 S
+24 -7 0 60d45+300 8d4+10
+15000 30000
+8 8 0
+#17346
+mob magic green tiger~
+a magic green tiger~
+A green tiger is here growling ferociously.
+~
+This tiger looks mad!
+~
+17039400 524416 0 S
+30 -12 0 60d40+250 7d6+13
+20000 30000
+8 8 0
+#17347
+mob armagedddon lord destruction~
+Armageddon, the Lord of Destruction~
+Armageddon, the Lord of Destruction is here deciding on the most painful method of slaugtering you.
+~
+This monstrosity towers high above you, grinning evily.
+~
+264296 1140850824 -500 S
+43 -52 0 300d50+2000 15d10+100
+200000 50000
+8 8 0
+#17348
+mob battlyn pendragon death knight~
+Sir Battlyn Pendragon, the Death Knight~
+Sir Battlyn Pendragon, the Death Knight is here looking for a soul to suck.
+~
+Sir Battlyn Pendragon looks back at you with lifeless eyesockets.
+~
+34340872 603979912 -200 S
+41 -46 0 300d30+1500 10d9+50
+180000 45000
+8 8 1
+#17349
+mob lorath great sorceress~
+Lorath, the Great Sorceress~
+Lorath, the Great Sorceress is here pondering life.
+~
+You have heard that only few, if any can match the skills of the great
+Lorath...
+~
+262408 1140850816 0 S
+37 -35 0 300d20+1000 9d7+50
+170000 40000
+8 8 2
+#17350
+mob elcom saint~
+Elcom, the Saint~
+Elcom, the Saint is here in deep meditation.
+~
+He looks very peaceful, but can probably put up quite a fight if attacked..
+~
+262664 1140850816 250 S
+34 -25 0 250d20+1500 10d7+40
+120000 36000
+8 8 1
+#17351
+mob cinder red dragon~
+Cinder, the Red Dragon~
+Cinder, the Red Dragon is lounging around lazily.
+~
+This red dragon isn't one of those huge and powerful ones, but you can bet
+that this one is big enough to do some serious damage.
+~
+4458504 67108992 0 S
+30 -20 0 250d15+1200 8d7+40
+100000 35000
+8 8 0
+#17352
+mob yark gargoyle~
+Yark, the Gargoyle~
+Yark, the Gargoyle is here looking for something to mutilate.
+~
+Eeeeeeww...  its drooling slime!
+~
+270376 67108992 0 S
+27 -15 0 200d20+1250 7d6+25
+70000 32000
+8 8 0
+#17353
+mob shadow warrior~
+a shadow warrior~
+A shadow warrior is here appearing and disappearing right before your eyes.
+~
+I hope you have the right kind of weapon ready.
+~
+1310760 2 -100 S
+38 -20 0 300d10+1500 8d8+35
+150000 41000
+8 8 0
+#17354
+mob charred skeleton~
+a charred skeleton~
+A skeleton, whose bones have been charred pitch black is here.
+~
+This guy must of been in quite a fire to end up like this!
+~
+33882152 0 0 S
+34 -15 0 200d10+1300 7d8+30
+80000 36000
+8 8 0
+#17355
+mob dark dwarf~
+a dark dwarf~
+An evil looking dwarf is here taunting you.
+~
+This dwarf looks very old, but also very strong.
+~
+262152 1140850944 -100 S
+31 -13 0 200d15+1250 7d7+30
+60000 33000
+8 8 1
+#17356
+mob ogre~
+an ogre~
+A hulking ogre is here wielding a nasty-looking club.
+~
+This thing is HUGE!  It is 9-10 feet tall and its entire body is buldging
+with muscles!  But... this guy doesn't look too bright.
+~
+8650760 67108864 0 S
+28 -12 0 200d10+1000 7d6+30
+50000 31000
+8 8 0
+#17357
+mob giant turtle~
+a giant turtle~
+A giant turtle is here munching on corpses.
+~
+This turtle has the speed of a slug, but its jaws look pretty damn strong!
+~
+17113100 0 0 S
+25 -5 -1 200d10+500 7d6+20
+30000 30000
+8 8 0
+#17358
+mob black slime~
+a black slime~
+A large puddle of black slime is here dissolving everything in its way.
+~
+Eeeww.. this thing is disgusting, repulsive, and has a PUTRID odor!
+~
+262156 0 0 S
+23 -8 0 200d10+200 6d6+20
+20000 30000
+8 8 0
+#17359
+mob Alicia Silverstone~
+Alicia Silverstone~
+Pooky's VERY good friend, Alicia Silverstone is here watching television.
+~
+Holy cow, this is one AWESOME looking girl!
+~
+854858 1140850688 0 S
+75 -50 -10 50000d1+0 100d90+0
+1 0
+8 8 2
+$~
+#999999

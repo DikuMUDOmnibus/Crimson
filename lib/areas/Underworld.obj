@@ -1,0 +1,450 @@
+#20000
+obj breathwater potion~
+the Potion of Breathwater~
+A Breathwater potion lies here, gas swirling around inside.~
+~
+10 0 1
+41 87 68 0
+1 1 5
+#20001
+obj card ace of diamonds~
+an Ace of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20002
+obj card ace of clubs~
+an Ace of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20003
+obj card ace of hearts~
+an Ace of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20004
+obj card ace of spades~
+an Ace of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20005
+obj card king of diamonds~
+a King of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20006
+obj card king of clubs~
+a King of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20007
+obj card king of hearts~
+a King of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20008
+obj card king of spades~
+a King of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20009
+obj card queen of diamonds~
+a Queen of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20010
+obj card queen of clubs~
+a Queen of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20011
+obj card queen of hearts~
+a Queen of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20012
+obj card queen of spades~
+a Queen of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20013
+obj card jack of diamonds~
+a Jack of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20014
+obj card jack of clubs~
+a Jack of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20015
+obj card jack of hearts~
+a Jack of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20016
+obj card jack of spades~
+a Jack of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20017
+obj card ten of diamonds~
+a Ten of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20018
+obj card ten of clubs~
+a Ten of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20019
+obj card ten of hearts~
+a Ten of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20020
+obj card ten of spades~
+a Ten of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20021
+obj card nine of diamonds~
+a Nine of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20022
+obj card nine of clubs~
+a Nine of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20023
+obj card nine of hearts~
+a Nine of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20024
+obj card nine of spades~
+a Nine of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20025
+obj card eight of diamonds~
+an Eight of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 5
+#20026
+obj card eight of clubs~
+an Eight of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20027
+obj card eight of hearts~
+an Eight of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20028
+obj card eight of spades~
+an Eight of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20029
+obj card seven of diamonds~
+a Seven of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20030
+obj card seven of clubs~
+a Seven of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20031
+obj card seven of hearts~
+a Seven of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20032
+obj card seven of spades~
+a Seven of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20033
+obj card six of diamonds~
+a Six of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20034
+obj card six of clubs~
+a Six of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20035
+obj card six of hearts~
+a Six of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20036
+obj card six of spades~
+a Six of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20037
+obj card five of diamonds~
+a Five of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20038
+obj card five of clubs~
+a Five of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20039
+obj card five of hearts~
+a Five of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20040
+obj card five of spades~
+a Five of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20041
+obj card four of diamonds~
+a Four of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20042
+obj card four of clubs~
+a Four of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20043
+obj card four of hearts~
+a Four of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20044
+obj card four of spades~
+a Four of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20045
+obj card three of diamonds~
+a Three of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20046
+obj card three of clubs~
+a Three of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20047
+obj card three of hearts~
+a Three of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20048
+obj card three of spades~
+a Three of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20049
+obj card two of diamonds~
+a Two of Diamonds (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20050
+obj card two of clubs~
+a Two of Clubs (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20051
+obj card two of hearts~
+a Two of Hearts (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20052
+obj card two of spades~
+a Two of Spades (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20053
+obj card joker~
+a Joker (Vortex's Quest)~
+There is a playing card here, collecting dust.~
+~
+12 0 1
+0 0 10 0
+1 5 50
+#20054
+obj Vortex deck~
+Vortex's Deck of Playing Cards~
+Vortex's Deck of playing cards is here, DONT TOUCH!~
+~
+15 262144 1
+104 9 20054 0
+5 5 5
+#20055
+obj Vortex Key~
+Vortex's Deck Key~
+Vortex's Deck Key is Lying here.~
+~
+18 0 1
+20054 0 10 0
+1 5 5
+$~
+#999999

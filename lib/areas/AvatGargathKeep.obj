@@ -1,0 +1,402 @@
+#15900
+obj armbands~
+a pair of servant's armbands~
+A dull, steel pair of armbands lies in the dust.~
+~
+9 4194304 257
+25 0 10 0
+3 100000 25000
+#15901
+obj hat jester's~
+a pointy jester's hat~
+A colorful hat with many points is lying here.~
+~
+9 4194368 17
+5 0 10 0
+3 200000 50000
+A
+12 100
+#15902
+obj beater egg psionic~
+a psionic egg beater~
+A large egg beater has been left here.~
+~
+5 4194307 8193
+0 5 9 6
+4 180000 45000
+A
+18 2
+A
+19 4
+#15903
+obj earring adamantine~
+an adamantine earring~
+A dark, shiny stone has been dropped here.~
+~
+9 4194304 17
+5 0 10 0
+1 200000 50000
+A
+18 2
+A
+19 4
+#15904
+obj shadow shadowcloak cloak~
+the ShadowCloak~
+A shadowy, translucent cloak lies here.~
+~
+9 4194308 1025
+25 0 10 0
+5 180000 45000
+A
+19 2
+A
+12 25
+#15905
+obj keg~
+a scintillating keg~
+A colorful barrel has been left here.~
+~
+1 4194307 65537
+0 0 10 0
+40 80000 20000
+A
+26 0
+A
+32 0
+A
+33 0
+#15906
+obj amulet planes~
+the Amulet of the Planes~
+A shiny amulet lies here.~
+~
+9 4194371 5
+10 0 10 0
+2 160000 40000
+A
+19 2
+A
+12 15
+#15907
+obj veil darkness~
+the Veil of Darkness~
+A shadowy cloth lies here.~
+~
+9 4 5
+50 0 10 0
+4 140000 75000
+A
+27 -1
+A
+19 1
+A
+36 -1
+#15908
+obj dancing sword~
+a dancing sword~
+An animated sword floats above the ground!~
+~
+5 4194368 8193
+0 5 8 3
+6 200000 50000
+A
+18 3
+A
+19 3
+#15909
+obj fencing gloves~
+a pair of fencing gloves~
+A pair of soft white gloves has been left in the dust.~
+~
+9 4194304 129
+12 0 10 0
+4 200000 50000
+A
+19 4
+A
+18 1
+#15910
+obj marble bracelet~
+a marble bracelet~
+A loop of solid black marble has been left here.~
+~
+9 4194820 4097
+10 0 10 0
+10 120000 30000
+A
+19 3
+A
+18 2
+#15911
+obj safari hat~
+a safari hat~
+A hard, wooden hat has been left here.~
+~
+9 4194304 17
+35 0 10 0
+5 120000 35000
+#15912
+obj jewel pit~
+the Jewel of the Pit~
+A glistening jewel rest on the floor of the room.~
+~
+9 4194305 16385
+20 0 10 0
+21 200000 55000
+A
+4 3
+A
+3 3
+A
+19 3
+A
+12 20
+#15913
+obj astral plate~
+an astral plate mail~
+A transparent suit or armor has been left here to rot.~
+~
+9 4194304 9
+40 0 10 0
+0 120000 35000
+A
+14 25
+#15914
+obj ball slime~
+a ball of slime~
+A ball of slime rolls here.~
+~
+13 4194304 1
+0 0 10 0
+1 5 5
+#15915
+obj incisor blood red~
+an elongated, blood-red incisor~
+A long, red, bloody tooth lies here.~
+~
+5 4194304 8193
+0 6 7 11
+8 200000 50000
+A
+18 2
+A
+19 4
+#15916
+obj bloody arm plates~
+a pair of bloody arm plates~
+A set of bloody arm plates lies here.~
+~
+9 4194368 257
+20 0 10 0
+8 135000 33000
+A
+19 3
+A
+32 -1
+#15917
+obj chain bone~
+a bone chain~
+A string of bones has been tied together here.~
+~
+9 4194304 2049
+15 0 10 0
+6 200000 50000
+A
+19 2
+A
+12 20
+#15918
+obj amulet merkuul~
+the Amulet of Merkuul~
+An amulet made of bone has been dropped here.~
+~
+9 4194308 5
+20 0 10 0
+5 200000 40000
+A
+12 100
+A
+4 2
+#15919
+obj sceptre bone~
+a bone sceptre~
+A large femur has been dropped here.~
+~
+9 4194320 16385
+10 0 10 0
+8 200000 50000
+A
+12 100
+A
+12 100
+A
+19 1
+A
+18 -4
+#15920
+obj robe sooty black~
+a sooty black robe~
+A dirty black robe lies in the dust.~
+~
+9 4196868 1025
+30 0 10 0
+5 120000 30000
+A
+19 3
+A
+5 -2
+#15921
+obj greaves spiked~
+a pair of spiked greaves~
+A set of spiked leg plates lies here.~
+~
+9 4194304 33
+20 0 10 0
+16 120000 30000
+A
+19 2
+#15922
+obj ring black opal~
+a black opal ring~
+A ring with a dark stone has been carelessly dropped here.~
+~
+9 4196868 3
+30 0 10 0
+1 160000 40000
+A
+37 -1
+A
+19 2
+#15923
+obj razor toed boots~
+a pair of razor toed boots~
+A pair of boots with blades attached to the toe are here.~
+~
+9 4194304 65
+15 0 10 0
+3 80000 30000
+A
+19 2
+A
+12 20
+#15924
+obj varnished cedar bracelet~
+a varnished cedar bracelet~
+A shiny wooden bracelet rolls around on the floor.~
+~
+9 4194306 4097
+15 0 10 0
+3 100000 40000
+A
+14 75
+A
+12 50
+A
+18 2
+#15925
+obj cloak emerald green~
+an emerald green cloak~
+A deep green cloak lies here.~
+~
+9 4194304 1025
+40 0 10 0
+5 120000 30000
+A
+19 2
+A
+13 50
+#15926
+obj jeweled shield~
+a jeweled shield~
+A large, jeweled shield has been dropped here.~
+~
+9 4194306 513
+30 0 10 0
+18 200000 50000
+A
+19 2
+A
+13 50
+#15927
+obj tunic dull grey~
+a dull grey tunic~
+A dull grey shirt lies here.~
+~
+9 4194304 9
+40 0 10 0
+5 200000 50000
+A
+13 50
+A
+12 50
+#15928
+obj staff withering~
+the Staff of Withering~
+A withered stick has been left here to rot.~
+~
+9 4194304 16385
+20 0 10 0
+5 120000 30000
+A
+19 5
+A
+1 -2
+A
+5 -3
+#15929
+obj girth rulership~
+the Girth of Rulership~
+An immense golden belt has been dropped here.~
+~
+9 4194304 2049
+25 0 10 0
+25 160000 50000
+A
+19 3
+A
+12 30
+A
+14 30
+A
+13 30
+#15930
+obj ring elemental chaos~
+a ring of elemental chaos~
+A colorful ring has been left here.~
+~
+9 4194304 3
+20 0 10 0
+1 160000 40000
+A
+19 3
+A
+12 20
+A
+14 50
+#15931
+obj sceptre plane travel~
+the Sceptre of Plane Travel~
+A sceptre made of black marble lies here.~
+~
+1 4194306 65537
+0 0 -1 0
+3 120000 30000
+A
+14 100
+A
+14 100
+A
+14 100
+#15932
+obj plate black marble mail~
+a black marble plate mail~
+A suit of black marble plate mail has been dropped here.~
+~
+9 4194308 9
+30 0 10 0
+65 160000 40000
+A
+19 3
+$~
+#999999

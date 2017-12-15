@@ -1,0 +1,265 @@
+#16000
+mob Rentor~
+Rentor~
+Rentor is begging u to kill him.
+~
+Rentor stands here with a big smile on his face. It looks like he just won the
+lottery. Gold, silver, and various priceless jewels fall from his pockets.
+~
+10 0 0 S
+10 30 24 1d1+1 1d1+1
+100000000 300000
+8 8 1
+#16001
+mob gatekeeper~
+a gatekeeper~
+a gatekeeper stands guard watching for intruders.
+~
+Strange to have such an old man guard the gate for a city as wondrous as
+this. But the strange aura around his body tells you that there is something
+peculiar about this gatekeeper.
+~
+16394 1048576 0 S
+20 6 7 560d1+0 5d9+2
+15000 30000
+8 8 1
+#16002
+mob guardian~
+a guardian~
+a guardian quietly monitors city activities.
+~
+If it had not been for the light from the surrounding lanterns you would not
+have noticed the creature. It appears to be stalking and monitoring possible
+offenders to this city.
+~
+12 524290 0 S
+25 -15 0 1500d1+0 3d25+2
+30000 37500
+8 8 0
+#16003
+mob Mete~
+Mete~
+Mete stares at you through her reflection in the mirror.
+~
+Mete sits here powdering her nose. She was singing a very peaceful tune a whil
+e ago. But now the tempo has picked up and it doesn't sound very welcoming
+anymore.
+~
+778 537919616 0 S
+35 -33 -6 4000d1+0 8d16+0
+80000 52500
+8 8 2
+#16004
+mob Krexe~
+Krexe~
+Krexe, Son of Kaine, guards his father's chamber.
+~
+This boy, although still young of age, follows closely in his father's
+footsteps. He will grow up to be an even better warrior than his father.
+Even now, he is a very formidable foe.
+~
+10 536871040 0 S
+28 -15 -5 2000d1+0 8d9+0
+42000 42000
+8 8 1
+#16005
+mob Kalus~
+Kalus~
+Kalus, Kaine's wife, is mending some armor.
+~
+A pretty looking lady. She has chestnut colored hair, growing down to her
+shoulders. She appears to be quite a plain person, but you remember that
+her husband is a great warrior.
+~
+138 128 0 S
+30 -30 -5 3000d1+0 12d9+0
+50000 45000
+8 8 2
+#16006
+mob sprite~
+a sprite~
+A sprite crouching close to the ground, blends in with its surroundings.
+~
+It is pretty formless. It continuously changes form. At one moment it looks
+like a flower and the next it seems to be a precious gem on the floor. These
+creatures are a rare find, a metamorphic life form.
+~
+526 603979776 0 S
+25 -3 4 860d1+0 8d7+0
+30000 37500
+8 8 0
+#16007
+mob Aestre~
+Aestre~
+Aestre paces the room impatiently.
+~
+He is dressed in a businessman' garment. However, those bulges in his arms ind
+icate that his previous or *other* occupation may not be as legitimate as he
+would have you believe.
+~
+1034 536871040 0 S
+35 -36 -7 3400d1+0 10d14+2
+80000 52500
+8 8 1
+#16008
+mob Besci~
+Besci~
+Besci scowls at your disturbanc of her pets.
+~
+She looks like a very aged woman. Undoubtedly, she must have been a caretakerr
+of animals for a very long time. Now she just spends the time with her pets
+as a hobby to pass time.
+~
+11 384 0 S
+35 -33 -6 4000d98+1869095009 10d12+6
+80000 52500
+8 8 0
+#16009
+mob wyvern~
+a wyvern~
+a wyvern hovers next to its master.
+~
+What a large beast! Those wings could easily knock you off you balance!
+~
+2091 8388864 0 S
+30 -18 -1 2200d1+0 8d10+0
+50000 45000
+8 8 0
+#16010
+mob Gauzzo~
+Gauzzo~
+Gauzzo is slouched over in a chair here.
+~
+Gauzzo, the barkeep and innkeep. Business has been great the whole day. He is
+now taking a break to recover from all the work. It looks like he might be
+passing out in here and his guests will pass out in his inn.
+~
+10 1073873024 0 S
+30 -30 -5 3000d1+0 12d9+0
+50000 45000
+8 8 1
+#16011
+mob Wysa~
+Wysa~
+Wysa is standing in the middle of the room practicing spells.
+~
+She is dressed in a very colourful garment. It covers her from head all the
+way down to her toe. It looks like some sort of protection, for a weaker person.
+
+~
+2314 128 0 S
+35 -33 -6 4200d58+0 9d14+0
+80000 52500
+8 8 2
+#16012
+mob Paschi~
+Paschi~
+Paschi is shining plates to be sold.
+~
+Paschi looks like an old man now. You can tell that in his prime he was a
+mighty warrior. Even now you hesiatate to move against this man. He may still
+have the skills to kill you.
+~
+10 536870914 0 S
+35 -45 -10 4000d1+0 20d10+0
+80000 52500
+8 8 0
+#16013
+mob Efini~
+Efini~
+Efini is showing off his weapon skills.
+~
+Yours eyes are sore and you have a headache watching Efini juggling those
+knives. It is almost a certainty that he could easily put one through you
+as well.
+~
+10 536871040 0 S
+35 -45 -10 4000d1+0 20d9+0
+80000 52500
+8 8 0
+#16014
+mob statue~
+a statue~
+a statue is placed here to remind the citizens of their great heritage.
+~
+This rock statue bears resemblance the former king of this city. A great
+warrior and a mighty wizard. His stature is tall and his shoulders wide.
+~
+266 536871040 0 S
+35 -33 -6 3200d1+0 12d10+4
+80000 52500
+8 8 0
+#16015
+mob King Hagos~
+King Hagos~
+King Hagos lies peacefully in this chamber.
+~
+Even as he lies here without breath or motion, you can feel the presence of
+his nobility. A golden aura surrounds his body.
+~
+2097418 536871040 0 S
+35 -30 -6 4200d1+0 17d8+0
+80000 52500
+8 8 1
+#16016
+mob servant~
+a servant~
+a servant cowers in the corner.
+~
+He begs for your mercy to free him from his slavery.
+~
+143 536870912 0 S
+35 -45 -10 4000d1+0 20d10+0
+80000 52500
+8 8 0
+#16017
+mob skeleton~
+a skeleton~
+a skeleton hangs on a cross.
+~
+It looks lifeless, at the moment. This is the cemetary...anything can happen.
+~
+1550 536870912 0 S
+25 -9 2 1180d1+0 8d8+0
+30000 37500
+8 8 0
+#16018
+mob stone warrior~
+a stone warrior~
+A stone warrior stands here, looking lifeless.
+~
+The stone from which the warrior is molded from is indistinguishable. You
+have doubts that he is even penetrable. However, gut feelings tell you that
+by killing this warrior there will be great rewards found.
+~
+4106 537919616 0 S
+35 -21 -12 4400d1+0 12d10+20
+750000 30000
+8 8 1
+#16019
+mob Levelor~
+Levelor~
+Levelor
+~
+He sits back leaning against a post on the road. There is a powerful aura
+about his body. You r verry tempted to kill him, but something keeps your
+hand from drawing your sword. The wrath of a god may strike you for
+molesting one of his creatures.
+~
+8 0 0 S
+30 30 24 1d1+1 1d1+1
+1 20000000
+8 8 0
+#16020
+mob blank~
+a blank mob~
+A blank mob stands here, looking formless.
+~
+It is pretty formless, awaiting a creators molding.
+~
+8 0 0 S
+1 30 24 1d1+1 1d1+1
+1 0
+8 8 0
+$~
+#999999

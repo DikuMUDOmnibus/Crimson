@@ -1,0 +1,112 @@
+#2900
+mob guard~
+a guard~
+The guard says to you, "Young mudder, welcome to the academy."
+~
+He is strong and tough.  It is wise not to mess with him.
+~
+262154 1073741992 1000 S
+50 -90 -20 20000d1+20000 100d90+90
+1 1
+8 8 1
+#2901
+mob clerk~
+a clerk~
+The clerk says to you, "Please read the sign."
+~
+She is nice and charming and she can kill you easily with just one hit.  So
+do not mess with her.
+~
+262154 1073741992 1000 S
+50 -90 -20 20000d1+20000 100d90+90
+1 1
+8 8 2
+#2902
+mob Alpeno~
+Alpeno, the Newbie Trainer~
+Master Alpeno informs you, "Kid, please type LOOK SIGN."
+~
+He looks mean, but you feel that he is a good trainer indeed.
+~
+262155 1073741992 1000 S
+50 -90 -20 20000d1+20000 100d90+90
+1 1
+8 8 1
+#2903
+mob Pitto~
+Pitto, the Battle Trainer~
+Master Pitto says to you, "Kid, take a rest if you are tired or hurt."
+~
+He is very experienced.  You have no doubt that he will take good care of you.
+~
+262155 1073741992 1000 S
+50 -90 -20 20000d1+20000 100d90+90
+1 1
+8 8 1
+#2904
+mob monster smelly~
+a smelly monster~
+A smelly monster stares angrily at you.
+~
+It has a disgusting smell.  It looks angry, being imprisoned here.
+~
+10 0 0 S
+1 32 24 30d1+0 3d1+0
+100 1500
+8 8 0
+#2905
+mob monster alert~
+an alert monster~
+An alert monster is ready to fight you.
+~
+Although it looks mean, you feel confident to defeat it.
+~
+10 0 0 S
+1 32 24 30d1+0 3d1+0
+100 1500
+8 8 0
+#2906
+mob monster aggressive~
+an aggressive monster~
+An aggressive monster leaps out to attack you.
+~
+It looks really mean, angry and hungry.  But you are still confident.
+~
+42 0 0 S
+1 32 24 30d1+0 3d1+0
+100 1500
+8 8 0
+#2907
+mob monster starving~
+a starving monster~
+A starving monster is determined to make you its lunch.
+~
+It is in very bad mood.
+~
+42 0 0 S
+1 32 24 30d1+0 3d1+0
+100 1500
+8 8 1
+#2908
+mob monster final exam~
+a monster called "Final Exam"~
+A monster called "Final Exam" is here to challenge you.
+~
+It is the toughest monster for students in the academy.
+~
+11 0 0 S
+5 28 20 75d1+0 2d3+3
+500 7500
+8 8 0
+#2909
+mob keeper~
+the key keeper~
+The key keeper is examining the only key it is carrying.
+~
+~
+10 0 0 S
+3 30 22 65d1+0 2d3+1
+300 4500
+8 8 0
+$~
+#999999

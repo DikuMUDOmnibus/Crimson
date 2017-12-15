@@ -1,0 +1,166 @@
+
+	Welcome to the world of Crimson Mud. This is a world modeled after 
+ancient times of swords & sorcery, dungeons & dragons, and great heros and 
+wonderful quests.
+
+	The first thing for the beginner to know is that you will be playing
+in an interactive environment where other players see and hear what you say
+and do. So remember, annoy another user and you may find yourself dead or 
+dying while your attacker stands there laughing.
+	Before you can enter the world of Crimson you must make a few choices.
+The first will be what class you are going to be. This is what will determine
+if you will be a fighter, healer, or some other type of being. There are 10
+classes to choose from. Each has its advantages and disadvantages.
+
+	1) Warrior       : This is your straight fighter class, good in a
+                           one to one battle with most monsters and usually
+                           has lots of hit points so can take more damage.
+	2) Cleric        :This is your basic knight. He can fight if he has
+                          to but for the most part is there to keep the other
+                          people alive. If you like to adventure alone this is
+                          a good choice as you can heal your own wounds.
+ 	3) Magic-User    : This would be your Merlin type character. He would
+                           stay behind the fighters hurling lightning bolts at
+                           the enemy from afar. A weak character class to start
+                           off with but a very potent one as the levels go up.
+	4) Thief         : As the idea suggests this class spends most of its
+                           time trying to steal things. This is one of the few
+                           classes able to pick a lock on a door or disarm
+                           traps that would otherwise kill a character. Handy
+                           to have in a group.
+	5) Bard          : This class has the benefit of being warriors but
+                           also have some magic ability as well. A real multi-
+                           class character. This mixture of thief/mage takes
+                           a long time to aquire spells.
+	6) Kai (good)	 : This class has a slightly higher magic ability then
+                           normal. Also this class is considered "good". This 
+                           means that the character usually will not tolerate
+                           an evil character traveling with them in a group.
+                           This class gets only healing and non-offensive 
+                           spells.
+	7)Drakkhar (evil): These beings are also slightly better with magic 
+                           then the usual classes but like the kai they have
+                           an alignment consideration. They will not travel
+                           with any being that is considered good. These evil
+                           warrior/priests get only offensive spells
+	8)Elfin Knight   : This is another 'good' class of beings. They have
+                           a naturally higher magical power because of thier
+                           mystical heritage. These warrior/mages get only
+                           non-offensive and general spells.
+	9)Demon Knight   : This is a highly magical 'evil' class of being. 
+                           These evil warrior/mages get only offensive and
+                           general spells.
+       10)Dragon-Kin 	 : These warriors are not human. They have a high
+                           magical power but are hindered in that almost no
+                           normal clothing or armour will fit them. They
+                           have breath weapons and great hit points.
+
+	The choice of what class to be is entirely yours. Some people prefer
+once class over the other. It is really up to you and your own style of play.
+Enjoy!
+	When you have chosen your class you are given the option to create
+a description of what you want other people to see you as. One of the few
+chances in life to decide how you look.	
+	When you decide to enter the game your character will magically 
+appear in a room. You appear in a roomm called, 'The Dressing Room'. As you
+appear for the first time a bunch of items the Gods have chosen to give you
+also appear. They are but temporary items as you will be given the oppertunity
+to buy better ones as you adventure and collect money. There are many shops
+in the city where you will be able to buy food and weapons. When these items
+appear type in 'get all'. When you type that your character will pick them all
+up and the items will be put into your inventory. If you type 'i' you will be
+shown what is in your inventory.
+	Next type in 'wear all'. Your character will equip itself with any
+of the items being carried that it can. I.E. if you are a warrior carrying
+a sword then you will put it in your hand so you can fight with it. Depending
+on what it is you are wearing the safer you will be. A person wearing only
+robes will not be able to take as much damage as a person who has magical
+armour on. If you type EQUIP you will be given a list of what you are wearing
+and have on. WIELD lets you start using an item as a wearpon. If your were
+already using one you will have to use REMOVE to get rid of the first item.
+	Then look around the room. Type 'look'. In the interestes of speed
+most commands can be done by simply typing in the first two letters of the 
+word. A fairly complete list of commands can be seen by typing 'help'. When
+you looked around you were given a description of the room you were in. You
+are also given a list of other people and monsters in there with you. 
+	Now type in 'display all'. This will give you a status line at the 
+bottom of the screen. This shows you the room you are in, how many hit points
+you have as well as how many mana (magic) points you have. As you are damaged
+or use spells these numbers will go down. When you rest or as time goes by 
+they will go back up.
+	When you have looked around for a bit type 'd'. This will take you
+through the 'down' exit to the room below. The room below is called the 
+'Reception room'. This room is where you can rent a room to store your 
+character in when you decide to leave. Now while it is true you can quit
+the game anywhere within it, if you quit anywhere other then in the reception
+room and have rented a room, all your items that you were carrying fall to the
+floor and can be taken by anyone who comes along. 
+	Another good place to find right off is the bank. The same thing
+applies to money as to items on you. If you haven't put your money in the
+bank it ends up on the ground and is fair game. Now one advantage of the 
+reception room is that you can do your banking here as well as renting a 
+room. The commands withdrawl, deposit, and balance work in this room.
+	One of the things to remember in this world is that food is what
+gives you the energy to fight things and the strength to wander the land
+searching for adventure. So it is wise to have a supply of bread (loaves can
+be bought at the bakery in town) and a cup so you can fill it with water and
+quench your thirst. Commands such as EAT BREAD, FILL CUP, DRINK CUP are
+handy to know.
+	To advance in levels you need experience. This experience can be
+gained by killing monsters and solving quest. There are rumors also that if
+new characters clean up the city and take stuff to the dump they will be
+rewarded with money and exp.
+	Wonder the city and check out the various shops and rooms. There are
+a lot of them out there. Some will have signs on the walls. Try reading them.
+Most of them are there for a reason. It would be wise to spend some time 
+locating your guild hall. This will be where you will train when you have
+enough experince to go up in levels. There are many guilds and shops so this
+could take you awhile.
+	It is usually a good idea to travel in pairs. Unlike in larger groups
+if a pair kills something they will each receive the FULL exp value of the
+monster killed. In larger groups the amount received is a fraction of the 
+full exp. A good set of commands to a group of adventureers is the GROUP
+set of commands.
+	If it is decided that one person should lead and the others do not
+want to have to type in thier own set of directions as the party adventures
+then the GROUP commands come into play. A leader should be chosen within the
+group. Everyone else types in FOLLOW <leader>. The the leader types in 
+GROUP <plaer's name> for each of the people in the group including himself.
+With this done only the leader has to worry about typing in direction commands
+the rest of the party will follow him. If you go into battle you can all type
+in ASSIST and you will all attack the same creature. If you type in WHIMPY you
+will run away if you are close to death. Better to run away then die.
+	Some of the commands for verbal communication are as follows:
+
+	SAY     -speak your mind to everyone in a room
+    	SHOUT   -everyone close to you will hear you
+	GOSSIP  -everyone on the board will hear you
+	TELL    -speak only to the person you are telling things to
+
+	Fighting monsters is what this whole thing is about. Now you can 
+fight things by typing in 'kill bat' or 'kill rat' or you can type in 
+'kill mob'. An mob is a monster or mobile object. So if you type in 
+'kill 1.mod' you will attack the first monster in the room. The Dragon-Kin
+warriors out there just starting out should try BREATH GAS MOB. If you are
+gonna cast a spell then try this: CAST 'MAGIC MISSILE' MOB. You need to have
+the name of the spell being cast in ". You magic users did remember to 
+practice this spell when at your guild right? <hint>
+	If you get tired use the REST command. When your stats go back up use
+the STAND command and you will be able to head off adventuring again. 
+	Well that is all for now. Head out and enjoy.
+
+Edmond, The Big Kahuna
+ 
+
+	
+
+
+
+
+
+
+
+
+
+
+

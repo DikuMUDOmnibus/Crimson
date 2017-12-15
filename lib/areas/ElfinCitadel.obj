@@ -1,0 +1,338 @@
+#14600
+obj key black obj~
+a dark black key~
+A strange looking black key seems to have been left here.~
+~
+18 4 1
+1 2 10 3
+1 100000 -1
+#14601
+obj slippers royal obj~
+a pair of royal slippers~
+The Elfin King's royal slippers are sitting here.~
+~
+11 1048576 65
+0 0 10 0
+5 5000 1000
+A
+13 -5
+A
+12 10
+A
+14 40
+A
+2 2
+#14602
+obj sword Elfin long~
+an Elfin longsword~
+A sword with a long, thin blade and green hilt is here.~
+~
+5 524289 8193
+0 3 7 3
+9 1000 500
+A
+19 1
+A
+18 1
+#14603
+obj royal signet Elfin~
+the Elfin Royal Signet~
+The Elfin Royal Signet is sitting here.~
+~
+9 1084450 16387
+3 0 10 0
+1 18000 10000
+A
+12 20
+A
+3 3
+A
+1 -2
+A
+5 1
+#14604
+obj ball crystal Elfin~
+an Elfin crystal ball~
+An Elfin crystal ball is lying here.~
+~
+1 1116160 81921
+0 0 -1 0
+2 15000 15000
+A
+27 -1
+A
+26 -1
+A
+32 -1
+A
+3 2
+#14605
+obj plate breast clear~
+a clear breast plate~
+A clear breast plate is lying here.~
+~
+9 2168832 9
+14 0 10 0
+50 50000 20000
+A
+1 -1
+A
+19 1
+#14606
+obj cross holy Elfin~
+a holy Elfin cross~
+A holy Elfin cross is lying here.~
+~
+11 1051648 5
+0 0 10 0
+0 100000 30000
+A
+37 25
+A
+17 -2
+A
+19 1
+#14607
+obj ring deep black~
+a deep black ring~
+A deep black ring is lying here.~
+~
+9 526978 3
+10 0 10 0
+1 150000 20000
+A
+37 5
+A
+13 10
+A
+1 -2
+A
+12 10
+#14608
+obj gloves leather Elfin~
+a pair of brown leather gloves~
+A brown pair of Elfin gloves are lying here.~
+~
+11 2097152 129
+0 0 10 0
+1 50000 15000
+A
+1 4
+A
+19 2
+A
+12 -25
+A
+3 -3
+#14609
+obj crossbow bow cross~
+a shadow crossbow~
+A shadowed crossbow has been malevolently placed here!~
+~
+5 2099744 8193
+0 4 8 8
+15 100000 21000
+A
+18 3
+A
+19 3
+A
+17 -2
+A
+1 -2
+#14610
+obj Stormblade blade storm ~
+the Stormblade~
+The StormBlade is sitting here.~
+~
+5 2103812 8193
+1024 8 4 3
+5 100000 50000
+A
+1 1
+A
+19 3
+A
+18 4
+A
+3 -2
+#14611
+obj book first~
+the first book of swords~
+There is a red dusty book here on the floor.~
+~
+12 2560 1
+0 0 10 0
+1 1000000 100000000
+#14612
+obj book second~
+the second book of swords~
+Their is a white book lying before you.~
+~
+12 2560 1
+0 0 10 0
+1 1000000 100000000
+#14613
+obj book third~
+the third book of swords~
+There is a blue book lying here.~
+~
+12 2560 1
+0 0 10 0
+1 1000000 100000000
+#14614
+obj hilt piece~
+a hilt piece of the sword~
+There is a hilt piece of the sword before you.~
+~
+12 2564 1
+0 0 10 0
+1 1000000 100000000
+#14615
+obj middle piece~
+a middle piece of the sword~
+The middle piece of the sword lays before you!~
+~
+12 2564 1
+0 0 10 0
+1 1000000 100000000
+#14616
+obj tip piece~
+the tip of the sword~
+The tip of the stormblade lays before you!~
+~
+12 2564 1
+0 0 10 0
+1 1000000 100000000
+#14617
+obj first book~
+the first book of swords~
+The First Book of Swords in sitting on the altar.~
+~
+12 0 1
+0 0 10 0
+1 1000000 100000000
+#14618
+obj second book~
+the second book of swords~
+The Second Book of Swords is sitting on the altar.~
+~
+12 0 1
+0 0 10 0
+1 1000000 100000000
+#14619
+obj third book~
+the third book of swords~
+The Third Book of Swords is sitting on the altar.~
+~
+12 0 1
+0 0 10 0
+1 1000000 100000000
+#14620
+obj hilt piece~
+a hilt piece of the sword~
+The hilt of the sword is lying on the altar.~
+~
+12 0 1
+0 0 10 0
+1 1000000 100000000
+#14621
+obj middle piece~
+a middle piece of the sword~
+The middle of the sword is lying on the altar.~
+~
+12 0 1
+0 0 10 0
+1 1000000 100000000
+#14622
+obj tip piece~
+a tip piece of the sword~
+The tip of the Stormblade is lying on the altar.~
+~
+12 0 1
+0 0 10 0
+1 1000000 100000000
+#14623
+obj thorn poisonous~
+a poisonous thorn~
+A piece of a plant is here... dripping with blood.~
+~
+5 524288 24577
+3 3 4 11
+8 15000 250
+A
+19 1
+A
+18 1
+#14624
+obj flask silver Elfin~
+a silver flask~
+A valuable flask is here, waiting to hold water for you.~
+~
+17 0 1
+100 100 13 0
+15 559 15000
+#14625
+obj chocolate food~
+a chocolate~
+A piece of chocolate is here, melting in the sun.~
+~
+19 0 1
+8 0 10 0
+1 15 2
+#14626
+obj steak T-bone~
+a juicy T-bone steak~
+A steak is here, still sizzling hot.~
+~
+19 0 1
+18 0 10 0
+1 39 12
+#14627
+obj grapes~
+a bunch of grapes~
+A bunch of grapes has been set here.~
+~
+19 0 1
+11 0 10 0
+1 15 8
+#14628
+obj necklace diamond~
+a diamond necklace~
+A sparkling diamond necklace is resting here on the ground!~
+~
+9 527360 5
+5 0 10 0
+5 150000 20000
+A
+12 20
+A
+4 1
+A
+2 -2
+A
+33 -1
+#14629
+obj shield magic Elfin~
+a magic Elfin shield~
+A magical Elfin shield is laying here.~
+~
+9 1056833 513
+20 0 10 0
+6 100000 10000
+A
+12 15
+A
+4 1
+A
+18 -1
+#14630
+obj key ivory~
+an ivory key~
+An oddly shaped piece of ivory is on the ground.~
+~
+18 0 1
+2 1 3 1
+1 5 -1
+$~
+#999999

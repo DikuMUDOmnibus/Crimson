@@ -1,0 +1,1262 @@
+#13800
+Blank~
+~
+28 12 1
+D4
+void~
+~
+2 -1 3001
+D5
+~
+~
+0 -1 13801
+S
+#13801
+Throne room of Toma, Lord of the Dragon Realms~
+The walls of this chamber are covered with incredible paintings of Dragons
+more ancient and powerful than you ever thought possible.  You feel relieved
+these creatures no longer wander the realms...or do they....
+~
+28 8 1
+D0
+The Dragon lands
+~
+~
+0 -1 13802
+D4
+~
+~
+0 -1 13800
+S
+#13802
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13802
+D1
+~
+~
+0 -1 13803
+D2
+To the south os Lord Toma's chamber
+~
+~
+0 -1 13801
+D3
+~
+~
+0 -1 13805
+S
+#13803
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13804
+D1
+~
+~
+0 -1 13804
+D2
+~
+~
+0 -1 13805
+D3
+~
+~
+0 -1 13802
+S
+#13804
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13803
+D1
+~
+~
+0 -1 13805
+D2
+~
+~
+0 -1 13828
+D3
+~
+~
+0 -1 13803
+S
+#13805
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13805
+D1
+~
+~
+0 -1 13805
+D2
+~
+~
+0 -1 13805
+D3
+~
+~
+0 -1 13804
+S
+#13806
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13807
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13808
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13808
+D1
+~
+~
+0 -1 13813
+D2
+~
+~
+0 -1 13808
+D3
+~
+~
+0 -1 13809
+S
+#13809
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13809
+D1
+~
+~
+0 -1 13808
+D2
+~
+~
+0 -1 13809
+D3
+~
+~
+0 -1 13810
+S
+#13810
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13810
+D1
+~
+~
+0 -1 13809
+D2
+~
+~
+0 -1 13810
+D3
+~
+~
+0 -1 13811
+S
+#13811
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13811
+D1
+~
+~
+0 -1 13810
+D2
+~
+~
+0 -1 13811
+D3
+~
+~
+0 -1 13812
+S
+#13812
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13812
+D1
+~
+~
+0 -1 13811
+D2
+~
+~
+0 -1 13812
+D3
+~
+~
+0 -1 13813
+S
+#13813
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13814
+D1
+~
+~
+0 -1 13812
+D2
+~
+~
+0 -1 13826
+D3
+~
+~
+0 -1 13826
+S
+#13814
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13825
+D1
+~
+~
+0 -1 13815
+D2
+~
+~
+0 -1 13813
+D3
+~
+~
+0 -1 13825
+S
+#13815
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13815
+D1
+~
+~
+0 -1 13816
+D2
+~
+~
+0 -1 13815
+D3
+~
+~
+0 -1 13814
+S
+#13816
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 12 1
+D0
+~
+~
+0 -1 13823
+D1
+~
+~
+0 -1 13817
+D2
+~
+~
+0 -1 13816
+D3
+~
+~
+0 -1 13815
+S
+#13817
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13822
+D1
+~
+~
+0 -1 13818
+D2
+~
+~
+0 -1 13829
+D3
+~
+~
+0 -1 13816
+S
+#13818
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13821
+D1
+~
+~
+0 -1 13819
+D2
+~
+~
+0 -1 13830
+D3
+~
+~
+0 -1 13817
+S
+#13819
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13820
+D1
+~
+~
+0 -1 13817
+D2
+~
+~
+0 -1 13831
+D3
+~
+~
+0 -1 13818
+S
+#13820
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13831
+D1
+~
+~
+0 -1 13822
+D2
+~
+~
+0 -1 13819
+D3
+~
+~
+0 -1 13821
+S
+#13821
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13830
+D1
+~
+~
+0 -1 13820
+D2
+~
+~
+0 -1 13818
+D3
+~
+~
+0 -1 13822
+D5
+~
+door~
+1 13811 13832
+S
+#13822
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13829
+D1
+~
+~
+0 -1 13821
+D2
+~
+~
+0 -1 13817
+D3
+~
+~
+0 -1 13820
+S
+#13823
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13818
+D1
+~
+~
+0 -1 13823
+D2
+~
+~
+0 -1 13816
+D3
+~
+~
+0 -1 13824
+S
+#13824
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13827
+D1
+~
+~
+0 -1 13824
+D2
+~
+~
+0 -1 13824
+D3
+~
+~
+0 -1 13825
+S
+#13825
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13825
+D1
+~
+~
+0 -1 13824
+D2
+~
+~
+0 -1 13814
+D3
+~
+~
+0 -1 13826
+S
+#13826
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13802
+D1
+~
+~
+0 -1 13827
+D2
+~
+~
+0 -1 13826
+D3
+~
+~
+0 -1 13826
+S
+#13827
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13827
+D1
+~
+~
+0 -1 13828
+D2
+~
+~
+0 -1 13824
+D3
+~
+~
+0 -1 13826
+S
+#13828
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13804
+D1
+~
+~
+0 -1 13828
+D2
+~
+~
+0 -1 13828
+D3
+~
+~
+0 -1 13827
+S
+#13829
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13817
+D1
+~
+~
+0 -1 13830
+D2
+~
+~
+0 -1 13822
+D3
+~
+~
+0 -1 13831
+S
+#13830
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13818
+D1
+~
+~
+0 -1 13831
+D2
+~
+~
+0 -1 13821
+D3
+~
+~
+0 -1 13829
+S
+#13831
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13819
+D1
+~
+~
+0 -1 13829
+D2
+~
+~
+0 -1 13820
+D3
+~
+~
+0 -1 13830
+S
+#13832
+Entrance to caverns of the brown dragons.
+~
+You are in the entrance of a vast underground complex.
+The walls of the caverns are smooth,and appear to be made of granite.
+~
+28 265 1
+D0
+~
+~
+0 -1 13833
+D1
+~
+door~
+17 13811 13849
+D4
+~
+door~
+1 13811 13821
+S
+#13833
+The tunnels.
+~
+Teh tunnles wind onward out of sight. A doorway stands to your west.
+~
+28 8 1
+D0
+~
+~
+0 -1 13835
+D2
+~
+~
+0 -1 13832
+D3
+~
+door~
+9 0 13834
+S
+#13834
+Caverns of the Brown Dragon King.~
+Cold and dark tunnles stretch on out of sight.~
+28 8 1
+D1
+~
+0 door~
+9 -1 13833
+S
+#13835
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13852
+D2
+~
+~
+0 -1 13833
+D3
+~
+~
+0 -1 13836
+S
+#13836
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13835
+D3
+~
+~
+0 -1 13837
+S
+#13837
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13839
+D1
+~
+~
+0 -1 13836
+D2
+~
+~
+0 -1 13840
+D3
+~
+~
+0 -1 13838
+S
+#13838
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13837
+S
+#13839
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D2
+~
+~
+0 -1 13837
+S
+#13840
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13837
+D2
+~
+~
+0 -1 13841
+S
+#13841
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13840
+D3
+~
+~
+0 -1 13842
+S
+#13842
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13841
+D2
+~
+~
+0 -1 13843
+S
+#13843
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13842
+D5
+~
+~
+0 -1 13844
+S
+#13844
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D2
+~
+~
+0 -1 13845
+D4
+~
+~
+0 -1 13843
+S
+#13845
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13844
+D2
+~
+~
+0 -1 13846
+S
+#13846
+Entrance to the hatchery.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 0
+D0
+~
+~
+0 -1 13845
+D1
+~
+~
+0 -1 13848
+D2
+~
+~
+0 -1 13847
+S
+#13847
+The hatchery.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 4104 0
+D0
+~
+~
+0 -1 13846
+S
+#13848
+The hatchery.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 4104 0
+D1
+Into a lava flow.
+~
+~
+0 -1 13870
+D3
+~
+~
+0 -1 13846
+S
+#13849
+The dark tunnels.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13850
+D3
+~
+door~
+17 13811 13832
+S
+#13850
+The dark tunnels.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D2
+~
+~
+0 -1 13851
+D3
+~
+~
+0 -1 13849
+S
+#13851
+Store room.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13850
+S
+#13852
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13853
+D1
+~
+~
+0 -1 13856
+D3
+~
+~
+0 -1 13835
+S
+#13853
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+~
+0 -1 13854
+D2
+~
+~
+0 -1 13852
+S
+#13854
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D2
+~
+~
+0 -1 13853
+D3
+~
+~
+0 -1 13855
+S
+#13855
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13854
+S
+#13856
+The dark tunnels.
+~
+The tunnels stretch on out of sight to your east and west.
+To the south is a room. A horrible smell comes from it,perhaps 
+you should avoid that room.
+~
+28 8 1
+D1
+~
+~
+0 -1 13858
+D2
+~
+~
+0 -1 13857
+D3
+~
+~
+0 -1 13852
+S
+#13857
+Trash pit.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 14 1
+D0
+~
+~
+0 -1 13856
+S
+#13858
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13859
+D3
+~
+~
+0 -1 13856
+S
+#13859
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+door~
+9 0 13860
+D1
+~
+~
+0 -1 13861
+D3
+~
+~
+0 -1 13858
+S
+#13860
+The dukes room.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D2
+~
+door~
+1 0 13859
+S
+#13861
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13862
+D3
+~
+~
+0 -1 13859
+S
+#13862
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+door~
+9 0 13863
+D2
+~
+door~
+1 0 13864
+D3
+~
+~
+0 -1 13861
+S
+#13863
+The dukes room.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D2
+~
+door~
+1 0 13862
+S
+#13864
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D0
+~
+door~
+1 0 13862
+D1
+~
+~
+0 -1 13865
+S
+#13865
+Sleeping chamber of the Brown Dragon King.
+~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D3
+~
+~
+0 -1 13864
+D5
+~
+granite~
+31 13812 13866
+S
+#13866
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D1
+~
+~
+0 -1 13867
+D4
+~
+granite~
+31 13812 13865
+S
+#13867
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+D3
+~
+~
+0 -1 13866
+S
+#13868
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13869
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13870
+Inside a lava flow.
+~
+Your last thought before your flesh is melted off your bones is
+~
+28 14 0
+D3
+~
+~
+0 -1 13848
+S
+#13871
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13872
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13873
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13874
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13875
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13876
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13877
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13878
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+#13879
+The barren plains.~
+The desolate brown plains stretch out as far as they eye can see.
+~
+28 8 1
+S
+$~
+#999999

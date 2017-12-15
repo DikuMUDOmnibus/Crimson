@@ -1,0 +1,567 @@
+#2900
+Entrance to the Royal Academy of CrimsonMUD~
+This is the entrance hall to the Royal Academy of CrimsonMUD, generally known
+as the MUD School.  You could go north from here to learn how to become a
+professional Crimson mudder or go south to head back to the Dressing Room
+where you came from.
+~
+1 8200 0
+D0
+You see the doorway into the building.
+~
+~
+0 -1 2901
+D2
+You could go back to the dressing room where you first started.
+~
+~
+0 -1 3000
+S
+#2901
+The Registrar's Office~
+This is where you could apply to be a student here.  There is a HUGE sign in
+front of you that reads, "Type Look Sign Please."  There is a small plaque
+hanging on the right wall.
+~
+1 8200 0
+D0
+The War Memorial Practice Yard lies to the north.
+~
+~
+0 -1 2902
+D2
+You see the entrance hall to this building.
+~
+~
+0 -1 2900
+E
+sign~
+                     LESSON 1: SCORE and DISPLAY Commands.
+
+You could type SCORE to see your current statistics.  At higher levels, SCORE 
+will give you more information.
+
+The [H   M   V  ] ex[ ] that always appears when you hit RETURN is called a 
+"prompt" and 
+      H means Hitpoints
+      M means Mana points for casting spells
+      V means Vitality points or movement points
+  ex[ ] tells you the OBVIOUS exits in the room you are in.  Some exits are
+        hidden and thus not shown in ex[ ], like closed or locked doors.
+  The letters inside [ ] represent the directions --
+        (N)orth, (E)ast, (S)outh, ] (W)est, (U)p, and (D)own.
+
+You can configure your own prompt with the DISPLAY command.  
+
+Since you now know more about your own self, please head north to learn some
+skills we offer.
+~
+E
+plaque~
+                       The Royal Academy of CrimsonMUD
+                               Founded in 1995
+                                  by Cauchy
+~
+S
+#2902
+The War Memorial Practice Yard~
+Here is where the famous newbie trainer Master Alpeno trains his students.
+On the ground, there lie various kinds of equipment, weapons, armors and
+spell books.  There is a sign on the wall.
+~
+1 8200 0
+D2
+The Registrar's Ofice is to the south.
+~
+~
+0 -1 2901
+D4
+You see the Combat Preparation Room.
+~
+~
+0 -1 2903
+E
+sign~
+                           LESSON 2: PRACTISE Command
+
+You could type PRACTISE anywhere to list the skills or the spells that you 
+are qualified to learn, how well you have learned them, and how many practise
+sessions you have left.  You cannot practise if you don't have any sessions
+left.
+
+You could type PRACTISE <name of the skill/spell> in a GUILD to improve your
+skills/spells.
+
+When you gain level later, you will gain some more sessions too.  You could
+always come back to me to polish your skills.
+
+When you are ready, go UP to get ready for battle.
+~
+S
+#2903
+The Combat Preparation Room~
+You are in a bright room.  Students get ready here before they boldly go north
+to face the monsters.  There is a sign here to teach you how to prepare
+yourself well for battle.
+~
+1 8200 0
+D0
+You see the entrance to the Battle Yard.
+~
+~
+0 -1 2905
+D1
+The Academy Lounge is to the east.
+~
+~
+0 -1 2904
+D5
+The War Memorial Practice Yard is down from here.
+~
+~
+0 -1 2902
+E
+sign~
+                       LESSON 3: Items Related Commands
+
+Before you fight anything, you need to properly equip yourself.
+You can type
+            GET  <item name> to get an item on the floor.
+            DROP <item name> to drop an item onto the floor.
+            INVENTORY to see what you are carrying in your inventory.
+            WEAR <item name> to put on that item.
+            WEAR ALL to put on all items you can wear.
+            REMOVE <item name> to take off an item you are wearing.
+            WIELD <name of the weapon> to start using a weapon.
+            HOLD <name of light source> to use a light source.
+            EQUIPMENT to see what you are wearing.
+~
+S
+#2904
+The Acadamy Lounce~
+Students gather here for some food and beverage, before and after some tough
+combats.  There is a sign here to aid you.
+~
+1 8200 0
+D3
+The Combat Preparation Room lies to the west.
+~
+~
+0 -1 2903
+E
+sign~
+                      LESSON 4: EAT and DRINK Commands
+
+When you receive messages telling you that "You are hungry" or "You are
+thirsty,"  that means you need to feed yourself.
+You can type
+            EAT <name of the food> to eat something, like EAT BREAD.
+            DRINK <name of the drink container> to drink the beverage in
+                  the container, like DRINK FOUNTAIN, DRINK BARREL, etc.
+~
+S
+#2905
+The Entrance to the Battle Yard~
+You are in the entrance hallway to the academy's battle yard.  You could
+proceed north to the battle yard or to go back south to the preparation room.
+Do not forget to read the sign here before you you leave.
+~
+1 8200 0
+D0
+The yard contines to the north.
+~
+~
+0 -1 2906
+D2
+The Combat Preparation Room lies to the south.
+~
+~
+0 -1 2903
+E
+sign~
+                          LESSON 5: Combat Commands
+
+Since you are here, we assume that you have practised some basic skills or
+spells from Master Alpeno.  Now, we are going to teach you some commands that
+you use to attack a monster.
+
+You can type
+            CONSIDER <name of the monster> before you fight, as you don't
+                 want to mess with a monster that could kill you easily.
+                 Type HELP CON_MESSAGES for the interpretation on the
+                 messages you receive.
+            KILL or HIT <name of the monster> to start attacking a monster.
+            CAST <spell> <victim> to start attacking with a spell.
+                 e.g. CAST 'magic missile' monster
+                 Type HELP CAST for more info if necessary.
+            FLEE to flee from the battle.
+~
+S
+#2906
+In the Battle Yard~
+You are now in the Battle Yard.  You begin to hear the roars of the monsters,
+coming from down here.  There is another sign hanging on the wall here.
+~
+1 8200 0
+D2
+You see the entrance to the Battle Yard.
+~
+~
+0 0 2905
+D5
+This is a one-way path down to the center to the the Battle Yard.  But, don't
+panic yet, you will be fine.
+~
+~
+0 -1 2907
+E
+sign~
+                           LESSON 6: LOOK Command
+
+You can type
+            LOOK to get a good look at the room you are in.
+            LOOK <player's name> to look at a player in the room.
+            LOOK <monster's name> to look at the monster in the room.
+            LOOK <item's name> to look at an item.
+            LOOK <direction> to look outwards a direction, as you don't want
+                 to step into somewhere fatal.
+~
+S
+#2907
+The Center of the Battle Yard~
+You are in the center of the Battle Yard.  Students rest here between combats.
+There are four cells surrounding the room where you practise to fight with the
+skills you have learned so far.  The master trainer on duty here takes good 
+care of the students.  Be nice to him.  There is a HUGE sign here attracting 
+your attention.
+~
+1 8456 0
+D0
+You can sense the presence of a monster.
+~
+~
+0 -1 2908
+D1
+You can sense the presence of a different monster.
+~
+~
+0 -1 2909
+D2
+You can sense the presence of another monster.
+~
+~
+0 -1 2910
+D3
+You can sense the presence of a monster.
+~
+~
+0 -1 2911
+D5
+You see an exit.
+~
+~
+0 -1 2912
+E
+sign~
+                       LESSON 7: Staying Fit for Battle
+
+When you are injured, type SIT, REST or SLEEP to get some rest.  Sitting,
+resting and sleep can speed up the process of healing.  
+
+After you kill the monsters, type GET ALL CORPSE to loot the corpses, and
+type WEAR ALL to put on the armor you find.
+
+For your safety, we urge you to leave the cells after you loot the corpses
+and rest here to regain some hitpoints.  As our staff are very efficient in
+replacing the new monsters back to the cells, we do not want the aggressive
+monsters to attack you off guard.
+~
+S
+#2908
+A Monster Cell~
+This is one of the cells used to imprison the monsters captured by the 
+trainers for the students to practise their skills.  Do not worry about over 
+killing them, as the trainers can always capture more.  There is a sign here.
+~
+1 8200 0
+D2
+You see the center of the yard.
+~
+~
+0 -1 2907
+E
+sign~
+Just a reminder:
+     Do forget about the combat commands you have learned and use them here -
+     CONSIDER, KILL or HIT, FLEE, and LOOK.
+~
+S
+#2909
+A Monster Cell~
+This is one of the cells used to imprison the monsters captured by the 
+trainers for the students to practise their skills.  Do not worry about over 
+killing them, as the trainers can always capture more.  There is a sign here.
+~
+1 8200 0
+D3
+You see the center of the yard.
+~
+~
+0 -1 2907
+E
+sign~
+Just a reminder:
+     Do forget about the combat commands you have learned and use them here -
+     CONSIDER, KILL or HIT, FLEE, and LOOK.
+~
+S
+#2910
+A Monster Cell~
+This is one of the cells used to imprison the monsters captured by the 
+trainers for the students to practise their skills.  Do not worry about over 
+killing them, as the trainers can always capture more.  There is a sign here.
+~
+1 8200 0
+D0
+You see the center of the yard.
+~
+~
+0 -1 2907
+E
+sign~
+Just a reminder:
+     Do forget about the combat commands you have learned and use them here -
+     CONSIDER, KILL or HIT, FLEE, and LOOK.
+~
+S
+#2911
+A Monster Cell~
+This is one of the cells used to imprison the monsters captured by the 
+trainers for the students to practise their skills.  Do not worry about over 
+killing them, as the trainers can always capture more.  There is a sign here.
+~
+1 8200 0
+D1
+You see the center of the yard.
+~
+~
+0 -1 2907
+E
+sign~
+Just a reminder:
+     Do forget about the combat commands you have learned and use them here -
+     CONSIDER, KILL or HIT, FLEE, and LOOK.
+~
+S
+#2912
+An Extremely Quiet Room~
+You left the Battle Yard and are now in this room.  It is so quiet here and
+you think you have stepped into a trap.  But, don't worry, just try to find
+the exit.....You notice a small sign hanging on one of the walls here.          
+~
+1 8200 0
+D1
+That seems to be the only way out.
+~
+steel~
+1 -1 2913
+E
+sign~
+                      LESSON 8: Finding Hidden Exits
+
+Use the LOOK command that you have learned to locate the hidden exit in the
+room.
+
+Then type OPEN <name of the door> to open the closed door, and head out to
+freedom......hopefully.
+~
+S
+#2913
+A Quiet Room~
+It may be too early to be happy.  You now find yourself in another quiet room.
+There is another sign here to help you.
+~
+1 8200 0
+D0
+That seems to be the way out.
+~
+iron~
+13 2914 2915
+D2
+You see a small storage room.
+~
+~
+0 -1 2914
+D3
+You see a quiet room.
+~
+steel~
+1 -1 2912
+E
+sign~
+                       LESSON 9: Locked Hidden Exits
+
+Now use the same method to first locate the hidden exit.  Then you realize
+you will need a key of some sort to unlock it.  Try to find the key to the
+south.
+
+When you have the key, type UNLOCK <name of the door> to unlock the door,
+and OPEN <name of the door> to open it.
+~
+S
+#2914
+A Small Storage Room~
+The room looks empty, except for...........the chest and of course a sign.
+~
+1 8200 0
+D0
+You see a quiet room.
+~
+~
+0 -1 2913
+E
+sign~
+                      LESSON 10: Treasure Hunting
+
+Try to use the items related commands that you have learned in the academy
+here.  Some examples of the commands are GET, DROP, OPEN, CLOSE, etc.
+
+You will receive a small surprise if you succeed.
+(The reward is currently only for the first person that solves the puzzle.
+ So, if you can't find anything, sorry.)
+~
+S
+#2915
+The Final Exam Room~
+Congratulations!  You have made it so far to this room and we are very proud
+of you.  In order to graduate from the academy, a student has to prove his
+or her worthiness by defeating the toughest monster here in the academy.
+There is a small note pinned on the wall.
+~
+1 8200 0
+D4
+You see the Hall of Fame.
+~
+~
+0 -1 2916
+E
+note~
+Hint:
+Do not feel discouraged if you cannot defeat it now.  It is a level 5 monster.
+So come back and try again when you have gained some levels.
+
+The Royal Academy Exam Board
+~
+S
+#2916
+The Hall of Fame~
+This hall is the most well decorated room in the whole academy.  It is 
+specially dedicated to the students who have graduated from the academy today.
+There is a gold plaque hanging on the wall here.  Don't be surprise to see
+your name imprinted on it, if you have done well in the final exam.
+~
+1 8200 0
+D1
+The Information Room lies to the east.
+~
+~
+0 -1 2917
+S
+#2917
+The Information Room~
+Here is where alumni of the academy ask for help and advice about their future.
+There is a big bulletin board here.
+~
+1 8200 0
+D0
+The Communication Room lies to the north.
+~
+~
+0 -1 2918
+D1
+You see the Dressing Room.
+~
+~
+0 -1 3000
+D3
+The Hall of Fame lies to the west.
+~
+~
+0 -1 2916
+E
+board~
+Places you might like to visit after you leave the academy:
+- Directions are given relative the Market Square in Midgaard City.
+- Go east to the Dressing room from here.
+     Dressing room  - you start here go D D W S to get to Market Square.
+     High Priest    - N N N   
+     Map Room       - N N W N 
+     Donation Room  - N N E  
+     Fountain       - right beside you. 
+     Reception      - N E U 
+     General store  - E N     
+     Clerics Guild  - N W
+     Mages Guild    - W W S
+     Thieves Guild  - S E
+     Warriors Guild - E E S
+     Weapons Shop   - E E N
+     Armor Shop     - W S
+     Baker          - W N
+     Mages shop     - W W N
+     Pet shop       - E S
+     Dump           - S S (gee why was this mentioned)
+     SNotling Camp  - W W W N N N N N
+     Gnome Village  - West of the Snotling camp
+~
+S
+#2918
+The Communication Room~
+You get to learn your final lesson the academy offers here.  This lesson teaches
+you how to communicate with the other players in the world.  As usual a sign is
+here.
+~
+1 8200 0
+D2
+The Information Room lies to the south.
+~
+~
+0 -1 2917
+E
+sign~
+                     LESSON 11: Communication Commands
+
+SAY    - speak your mind to anyone in the same room.
+SHOUT  - only nearby people will hear you.
+GOSSIP - everyone will hear you, unless they have typed NOGOSSIP.
+TELL   - say something to any ONE person on the mud (wherever they are)
+
+Additionally, you can type WHO to find out who are online with you playing the
+game.
+
+Final piece of advice:  Please type INFO and read it.  Many things that the
+academy does not teach you are described in it.
+~
+S
+#2919
+Blank~
+~
+1 8 0
+E
+sign~
+~
+S
+#2920
+Blank~
+~
+1 8 0
+S
+#2921
+Blank~
+~
+1 8 0
+E
+sign~
+~
+S
+$~
+#999999

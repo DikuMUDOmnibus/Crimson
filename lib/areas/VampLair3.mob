@@ -1,0 +1,90 @@
+#15300
+mob skeleton guard~
+A skeletal guard~
+A skeletal guard is here, animated by dark forces
+~
+This is a horrifying sight. The skeleton of a long dead living being, animated
+by some powerful magic as if alive. Its bones look fragile and weak and it
+almost looks like it is grinning at you.
+~
+33554440 67108864 -1000 S
+20 0 5 700d1+0 4d3+22
+15000 30000
+8 8 1
+#15301
+mob skeleton warrior~
+A skeletal warrior~
+A skeletal warrior is here, animated by dark forces
+~
+This is the long dead remains of some poor soul, animated now by the powers
+of evil necromancers. It still has some remnants of the clothing it wore
+before, now reduced to tatters of coloured rags draped over itself. It looks
+completely souless, as it moves unervingly around here.
+~
+33554440 67108864 -1000 S
+25 -15 0 1500d1+0 10d3+20
+30000 37500
+8 8 1
+#15302
+mob mad human cultist fanatic~
+a human cultist~
+A cultist fanatic is here, grinning like a madman.
+~
+He has been driven insane by the horrors he has witnessed, and now he follows
+Karak, knowing that if he failed his master not even death would be an escape, 
+as his soul would be pulled back to this plane to pay for any diservice to
+the necromancer. He wears red ceremonial robes, with the family shield of
+Karak on them. The hood has been pulled up, so that it completely covers his
+head and hides his face from view.
+~
+262152 0 -400 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 1
+#15303
+mob skeleton sentinel~
+a skeleton sentinel~
+A skeleton sentinel is here, animated by dark forces.
+~
+This horrifying creature has been created from the ashes of Karak's enemies
+by the dark and evil powers he has mastered. It is wearing old and tattered
+clothing, and looks as though it was once a noble of some sort, now condemned
+to serve Karak forever. It seems to move with an unnerving agility and speed
+that would rival even the greatest of human athletes, and seems to stare at you
+despite the lack of any flesh on its body, or eyes in its head.
+~
+33816584 67108872 -1000 S
+30 -30 -5 3000d1+0 10d5+30
+50000 45000
+8 8 2
+#15304
+mob zombie undead~
+a zombie~
+An undead zombie is here, slowly animated by dark forces.
+~
+You see before you a horrific decaying corpse, animated by the dark forces
+prevailant in this land. Its rotting eyes follow you as it lumbers around
+slowly and the smell is putrescent. Its skin is white, and in some places
+it is actually missing, revealing the sinews of maggot infested muscle below.
+~
+33554440 67108864 -1000 S
+1 32 24 40d1+0 3d1+0
+100 1500
+8 8 1
+#15305
+mob skeleton champion~
+a skeleton champion~
+A powerful skeleton champion is standing here.
+~
+This is the reanimated skeleton of one of Karak's closest followers, no
+longer able to serve his master naturally, he now stalks this place seeking
+out the enemies of Karak, drawing power from the immense force that is his
+master. His eyes glow with a horrible orange light, and his fiendish grin
+seems to be far more than any normal skeleton could have.
+~
+33554444 67108864 -1000 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 1
+$~
+#999999

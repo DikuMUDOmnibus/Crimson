@@ -1,0 +1,36 @@
+#18800
+mob royal servant~
+the royal servant~
+A royal servant is here, waiting to serve the royal family.
+~
+He must get pretty bored, just standing here all day.
+
+~
+10 0 1000 S
+20 2 5 5d5+650 3d3+20
+50000 35000
+8 8 1
+#18801
+mob Mad Scientict~
+The Mad Scientist~
+The Mad Scientist is standing here, thinking of new formulas.
+~
+He actually looks a little bit like Albert Einstien, but more.... psychotic.
+~
+262410 0 -1000 S
+40 -58 -14 100d10+4000 5d10+125
+200000 100000
+8 8 1
+#18802
+mob dirt monkey citizen~
+a citizen~
+A Dirt Monkey citizen is here, socializing with its friends.
+~
+It's just a monkey, but more civilized.
+~
+140 0 300 S
+15 15 10 1d1+350 1d1+20
+5000 22500
+8 8 2
+$~
+#999999

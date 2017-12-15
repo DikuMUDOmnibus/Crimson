@@ -1,0 +1,55 @@
+#16800
+obj rainbow potion~
+rainbow potion~
+A torch is lying here.
+~
+~
+10 0 1
+0 0 10 0
+1 1000000 5
+A
+19 100
+#16801
+obj Mana-Giver Extra~
+Mana-giver~
+A torch is lying here.
+~
+~
+9 0 16385
+0 0 10 0
+1 5 5
+A
+12 50
+A
+43 100
+A
+44 100
+A
+40 -1
+#16802
+obj Hawk's shield~
+Hawk's ultimate shield~
+This is Hawk's ultimate shield~
+~
+9 0 513
+0 0 10 0
+1 100 5000000
+A
+17 -97
+A
+18 100
+A
+19 100
+A
+17 -112
+#16803
+obj torch~
+A torch~
+A torch is lying here.
+~
+~
+1 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

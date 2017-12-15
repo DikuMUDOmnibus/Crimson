@@ -1,0 +1,112 @@
+#5100
+mob goblin slave~
+The goblin slave~
+A goblin slave lies here asleep.
+~
+The defenseless goblin begs for mercy.
+~
+138 0 -450 S
+1 32 24 40d1+0 3d1+0
+100 1500
+4 4 1
+#5101
+mob drow commoner~
+The Drow commoner~
+A drow commoner walks around on guard duty.
+~
+I doubt he is the type to give directions.
+~
+104 8 -1000 S
+10 23 15 180d1+0 1d3+10
+10000 15000
+8 8 1
+#5102
+mob drow noble warrior~
+The drow warrior noble~
+The drow warrior noble stands here guarding his home.
+~
+He looks kind of p.o.ed!
+~
+42 8 -1000 S
+12 21 13 248d1+0 2d3+10
+12000 18000
+8 8 1
+#5103
+mob drow noble mage~
+The drow mage noble~
+The drow mage noble is here protecting his home.
+~
+The mage prepares to cast a spell...at you!!
+~
+42 8 -1000 S
+15 15 10 350d1+0 5d3+10
+15000 22500
+8 8 1
+#5104
+mob drow priestess~
+The drow priestess~
+The drow priestess is here shouting orders.
+~
+I wouldn't want go get on her bad side!
+~
+554 8 -1000 S
+17 15 10 350d1+0 5d3+10
+20000 25500
+8 8 2
+#5105
+mob drow master~
+The drow master~
+The drow master stares at you angrily.
+~
+The drow master is ALWAYS ready for a fight.
+~
+42 8 -1000 S
+21 -3 4 860d1+0 1d3+30
+25000 31500
+8 8 1
+#5106
+mob drow weaponsmaster~
+The weaponsmaster~
+The drow weaponsmaster is here shadow boxing.
+~
+He definitely know his way around in combat.
+~
+42 8 -1000 S
+23 -9 2 1180d1+0 3d3+30
+25000 34500
+8 8 1
+#5107
+mob drow matron mother~
+The Matron Mother~
+The Matron Mother of the house is standing here.
+~
+She looks really p.o.ed!!!!
+~
+42 8 -1000 S
+24 -12 1 1340d1+0 4d3+30
+50000 36000
+8 8 2
+#5108
+mob drow matron mother~
+The Matron Mother~
+The Matron Mother of the 1st house is waiting for you.
+~
+She looks like she is about to rip your head of and eat it.
+~
+42 136 -1000 S
+25 -9 2 1180d1+0 3d3+30
+50000 37500
+8 8 2
+#5109
+mob yochlol~
+The yochlol~
+A yochlol forms out of a swirling mist.
+~
+The yochlol is not in a good mood.
+~
+262186 136 -1000 S
+22 0 5 700d1+0 5d3+20
+21000 33000
+8 8 2
+$~
+#999999

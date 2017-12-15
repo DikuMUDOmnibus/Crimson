@@ -1,0 +1,806 @@
+#17500
+At the base of a giant beanstalk~
+You are standing at the foot of a gigantic beanstalk!  This beanstalk is
+thicker than any tree's trunk, and is deep green in color.  Gazing up,
+you see that the beanstalk looks as if it goes up forever... penetrating
+through any cloud in its way.
+~
+58 0 2
+D4
+You see a big thick beanstalk.
+~
+~
+0 -1 17501
+S
+#17501
+Climbing the giant beanstalk~
+You are climbing on a giant beanstalk.  Right now.. you are at about the
+height of an average tree.  A little bit higher and you should be able to
+see pretty much all of this magnificent land.
+~
+58 0 4
+D4
+Farther up the beanstalk
+~
+~
+0 -1 17502
+D5
+You see the ground
+~
+~
+0 -1 17500
+S
+#17502
+Higher up on the beanstalk~
+You are fairly high up on this gigantic beanstalk.  You can see the entire
+world of crimson from here!  Farther out, you can see the mysterious
+Tower of Sorcery in the distance.. and the Ivory Tower of Tuscany.
+You notice above you that there is a thick patch of stormy-grey clouds.
+You are not able to see past them.
+~
+58 9 1
+D4
+You can't see past the thick clouds
+~
+~
+0 -1 17503
+D5
+The beanstalk
+~
+~
+0 -1 17501
+S
+#17503
+On a path~
+This section of tunnel seems a little dryer then the shaft bottom. There is
+a total lack of light here. The roof is far above your head, almost twelve
+feet high. It appears that this section of tunnel has also been shaped.
+The only exits are to the west and east.
+~
+58 9 1
+D5
+You cant see through the thick cloud
+~
+~
+0 -1 17502
+S
+#17504
+Tunnel Intersection~
+The tunnel here branch in four directions. There is a strange odor in the air.
+But no sound is heard other than what you make yourself.
+The exits are north, south, east and west.
+~
+58 9 1
+D0
+You see a branch of the tunnels going off in a northerly direction.
+~
+~
+0 -1 17505
+D1
+The passage to the east is very dark and forboding.
+~
+~
+0 -1 17518
+D3
+You see the passage continues to the west.
+~
+~
+0 -1 17503
+S
+#17505
+Northern Tunnel~
+The tunnel in this direction shows definate signs of being un-natural. It is
+evident that tools have been used to both smooth the walls and raise the roof.
+Whoever did this must have had many hands to help.
+The exits are north and south.
+~
+58 9 1
+D0
+The tunnel continues out of sight.
+~
+~
+0 -1 17506
+D2
+To the south you see an intersection.
+~
+~
+0 -1 17504
+S
+#17506
+Northern Tunnel~
+This section of the northern tunnels seems dryer than the other parts have
+been. The floor has been ground smooth by the passage of both time and feet.
+There is dust on the floor with no foot prints visible in it.
+Exits are south and west.
+~
+58 9 1
+D2
+The tunnels runs south out of sight.
+~
+~
+0 -1 17505
+D3
+The tunnel runs in a western direction here.
+~
+~
+0 -1 17507
+S
+#17507
+Slopping Passage~
+The passage in this section has a definate grade to it. To the west it keeps
+decending while to the east it rises to a flat level. The water that has
+been evident in other sections is non existant here.
+The exits are west and east.
+~
+58 9 1
+D1
+The tunnel runs east here towards a bend in the tunnel.
+~
+~
+0 -1 17506
+D3
+To the west the passage decends out of sight.
+~
+~
+0 -1 17508
+S
+#17508
+Bend in Tunnel~
+The tunnel here branches to the north and to the east. There is a gradual
+incline to the east while to the north it continues to decend you think.
+The walls and floor are exceptionally smooth.
+Exits are north and east.
+~
+58 8 1
+D0
+The tunnels continues to decend to the north.
+~
+~
+0 -1 17509
+D1
+To the west the tunnel slants upwards in a gradual incline.
+~
+~
+0 -1 17507
+S
+#17509
+Level Passage~
+This section of tunnes runs flat in a northern direction. There seems to
+have been some activity here is the recent past as there are huge foot prints
+visible in the dust and dirt on the floor here.
+The exits are west and south.
+~
+58 9 1
+D2
+The tunnel rises at a slight incline to the south.
+~
+~
+0 -1 17508
+D3
+To the west you see the passage continues on.
+~
+~
+0 -1 17510
+S
+#17510
+Tunnel Turn~
+This section of tunnel is fairly flat with the same smooth surfaces that you
+have seen throughout the rest of the area. To the south is a wooden door while
+the tunnel branches north and east.
+~
+58 265 0
+D0
+The tunnel continues off to the north.
+~
+~
+0 -1 17512
+D1
+To the east you see a bend in the passage.
+~
+~
+0 -1 17509
+D2
+A wooden door blocks your way south.
+~
+wooden door~
+9 0 17511
+S
+#17511
+Empty Room~
+This empty room looks as if it might at one time have been a guard room or
+some such place. However now there is nothing in here but you and the dust.
+~
+58 1 1
+D0
+A door to the north leads out into a passage.
+~
+wooden door~
+9 0 17510
+S
+#17512
+Ancient Tunnel~
+This section of tunnel appears to have been made at a time far earlier then
+the tunnel section you have been in to the south.
+The obvious exits are north, south, and west.
+~
+58 9 1
+D0
+To the north the tunnel continues on.
+~
+~
+0 -1 17514
+D2
+The tunnel runs to the south where you can just make out a door.
+~
+~
+0 -1 17510
+D3
+A door blocks all view of what might be to the west.
+~
+wooden door~
+9 0 17513
+S
+#17513
+Small Cramped Room~
+This small cramped room has a table and two chairs in it. The dust on the
+table top suggests no one has used it for a long time.
+~
+58 8 1
+D1
+A door blocks all view of what might lie to the east.
+~
+wooden door~
+9 0 17512
+S
+#17514
+Dark Tunnel~
+This section of tunnel seems old and not very used.
+~
+58 9 1
+D0
+To the north you can see the tunnel ends.
+~
+~
+0 -1 17516
+D2
+To the south you see that the tunnel continues to run in a fairly straight line
+~
+~
+0 -1 17512
+D3
+A wooden door blocks all view of what is behind it.
+~
+wooden door~
+9 0 17515
+S
+#17515
+Small Room~
+This small room looks like it was a small store room at one time. Nothing is
+in it now but you and the dust.
+~
+58 8 1
+D1
+The wooden door blocks your view.
+~
+wooden door~
+9 0 17514
+S
+#17516
+End of the Tunnel~
+This appears to be the end of this section of tunnel. The walls on all sides
+as well as the floor and roof are perfectly smooth, surprisingly smooth in fact
+You doubt they are natural occurances.
+~
+58 9 1
+D2
+You see the tunnel running south out of sight.
+~
+~
+0 -1 17514
+D3
+A wooden door blocks all view of what is behind it.
+~
+wooden door~
+1 0 17517
+S
+#17517
+Small Room~
+This small room unlike the others has many foot prints evident in the dust
+on the floor. The chairs around a small table have been used recently as no
+dust is evident on them.
+~
+58 8 1
+D1
+A wooden door blocks a view of what is behind it.
+~
+wooden door~
+1 0 17516
+S
+#17518
+Warm Tunnel~
+As you enter this section of tunnel you notice two things at one. One is that
+the temperature of the air is warmer here. The second is that there are dark
+stains upon the walls here and that the walls are not as smooth as they were.
+~
+58 8 1
+D1
+The tunnel continues off to the east.
+~
+~
+0 -1 17519
+D3
+To the west you see what appears to be an intersection.
+~
+~
+0 -1 17504
+S
+#17519
+Tunnel Branch~
+The walls of this section were very hastily made it appears. There are large
+gouge marks in the walls as if construction had been done very rapidly. The
+roof is far above what would be needed for an average size human.
+~
+58 8 1
+D0
+The tunnel at this point runs in a northerly direction. There also seems to
+be a slight decent to the north as well.
+~
+~
+0 -1 17520
+D3
+The tunnel continues to the west.
+~
+~
+0 -1 17518
+S
+#17520
+Sloping Passage~
+The tunnel here is definately on a slope. To the south the tunnel rises while
+to the north it continues to decend. The walls are very rough though the
+floor of the passage seems to have been worn smooth over the ages.
+~
+58 8 1
+D0
+To the north the tunnel continues on in a fairly straight line.
+~
+~
+0 -1 17521
+D2
+To the south you can just make out a bend in the tunnel.
+~
+~
+0 -1 17519
+S
+#17521
+Central Chamber~
+This room has three exits from it. To the north there is a door. To the east
+there is a door and to the south the tunnel continues off into the distance.
+~
+58 264 1
+D0
+There has been a door set into the thick rock walls here.
+~
+iron~
+1 0 17523
+D1
+A door has been set into the stone work to the east.
+~
+wooden~
+1 0 17522
+D2
+To the south you see that the passge seems to have an upward slope to it.
+~
+~
+0 -1 17520
+S
+#17522
+Small Room~
+This small room is currently being used as a guard room.
+~
+58 8 1
+D3
+A wooden door has been set into the stone work to the west.
+~
+wooden door~
+1 0 17521
+S
+#17523
+blank~
+~
+58 8 1
+S
+#17524
+blank~
+~
+58 8 1
+S
+#17525
+blank~
+~
+58 8 1
+S
+#17526
+blank~
+~
+58 8 1
+S
+#17527
+blank~
+~
+58 8 1
+S
+#17528
+blank~
+~
+58 8 1
+S
+#17529
+blank~
+~
+58 8 1
+S
+#17530
+blank~
+~
+58 8 1
+S
+#17531
+blank~
+~
+58 8 1
+S
+#17532
+blank~
+~
+58 8 1
+S
+#17533
+blank~
+~
+58 8 1
+S
+#17534
+blank~
+~
+58 8 1
+S
+#17535
+blank~
+~
+58 8 1
+S
+#17536
+blank~
+~
+58 8 1
+S
+#17537
+blank~
+~
+58 8 1
+S
+#17538
+blank~
+~
+58 8 1
+S
+#17539
+blank~
+~
+58 8 1
+S
+#17540
+blank~
+~
+58 8 1
+S
+#17541
+blank~
+~
+58 8 1
+S
+#17542
+blank~
+~
+58 8 1
+S
+#17543
+blank~
+~
+58 8 1
+S
+#17544
+blank~
+~
+58 8 1
+S
+#17545
+blank~
+~
+58 8 1
+S
+#17546
+blank~
+~
+58 8 1
+S
+#17547
+blank~
+~
+58 8 1
+S
+#17548
+blank~
+~
+58 8 1
+S
+#17549
+blank~
+~
+58 8 1
+S
+#17550
+blank~
+~
+58 8 1
+S
+#17551
+blank~
+~
+58 8 1
+S
+#17552
+blank~
+~
+58 8 1
+S
+#17553
+blank~
+~
+58 8 1
+S
+#17554
+blank~
+~
+58 8 1
+S
+#17555
+blank~
+~
+58 8 1
+S
+#17556
+blank~
+~
+58 8 1
+S
+#17557
+blank~
+~
+58 8 1
+S
+#17558
+blank~
+~
+58 8 1
+S
+#17559
+blank~
+~
+58 8 1
+S
+#17560
+blank~
+~
+58 8 1
+S
+#17561
+blank~
+~
+58 8 1
+S
+#17562
+blank~
+~
+58 8 1
+S
+#17563
+blank~
+~
+58 8 1
+S
+#17564
+blank~
+~
+58 8 1
+S
+#17565
+blank~
+~
+58 8 1
+S
+#17566
+blank~
+~
+58 8 1
+S
+#17567
+blank~
+~
+58 8 1
+S
+#17568
+blank~
+~
+58 8 1
+S
+#17569
+blank~
+~
+58 8 1
+S
+#17570
+blank~
+~
+58 8 1
+S
+#17571
+blank~
+~
+58 8 1
+S
+#17572
+blank~
+~
+58 8 1
+S
+#17573
+blank~
+~
+58 8 1
+S
+#17574
+blank~
+~
+58 8 1
+S
+#17575
+blank~
+~
+58 8 1
+S
+#17576
+blank~
+~
+58 8 1
+S
+#17577
+blank~
+~
+58 8 1
+S
+#17578
+blank~
+~
+58 8 1
+S
+#17579
+blank~
+~
+58 8 1
+S
+#17580
+blank~
+~
+58 8 1
+S
+#17581
+blank~
+~
+58 8 1
+S
+#17582
+blank~
+~
+58 8 1
+S
+#17583
+blank~
+~
+58 8 1
+S
+#17584
+blank~
+~
+58 8 1
+S
+#17585
+blank~
+~
+58 8 1
+S
+#17586
+blank~
+~
+58 8 1
+S
+#17587
+blank~
+~
+58 8 1
+S
+#17588
+blank~
+~
+58 8 1
+S
+#17589
+blank~
+~
+58 8 1
+S
+#17590
+blank~
+~
+58 8 1
+S
+#17591
+blank~
+~
+58 8 1
+S
+#17592
+blank~
+~
+58 8 1
+S
+#17593
+blank~
+~
+58 8 1
+S
+#17594
+blank~
+~
+58 8 1
+S
+#17595
+blank~
+~
+58 8 1
+S
+#17596
+blank~
+~
+58 8 1
+S
+#17597
+blank~
+~
+58 8 1
+S
+#17598
+blank~
+~
+58 8 1
+S
+#17599
+blank~
+~
+58 8 1
+S
+#17600
+blank~
+~
+58 8 1
+S
+#17601
+Warm Tunnel~
+As you enter this section of tunnel you notice two things at one. One is that
+the temperature of the air is warmer here. The second is that there are dark
+stains upon the walls here and that the walls are not as smooth as they were.
+~
+58 8 1
+S
+$~
+#999999

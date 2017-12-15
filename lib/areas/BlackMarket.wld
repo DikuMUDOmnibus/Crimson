@@ -1,0 +1,526 @@
+#16100
+Hidden Path Through the Forest~
+You are walking through a part of the forest you realize you have never seen
+before.  This strange path makes you think you could get lost easily.
+
+~
+51 8 1
+D0
+The strange path continues through the forest.
+~
+~
+0 -1 16101
+S
+#16101
+Further Along the Hidden Path~
+As you walk further along the path you notice that it seems to get darker
+and the trees seem a bit more twisted.  All noise is gone as well, in
+fact you haven't heard any birds for some time. This place is all starting
+to look the same to you.
+
+~
+51 8 1
+D0
+Even as dark as it is, the forest is getting darker yet.
+~
+~
+0 -1 16102
+D2
+You see an old man sitting on a log.
+~
+~
+0 -1 16100
+S
+#16102
+Off the Hidden Path~
+You are lost!  The path seems to have disappeared right before your eyes.
+Every tree looks the same, bent and withered.  You have the feeling you
+better watch your step.
+
+~
+51 8 1
+D0
+It all looks very dark but you think it should be okay.
+~
+~
+0 -1 16104
+D1
+Something looks very wrong over there.
+~
+~
+0 -1 16103
+D2
+You can't see to much in the distance, but something tells you you don't 
+want to find out what's there.
+~
+~
+0 -1 16103
+D3
+It all looks very dark but you think it should be okay.
+~
+~
+0 -1 16104
+S
+#16103
+Don't You Just Hate It When That Happens?~
+Somehow you don't think this was the right way to go.  As you take another
+step forward your foot seems to hit some kind of wire.  You look up to see
+twenty spears hurtling toward you just before they all pierce various parts
+of your body.
+
+~
+51 8 1
+S
+#16104
+Still Lost~
+Every direction looks the same as you walk around, dry braches crackling
+underfoot.  Which way to go?
+
+~
+51 8 1
+D0
+It looks very dark but you think it should be okay.
+~
+~
+0 -1 16105
+D1
+That direction looks the same as all the others.
+~
+~
+0 -1 16102
+D2
+It looks very dark but you think it should be okay.
+~
+~
+0 -1 16104
+D3
+The forest seems to thin out a bit in that direction.
+~
+~
+0 -1 16102
+S
+#16105
+Still Lost~
+Every direction looks the same as you walk around, dry braches crackling
+underfoot.  Which way to go?
+
+~
+51 8 1
+D0
+You see a small dead animal hanging by a string.
+~
+~
+0 -1 16114
+D1
+All the directions look the same to you.
+~
+~
+0 -1 16104
+D2
+You feel like you just came from that direction, but who knows.
+~
+~
+0 -1 16106
+D3
+It looks very dark but you think it should be okay.
+~
+~
+0 -1 16104
+S
+#16106
+Still Lost~
+Every direction looks the same as you walk around, dry braches crackling
+underfoot.  Which way to go?
+
+~
+51 8 1
+D0
+This direction looks the same as all the others.
+~
+~
+0 -1 16104
+D1
+A light... could this be the way out?
+~
+~
+0 -1 16102
+D2
+Hmmm, that doesn't look like your kind of direction.
+~
+~
+0 -1 16107
+D3
+Everything looks fine in that direction.
+~
+~
+0 -1 16108
+S
+#16107
+DOH!!!~
+There is a small clearing here.  As you walk through it the ground suddenly
+gives way underneath you.  The ground below rushes up at you, but there is
+something wrong with it.  It looks kinda spikey from here.... yep it is.
+~
+51 8 1
+S
+#16108
+Still Lost~
+Every direction looks the same as you walk around, dry braches crackling
+underfoot.  Which way to go?
+
+~
+51 8 1
+D0
+Quite a few trees here aren't there.
+~
+~
+0 -1 16104
+D1
+Just more forest.
+~
+~
+0 -1 16105
+D2
+Just more forest.
+~
+~
+0 -1 16105
+D3
+Everything looks the same to you.
+~
+~
+0 -1 16109
+S
+#16109
+Still Lost~
+Every direction looks the same as you walk around, dry braches crackling
+underfoot.  Which way to go?
+
+~
+51 8 1
+D0
+Don't you think this is taking too long?
+~
+~
+0 -1 16106
+D1
+Are we almost there yet??
+~
+~
+0 -1 16110
+D2
+And even more forest.
+~
+~
+0 -1 16105
+D3
+Do you feel like having an unfortunate accident?
+~
+~
+0 -1 16103
+S
+#16110
+Still Lost~
+Every direction looks the same as you walk around, dry braches crackling
+underfoot.  Which way to go?
+
+~
+51 8 1
+D0
+Who knows it could be the way out...
+~
+~
+0 -1 16111
+D1
+All this forest is getting really annoying.
+~
+~
+0 -1 16106
+D2
+Once again, more forest.
+~
+~
+0 -1 16105
+D3
+Will it ever end???
+~
+~
+0 -1 16109
+S
+#16111
+Still Lost~
+Every direction looks the same as you walk around, dry braches crackling
+underfoot.  Which way to go?
+
+~
+51 8 1
+D0
+Wow, it's not you this time.  The forest is getting lighter.
+~
+~
+0 -1 16112
+D1
+The forest floor looks a bit strange to you.
+~
+~
+0 -1 16107
+D2
+There are a lotta trees that way.
+~
+~
+0 -1 16110
+D3
+Looks pretty safe to you.
+~
+~
+0 -1 16104
+S
+#16112
+Large Clearing~
+The forest gets lighter and thins out as you walk out of it and into a 
+large clearing.  An actual path has finally started again leading north.
+
+~
+51 8 1
+D0
+There seems to be smoke coming from there.
+~
+~
+0 -1 16113
+D2
+That would put you back into the darker part of the forest, do you really
+want to go back???
+~
+~
+0 -1 16111
+S
+#16113
+Heading Toward the Town~
+You've finally left the forest behind.  Up ahead is a gate to a walled town
+you have never seen before.  Above the town vultures circle in the overcast
+sky as if waiting for a quick meal.  All around you the ground is muddy
+though you can't remember it raining recently.
+
+~
+51 8 1
+D0
+The town lies north.
+~
+~
+0 -1 16115
+D2
+This leads back toward the forest.
+~
+~
+0 -1 16112
+S
+#16114
+Bad Place To Be~
+There is a dead rabbit hanging here by a string.  As you approach it, 
+something locks around your ankle and pulls hard!  All of a sudden you find
+yourself hanging upside down by a thick wire. Unfortuantely the person
+who set this trap seems to have forgotten it and you slowly run out of food
+and water.
+
+~
+51 8 1
+S
+#16115
+At the Town Gate~
+You stand before a Very Large Raught Iron Gate.  As you peek through the bars,
+you see the streets of Dinara.  They appear to be deserted.  Could it be that
+the thieves, that reside here, be selling their stolen goods on the
+Black Market that is hidden within these walls?
+~
+51 8 1
+D0
+You see the town gate.
+~
+gate~
+1 16101 16116
+D2
+That leads back along the path toward the forest.
+~
+~
+0 -1 16113
+S
+#16116
+Inside the Town~
+As you cross over the threshold into the city of Dinara.  You feel the 
+atmosphere take on a change.  You are overwhelmed by the sense of Evil
+that is at play here.  You can barely make out movement hidden in the shadows 
+of the dimly lit, narrow streets that lie before you.
+
+~
+51 8 1
+D0
+You see the main street of Dinara.
+~
+~
+0 -1 16117
+D2
+You see the town gate.
+~
+gate~
+1 16101 16115
+S
+#16117
+Cobblestone Alley~
+A dark alley.  The cobblestones are wet and slippery, making walking
+difficult.  Many other streets connect with this alley.  You wonder if one of
+them leads to the Black Market?
+
+~
+51 8 1
+D1
+Pilferers Avenue.
+~
+~
+0 -1 16123
+D2
+You see the gate in the distance.
+~
+~
+0 -1 16116
+D3
+This leads off to Pilferers Avenue.
+~
+~
+0 -1 16118
+S
+#16118
+Pilferers Avenue~
+You are now on Pilferers Avenue.  To the north you see a Runned-Down, Old
+Abondoned House.  A similiar looking house is to the north.  But this one
+seems to be occupied.  Do you dare enter??
+
+~
+51 8 1
+D0
+You see a baorded up house.
+~
+door~
+1 -1 16120
+D1
+This leads back to Cobblestone Alley
+~
+~
+0 -1 16117
+D2
+You see an old house.
+~
+door~
+13 16102 16119
+D3
+The avenue continues on.
+~
+~
+0 -1 16121
+S
+#16119
+Inside the House~
+~
+51 8 1
+D0
+This leads outside.
+~
+door~
+13 16102 16118
+S
+#16120
+Inside an Old Abondoned House~
+Cobwebs and dust cover the inside of this old house.  You make out the
+ruins of what use to be furniture.  Rats scurry about under your feet.
+You wonder to yourself, "Why has this house been left abondoned so long?"
+Then you think again, " Maybe you don't REALLY want to know."
+
+~
+51 8 1
+D2
+This leads outside.
+~
+door~
+1 -1 16118
+S
+#16121
+Pilferers Avenue~
+~
+51 8 1
+D1
+The avenue continues on.
+~
+~
+0 -1 16118
+D2
+There's not much to see, it's kinda dark.
+~
+~
+0 -1 16122
+S
+#16122
+Dead End~
+~
+51 8 1
+D0
+That leads back to Pilferers Avenue.
+~
+~
+0 -1 16121
+S
+#16123
+Pilferers Avenue~
+~
+51 8 1
+D1
+The avenue continues...
+~
+~
+0 -1 16124
+D3
+You see an intersection.
+~
+~
+0 -1 16117
+S
+#16124
+Pilferers Avenue~
+~
+51 8 1
+D1
+The avenue continues...
+~
+~
+0 -1 16125
+D3
+The avenue continues...
+~
+~
+0 -1 16123
+S
+#16125
+Pilferers Avenue~
+~
+51 8 1
+D1
+Not much to see there, looks like a dead end.
+~
+~
+0 -1 16126
+D3
+The avenue continues...
+~
+~
+0 -1 16124
+S
+#16126
+Dead End~
+~
+51 8 1
+D3
+That leads back to Pilferers Avenue.
+~
+~
+0 -1 16125
+S
+$~
+#999999

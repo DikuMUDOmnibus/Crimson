@@ -1,0 +1,326 @@
+#8000
+obj knife sharp~
+a sharp knife~
+A sharp knife glints in the sun.~
+~
+5 0 8193
+0 1 4 11
+1 10 3
+#8001
+obj horseshoe~
+a horseshoe~
+A large, heavy horseshoe is partially obscured by dirt.~
+~
+5 0 8193
+0 1 4 6
+5 5 3
+#8002
+obj bow longbow rowan-wood~
+a rowan-wood longbow~
+A longbow made of rowan-wood gleams in the light.~
+~
+5 0 8193
+0 2 8 8
+5 200 120
+#8003
+obj hole ground~
+a hole~
+There is a freshly dug hole in the ground here.~
+~
+15 0 0
+10000 1 10 0
+1000 0 -1
+#8004
+obj ring rose metal~
+a metal ring~
+A metal ring carefully shaped into a rose shines in the light.~
+~
+9 0 3
+5 0 10 0
+1 150 50
+A
+13 10
+#8005
+obj herbs~
+some herbs~
+Some herbs lie here, waiting to be made into a potion.~
+~
+10 0 16385
+10 38 0 0
+1 100 30
+#8006
+obj potion dark brown~
+a dark brown potion~
+A dark brown potion sits here waiting to be used.~
+~
+10 0 1
+10 39 0 0
+3 200 50
+#8007
+obj potion green~
+a green potion~
+A green potion sits here waiting to be used.~
+~
+10 0 1
+10 38 0 0
+3 100 30
+#8008
+obj hoe old~
+an old hoe~
+An old hoe lies here on the ground..better watch where you step.~
+~
+5 0 8193
+0 2 3 3
+6 100 50
+#8009
+obj scythe sharp~
+a sharp scythe~
+A very sharp scythe glints in the sun.~
+~
+5 0 8193
+0 2 4 3
+6 175 80
+#8010
+obj hammer heavy blacksmith's~
+a heavy hammer~
+A heavy blacksmith's hammer lies here.~
+~
+5 0 8193
+0 3 3 7
+10 180 85
+#8011
+obj axe light~
+a light axe~
+A light axe leans against a wall here.~
+~
+5 0 8193
+0 3 2 3
+4 100 50
+#8012
+obj chisel metal~
+a metal chisel~
+A thick metal chisel lies in the dust.~
+~
+5 0 8193
+0 2 2 11
+3 15 8
+#8013
+obj pouch leather money~
+a leather money pouch~
+A leather money pouch lies in the dust.~
+~
+15 0 16385
+10 1 10 0
+1 5 5
+#8014
+obj fruit ripe~
+some ripe fruit~
+Some ripe fruit tempts you to eat it.~
+~
+19 0 16385
+5 0 10 0
+2 10 8
+#8015
+obj vegetables~
+some vegetables~
+Some vegetables peek out from the ground here.~
+~
+19 0 16385
+5 0 0 0
+2 10 8
+#8016
+obj basket bushel~
+a bushel basket~
+A bushel basket lies here in the grass.~
+~
+15 0 16385
+20 0 10 0
+3 10 8
+#8017
+obj venison~
+some venison~
+Some venison lies here ready to eat.~
+~
+19 0 16385
+14 0 10 0
+3 30 10
+#8018
+obj beef juicy~
+some juicy beef~
+Some juicy beef tempts you with its smell.~
+~
+19 0 16385
+12 0 10 0
+3 20 10
+#8019
+obj ham hunk~
+a hunk of ham~
+A hunk of ham wishes it were a pig again.~
+~
+19 0 16385
+12 0 10 0
+3 25 10
+#8020
+obj arrows brown bunch~
+a bunch of brown arrows~
+A bunch of brown arrows are bundled together here.~
+~
+7 0 16385
+0 0 10 0
+3 30 20
+#8021
+obj knife hunting sharp~
+a hunting knife~
+A sharp hunting knife gleams in the light.~
+~
+5 0 8193
+0 2 4 3
+3 70 30
+#8022
+obj vase narrow clay~
+a clay vase~
+A narrow clay vase with strange patterns sits here.~
+~
+15 32 16385
+10 0 10 0
+5 15 10
+#8023
+obj whip animal long~
+an animal whip~
+A long, braided animal whip lies in the dirt.~
+~
+5 0 8193
+0 1 7 2
+2 80 40
+#8024
+obj jewel amber~
+an amber jewel~
+A inticately cut amber jewel glows warmly here.~
+~
+1 0 65537
+0 0 30 0
+1 90 50
+#8025
+obj shirt homespun~
+a homespun shirt~
+A homespun shirt lies here getting dirty.~
+~
+9 65536 9
+1 0 10 0
+2 10 8
+#8026
+obj pants homespun~
+some homespun pants~
+Some homespun pants lie here getting dirty.~
+~
+9 65536 33
+2 0 10 0
+2 20 15
+#8027
+obj beer tall mug~
+a tall beer mug~
+A tall beer mug sits here.~
+~
+17 0 16385
+4 4 1 0
+2 8 5
+#8028
+obj coin gold~
+a gold coin~
+Someone has dropped a gold coin in the dirt here.~
+~
+20 0 1
+1 0 10 0
+0 1 0
+#8029
+obj boots work pair~
+a pair of work boots~
+A pair of old work boots sag in a corner.~
+~
+9 64 65
+5 0 10 0
+2 35 20
+A
+14 10
+#8030
+obj statue goddess small~
+a small statue~
+A small statue of a beautiful goddess stands in the corner.~
+~
+15 32 0
+100 1 8031 0
+50 0 0
+#8031
+obj key metal small~
+a small, metal key~
+A small, metal key lies here.~
+~
+18 0 16385
+8031 0 10 0
+1 5 -1
+#8032
+obj ledger blank~
+a ledger~
+A blank ledger lies here covered with dust.~
+~
+16 0 16385
+0 0 10 0
+1 20 10
+#8033
+obj quill magic~
+a magic quill~
+A magic quill that never runs out of ink lies here.~
+~
+21 64 16385
+0 0 10 0
+1 30 15
+#8034
+obj desk small worn~
+a desk~
+A small, worn desk leans against one wall.~
+~
+15 32 0
+100 1 8031 0
+50 5 5
+#8035
+obj gloves calfskin pair~
+a pair of calfskin gloves~
+A pair of calfskin gloves lie here.~
+~
+9 0 129
+5 0 10 0
+1 20 15
+#8036
+obj jem crimson~
+a crimson jem~
+A crimson jem sparkles in the sunlight.~
+~
+8 64 16385
+0 0 10 0
+1 4000 1000
+A
+4 1
+A
+3 1
+A
+1 -1
+A
+5 -1
+#8037
+obj rose wood~
+a rose~
+A rose carefully carved from a piece of white wood lies here.~
+~
+13 0 16385
+0 0 10 0
+0 0 0
+#8038
+obj wardrobe dark-wood carved~
+a wardrobe~
+A dark-wood, carved wardrobe stands here.~
+~
+15 32 0
+100 1 10 0
+1 5 5
+$~
+#999999

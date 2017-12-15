@@ -1,0 +1,1840 @@
+#13400
+Liftmaster's Ledge~
+This is a well crafted balcony of an alien design, that feels older than
+the cavern rocks themselves...  Above you, you see the larger ledge from
+which this balcony connects.  In the middle of the balcony is a hole which ope
+ns to the rift below
+There is also a platform magiclly floating in the air.  On this platform
+you see a dark, robed, mysterious figure.  He looks at you expectantly....
+~
+26 9 0
+D4
+void~
+~
+2 -1 3001
+D5
+Below, you see into the dark which the platform will take you, however...
+you don't see anything it could take you too, except further into the
+unknown dark below.~
+~
+0 -1 13401
+S
+#13401
+The Lift~
+Above you, you see the balconey rise away into the dark above, as you descend
+winds of the Rift blow about you.  You are certain you had seen objects in the
+blur of the dark, flying through out....
+~
+26 13 0
+D5
+The platform is taking you down into the depths of the rift, there is still
+no feature worth exiting to...~
+~
+0 -1 13402
+S
+#13402
+The Lift~
+Above you, you see the balcony rise away into the dark above as you descend 
+into the dark reaches below...
+~
+26 13 0
+D5
+The darkness below and the darkness above are equally oppressive... All around
+you, you feel as if you are in a void...
+Down is the only to go now.~
+~
+0 -1 13403
+S
+#13403
+The Lift~
+The Winds here are very strong.  If it weren't for the enchantments on the
+platform, you'd have been blown clean off, and into the unknown.  In the 
+winds you think you can here subtle, unidentifiable sounds.~
+26 8 1
+D5
+Below you is the neverending fall to oblivion.
+~
+~
+0 -1 13404
+S
+#13404
+The Lift~
+As the Lift hurtles downward to some unknown, you pass a spur of rock that
+comes close to colliding with the Lift.  You spot a crack in the rock just 
+above the spur, where it meets with the wall of the Rift.  It appears large
+enough for several persons to pass through.... Too bad though, the Lift
+is not stopping.  You keeping heading down.
+~
+26 8 1
+D5
+You would die of starvation and fear, before you would hit the bottom, if 
+there is one....~
+~
+0 -1 13405
+S
+#13405
+The Lift~
+Suddenly, the rock on the north side (the rock-wall that the balcony was
+attached onto)  angles away into the dark.... You can not see any sign of a
+wall of edge to orient yourself.  You are now falling through mid-air at 
+high speed.~
+26 8 1
+D5
+Yes, you are heading this way.  And you can't see where it is.~
+~
+0 -1 13406
+S
+#13406
+The Lift~
+You sense a sharp and sudden change in direction.  You are no longer headed
+straight down... you are going at an angle now.  But you're not sure which dir
+ection. You think you see rock to what you thought was the opposite side
+from which you knew the balcony was on.  You are STILL going down.
+~
+26 8 1
+D5
+Although you are now going at an angle, there is still nothing down there
+that you see.
+~
+~
+0 -1 13407
+S
+#13407
+The Lift~
+After a long time, the Lift straightens out and again is heading directly 
+down. Within seconds it also begins slowing gradually.  You do hear the 
+sounds of the civilization that would be a town or village.  But, 
+underground? This is unusual....
+~
+26 8 1
+D5
+Far below you see a mammoth opening in the Rift's Wall.  But there is
+nothing beneath you!~
+~
+0 -1 13408
+S
+#13408
+Netheria's Ledge~
+Before you is the Grand Center of the Subteranean.  The Nexus of the Worlds
+Alien Cultures.  The City of the Outcasts.  The Gathering of the Dark.
+Here is Netheria, in all its lawlessness, corruption, vicousness and 
+absolute darkness.  Have a nice day, and enjoy your stay.
+~
+26 13 1
+D1
+The teaming port of Netheria
+~
+~
+0 -1 13421
+D2
+To the city's RiftGate.
+~
+~
+0 -1 13416
+D3
+The teaming port of Netheria.
+~
+~
+0 -1 13417
+D4
+up
+~
+~
+0 -1 13409
+S
+#13409
+The Lift~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D4
+up
+~
+~
+0 -1 13410
+S
+#13410
+The Lift~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D4
+up
+~
+~
+0 -1 13411
+S
+#13411
+The Lift~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D4
+up
+~
+~
+0 -1 13412
+S
+#13412
+The Lift~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D4
+up
+~
+~
+0 -1 13413
+S
+#13413
+The Lift~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D4
+up
+~
+~
+0 -1 13414
+S
+#13414
+The Lift~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D4
+up
+~
+~
+0 -1 13415
+S
+#13415
+The Lift~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D4
+up
+~
+~
+0 -1 13400
+S
+#13416
+RiftGate~
+Before you is a giant maw in the Rift's wall.  It is several hundred feet in
+diameter. Through the opening you see a masses of buildings and structures
+stacked on top of each other and climbing the cavern walls that it is built
+in. It looks as though some of the colossal stalagtites hanging down from
+the ceiling have been converted into dwellings.  The buildings and towers and
+stalagtites are all interconnected by walkways and ramps though the air.
+Netheria didn't sprawl like midgaard, Netheria built on top of itself.
+~
+26 9 1
+D0
+The ledge where Netheria meets the Rift.  That is also way to the aerial port
+of the city.
+~
+~
+0 -1 13408
+D2
+To the Rift Square.
+~
+~
+0 -1 13424
+S
+#13417
+Port of Netheria~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+To the Lift merchants to the surface.
+~
+~
+0 -1 13408
+D2
+A busy warehouse, belonging to a noble drow family.
+~
+~
+0 -1 13425
+D3
+The teaming Port of Netheria~
+~
+0 -1 13418
+S
+#13418
+Port of Netheria~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+The teaming Port of Netheria.~
+~
+0 -1 13417
+D3
+Naval Port
+~
+~
+0 -1 13419
+S
+#13419
+Naval Port~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 8 1
+D0
+The airboats of the various noble families of the city are gathered here.
+Netheria's nobles have agreed to place there family fleets under a single
+banner. The families still supply the troops.  The friction between the 
+families make it a very unpredictable force.  The Ships themselves are magical
+creations, that float in mid-air and are crewed by the elite of the noble's 
+troops. All around you, there are off duty naval sailors.
+~
+~
+0 -1 13420
+D1
+The teaming port of Netheria
+~
+~
+0 -1 13418
+S
+#13420
+Naval Docks~
+Netheria's nobles have agreed to place there family fleets under a single
+banner. The families still supply the troops.  The friction between the
+families make it a very unpredictable force.  The Ships themselves are magical
+creations, that float in mid-air and are crewed by the elite of the noble's
+troops. All around you, there are off duty naval sailors.~
+26 8 1
+D2
+To the Naval port.~
+~
+0 -1 13419
+S
+#13421
+Port of Netheria~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+The teaming port of Netheria
+~
+~
+0 -1 13422
+D2
+Haern's Counter.  This former warehouse has been converted into a huge store
+where nearly everything can be bought or sold.
+~
+~
+0 -1 13427
+D3
+To the Lift merchants to the surface.
+~
+~
+0 -1 13408
+S
+#13422
+Port of Netheria~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+The teaming port of Netheria
+~
+~
+0 -1 13423
+D3
+The teaming port of Netheria
+~
+~
+0 -1 13421
+S
+#13423
+Port of Netheria~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+The teaming port of Netheria
+~
+~
+0 -1 13422
+S
+#13424
+Rift Square~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+The monument where all must pass through to reach port.
+~
+~
+0 -1 13416
+D1
+~
+~
+0 -1 13475
+D2
+~
+~
+0 -1 13450
+D3
+~
+~
+0 -1 13459
+S
+#13425
+D'raril's Warehouse~
+The D'raril family stores all of their merchandise here.  All around you are
+crates, and workers stacking them in rows and on shelves.  Others are hurrying
+to load up wagons for the trip to some other destination in the Nether Realms.
+The primary comodities the D'raril's deal in are Spices, Surface Weapons, and
+Corpses. (Hey, for some of the residents of Netheria, it is food.)
+~
+26 9 1
+D0
+Back to the chaos of the docks.
+~
+~
+0 -1 13417
+D4
+The offices of the D'raril Cartel are above.
+~
+~
+0 -1 13430
+S
+#13426
+Moureg's Meat's~
+The smells of meat the sights of blood are everywhere, and it is not from 
+ass battle.  The butcher's Moureg hires may be sloppy, but he brings in the 
+finest meat, poultry, and fish from all corners of the multiverse.
+~
+26 9 1
+S
+#13427
+Haern's Counter~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+To the chaotic activity of the Port.
+~
+~
+0 -1 13421
+S
+#13428
+The Crawling Rocks~
+To be a tavern.
+~
+26 9 1
+S
+#13429
+Fwinureg's Warehouse~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13430
+Warehouse Offices~
+The Heads of the family lay their schemes and make plans here.
+~
+26 521 1
+D5
+Below is the vast warehouse of the D'raril family.  By the great amount of
+activity, you can tell the drow family knows how to turn a profit.
+~
+~
+0 -1 13425
+S
+#13431
+Slavers' Market~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13447
+D1
+~
+~
+0 -1 13483
+D2
+~
+~
+0 -1 13432
+D3
+~
+~
+0 -1 13446
+S
+#13432
+Slavers' Market~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13431
+D1
+~
+~
+0 -1 13445
+D2
+~
+~
+0 -1 13493
+D3
+~
+~
+16 -1 13448
+S
+#13433
+some Festhall~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+~
+~
+0 -1 13458
+S
+#13434
+a weaponry~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13435
+The Inn~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13450
+S
+#13436
+an armorer~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13437
+Netherian Leather and Boot~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13454
+S
+#13438
+nightclub~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13455
+S
+#13439
+Mercenary Agency~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13458
+S
+#13440
+Methyir's Most Wonderful Zombies~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13471
+S
+#13441
+Boutique~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13442
+hardware~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13458
+S
+#13443
+Winery~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13452
+S
+#13444
+Lovkrell Obelisk~
+You've entered a small city square surrounded by rundown buildings.  Above
+you is the Lovkrell Spire hanging from the cavern ceiling, shining its eerie
+light of darkness on the city around it.  In front of you is the Lovkrell
+Obelisk. It is a structure of alien design and origin.  Tales say it was here
+before the city and even before the cavern was made!  Legends and rumors of
+legends say it is is the prison of a beast that terrorized the gods before
+all creation.  The same legends say the pure evil of the beast seeps through
+the obelisk, and powers the darklight of the Spire above it.
+~
+26 9353 1
+D0
+~
+~
+0 -1 13521
+D1
+~
+~
+0 -1 13529
+D2
+~
+~
+0 -1 13530
+D3
+~
+~
+0 -1 13531
+S
+#13445
+Slave Traders offices~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13432
+S
+#13446
+Slave Traders offices~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13431
+S
+#13447
+Slave Traders offices~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+~
+~
+0 -1 13431
+S
+#13448
+Slave Pens~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 137 1
+D1
+~
+~
+0 -1 13432
+D3
+~
+~
+16 -1 13532
+S
+#13449
+Drugs, poisons, painkillers~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13450
+Rift Square~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13424
+D1
+~
+~
+0 -1 13435
+D2
+~
+~
+0 -1 13451
+S
+#13451
+Rift Square~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13450
+D1
+~
+~
+0 -1 13484
+D2
+~
+~
+0 -1 13434
+D3
+~
+~
+0 -1 13436
+S
+#13452
+Ixaxt Avenue~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13514
+D1
+~
+~
+0 -1 13443
+D2
+~
+~
+0 -1 13453
+D3
+~
+~
+0 -1 13511
+S
+#13453
+Ixaxt Avenue~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13452
+D1
+~
+~
+0 -1 13464
+D2
+~
+~
+0 -1 13454
+D3
+~
+~
+0 -1 13516
+S
+#13454
+Ixaxt Avenue~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13453
+D1
+~
+~
+0 -1 13515
+D2
+~
+~
+0 -1 13455
+D3
+~
+~
+0 -1 13437
+S
+#13455
+Corner of Ixaxt and Ekelber~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13454
+D1
+~
+~
+0 -1 13456
+D2
+~
+~
+0 -1 13438
+S
+#13456
+Ekelber Lane~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13474
+D1
+~
+~
+0 -1 13457
+D2
+~
+~
+0 -1 13510
+D3
+~
+~
+0 -1 13455
+S
+#13457
+Ekelber Lane~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13488
+D1
+~
+~
+0 -1 13458
+D2
+~
+~
+0 -1 13522
+D3
+~
+~
+0 -1 13456
+S
+#13458
+Ekelber Lane~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13433
+D1
+~
+~
+0 -1 13442
+D2
+~
+~
+0 -1 13439
+D3
+~
+~
+0 -1 13457
+S
+#13459
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 13 1
+D1
+~
+~
+0 -1 13424
+D3
+~
+~
+0 -1 13460
+S
+#13460
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13459
+D2
+~
+~
+0 -1 13461
+S
+#13461
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13460
+D3
+~
+~
+0 -1 13462
+S
+#13462
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13461
+D2
+~
+~
+0 -1 13463
+S
+#13463
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13462
+D1
+~
+~
+0 -1 13465
+D2
+~
+~
+0 -1 13501
+D3
+~
+~
+0 -1 13464
+S
+#13464
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13463
+D3
+~
+~
+0 -1 13453
+S
+#13465
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+~
+~
+0 -1 13466
+D3
+~
+~
+0 -1 13463
+S
+#13466
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13465
+D2
+~
+~
+0 -1 13467
+S
+#13467
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13466
+D3
+2
+~
+~
+0 -1 13468
+S
+#13468
+Querron's Meet~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13467
+D2
+~
+~
+0 -1 13471
+D3
+~
+~
+0 -1 13469
+S
+#13469
+Querron's Meet~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13468
+D2
+~
+~
+0 -1 13470
+D3
+~
+~
+0 -1 13499
+S
+#13470
+Querron's Meet~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13469
+D1
+~
+~
+0 -1 13471
+S
+#13471
+Querron's Meet~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13468
+D1
+~
+~
+0 -1 13440
+D2
+~
+~
+0 -1 13472
+D3
+~
+~
+0 -1 13470
+S
+#13472
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13471
+D1
+~
+~
+0 -1 13473
+D2
+~
+~
+0 -1 13500
+S
+#13473
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+~
+~
+0 -1 13474
+D3
+~
+~
+0 -1 13472
+S
+#13474
+Darkened Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 13 1
+D0
+~
+~
+0 -1 13473
+D2
+~
+~
+0 -1 13456
+S
+#13475
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 13 1
+D1
+~
+~
+0 -1 13476
+D3
+~
+~
+0 -1 13424
+S
+#13476
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+~
+~
+0 -1 13477
+D3
+~
+~
+0 -1 13475
+S
+#13477
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13476
+D1
+~
+~
+0 -1 13478
+S
+#13478
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13479
+D1
+~
+~
+0 -1 13480
+D3
+~
+~
+0 -1 13477
+S
+#13479
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13512
+D1
+~
+~
+0 -1 13481
+D2
+~
+~
+0 -1 13478
+S
+#13480
+Alien Monument~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13478
+S
+#13481
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13494
+D1
+~
+~
+0 -1 13495
+D2
+~
+~
+0 -1 13482
+D3
+~
+~
+0 -1 13479
+S
+#13482
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13481
+D3
+w
+~
+~
+0 -1 13483
+S
+#13483
+Shadowed Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13482
+D3
+~
+~
+0 -1 13431
+S
+#13484
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 13 1
+D2
+~
+~
+0 -1 13485
+D3
+~
+~
+0 -1 13451
+S
+#13485
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13484
+D2
+~
+~
+0 -1 13486
+S
+#13486
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13485
+D1
+~
+~
+0 -1 13487
+D3
+~
+~
+0 -1 13498
+S
+#13487
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13489
+D2
+~
+~
+0 -1 13488
+D3
+~
+~
+0 -1 13486
+S
+#13488
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 13 1
+D0
+~
+~
+0 -1 13487
+D2
+~
+~
+0 -1 13457
+S
+#13489
+Grek, The Mushroom Man~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13490
+D2
+~
+~
+0 -1 13487
+S
+#13490
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+s
+~
+~
+0 -1 13491
+D3
+~
+~
+0 -1 13489
+S
+#13491
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13490
+D1
+~
+~
+0 -1 13492
+S
+#13492
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13493
+D3
+~
+~
+0 -1 13491
+S
+#13493
+Fetid Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13432
+D2
+~
+~
+0 -1 13492
+S
+#13494
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D2
+~
+~
+0 -1 13481
+S
+#13495
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D3
+~
+~
+0 -1 13481
+S
+#13496
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D2
+~
+~
+0 -1 13520
+S
+#13497
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D0
+~
+~
+0 -1 13519
+S
+#13498
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D1
+~
+~
+0 -1 13486
+S
+#13499
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D1
+~
+~
+0 -1 13469
+S
+#13500
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D0
+~
+~
+0 -1 13471
+S
+#13501
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D0
+~
+~
+0 -1 13463
+S
+#13502
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D2
+~
+~
+0 -1 13524
+S
+#13503
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+D1
+~
+~
+0 -1 13525
+S
+#13504
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+S
+#13505
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13506
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+S
+#13507
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+S
+#13508
+Home...~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 0
+S
+#13509
+Cyclopean Statue~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13510
+Warrior's Guild~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13456
+S
+#13511
+Cleric's Guild~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13452
+S
+#13512
+Thieve's Guild~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+~
+~
+0 -1 13479
+S
+#13513
+Magic User's Guild~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+S
+#13514
+Temple of Netheria~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D2
+~
+~
+0 -1 13452
+S
+#13515
+another tavern~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13454
+S
+#13516
+Gloomy Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 13 1
+D1
+~
+~
+0 -1 13453
+D3
+~
+~
+0 -1 13517
+S
+#13517
+Gloomy Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13516
+D2
+~
+~
+0 -1 13518
+S
+#13518
+Gloomy Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13517
+D2
+~
+~
+0 -1 13519
+S
+#13519
+Gloomy Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13518
+D2
+~
+~
+0 -1 13497
+D3
+~
+~
+0 -1 13520
+S
+#13520
+Gloomy Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13496
+D1
+~
+~
+0 -1 13519
+D2
+~
+~
+0 -1 13521
+S
+#13521
+Gloomy Alley~
+How can i get the damn space before my rdesc!
+~
+26 9 1
+D0
+~
+~
+0 -1 13520
+D2
+~
+~
+0 -1 13444
+S
+#13522
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 13 1
+D0
+~
+~
+0 -1 13457
+D2
+~
+~
+0 -1 13523
+S
+#13523
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13522
+D3
+~
+~
+0 -1 13524
+S
+#13524
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13502
+D1
+~
+~
+0 -1 13523
+D2
+~
+~
+0 -1 13526
+D3
+~
+~
+0 -1 13525
+S
+#13525
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13524
+D2
+~
+~
+0 -1 13527
+D3
+~
+~
+0 -1 13503
+S
+#13526
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13524
+D3
+~
+~
+0 -1 13527
+S
+#13527
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13525
+D1
+~
+~
+0 -1 13526
+D3
+~
+~
+0 -1 13528
+S
+#13528
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D0
+~
+~
+0 -1 13529
+D1
+~
+~
+0 -1 13527
+S
+#13529
+Murky Alley~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D3
+~
+~
+0 -1 13444
+S
+#13530
+Lovkrell Obelisk~
+new-
+~
+26 9 1
+D0
+~
+~
+0 -1 13444
+S
+#13531
+Lovkrell Obelisk~
+new-
+~
+26 9 1
+D1
+~
+~
+0 -1 13444
+S
+#13532
+Beast Pens~
+Congrats! By the powers of Da Schwartz you have been granted a zone.
+~
+26 9 1
+D1
+~
+~
+0 -1 13448
+S
+$~
+#999999

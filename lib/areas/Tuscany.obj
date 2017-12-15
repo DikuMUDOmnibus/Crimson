@@ -1,0 +1,956 @@
+#15600
+obj statuette dragon ivory~
+an ivory dragon statuette~
+A small, white, dragon-shaped statuette lies on the ground.~
+~
+18 262211 1
+0 0 10 0
+5 10 -1
+#15601
+obj gate key~
+a gate key~
+A small key lies, rusting in the dirt.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15602
+obj lord key~
+the Lord's key~
+A small jewelled key lies here glimmering in the sun.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15603
+obj tower key~
+the tower key~
+The key to the tower lies discarded here.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15604
+obj runed key ancient~
+the Ancient Runed Key~
+There lies here an ancient key with several runes carved into it.~
+~
+18 262211 1
+0 0 10 0
+1 5 -1
+#15605
+obj blue key ancient~
+the Ancient Blue Key~
+There lies here an ancient blue key with a dragon carved into it.~
+~
+18 262211 1
+0 0 10 0
+1 5 -1
+#15606
+obj green key ancient~
+the Ancient Green Key~
+There lies here an ancient green key with a ranger carved into it~
+~
+18 262211 1
+0 0 10 0
+1 5 -1
+#15607
+obj encrypted ancient key~
+the Ancient Encrypted Key~
+Here lies an ancient key covered with encrypted carvings.~
+~
+18 262211 1
+15608 0 10 0
+1 5 -1
+#15608
+obj chest ancient~
+the Ancient Runed Covered Chest~
+In the center of the room lies an Ancient Runed Covered Chest.~
+~
+15 262147 0
+100 13 15607 0
+10 5 -1
+#15609
+obj copper key~
+a small copper key~
+A copper key lies useless on the ground.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15610
+obj brass key~
+a small brass key~
+A brass key lies useless on the ground.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15611
+obj bronze key~
+a small bronze key~
+A bronze key lies useless on the ground.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15612
+obj silver key~
+a small silver key~
+A silver key lies useless on the ground.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15613
+obj sapphire key~
+a small sapphire key~
+A gleaming key made of sapphire lies here.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15614
+obj pearl key~
+a small pearl key~
+A pearl key shines brightly in the sun.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15615
+obj topaz key~
+a small topaz key~
+A gleaming key made of topaz lies here.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15616
+obj ivory key~
+a small ivory key~
+An ivory key shines brightly in the sun.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15617
+obj lapis key~
+a small lapis key~
+A gleaming key made of lapis lies here.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15618
+obj diamond key~
+a small diamond key~
+A key shaped diamond sparkles in the sun.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15619
+obj crystal key~
+a small crystal key~
+A key shaped crystal sparkles in the sun.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15620
+obj luck key~
+the Luck Key~
+A clear key lies on the ground wishing luck upon all.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15621
+obj light key mist misty~
+the Misty Key of Light~
+A strange, bright, mist swirls in the form of a key at your feet.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15622
+obj necklace watery blue~
+a watery-blue necklace~
+A circle of water lies on the ground.~
+~
+9 2097217 5
+40 0 10 0
+5 120000 40000
+A
+30 -1
+#15623
+obj shovel~
+a shovel~
+There is a shovel leaning against the wall.~
+~
+5 0 8193
+0 1 8 7
+8 700 500
+#15624
+obj hoe~
+a hoe~
+There is a hoe lying on the ground covered with mud.~
+~
+5 0 8193
+0 1 8 7
+8 700 500
+#15625
+obj club stone heavy~
+a heavy stone club~
+A large stone-shaped club rests heavily upon the ground.~
+~
+5 552960 8193
+0 3 6 6
+30 2000 6000
+A
+18 1
+A
+19 1
+#15626
+obj hauberk blue dragon scale dragonscale~
+a blue-dragonscale hauberk~
+A large hauberk of blue-dragonscale lies upon the ground.~
+~
+9 2158657 9
+30 0 10 0
+15 200000 35000
+A
+18 3
+A
+19 3
+A
+23 4
+#15627
+obj helm blue dragon scale dragonscale~
+a blue-dragonscale helm~
+A shiny blue helm of dragonscale rests easily here.~
+~
+9 2158657 17
+30 0 10 0
+10 200000 35000
+A
+18 2
+A
+19 2
+A
+23 4
+#15628
+obj leggings blue dragonscale dragon scale~
+a pair of blue-dragonscale leggings~
+A large pair of blue scale leggings are lying here.~
+~
+9 2158657 33
+20 0 10 0
+20 200000 35000
+A
+18 2
+A
+19 2
+A
+23 2
+#15629
+obj scimitar gold golden~
+a golden scimitar~
+A scimitar of pure gold has been left in the dirt.~
+~
+5 630848 8193
+0 2 10 3
+12 80000 10000
+A
+18 2
+A
+19 2
+A
+12 15
+#15630
+obj scicle gold golden~
+a golden scicle~
+A scicle of solid gold is sticking out of the ground.~
+~
+5 1146945 8193
+0 3 10 3
+5 75000 40000
+A
+18 2
+A
+19 2
+A
+12 10
+#15631
+obj emerald grand ring~
+a grand emerald ring~
+There is a golden ring with a very large emerald in it here.~
+~
+9 2195520 3
+25 0 10 0
+3 150000 30000
+A
+12 30
+A
+4 2
+#15632
+obj belt vine~
+a vine belt~
+A bunch of vines are lying here.~
+~
+9 1048640 2049
+15 0 10 0
+12 100000 30000
+A
+12 30
+A
+4 1
+A
+3 1
+#15633
+obj bastard sword heavy~
+a heavy bastard sword~
+An extremely heavy looking sword is stuck in the ground.~
+~
+5 552960 8193
+0 3 5 3
+20 60000 12000
+A
+18 2
+A
+19 2
+A
+2 2
+#15634
+obj cloak nature~
+a nature cloak~
+There is a pile of leaves and branches here.~
+~
+9 524352 5
+20 0 10 0
+8 80000 20000
+A
+19 2
+A
+4 1
+A
+3 1
+A
+1 -1
+#15635
+obj crown flowers~
+a crown of flowers~
+Flowers lying in a circle can be seen.~
+~
+9 2097217 17
+30 0 10 0
+2 120000 30000
+A
+19 1
+A
+12 30
+#15636
+obj sceptre cabal~
+the Cabal Sceptre~
+A sceptre glows brightly.~
+~
+1 2097219 65537
+0 0 -1 0
+5 100000 20000
+A
+31 -1
+A
+33 -1
+A
+26 -1
+A
+32 -1
+#15637
+obj helmet helcomic~
+a Helcomic helmet~
+A helmet made of a strong material rests here.~
+~
+9 2117632 17
+30 0 10 0
+13 100000 35000
+A
+18 1
+A
+19 1
+#15638
+obj shield helcomic~
+a Helcomic shield~
+A shield made of very strong material is here.~
+~
+9 2117632 513
+25 0 10 0
+12 100000 35000
+A
+18 1
+A
+19 1
+#15639
+obj plate breast helcomic~
+a Helcomic breast plate~
+A breast plate made out of sturdy material rests here.~
+~
+9 2117696 9
+30 0 10 0
+18 100000 35000
+A
+18 2
+A
+19 2
+A
+1 3
+A
+24 -5
+#15640
+obj bracelet helcomic~
+a Helcomic bracelet~
+A small bracelet made of very strong material sits upon the ground.~
+~
+9 2097216 4097
+15 0 10 0
+5 100000 20000
+A
+18 2
+A
+19 2
+#15641
+obj collar blood~
+a blood collar~
+A collar rests here in a pool of blood.~
+~
+9 524356 5
+20 0 10 0
+5 60000 20000
+A
+19 2
+A
+2 1
+#15642
+obj cloak melancholy~
+a melancholy cloak~
+Upon the ground rests a cloak of utter darkness.~
+~
+9 2097220 5
+40 0 10 0
+10 100000 40000
+A
+18 2
+A
+19 2
+A
+2 2
+A
+3 -2
+#15643
+obj ring mithril~
+a mithril ring~
+Someone dropped a shiny ring here.~
+~
+9 2097152 3
+25 0 10 0
+2 100000 25000
+A
+18 2
+A
+19 2
+#15644
+obj sheath mithril~
+a mithril sheath~
+A shining sheath of mithril reflects the sun.~
+~
+9 2117632 2049
+20 0 10 0
+10 120000 25000
+A
+18 1
+A
+19 3
+#15645
+obj crown bejewelled~
+a bejewelled crown~
+A golden crown, enlaiden with jewels has been dropped here.~
+~
+9 2162821 17
+40 0 10 0
+12 120000 40000
+A
+18 -2
+A
+19 -1
+A
+13 50
+A
+12 50
+#15646
+obj pendant guard's signet~
+a guard's signet pendant~
+A strange pendant with a signet upon it lies here.~
+~
+9 524288 5
+20 0 10 0
+9 65000 20000
+#15647
+obj banner war~
+a war banner~
+A glowing banner is losing shape in the sun.~
+~
+1 0 65537
+0 0 10 0
+4 20000 600
+A
+17 -5
+#15648
+obj gloves guardsman's~
+a pair of guardsman's gloves~
+A special looking pair of gloves are covered with mud.~
+~
+9 1048576 129
+8 0 10 0
+8 60000 10000
+A
+18 1
+A
+19 1
+#15649
+obj scimitar speed~
+the Scimitar of Speed~
+A fancy sword with a curved blade rests here.~
+~
+5 1077248 8193
+0 3 8 3
+15 75000 20000
+A
+18 2
+A
+19 2
+#15650
+obj boots elven elvenkind~
+a pair of elvenkind boots~
+A fancy pair of boots are standing up.~
+~
+9 1048832 65
+8 0 10 0
+4 80000 20000
+A
+2 4
+A
+14 50
+#15651
+obj cloak elven elvenkind~
+a cloak of elvenkind~
+A fine cloak stands upright.~
+~
+9 524544 5
+20 0 10 0
+8 50000 15000
+A
+2 2
+#15652
+obj longbow bow long elven fine~
+a fine elven longbow~
+An fine bow with a sparkling bowstring lies here.~
+~
+5 1048832 8193
+0 4 6 6
+4 60000 20000
+A
+2 2
+#15653
+obj girdle speed~
+the Girdle of Speed~
+A girdle lies here.~
+~
+9 2170947 2049
+20 0 10 0
+12 80000 25000
+A
+18 2
+A
+19 2
+#15654
+obj sword sharpness~
+the Sword of Sharpness~
+An extremely sharp sword has been clumsily dropped here.~
+~
+5 2097282 8193
+8 5 7 3
+13 200000 40000
+A
+18 4
+A
+18 4
+#15655
+obj bracelet ivory~
+an ivory bracelet~
+A bracelet of ivory lies in a puddle of mud.~
+~
+9 1048576 4097
+10 0 10 0
+5 60000 10000
+A
+18 1
+A
+19 1
+#15656
+obj wand ivory crystal~
+an ivory and crystal wand~
+An ivory wand with crystals inlaid is here.~
+~
+3 64 16385
+40 10 10 86
+1 60000 -1
+#15657
+obj robe archmagi~
+a robe of the archmagi~
+A magical aura surrounds a strange robe.~
+~
+9 2203712 1025
+40 0 10 0
+3 120000 40000
+A
+4 2
+A
+3 2
+A
+12 50
+#15658
+obj potion sparkle sparkling~
+a sparkling potion~
+There is a flask here with a strange sparkling liquid in it.~
+~
+10 64 1
+20 1 3 36
+1 200 1500
+#15659
+obj potion misty white~
+a misty white potion~
+A flask hovers here with a strange white mist about it.~
+~
+10 64 1
+20 28 28 35
+1 1000 2000
+#15660
+obj ring wizardry~
+the Ring of Wizardry~
+You can barely make out a small ring.~
+~
+9 2203715 3
+25 0 10 0
+1 100000 25000
+A
+12 50
+#15661
+obj statue ivory~
+an ivory statue~
+An artistically carved statue of ivory sits here.~
+~
+12 2097217 16385
+0 0 10 0
+10 80000 20000
+A
+18 2
+A
+19 2
+A
+17 -15
+#15662
+obj boots speed~
+the Boots of Speed~
+A pair of extraordinary looking metal boots lies here.~
+~
+9 2097219 65
+12 0 10 0
+12 80000 20000
+A
+18 2
+A
+19 2
+#15663
+obj shield mithril~
+a mithril shield~
+A shield of mithril shines brilliantly in the sun.~
+~
+9 2117696 513
+25 0 10 0
+10 100000 30000
+A
+18 1
+A
+19 3
+#15664
+obj ring jewelled bejewelled~
+a jewelled crystal ring~
+A gorgeous ring of crystal, afire with gems, radiates here.~
+~
+9 64 3
+0 0 10 0
+1 5 50
+#15665
+obj pendant lucky~
+a lucky pendant~
+A mystical pendant radiates.... luck?~
+~
+9 524352 5
+0 0 10 0
+4 100000 20000
+A
+23 5
+A
+24 5
+A
+22 5
+A
+20 5
+#15666
+obj fullplate glowing blue suit full plate~
+a glowing blue suit of fullplate~
+A suit of full platemail glows blue.~
+~
+9 2162753 9
+30 0 10 0
+14 180000 50000
+A
+18 3
+A
+19 2
+A
+37 -1
+A
+14 50
+#15667
+obj helmet mithril~
+a mithril helmet~
+A helmet shines brightly in the sun.~
+~
+9 2183232 17
+30 0 10 0
+12 80000 30000
+#15668
+obj gauntlets monsigner~
+the Gauntlets of the Monsigner~
+Someone has left a gorgeous pair of gauntlets behind.~
+~
+9 2097216 129
+12 0 10 0
+12 100000 25000
+A
+18 2
+A
+19 3
+#15669
+obj greaves mithril~
+a pair of mithril greaves~
+A pair of greaves shines in the sun.~
+~
+9 2183232 33
+20 0 10 0
+13 100000 20000
+#15670
+obj sword duran~
+the Sword of the Duran~
+A fantastic stone sword lies useless here.~
+~
+5 2125891 8193
+2048 10 3 3
+20 200000 50000
+A
+18 4
+A
+19 4
+#15671
+obj dragonslayer blue sword dragon slayer~
+a blue sword named 'Dragonslayer'~
+A miraculous blue sword is hunting dragons.~
+~
+5 2125889 8193
+8192 10 3 3
+15 200000 50000
+A
+18 3
+A
+19 3
+#15672
+obj scales tarrasque~
+the Scales of the Tarrasque~
+Scales that look like mirrors reflect the light.~
+~
+9 4223204 2049
+25 0 10 0
+10 250000 30000
+A
+18 3
+A
+19 3
+#15673
+obj cloak psionicist's~
+the Psionicist's Cloak~
+A black cloak with glowing green trim hums magically.~
+~
+9 2097218 5
+40 0 10 0
+3 200000 60000
+A
+12 50
+A
+13 50
+#15674
+obj stone key~
+a stone key~
+A key carved from stone rests here.~
+~
+18 262144 1
+0 0 10 0
+1 1 -1
+#15675
+obj bone key~
+a bone key~
+A key carved from bone rests here.~
+~
+18 262144 1
+0 0 10 0
+1 5 -1
+#15676
+obj divine leather armor~
+a divine leather armor~
+A finely crafted suit of leather armor waits to be worn.~
+~
+9 4194368 9
+40 0 10 0
+6 250000 65000
+A
+42 3
+#15677
+obj divine battle axe~
+a divine battle axe~
+A finely crafted axe sits here, waiting to be wielded.~
+~
+5 4194368 8193
+0 12 3 3
+20 250000 60000
+A
+18 3
+A
+19 3
+#15678
+obj girdle of cloud giant strength~
+a girdle of cloud giant strength~
+A powerful girdle radiates magic.~
+~
+9 4194368 2049
+25 0 10 0
+4 250000 50000
+A
+41 5
+#15679
+obj axe of sharpness~
+the Axe of Sharpness~
+There is an axe that looks too sharp to hold here.~
+~
+5 4194368 8193
+0 10 4 3
+12 180000 60000
+A
+18 3
+A
+19 3
+#15680
+obj golden warhammer hammer~
+a golden warhammer~
+A hammer of gold wants to hit something.~
+~
+5 4326464 8193
+2048 10 4 7
+10 200000 70000
+A
+18 4
+A
+19 4
+#15681
+obj flaming broadsword~
+a flaming broadsword~
+A broadsword lies here surrounded by flames.~
+~
+5 4194368 8193
+4096 8 6 3
+10 200000 70000
+A
+18 3
+A
+19 3
+A
+41 1
+#15682
+obj divine chainmail~
+a divine chainmail~
+A suit of finely crafted chainmail lies here.~
+~
+9 4194368 9
+40 0 10 0
+10 250000 60000
+A
+42 2
+A
+12 100
+#15683
+obj banana tuscanian~
+a Tuscanian banana~
+A monkeys' delight is here.~
+~
+19 0 1
+36 0 10 0
+2 20 5
+#15684
+obj waterskin water skin~
+a waterskin~
+A waterskin is left on the ground here.~
+~
+17 0 1
+200 200 0 0
+30 150 50
+#15685
+obj horsewhip whip~
+a horsewhip~
+A used horsewhip is lying here.~
+~
+5 524288 8193
+0 3 6 2
+10 60000 15000
+A
+18 2
+A
+19 2
+A
+2 1
+#15686
+obj lance accuracy~
+the Lance of Accuracy~
+A glowing piece of long weapon is here.~
+~
+5 524289 8193
+0 3 5 11
+10 60000 14000
+A
+18 4
+#15687
+obj artifact ancient~
+the Ancient Artifact~
+A piece of multi-facet object made of unknown material attracts your attention.~
+~
+12 353 1
+0 0 10 0
+22 10000000 -1
+#15688
+obj portal~
+the Magic Portal~
+The Magic Portal is pulling you slowly into it.~
+~
+12 0 0
+0 0 10 0
+1 5 5
+$~
+#999999

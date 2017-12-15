@@ -1,0 +1,565 @@
+#15500
+The Floating Chapel~
+This chapel rests high above the clouds.  It is rarely used and very well kept
+You see before you the most holiest of statues.  Many of them represent the
+gods and godesses the live among these brilliantly lit skies.  All around you
+you here the sounds of a chorus ringing through walls, floor, and pews.  This
+chapel has married only the holiest of people. Now you are among them.
+~
+46 520 1
+D0
+The LOVE shack lies to the north.
+~
+~
+0 -1 3420
+D4
+void~
+~
+2 -1 3001
+S
+#15501
+The unholy landing~
+This is the place where only the greatest of all mortals may venture.  This 
+room is filled with emptiness in a land of depression and sorrow.  As you 
+look into the earth bellow you have a feeling of uneasiness and fear.  But
+only by venturing down can you achive greatness and hope for a new world to
+come to the land of crimson.
+~
+46 8 1
+D0
+A very evil entrance
+~
+~
+0 -1 15502
+S
+#15502
+Entrance to the Dark Castle~
+You are now facing a tough and frightful choice.  You are at the entrance to
+the evil castle.  You can either turn and run or face the most evil creatures
+unknown to man.  The world has just gone totaly black and there is a force
+driving you forth.  The inscriptions on the door suggest this a very satanic
+and very depressing place.  Maybe your feelings will change within the castle.
+Or maybe you will just die.
+~
+46 8 1
+D0
+The opening to an evil Domain
+~
+~
+0 -1 15506
+D2
+The way back
+~
+~
+0 -1 15501
+S
+#15503
+The Entrance Way to the Goddess Vain~
+This room is filled with colors so dark and grim that they make you want to
+run back up the other way.  The room to the north is the Goddess of Vain. 
+And the guardian to the Goddess of Vain is this little pheniox.  standing
+about three feet tall.  Your feelings are that you must go and confront the
+evil goddess.  But your senses tell you to go back the way you came.
+~
+46 8 1
+D0
+The entrabce way to the Goddess of Vain
+~
+~
+0 -1 15504
+D2
+The intersection
+~
+~
+0 -1 15509
+S
+#15504
+Bedroom of the Goddess of Vain~
+This is the room is filled with mirrors and vanities.  The Goddess of Vain sit
+s in the corner brushing her soft glowing hair.  The walls are filled with 
+pictures and paintings of the goddess.  The room is very bright compared with
+the rest of the suroundings.  The floor is covered in soft white fur carpet.
+Too the south you see a room that is dark and dim.  to thee west you see a 
+closet that is covered in blood.  
+~
+46 8 1
+D2
+A very dark and silent room
+~
+~
+0 -1 15503
+D3
+The Bloody Closet of Vainity
+~
+~
+0 -1 15505
+S
+#15505
+The Closet of Vanity~
+This Closet is filled with the most lavious of gowns, dresses, and fur coats.
+Despite the rooms looks it still has the same feel that you have had ever sinc
+e the beggining of your venture here.  But there is something in this room tha
+t doesn't look quit right about this place.  There seems to be an incredible 
+heat pouring below your feet.  an you inspect closer there seems to be a stuck
+door with a lock attached to it, sealing it from your curiosity.  And you 
+start to think where is the key?
+~
+46 8 1
+D1
+The Bedroom of the Goddess of Vain
+~
+~
+0 -1 15504
+D5
+~
+trapdoor~
+9 15504 15507
+S
+#15506
+Just inside the Dark Castle~
+You have entered into a world of complete darkness and fire.  The things you
+see here aren't even thought of in thhe most warped of minds.  Twisted carnage
+blood splaters on the floor and very ugly beasts roam here.  The feelings that
+have hit you all at once make you sick and woosy.  But now you must muster all
+you have to venture into the unknown domain of hell. 
+~
+46 8 1
+D0
+Farther into The Dark Castle
+~
+~
+0 -1 15510
+D2
+A very depressing feel comes from there
+~
+~
+0 -1 15502
+S
+#15507
+Tomb of Corpse~
+This is a very ugly and dark cell of the Corpse.  Corpse was legend to have
+killed over two hundred and forty-two people in a four day streak.  Corpse
+was never killed though.  He was summoned here to do the bidding of his 
+great and evil master lucifer.  Corpse is here waiting for your blood to
+the regerate his soul and make his form.  So maybe it is best to leave now.
+~
+46 8 1
+D3
+A dark hallway
+~
+~
+0 -1 15512
+S
+#15508
+Holding Cell of Dace~
+This is a detention cell created by Dace The demon-kia.  The cell looks dingy
+and dirty yet glows with a shiney aura.  There are pictures and newspaper
+clippings strung all over the floor here.  The pictures appear to be of
+victims bodyparts.  You figure they are his prize work.  Dace has made this
+cell his personal home in the life after.  It is a replica of his living 
+quarters he spent much of his life in on when he was living.
+~
+46 8 1
+D1
+A dark hallway
+~
+~
+0 -1 15512
+D5
+~
+~
+0 -1 15513
+S
+#15509
+The Intersection of the Lies~
+This is a very evil and dark intersection in the Castle of Nevermore.  This is
+a place that all true lies start.  As the hair on the back of your neck stands
+you feel a drive to go forth and see what lies you have about yourself.  
+To the north you see a Beautiful entranceway.  To the east you see a very dark
+and gloomy sight.  To the west you see yourself like a mirror image.  Maybe it
+would be best you did leave
+~
+46 8 1
+D0
+A beautiful entrance
+~
+~
+0 -1 15503
+D1
+~
+~
+0 -1 15517
+D3
+~
+~
+0 -1 15518
+S
+#15510
+Inside the Dark Castle~
+This room is covered with pentagrams, blood, and terror.  The walls seem
+to bleed, and the floors seem to cry out in pain.  You feel even more
+sickend as you gaze into the faces, and into the eyes of those who dwell
+here.  The heat here is very intense.  The air is very dark and very
+thick.  There are screams that come from the north from here.
+~
+46 8 1
+D0
+~
+~
+0 -1 15521
+D2
+inside the Dark Castle
+~
+~
+0 -1 15506
+S
+#15511
+The Cultists Covenant~
+As you walk into this room you have to adjust your eyes to the sudden change
+in light this room gives off.  It is very, very dark.  The only light that is 
+present is the light from the candles that surround you and the cauldron at
+the northern end of this room.  This room is huge in sheer size.  The walls
+are covered in various symbols and many pentagrams.  There is a Highpreistess
+here protecting what her master has given her.  So it may be best you leave
+before she sacrifices your soul to her master.
+~
+46 8 1
+D2
+~
+~
+0 -1 15513
+S
+#15512
+A dark hallway~
+As you walk down this dark corridor, your head is filled with screams of 
+terror.  The sounds come from all directions.  You feel unbalanced as you
+try to tune out some of the sound.  You are not sure at this point if the
+screams are even human.  Your ears rings with the sounds from all around
+and your feet start to tremble.  You must try to make it to the next room.
+It may be your last hope of salvation.
+~
+46 8 1
+D1
+~
+~
+0 -1 15507
+D3
+~
+~
+0 -1 15508
+S
+#15513
+Under the dark castle~
+This room is very dark and very humid.  The sweat is now pouring off of your
+face as you venture on futher into the depths in the Dark Castle.
+There are bugs now, everywhere you look.  There are screams and yells, and 
+distant laughs.  Now you have made it this far and survived.  Maybe you can
+make it all the way to the end.  No one willcall you a quitter because you
+have made it further than most.  But glory is up ahead. The nausia you fel
+is now all gone.
+~
+46 8 1
+D0
+Calls of Chanting
+~
+~
+0 -1 15511
+D4
+~
+~
+0 -1 15508
+S
+#15514
+The Sacrafical Chambers to the Lord Lucifer~
+The walls here are covered in fire and darkness.  You see scrawlings of
+certain religious marks written in blood.  The floor has a huge pentagram
+made out of gold.  The room is filled with laughter at your stupidity
+of actually coming here to seek the almighty of evil.  Here lies the
+master of Shin-Shun.  As you gaze around with a knot in your stomach you
+begin to wonder why has no man ever ventured here before?  Why am i the
+first alive to make it here.  Or am i just the only i know that has ever
+been this foolish.
+~
+46 8 1
+D2
+~
+~
+0 -1 15511
+D5
+~
+door~
+3 15505 15515
+S
+#15515
+The Herioc Halls~
+So you have finally beaten the all mighty bringer of evil.  Well your dead 
+wrong.  Lucifer himself has a master.  All that is evil.  All that is good.
+All that wich must be for this world to exist.  You must find the name of
+what makes all of us tick.  Find the forbidden name of all that has created
+this world and all that wich we live in.  You will have to look no further
+than yourself to find the answer.  The answer is within all of us.  What
+is this creatures name of the unholy.  The name of all that wich is good.
+
+~
+46 8 1
+D4
+~
+~
+0 -1 15514
+S
+#15516
+The Pit of Deppression~
+This room is so full of pain and agony.  You feel as thogh you not go on 
+any longer.  You feel all that you have done means nothing to you or anyone
+else.  The thought of death seems to invite you and the feelings of pain are
+driving you to those ways.  You feel that life isn't what you felt along time
+ago.  All that drives you to this place seems to haaunt your thoughts.  You
+can't feel much but sorrow and anger.  you try to hold on longer and you start
+to feel like it will get much better.  But you then realize that nothing 
+ever gets better as long as you have lived on this planet.  You burst into
+tears as the thoughts of suicide race through your head and you start to 
+think of all the ways you can end it all.  The feelings that some one 
+somewhere will miss you when you are gone.  The tourment blinds your rational
+train of thought as you start to cower in the corner and you feels chills of
+unrealistic cold.  The powers that lead you here only dicourage your own 
+existance are now the only things that you can think about. When you try to
+regain your normal thought process your are hit with blinding feelings of
+hatered and sorrow.  Now you start to think of happier times, but they soon
+get clouded out by times that you have felt this way before.  As you persist
+in trying to block out those feelings you fall to the floor and agonizing 
+flashes of tears.  
+~
+46 8 1
+S
+#15517
+The Realm of the Sandman~
+The spirit you see before you has come to you in your dreams and into your
+nightmares.  The feelings you have here are the ones you have fought so 
+hard to be rid of.  The pain you know and all that is been written in your
+mind has come here to converge at once.  The Room is a very dark you that tra
+forms into every nightmare you have ever had.
+~
+46 1032 1
+D3
+~
+~
+0 -1 15509
+S
+#15518
+The Room of Sin~
+This room has walls painted in your sins.  Images that remind you of all that 
+you have ever done in your life.  The walls bleed by your hands.  The faces of
+the ones you have lied to, faces of the ones you have cheated, faces of all th
+e ones you have ever wronged.  These images strike you with impending force.
+They know the breath from you as you stagger to avoid collapse.  The sins all
+come at you at once.  
+~
+46 8 1
+D1
+~
+~
+0 -1 15509
+S
+#15519
+blank room~
+blank
+~
+46 8 1
+S
+#15520
+The turning point in the Dark Castle~
+You have come to a bend in the hallway.  Up ahead you can here music, and
+sense something different about this castle.  These walls do not have the
+scibings on it like most of the others you have seen here instead they have
+very some of the most famous paintings on them.  All around you the sense
+of coldness seems to be gone and there is heat coming from vents just above
+your head.
+~
+46 8 1
+D1
+~
+~
+0 -1 15521
+S
+#15521
+The Emacualte Hallway~
+This part of the castle seems like nothig else around it.  The floors
+are clean, the walls are sparkling the smell is pleasent.  You can see
+a bright light up ahead in the next room, and you hear opera music all
+around you.
+~
+46 8 1
+D1
+~
+~
+0 -1 15522
+D2
+~
+~
+0 -1 15510
+S
+#15522
+The Home of Jack the Ripper~
+This room is quite elegant.  The walls are all white with beautiful art
+hanging from them.  The floors are covered with fur carpet.  The place seems
+to be very elegant from all aspects except the man in black standing in the
+corner waiting for you.  You see a dark smile through a black hooded cloak.
+the man greets you with a cold evil grin and a very sharpscithe
+~
+46 8 1
+D3
+~
+~
+0 -1 15521
+S
+#15523
+The Feeding Chambers of The Flesh Worms~
+The home of some of the most fierce creatures.  The Flesh Worms are very
+violent creatures indeed.  The room is very dark and very cold.  You feel
+almost lifeless as you view this room. 
+~
+46 8 1
+S
+#15524
+Bedroom of the Step-Father~
+A very dirty place filled with empty beer cans and cigarette buds.  Fear seems
+to feed from here and pain seems to seep from the walls around you.  Sounds
+that break your concentration.  Memories that bring you to tears.  Feeling
+That you are all alone here.  As a man you well remembered stands before you.
+One that you have tried for so long to bring to the back of your every feeling
+~
+46 8 1
+S
+#15525
+Shampoo's Hair Salon~
+This is a very lovely place filled with smiles, people, and exotic blue roses.
+The owner of this place takes pride in her work the work of others around her.
+She feels that this place has a certain special atmosphere that can't matched.
+Cause all that is here is all that is her.
+~
+46 8 1
+S
+#15526
+A very pungent tunnel.~
+Under the castle lies this tunnel.  You can feel the magots ungulfing your
+skin as you crawl through the small tunnel shaft.  The wind is freezing here
+as the sounds of moans and crys ring through your ears.  The very smell of
+dead flesh reaks throught these tunnels.
+~
+46 8 1
+D1
+The smell is the strongest from the that direction
+~
+~
+0 -1 15523
+S
+#15527
+The Honeymoon Suite~
+This room is filled with flowers and candy.  It has several lovely paintings
+on the wall and a lit fireplace.  The bed is heart-shaped to show the love 
+this place represents.  All across the room you see a cozy balcony made just
+for two.  the floor is a soft white color and the walls are painted in a light
+blue tint.  The vase is filled with flowers and the champagne glasses are full
+~
+46 8 1
+S
+#15528
+The entrance to the tunnel~
+This is a ver dark and very cold room. Ths ceiling is about 4 feet from
+the bottom of this room.  It smells very badly and it seems to be getting
+worse as you wander down the tunnel.  The maggots seem to form around you
+in an almost second layer of skin.  As you venture further down the tunnel.
+
+~
+46 8 1
+D1
+The smell is getting stronger 
+~
+~
+0 -1 15526
+S
+#15529
+Further down the halls of memories.~
+The halls are calling out for your name as the pain grows more intense.  The 
+walls are all covered with scense of your bad memories.  Tears now draw out
+from your eyes.  Fear is all around you and fealings of madness come from w
+within.
+
+~
+46 8 1
+S
+#15530
+The darkened stairwell~
+Between levels of the Dark Castle.  It seems to be getting cooler the further 
+you go up.  The Darkness seems to be getting darker though.  The cold is 
+realy getting freezing.  Up on the top lies a judgement hall.  There are many
+secrets that you hide in the back of your mind and in your heart.  They will
+Throw everthing you feel in yourself at you.
+~
+46 8 1
+S
+#15531
+A hallway corridor in the Dark Castle~
+A dark and misty corridor made from black bricks.  The green fog seems to be
+thick enough that it chokes the very life out of you as you travel further.
+Many screams can be heard from the many rooms inside this castle.  As you 
+look around you see many spirits just wandering the hallways.
+~
+46 8 1
+S
+#15532
+blank room~
+blank
+~
+46 8 1
+S
+#15533
+blank room~
+blank
+~
+46 8 1
+S
+#15534
+blank room~
+blank
+~
+46 8 1
+S
+#15535
+blank room~
+blank
+~
+46 8 1
+S
+#15536
+blank room~
+blank
+~
+46 8 1
+S
+#15537
+blank room~
+blank
+~
+46 8 1
+S
+#15538
+blank room~
+blank
+~
+46 8 1
+S
+#15539
+blank room~
+blank
+~
+46 8 1
+S
+#15540
+blank room~
+blank
+~
+46 8 1
+S
+$~
+#999999

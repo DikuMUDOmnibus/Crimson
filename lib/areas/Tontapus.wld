@@ -1,0 +1,2438 @@
+#18800
+An Underground Staircase~
+There is a set of stairs here carved in the dirt that leads down.
+~
+59 8 0
+D5
+An Underground Staircase
+~
+~
+0 -1 18801
+S
+#18801
+An Underground Staircase~
+There is a set of stairs here carved in the dirt that leads down.
+~
+59 8 0
+D4
+An Underground Staircase
+~
+~
+0 -1 18800
+D5
+An Undergound Staircase
+~
+~
+0 -1 18802
+S
+#18802
+An Underground Staircase~
+There is a set of stairs here carved in the dirt that leads down.
+~
+59 8 0
+D4
+An Underground Staircase
+~
+~
+0 -1 18801
+D5
+An Underground Staircase
+~
+~
+0 -1 18803
+S
+#18803
+An Underground Staircase~
+There is a set of stairs here carved in the dirt that leads down.
+~
+59 8 0
+D4
+An Underground Staircase
+~
+~
+0 -1 18802
+D5
+An Underground Staircase
+~
+~
+0 -1 18804
+S
+#18804
+An Underground Staircase~
+There is a set of stairs here carved in the dirt that leads down.
+~
+59 8 0
+D4
+An Underground Staircase
+~
+~
+0 -1 18803
+D5
+A Busy Town
+~
+~
+0 -1 18805
+S
+#18805
+Tontapus Square~
+This is Tontapus Square. It is incredibly busy. There is a statue
+of Tontapus here. As all the Dirt Monkeys walk by, they stop to say
+a quick prayer in front of it. West and east lead to West and East
+Tontapus, north to the temple, and south to Venom Avenue.
+~
+59 0 1
+D0
+Temple Square
+~
+~
+0 -1 18893
+D1
+East Tontapus
+~
+~
+0 -1 18809
+D2
+Venom Avenue
+~
+~
+0 -1 18826
+D3
+West Tontapus
+~
+~
+0 -1 18808
+S
+#18806
+West Tontapus~
+This is the west side of, Tontapus Street. The Dirt Monkeys named it
+after their god, Tontapus. There as so many Dirt Monkeys here, it seems
+to take forever to get through the street.
+~
+59 8 1
+D0
+A Large Freaky-Looking House
+~
+~
+0 -1 18897
+D1
+West Tontapus
+~
+~
+0 -1 18807
+D3
+A Turn in the Road
+~
+~
+0 -1 18837
+S
+#18807
+West Tontapus~
+This is the west side of, Tontapus Street. The Dirt Monkeys named it
+after their god, Tontapus. There as so many Dirt Monkeys here, it seems
+to take forever to get through the street.
+~
+59 8 1
+D0
+The Chunky Munkey
+~
+~
+0 -1 18813
+D1
+West Tontapus
+~
+~
+0 -1 18808
+D2
+The Hotel Venom
+~
+~
+0 -1 18818
+D3
+West Tontapus
+~
+~
+0 -1 18806
+S
+#18808
+West Tontapus~
+This is the west side of, Tontapus Street. The Dirt Monkeys named it
+after their god, Tontapus. There as so many Dirt Monkeys here, it seems
+to take forever to get through the street.
+~
+59 8 1
+D0
+A Mental Institute
+~
+~
+0 -1 18814
+D1
+Tontapus Square
+~
+~
+0 -1 18805
+D2
+Cowman Cafe
+~
+~
+0 -1 18819
+D3
+West Tontapus
+~
+~
+0 -1 18807
+S
+#18809
+East Tontapus~
+This is the east side of the busiest street in town, Tontapus Street.
+The Dirt Monkeys named it after their god, Tontapus. There are so many
+Dirt Monkeys here, it seems to take forever to get through this street.
+~
+59 8 1
+D0
+There is no sign on the front of the store, but there are bananas everywhere.
+~
+~
+0 -1 18815
+D1
+East Tontapus
+~
+~
+0 -1 18810
+D2
+A Vacant Building
+~
+~
+0 -1 18820
+D3
+Tontapus Square
+~
+~
+0 -1 18805
+S
+#18810
+East Tontapus~
+This is the east side of the busiest street in town, Tontapus Street.
+The Dirt Monkeys named it after their god, Tontapus. There are so many
+Dirt Monkeys here, it seems to take forever to get through this street.
+~
+59 8 1
+D0
+The Armory
+~
+~
+0 -1 18816
+D1
+East Tontapus
+~
+~
+0 -1 18811
+D2
+The Weapon Shop
+~
+~
+0 -1 18821
+D3
+East Tontapus
+~
+~
+0 -1 18809
+S
+#18811
+East Tontapus~
+This is the east side of the busiest street in town, Tontapus Street.
+The Dirt Monkeys named it after their god, Tontapus. There are so many
+Dirt Monkeys here, it seems to take forever to get through this street.
+To the East is a NASTY smell.
+~
+59 8 1
+D0
+The Magic Shop
+~
+~
+0 -1 18817
+D1
+A Nasty Smellin' Outhouse
+~
+~
+0 -1 18812
+D2
+The Pet Shop
+~
+~
+0 -1 18822
+D3
+East Tontapus
+~
+~
+0 -1 18810
+S
+#18812
+A Nasty Smellin' Outhouse~
+MY GAWD! This is the worst smell you have ever smelled. You find it hard
+to believe you didn't barf all over the place.
+~
+59 8 0
+D3
+East Tontapus
+~
+~
+0 -1 18811
+S
+#18813
+The Chunky Munkey~
+You are standing inside the Chunky Munkey. The patrons here are conversing
+with each other, as well as shooting pool, playing darts, and gambling. This
+looks like quite a nice place. The bartender likes to keep it clean. He
+wipes the counter every five minutes or so. Behind him, there are all sorts
+of bottles of just about everything you would want to drink in a bar.
+~
+59 136 0
+D2
+West Tontapus
+~
+~
+0 -1 18807
+S
+#18814
+A Mental Institute~
+Desc L8R
+~
+59 8 0
+D0
+A Hallway
+~
+~
+0 -1 18931
+D2
+West Tontapus
+~
+~
+0 -1 18808
+S
+#18815
+The Banana Store~
+This is one of the more popular stores in this city. The Dirt Monkeys just
+love bananas. Especially the Cowman brand grade 'A' bananas that are so
+popular around these parts. This place smells like (suprise, suprise) BANANAS!
+~
+59 8 0
+D2
+East Tontapus
+~
+~
+0 -1 18809
+S
+#18816
+The Armory~
+All sorts of armor hangs on the wall and lays around in treasure chests here.
+It's sorta' dusty here....
+~
+59 8 0
+D2
+East Tontapus
+~
+~
+0 -1 18810
+S
+#18817
+The Magic Shop~
+This is the magic shop in the Underground Society of Dirt Monkeys. There are
+all sorts of scrolls here, just hinting at the magical abilities of the
+shopkeeper.
+~
+59 8 0
+D2
+East Tontapus
+~
+~
+0 -1 18811
+S
+#18818
+Hotel Vortex~
+This is the Hotel Vortex. It is a rather luxurious hotel. The chandeliers above
+you are made of pure gold and diamond, and studded with all sorts of precious
+stones. A huge plaque behind the front desk is inscribed with a dedication
+to Vortex.
+~
+59 8 0
+D0
+West Tontapus
+~
+~
+0 -1 18807
+S
+#18819
+Cowman Cafe~
+There are many Dirt Monkeys in here, enjoying the great food and drink of the
+Cowman Cafe. Waitress' run around the tables waiting on people, while some
+prefer to sit on leather stools at the counter. This place smells WONDERFUL.
+(Of course, the stools are made of fake leather...)
+~
+59 8 0
+D0
+West Tontapus
+~
+~
+0 -1 18808
+S
+#18820
+A Vacant Building~
+This is absolutely empty.
+~
+59 8 0
+D0
+East Tontapus
+~
+~
+0 -1 18809
+S
+#18821
+The Weapon Shop~
+Desc L8R
+~
+59 8 0
+D0
+East Tontapus
+~
+~
+0 -1 18810
+S
+#18822
+The Pet Shop~
+This is the pet shop in the Underground Society of Dirt Monkeys. There is not
+really a wide selection, though.
+~
+59 8 0
+D0
+East Tontapus
+~
+~
+0 -1 18811
+S
+#18823
+Venom Avenue~
+This is the resisential part of town. The street was named after the Overlord
+Venom. To the south is a small cottage.
+~
+59 8 1
+D1
+Venom Avenue
+~
+~
+0 -1 18824
+D2
+A Small Cottage
+~
+~
+0 -1 18830
+S
+#18824
+Venom Avenue~
+This is the resisential part of town. The street was named after the Overlord
+Venom. To the south is a small cottage.
+~
+59 8 1
+D1
+Venom Ave
+~
+~
+0 -1 18825
+D2
+A Small Cottage
+~
+~
+0 -1 18831
+D3
+Venom Avenue
+~
+~
+0 -1 18823
+S
+#18825
+Venom Avenue~
+This is the resisential part of town. The street was named after the Overlord
+Venom. To the south is a small cottage.
+~
+59 8 1
+D1
+Venom Avenue
+~
+~
+0 -1 18826
+D2
+A Small Cottage
+~
+~
+0 -1 18832
+D3
+Venom Avenue
+~
+~
+0 -1 18824
+S
+#18826
+Venom Avenue~
+This is the resisential part of town. The street was named after the Overlord
+Venom. To the south is a small cottage.
+~
+59 8 1
+D0
+Tontapus Square
+~
+~
+0 -1 18805
+D1
+Venom Avenue
+~
+~
+0 -1 18827
+D2
+A Small Cottage
+~
+~
+0 -1 18833
+D3
+Venom Avenue
+~
+~
+0 -1 18825
+S
+#18827
+Venom Avenue~
+This is the resisential part of town. The street was named after the Overlord
+Venom. To the south is a small cottage.
+~
+59 8 1
+D1
+Venom Avenue
+~
+~
+0 -1 18828
+D2
+A Small Cottage
+~
+~
+0 -1 18834
+D3
+Venom Avenue
+~
+~
+0 -1 18826
+S
+#18828
+Venom Avenue~
+This is the resisential part of town. The street was named after the Overlord
+Venom. To the south is a small cottage.
+~
+59 8 1
+D1
+Venom Avenue
+~
+~
+0 -1 18829
+D2
+A Small Cottage
+~
+~
+0 -1 18835
+D3
+Venom Avenue
+~
+~
+0 -1 18827
+S
+#18829
+Venom Avenue~
+This is the resisential part of town. The street was named after the Overlord
+Venom. To the south is a small cottage.
+~
+59 8 1
+D2
+A Small Cottage
+~
+~
+0 -1 18836
+D3
+Venom Avenue
+~
+~
+0 -1 18828
+S
+#18830
+A Small Cottage~
+You're in a small, quaint, little cottage. It's a nice homely place. It is a
+little dirty though.
+~
+59 8 0
+D0
+Venom Avenue
+~
+~
+0 -1 18823
+S
+#18831
+A Small Cottage~
+You're in a small, quaint, little cottage. It's a nice homely place. It is a
+little dirty though.
+~
+59 8 0
+D0
+Venom Avenue
+~
+~
+0 -1 18824
+S
+#18832
+A Small Cottage~
+You're in a small, quaint, little cottage. It's a nice homely place. It is a
+little dirty though.
+~
+59 8 0
+D0
+Venom Avenue
+~
+~
+0 -1 18825
+S
+#18833
+A Small Cottage~
+You're in a small, quaint, little cottage. It's a nice homely place. It is a
+little dirty though.
+~
+59 8 0
+D0
+Venom Avenue
+~
+~
+0 -1 18826
+S
+#18834
+A Small Cottage~
+You're in a small, quaint, little cottage. It's a nice homely place. It is a
+little dirty though.
+~
+59 8 0
+D0
+Venom Avenue
+~
+~
+0 -1 18827
+S
+#18835
+A Small Cottage~
+You're in a small, quaint, little cottage. It's a nice homely place. It is a
+little dirty though.
+~
+59 8 0
+D0
+Venom Avenue
+~
+~
+0 -1 18828
+S
+#18836
+A Small Cottage~
+You're in a small, quaint, little cottage. It's a nice homely place. It is a
+little dirty though.
+~
+59 8 0
+D0
+Venom Avenue
+~
+~
+0 -1 18829
+S
+#18837
+A Turn in the Road~
+The road changes directions here.
+~
+59 8 1
+D0
+Paragon Blvd.
+~
+~
+0 -1 18840
+D1
+West Tontapus
+~
+~
+0 -1 18806
+S
+#18838
+A Turn in the Road~
+The road changes directions here.
+~
+59 8 1
+D1
+Cowman Street
+~
+~
+0 -1 18843
+D2
+Paragon Blvd.
+~
+~
+0 -1 18842
+S
+#18839
+A Turn in the Road~
+The road changes directions here.
+~
+59 8 1
+D0
+The Castle Entrance
+~
+~
+0 -1 18850
+D3
+Cowman Street
+~
+~
+0 -1 18849
+S
+#18840
+Paragon Blvd.~
+This brick street is named after Paragon. Each brick has Paragon's face chisled
+into it. It looks like this:
+
+         _____            _____
+        /     \          /     \
+      /         \_______/        \
+     I                            I
+    I                              I
+    I       (  )         (  )      I
+    I               o              I
+     I                            I
+      \        \__________/      /
+        \_______________________/
+  ~
+59 8 1
+D0
+Paragon Blvd.
+~
+~
+0 -1 18841
+D2
+A Turn in the Road
+~
+~
+0 -1 18837
+S
+#18841
+Paragon Blvd.~
+This brick street is named after Paragon. Each brick has Paragon's face chisled
+into it. It looks like this:
+
+         _____            _____
+        /     \          /     \
+      /         \_______/        \
+     I                            I
+    I                              I
+    I       (  )         (  )      I
+    I               o              I
+     I                            I
+      \        \__________/      /
+        \_______________________/
+  ~
+59 8 1
+D0
+Paragon Blvd.
+~
+~
+0 -1 18842
+D2
+Paragon Blvd.
+~
+~
+0 -1 18840
+S
+#18842
+Paragon Blvd.~
+This brick street is named after Paragon. Each brick has Paragon's face chisled
+into it. It looks like this:
+
+         _____            _____
+        /     \          /     \
+      /         \_______/        \
+     I                            I
+    I                              I
+    I       (  )         (  )      I
+    I               o              I
+     I                            I
+      \        \__________/      /
+        \_______________________/
+  ~
+59 8 1
+D0
+A Turn in the Road
+~
+~
+0 -1 18838
+D2
+Paragon Blvd.
+~
+~
+0 -1 18841
+S
+#18843
+Cowman Street~
+This street was named after Cowman. In honour of him, the street has been
+painted with cow spots.
+~
+59 8 1
+D1
+Cowman Street
+~
+~
+0 -1 18844
+D3
+A Turn in the Road
+~
+~
+0 -1 18838
+S
+#18844
+Cowman Street~
+This street was named after Cowman. In honour of him, the street has been
+painted with cow spots.
+~
+59 8 1
+D1
+Cowman Street
+~
+~
+0 -1 18845
+D3
+Cowman Street
+~
+~
+0 -1 18843
+S
+#18845
+Cowman Street~
+This street was named after Cowman. In honour of him, the street has been
+painted with cow spots.
+~
+59 8 1
+D1
+Cowman Square
+~
+~
+0 -1 18846
+D3
+Cowman Street
+~
+~
+0 -1 18844
+S
+#18846
+Cowman Square~
+This street was named after Cowman. In honour of him, the street has been
+painted with cow spots.
+Some sort of magical spell turns everything here cow-spotted.
+~
+59 8 1
+D1
+Cowman Street
+~
+~
+0 -1 18847
+D3
+Cowman Street
+~
+~
+0 -1 18845
+S
+#18847
+Cowman Street~
+This street was named after Cowman. In honour of him, the street has been
+painted with cow spots.
+~
+59 8 1
+D1
+Cowman Street
+~
+~
+0 -1 18848
+D3
+Cowman Square
+~
+~
+0 -1 18846
+S
+#18848
+Cowman Street~
+This street was named after Cowman. In honour of him, the street has been
+painted with cow spots.
+~
+59 8 1
+D1
+Cowman Street
+~
+~
+0 -1 18849
+D3
+Cowman Street
+~
+~
+0 -1 18847
+S
+#18849
+Cowman Street~
+This street was named after Cowman. In honour of him, the street has been
+painted with cow spots.
+~
+59 8 1
+D1
+A Turn in the Road
+~
+~
+0 -1 18839
+D3
+Cowman Street
+~
+~
+0 -1 18848
+S
+#18850
+The Castle Entrance~
+There is a large drawbridge here, which is necessary to cross the moat, which
+is full of sharks, alligators, piranhas, electric eels, and the very rare
+carnivorous monkey fish, which is found only in these parts of Crimson.
+~
+59 8 1
+D0
+A Long Hall
+~
+~
+0 -1 18851
+D2
+A Turn in the Road
+~
+~
+0 -1 18839
+S
+#18851
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D0
+A Long Hall
+~
+~
+0 -1 18852
+D2
+The Castle Entrance
+~
+~
+0 -1 18850
+S
+#18852
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D0
+A Long Hall
+~
+~
+0 -1 18853
+D2
+A Long Hall
+~
+~
+0 -1 18851
+S
+#18853
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D0
+A Long Hall
+~
+~
+0 -1 18854
+D2
+A Long Hall
+~
+~
+0 -1 18852
+S
+#18854
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D0
+A Large Room
+~
+~
+0 -1 18855
+D2
+A Long Hall
+~
+~
+0 -1 18853
+S
+#18855
+A Large Room~
+This is a large, almost bare room. The only decoration is the red carpet that
+covers most of the floor.
+~
+59 8 0
+D0
+A Dark Room
+~
+~
+0 -1 18865
+D2
+A Long Hall
+~
+~
+0 -1 18854
+D3
+A Large Room
+~
+~
+0 -1 18856
+S
+#18856
+A Large Room~
+This is a large, almost bare room. The only decoration is the red carpet that
+covers most of the floor.
+~
+59 8 0
+D0
+A Dark Room
+~
+~
+0 -1 18864
+D1
+A Large Room
+~
+~
+0 -1 18855
+D3
+A Large Room
+~
+~
+0 -1 18857
+S
+#18857
+A Large Room~
+This is a large, almost bare room. The only decoration is the red carpet that
+covers most of the floor.
+~
+59 8 0
+D0
+A Dark Room
+~
+~
+0 -1 18863
+D1
+A Large Room
+~
+~
+0 -1 18856
+D3
+A Large Room
+~
+~
+0 -1 18858
+S
+#18858
+A Large Room~
+This is a large, almost bare room. The only decoration is the red carpet that
+covers most of the floor.
+~
+59 8 0
+D0
+A Dark Room
+~
+~
+0 -1 18862
+D1
+A Large Room
+~
+~
+0 -1 18857
+D3
+A Large Room
+~
+~
+0 -1 18859
+S
+#18859
+A Large Room~
+This is a large, almost bare room. The only decoration is the red carpet that
+covers most of the floor.
+~
+59 8 0
+D0
+A Dark Room
+~
+~
+0 -1 18861
+D1
+A Large Room
+~
+~
+0 -1 18858
+S
+#18860
+The Place Where You Can Do Cool Stuff~
+aS THe NaMe SuGGeSTS, THiS iS a PLaCe WHeRe You CaN Do CooL STuFF. FoR iNSTaNCe
+iF You Go DoWN, You WiLL FiND YouRSeLF iN MiDGaaRd.
+
+~
+59 8 0
+D5
+Temple of Midgaard~
+~
+0 -1 3001
+S
+#18861
+A Dark Room~
+This room is very dark indeed. There are no windows or any source of light in
+here. In fact, if you didn't have any source of light, you wouldn't be able to
+see a damn thing...
+~
+59 9 0
+D0
+Buddamoe's Room
+~
+~
+0 -1 18868
+D2
+A Large Room
+~
+~
+0 -1 18859
+S
+#18862
+A Dark Room~
+This room is very dark indeed. There are no windows or any source of light in
+here. In fact, if you didn't have any source of light, you wouldn't be able to
+see a damn thing...
+~
+59 9 0
+D0
+A Dark Room
+~
+~
+0 -1 18866
+D2
+A Large Room
+~
+~
+0 -1 18858
+S
+#18863
+A Dark Room~
+This room is very dark indeed. There are no windows or any source of light in
+here. In fact, if you didn't have any source of light, you wouldn't be able to
+see a damn thing...
+~
+59 9 0
+D0
+A Dark Room
+~
+~
+0 -1 18867
+D2
+A Large Room
+~
+~
+0 -1 18857
+S
+#18864
+A Dark Room~
+This room is very dark indeed. There are no windows or any source of light in
+here. In fact, if you didn't have any source of light, you wouldn't be able to
+see a damn thing...
+~
+59 9 0
+D0
+The Torture Chamber
+~
+~
+0 -1 18869
+D2
+A Large Room
+~
+~
+0 -1 18856
+S
+#18865
+A Dark Room~
+This room is very dark indeed. There are no windows or any source of light in
+here. In fact, if you didn't have any source of light, you wouldn't be able to
+see a damn thing...
+~
+59 9 0
+D0
+A Practice Yard
+~
+~
+0 -1 18870
+D2
+A Large Room
+~
+~
+0 -1 18855
+S
+#18866
+A Dark Room~
+This room is very dark indeed. There are no windows or any source of light in
+here. In fact, if you didn't have any source of light, you wouldn't be able to
+see a damn thing...
+~
+59 9 0
+D2
+A Dark Room
+~
+~
+0 -1 18862
+S
+#18867
+A Dark Room~
+This room is very dark indeed. There are no windows or any source of light in
+here. In fact, if you didn't have any source of light, you wouldn't be able to
+see a damn thing...
+~
+59 9 0
+D2
+A Dark Room
+~
+A Dark Room~
+0 -1 18863
+S
+#18868
+Buddamoe's Room~
+This is the room of Buddamoe Phibumberjeepibimite, the court jester. This room
+sure is weird! There are all sorts of comedic toys and otherwise very strange
+artifacts here.
+~
+59 8 0
+D2
+A Dark Room
+~
+~
+0 -1 18861
+S
+#18869
+The Torture Chamber~
+This room is painted red. In fact, upon closer examination, it appears to be
+BLOOD! This room is full of torturing devices such as iron maidens and racks.
+There are chains all over the walls, and several whips, swords and axes all
+strewn about the ground. You hope to never find yourself chained to these walls!
+~
+59 8 0
+D2
+A Dark Room
+~
+~
+0 -1 18864
+S
+#18870
+A Practice Yard~
+There are quite a few warriors practicing here, fighting agianst tackling
+dummies, and sparring with each other. It's quite a big place. Up above you is
+a clear blue sky.
+~
+59 8 0
+D1
+You see a gold sign indicating that it is the Royal Arena.
+~
+~
+0 -1 18871
+D2
+A Dark Room
+~
+~
+0 -1 18865
+S
+#18871
+The Royal Arena~
+Desc L8R
+~
+59 8 0
+D3
+A Practice Yard
+~
+~
+0 -1 18870
+S
+#18872
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D1
+A Long Hall
+~
+~
+0 -1 18873
+D3
+The Royal Prison
+~
+~
+0 -1 18891
+S
+#18873
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D1
+A Long Hall
+~
+~
+0 -1 18874
+D3
+A Long Hall
+~
+~
+0 -1 18872
+S
+#18874
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D1
+A Long Hall
+~
+~
+0 -1 18875
+D2
+A Dark Room
+~
+~
+0 -1 18867
+D3
+A Long Hall
+~
+~
+0 -1 18873
+S
+#18875
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D1
+A Long Hall
+~
+~
+0 -1 18876
+D3
+A Long Hall
+~
+~
+0 -1 18874
+S
+#18876
+A Long Hall~
+This long hall is leading to the Castle of the Dirt Monkeys. It is quite bare
+in these hallways. Dust covers the walls and ceiling.
+~
+59 8 0
+D3
+A Long Hall
+~
+~
+0 -1 18875
+S
+#18877
+An Elegant Hall~
+This is one on the few clean places in the city. There are portraits of what
+appear to be former kings and queens on the walls. Large exravagant tapestries
+also decorate the stone walls. The hall continues to the north, and to the
+south is another hallway.
+~
+59 8 0
+D0
+An Elegant Hall
+~
+~
+0 -1 18878
+D2
+Another hallway, not so decorative as this one, though.
+~
+~
+0 -1 18874
+S
+#18878
+An Elegant Hall~
+This is one on the few clean places in the city. There are portraits of what
+appear to be former kings and queens on the walls. Large exravagant tapestries
+also decorate the stone walls. The hall continues north and south, and doors
+are to the east and west.
+~
+59 8 0
+D0
+An Elegant Hall
+~
+~
+0 -1 18879
+D1
+The King & Queen's Bedroom
+~
+~
+0 -1 18883
+D2
+An Elegant Hall
+~
+~
+0 -1 18877
+D3
+The Royal Dining Hall
+~
+~
+0 -1 18882
+S
+#18879
+An Elegant Hall~
+This is one on the few clean places in the city. There are portraits of what
+appear to be former kings and queens on the walls. Large exravagant tapestries
+also decorate the stone walls. The hallway continues south, and to the north is
+the throne.
+~
+59 8 0
+D0
+The Royal Throne
+~
+~
+0 -1 18880
+D2
+An Elegant Hall
+~
+~
+0 -1 18878
+S
+#18880
+The Royal Throne~
+As you enter the royal throne, you are astonished at how rich these royals
+must be. Everything you see here is made completely out of gold! (Except for
+whatever is alive). Even the walls are coated with gold a foot thick. The only
+exit is to the south.
+~
+59 8 0
+D2
+An Elegant Hall
+~
+~
+0 -1 18879
+S
+#18881
+The Royal Kithchen~
+This is the royal kitchen. With the mixed smells of all the food here, it makes
+the place smell absolutely wonderful. Your eyes tend to stare in astonishment
+at the HUGE birds they have here. You've never seen a bird so big before. There
+are also tons of mouth-watering desserts you can barely keep away from. The
+royal dining hall is to the north.
+~
+59 8 0
+D0
+The Royal Dining Hall
+~
+~
+0 -1 18882
+S
+#18882
+The Royal Dining Hall~
+This has got to be the biggest dining room you have ever seen! It has a long
+mahogany table with a table cloth that appears to be woven out of gold. The
+shiny golden chandeliers are studded with all sorts of emeralds, diamonds, and
+rubies. There is a large feast that could probably feed hundreds just sitting
+here. You sneak a bite while no one is looking. Mmmm, this is the best food
+you have ever eaten! The kitchen is to the south, and a hallway is to the east.
+~
+59 8 0
+D1
+An Elegant Hall
+~
+~
+0 -1 18878
+D2
+The Royal Kitchen
+~
+~
+0 -1 18881
+S
+#18883
+An Elegant Hall~
+Desc L8R
+~
+59 8 0
+D3
+An Elegant Hall
+~
+~
+0 -1 18878
+S
+#18884
+A Small Dirty Prison Cell~
+This is one of the smallest rooms you have ever seen. It's only about a yard
+by a yard. The only light is coming for a small slit in the large cast iron
+door. The door is to the east.
+~
+59 8 0
+D1
+The Royal Prison
+~
+~
+0 -1 18888
+S
+#18885
+A Small Dirty Prison Cell~
+This is one of the smallest rooms you have ever seen. It's only about a yard
+by a yard. The only light is coming for a small slit in the large cast iron
+door. The door is to the east.
+~
+59 8 0
+D1
+The Royal Prison
+~
+~
+0 -1 18889
+S
+#18886
+A Small Dirty Prison Cell~
+This is one of the smallest rooms you have ever seen. It's only about a yard
+by a yard. The only light is coming for a small slit in the large cast iron
+door. The door is to the east.
+~
+59 8 0
+D1
+The Royal Prison
+~
+~
+0 -1 18890
+S
+#18887
+A Small Dirty Prison Cell~
+This is one of the smallest rooms you have ever seen. It's only about a yard
+by a yard. The only light is coming for a small slit in the large cast iron
+door. The door is to the east.
+~
+59 8 0
+D1
+The Royal Prison
+~
+~
+0 -1 18891
+S
+#18888
+The Royal Prison~
+This looks like a dark, desolate hell hole. There is a row of cells with heavy
+iron doors. It doesn't look like anyone can escape from this place. This may be
+the royal prison, but that obviously doesn't mean they get treated like royalty.~
+59 8 0
+D2
+The Royal Prison
+~
+~
+0 -1 18889
+D3
+A Small Dirty Prison Cell
+~
+~
+0 -1 18884
+S
+#18889
+The Royal Prison~
+This looks like a dark, desolate hell hole. There is a row of cells with heavy
+iron doors. It doesn't look like anyone can escape from this place. This may be
+the royal prison, but that obviously doesn't mean they get treated like royalty.~
+59 8 0
+D0
+The Royal Prison
+~
+~
+0 -1 18888
+D2
+The Royal Prison
+~
+~
+0 -1 18890
+D3
+A Small Dirty Prison Cell~
+~
+0 -1 18885
+S
+#18890
+The Royal Prison~
+This looks like a dark, desolate hell hole. There is a row of cells with heavy
+iron doors. It doesn't look like anyone can escape from this place. This may be
+the royal prison, but that obviously doesn't mean they get treated like royalty.~
+59 8 0
+D0
+The Royal Prison
+~
+~
+0 -1 18889
+D2
+The Royal Prison
+~
+~
+0 -1 18891
+D3
+A Small Dirty Prison Cell~
+~
+0 -1 18886
+S
+#18891
+The Royal Prison~
+This looks like a dark, desolate hell hole. There is a row of cells with heavy
+iron doors. It doesn't look like anyone can escape from this place. This may be
+the royal prison, but that obviously doesn't mean they get treated like royalty.~
+59 8 0
+D0
+The Royal Prison
+~
+~
+0 -1 18890
+D1
+A Long Hall
+~
+~
+0 -1 18872
+D2
+Nothing special there...
+~
+Golden Door~
+19 -1 18892
+D3
+A small dirty prison cell
+~
+~
+0 -1 18887
+S
+#18892
+The Royal Treasury~
+This gigantic room is filled with TONS of gold, silver and jewels, as well as
+delicate tapestries, portraits, and weapons made of the finest quality. Try as
+you might, there seems to be sort of magical force holding the weapons in place
+so you can't get them.
+~
+59 8200 0
+D0
+The Royal Prison
+~
+~
+0 -1 18891
+S
+#18893
+Temple Square~
+This is the entrance to the Temple of Tontapus. Dirt Monkeys wander in and out
+of this place, deeply in worship. As you step into this place, a strange,
+righteous feeling comes over you.
+~
+59 8 0
+D0
+I'm not gonna tell you what's over there... :) ;)
+~
+~
+0 -1 18894
+D2
+Tontapus Square
+~
+~
+0 -1 18805
+S
+#18894
+Temple of Tontapus~
+This is the Temple of Tontapus, the choen God of the Dirtys
+are everywhere, deep in prayer. Their Prayers include Tontapus' name in them
+several times. The shrine of Tontapus is to the east, The altar is to the north
+and south leads back to the temple square.
+~
+59 8 1
+D0
+The Temple Altar
+~
+~
+0 -1 18895
+D1
+Some sort of shrine is over there.
+~
+~
+0 -1 18896
+D2
+Temple Square
+~
+~
+0 -1 18893
+S
+#18895
+The Temple Altar~
+desc l8r
+~
+59 8 1
+D2
+~
+~
+0 -1 18894
+D5
+Nothing special there...
+~
+~
+16 -1 18902
+S
+#18896
+The Shrine of Tontapus~
+Lots of Dirt Monkeys are here deep in prayer. They have built a large shrine
+dedicated to their chosen and highly worshipped God, Tontapus. There are
+sculptures, paintings, and all the bricks have Tontapus' name chisled into
+them. The north wall is also decorated with portraits of the Dirt Monkeys,
+Cowman, Venom, Paragon, Vortex and Cryogen.
+~
+59 8 1
+D3
+Stuff is over there.
+~
+~
+0 -1 18894
+S
+#18897
+The Mad Scientist's House~
+Desc l8r
+~
+59 8 0
+D0
+The Mad Scientist's House
+~
+~
+0 -1 18898
+D2
+West Tontapus
+~
+~
+0 -1 18806
+S
+#18898
+The Mad Scientist's House~
+Desc l8r
+~
+59 8 0
+D0
+The Mad Scientist's Room
+~
+~
+0 -1 18899
+D1
+A Lab
+~
+~
+0 -1 18900
+D2
+The Mad Scientist's House
+~
+~
+0 -1 18897
+S
+#18899
+The Mad Scientist's Room~
+Desc l8r
+~
+59 8 0
+D2
+Another place in this house.
+~
+~
+0 -1 18898
+S
+#18900
+The Mad Scientist's Lab~
+This place is full of scientific things, such as beakers connected to long,
+transparent hoses, that are connected to an array of other things, and bunsen
+burners underneath some of the beakers. There is also a bed of steel here that
+looks like it has been used to create monsters....
+~
+59 8 0
+D1
+A Nearly Empty Room
+~
+~
+0 -1 18901
+D3
+Stuff
+~
+~
+0 -1 18898
+S
+#18901
+The Monster's Room~
+This is the room of the Mad Scientist's horrific creation. The Monster doesn't
+seem to have any sense of decoration, as there is only a steel bed here.
+~
+59 8 0
+D3
+The Lab
+~
+~
+0 -1 18900
+S
+#18902
+Under the Temple Altar~
+You are under the temple altar. Passages are carved out to the east and west.
+~
+59 264 1
+D1
+An Underground Passageway
+~
+~
+0 -1 18905
+D3
+An Underground Passageway
+~
+~
+0 -1 18904
+D4
+The Temple Altar
+~
+~
+0 -1 18895
+S
+#18903
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D1
+An Underground Passageway
+~
+~
+0 -1 18904
+D2
+An Underground Passageway
+~
+~
+0 -1 18908
+S
+#18904
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D1
+An Underground Passageway
+~
+~
+0 -1 18902
+D3
+An Underground Passageway
+~
+~
+0 -1 18903
+S
+#18905
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D1
+An Underground Passageway
+
+~
+~
+0 -1 18906
+D3
+An Underground Passageway
+~
+~
+0 -1 18902
+S
+#18906
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D1
+An Underground Passageway
+~
+~
+0 -1 18907
+D3
+An Underground Passageway
+~
+~
+0 -1 18905
+S
+#18907
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D2
+An Underground Passageway
+~
+~
+0 -1 18910
+D3
+An Underground Passageway
+~
+~
+0 -1 18906
+S
+#18908
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D0
+An Underground Passageway
+~
+~
+0 -1 18903
+D1
+An Underground Passageway
+~
+~
+0 -1 18909
+S
+#18909
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D2
+An Underground Passageway
+~
+~
+0 -1 18911
+D3
+An Underground Passageway
+~
+~
+0 -1 18908
+S
+#18910
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D0
+An Underground Passageway
+~
+~
+0 -1 18907
+D2
+An Underground Passageway
+~
+~
+0 -1 18915
+S
+#18911
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D0
+An Underground Passageway
+~
+~
+0 -1 18909
+D1
+An Underground Passageway
+~
+~
+0 -1 18912
+S
+#18912
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D1
+An Underground Passageway
+~
+~
+0 -1 18913
+D3
+An Underground Passageway
+~
+~
+0 -1 18912
+S
+#18913
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D2
+An Underground Passageway
+~
+~
+0 -1 18916
+D3
+An Underground Passageway
+~
+~
+0 -1 18912
+S
+#18914
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D1
+An Underground Passageway
+~
+~
+0 -1 18915
+S
+#18915
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D0
+An Underground Passageway
+~
+~
+0 -1 18910
+D3
+An Underground Passageway
+~
+~
+0 -1 18914
+S
+#18916
+An Underground Passageway~
+There seems to be a passageway carved out here in the dirt. It must currently
+be used, as there are torches here.
+~
+59 264 1
+D0
+An Underground Passageway
+~
+~
+0 -1 18913
+D2
+An Underground Passage
+~
+~
+0 -1 18917
+S
+#18917
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D0
+An Underground Passageway
+~
+~
+0 -1 18916
+D2
+A Secret Cult
+~
+~
+0 -1 18919
+S
+#18918
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D1
+A Secret Cult
+~
+~
+0 -1 18919
+D2
+A Secret Cult
+~
+~
+0 -1 18921
+S
+#18919
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D0
+A Secret Cult
+~
+~
+0 -1 18917
+D1
+A Secret Cult
+~
+~
+0 -1 18920
+D3
+A Secret Cult
+~
+~
+0 -1 18918
+S
+#18920
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D2
+A Secret Cult
+~
+~
+0 -1 18922
+D3
+A Secret Cult
+~
+~
+0 -1 18919
+S
+#18921
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D0
+A Secret Cult~
+~
+0 -1 18918
+D1
+An Altar
+~
+~
+0 -1 18926
+D2
+A Secret Cult
+~
+~
+0 -1 18923
+S
+#18922
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D0
+A Secret Cult
+~
+~
+0 -1 18920
+D2
+A Secret Cult
+~
+~
+0 -1 18924
+D3
+An Altar
+~
+~
+0 -1 18926
+S
+#18923
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D0
+A Secret Cult
+~
+~
+0 -1 18921
+D1
+A Secret Cult
+~
+~
+0 -1 18925
+S
+#18924
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels.
+~
+59 264 1
+D0
+A Secret Cult
+~
+~
+0 -1 18922
+D3
+A Secret Cult
+~
+~
+0 -1 18925
+S
+#18925
+A Secret Cult~
+You are in what seems to be an underground cult. There are Satanic symbols and
+blood all over the place. Chants echo through the tunnels. There is a building
+to the south.
+~
+59 264 1
+D0
+An Altar
+~
+~
+0 -1 18926
+D1
+A Secret Cult
+~
+~
+0 -1 18924
+D2
+The Entrance to a Building
+~
+~
+0 -1 18927
+D3
+A Secret Cult
+~
+~
+0 -1 18923
+S
+#18926
+The Cult Altar~
+There is an altar here. They look like they are getting ready to sacrifice a
+goat. It has been painted in blood, probably that of the sacrificed goats.
+~
+59 264 1
+D1
+A Secret Cult
+~
+~
+0 -1 18922
+D2
+A Secret Cult
+~
+~
+0 -1 18925
+D3
+A Secret Cult
+~
+~
+0 -1 18921
+S
+#18927
+Entrance to the Cult Building~
+This is the official building of the underground cult. There are cult followers
+walking all over the place, giving you dirty looks. The entrance is to the
+south.
+~
+59 264 1
+D0
+A Secret Cult
+~
+~
+0 -1 18925
+D2
+Inside the Cult Building
+~
+~
+0 -1 18928
+S
+#18928
+Inside the Cult Building~
+As you enter this place, you notice no one here seems to like you. They all
+give you dirty looks and growl at you. This place is decorated in a Satanic
+manner, like all the other places in this cult. To the west, you see a door
+that reads: Cult Leader's Office. To the east, a sign on a door reads: Voodoo
+Cult Monkey's Office. North leads back outside the building.
+~
+59 264 0
+D0
+Entrance to the Cult Building
+~
+~
+0 -1 18927
+D1
+The Voodoo Cult Monkey's Office
+~
+~
+0 -1 18930
+D3
+Cult Leader's Office
+~
+~
+0 -1 18929
+S
+#18929
+Cult Leader's Office~
+This is the office of the Cult Leader. He has decorated it with Satanic
+symbols, goat skulls, 666s and other such things. There is a desk here with
+Satanic symbols carved in it.
+~
+59 264 0
+D1
+The Cult Building
+~
+~
+0 -1 18928
+S
+#18930
+The Voodoo Cult Monkey's Office~
+This office is decorated in the standard cult manner. It also has voodoo dolls
+and sacrificial chickens, and other such items as those.
+~
+59 264 0
+D3
+The CUlt Building
+~
+~
+0 -1 18928
+S
+#18931
+A Hallway~
+This is a pretty bland, boring hallway. It has a wooden floor, and white walls
+which are covered in dust.
+~
+59 8 0
+D2
+The Entrance to the Mental Institute
+~
+~
+0 -1 18814
+S
+#18932
+A Hallway~
+This is a pretty bland, boring hallway. It has a wooden floor, and white walls
+which are covered in dust. A patient's room is to the north.
+~
+59 8 0
+D0
+A Patient's Room
+~
+~
+0 -1 18935
+D1
+A Hallway
+~
+~
+0 -1 18933
+D3
+The Kitchen
+~
+~
+0 -1 18938
+S
+#18933
+A Hallway~
+This is a pretty bland, boring hallway. It has a wooden floor, and white walls
+which are covered in dust. A patient's room is to the north.
+~
+59 8 0
+D0
+A Patient's Room
+~
+~
+0 -1 18936
+D1
+A Hallway
+~
+~
+0 -1 18934
+D2
+A Hallway
+~
+~
+0 -1 18931
+D3
+A Hallway
+~
+~
+0 -1 18932
+S
+#18934
+A Hallway~
+This is a pretty bland, boring hallway. It has a wooden floor, and white walls
+which are covered in dust. A patient's room is to the north.
+~
+59 8 0
+D0
+A Patient's Room
+~
+~
+0 -1 18937
+D3
+A Hallway
+~
+~
+0 -1 18933
+S
+#18935
+A Patient's Room~
+This is a standard room for mental psychos. There's a couch, a bed, and a
+couple of barred windows.
+~
+59 8 0
+D2
+A Hallway
+~
+~
+0 -1 18932
+S
+#18936
+A Patient's Room~
+This is a standard room for mental psychos. There's a couch, a bed, and a
+couple of barred windows.
+~
+59 8 0
+D2
+A Hallway
+~
+~
+0 -1 18933
+S
+#18937
+A Patient's Room~
+This is a standard room for mental psychos. There's a couch, a bed, and a
+couple of barred windows.
+~
+59 8 0
+D2
+A Hallway
+~
+~
+0 -1 18934
+S
+#18938
+The Kithcen~
+This kitchen has all the normal things you would expect to find in a kitchen,
+plus it comes with its very own cockroaches!
+~
+59 8 0
+D1
+A Hallway
+~
+~
+0 -1 18932
+S
+$~
+#999999

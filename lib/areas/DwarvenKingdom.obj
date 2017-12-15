@@ -1,0 +1,90 @@
+#4700
+obj key small~
+a small key~
+A small key of red rock lies here on the ground.~
+~
+18 0 16385
+2 0 0 0
+1 10 -1
+#4701
+obj pick mining~
+a mining pick~
+A small pick lies here on the ground.~
+~
+5 0 8193
+0 1 6 11
+10 100 20
+#4702
+obj helm dwarven~
+a dwarven helm~
+A large dwarven helm lies here on the ground.~
+~
+9 69632 17
+6 0 0 0
+10 1000 100
+#4703
+obj plate dwarven breast~
+a dwarven breast plate~
+A dwarven breast plate lies here on the ground.~
+~
+9 593920 9
+10 0 0 0
+15 1500 150
+#4704
+obj shield large dwarven~
+a large dwarven shield~
+A large dwarven shield lies here on the ground.~
+~
+9 528385 513
+4 0 0 0
+7 2000 200
+E
+shield~
+The shield is encrusted with many beautiful metals and carvings.
+~
+A
+17 -2
+A
+24 4
+#4705
+obj coins pile~
+a large pile of coins~
+A large pile of coins are piled here.~
+~
+20 0 1
+30000 0 0 0
+0 0 0
+#4706
+obj dwarven battle axe~
+a large dwarven battle axe~
+A large battle axe lies here on the ground.~
+~
+5 524608 8193
+0 2 12 3
+5 10000 100
+E
+dwarven battle axe~
+It is encarved with beautiful dwarven runes.
+~
+A
+18 1
+A
+19 1
+#4707
+obj stone sarcophagus~
+a large stone sarcophagus~
+A large stone sarcophagus lies here, the lid fallen on the floor.~
+~
+15 0 0
+1000 1 -1 0
+1000 0 0
+#4708
+obj staff ruling~
+the Staff of Ruling~
+A large and intricate staff rests here.~
+~
+4 630786 16385
+25 5 5 7
+10 10000 100
+$~
+#999999

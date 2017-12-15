@@ -1,0 +1,102 @@
+#5200
+mob beholder~
+The mighty beholder~
+You meet a beholder's deadly gaze!
+~
+It has a large central eye that projects an anti-magic ray and ten
+eyestalks atop the round body which can do anything from charm you
+to disintegrate you.  Beholders are not known for their personality.
+~
+262314 1073741832 -870 S
+25 -9 2 1180d1+0 8d3+20
+22560 37500
+8 8 0
+#5201
+mob lamia beast~
+The lamia~
+A strange lamia stands here waiting for her next meal.
+~
+This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast. She licks her lips as she looks at you greedily.
+~
+108 0 -999 S
+9 24 16 162d1+0 3d3+5
+5000 13500
+8 8 2
+#5202
+mob mimic chest~
+The mimic~
+A strong chest lies in one corner of the room.
+~
+A strong, wooden chest bound with iron straps and a heavy pad-lock on the
+front.
+~
+10 0 10 S
+11 22 14 214d1+0 3d3+7
+10000 16500
+6 6 0
+#5203
+mob mimic boulder~
+The mimic~
+Two skeletons lie crushed under a large boulder.
+~
+~
+10 0 -10 S
+11 22 14 214d1+0 3d3+7
+10000 16500
+6 6 0
+#5204
+mob mimic floor~
+The mimic~
+The stone floor of this house has been ripped apart.
+~
+~
+10 0 -140 S
+11 21 14 214d1+0 3d3+7
+10000 16500
+6 6 0
+#5205
+mob mimic potery~
+The mimic~
+Some broken shards of potery lie strewn about the floor.
+~
+~
+10 0 200 S
+11 22 14 214d1+0 3d3+7
+10000 16500
+6 6 0
+#5206
+mob mimic planks~
+The mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+~
+10 0 0 S
+11 22 14 214d1+0 3d3+7
+10000 16500
+6 6 0
+#5207
+mob lizard horned~
+The horned lizard~
+A small horned lizard flicks his tounge and slithers away.
+~
+A cute little lizard, that is, if you like reptiles!
+~
+136 0 0 S
+3 30 22 64d1+0 2d3+1
+300 4500
+8 8 0
+#5208
+mob golem stone~
+The stone golem~
+In the corner you see a large, stone golem faithfully standing watch.
+~
+It is a big chunk of rock that has been magically formed into a giant
+stone creature. He stands here still guarding the city.
+~
+8388618 8 600 S
+25 -15 0 1500d1+0 5d3+30
+50000 37500
+8 8 0
+$~
+#999999

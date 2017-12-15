@@ -1,0 +1,38 @@
+#20400
+obj fountain~
+A Fountain~
+A four coloured fountain is here~
+~
+17 79 0
+0 0 10 0
+80000 100 100
+E
+fountain~
+This fountain has four colors each facing its area of the town.
+~
+#20401
+obj sword night~
+Sword of Eternal Night~
+A mystic sword of Darkness beckons to be wielded.~
+~
+5 1049092 8193
+2 0 10 0
+12 5 5
+#20402
+obj Radiant Sword Blue~
+Radiant Blue Sword~
+An omnimous Blue Sword catches your glare.~
+~
+5 106849 8193
+192 0 10 0
+3 30303 333
+A
+29 -1
+A
+19 9
+A
+18 4
+A
+14 77
+$~
+#999999

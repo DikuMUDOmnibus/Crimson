@@ -1,0 +1,49 @@
+#8300
+mob dungeonmaster master dm~
+The DungeonMaster~
+The DungeonMaster stands here overseeing the game.
+~
+The DungeonMaster stands here overseeing the game.
+~
+262667 136 0 S
+50 -90 -15 20000d1+20000 100d90+90
+1 0
+8 8 1
+#8303
+mob Phyrexian Gremlins~
+Phyrexian Gremlins~
+Phyrexian Gremlins stand here looking for something to disassemble.
+~
+You see a small horde of gremlins scurring around dismantleing whatever
+they can get their hands on.
+~
+270857 526360 0 S
+5 20 0 8d8+25 1d1+1
+1500 7500
+8 8 0
+#8310
+mob cube gelatinous~
+the Gelatinous Cube~
+A Gelatinous Cube is here dissolving everything in its path.
+~
+A 10 foot cubed cube imagine that... betcha it's hard to kill...
+~
+327689 67108872 0 S
+28 -10 15 100d100+1000 4d10+5
+0 42000
+8 8 0
+#8311
+mob tiamat dragon~
+Tiamat, Queen of Evil~
+Tiamat looms here plotting ways to drag you to the dark side.
+~
+A monsterous 5-headed dragon stands before you.  Tiamat represents all that
+is truely evil and deceitful.  Beware lingering here too long else you will 
+find yourself one of her servants of evil.
+~
+4459051 538968264 -1000 S
+50 -15 -15 20000d1+20000 10d5+50
+1 1
+8 8 0
+$~
+#999999

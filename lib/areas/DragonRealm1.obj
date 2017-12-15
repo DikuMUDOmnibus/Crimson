@@ -1,0 +1,156 @@
+#13800
+obj dragon lance~
+A DragonLance~
+A softly glowing lance lies at your feet..~
+~
+5 2125824 8193
+8192 4 9 8
+20 280000 70000
+A
+2 -2
+A
+18 4
+A
+19 4
+#13801
+obj chromatic ring~
+A Chromatic Ring~
+A shining ring black, red, blue, green and white colors lies here.~
+~
+9 40960 3
+10 50 1 0
+65 80000 20000
+A
+12 20
+#13802
+obj claw great dragon~
+Great Dragon Claw~
+You see a large crystal claw of a dragon here.~
+~
+5 28752 8193
+2 22 4 3
+20 460000 75000
+A
+19 4
+A
+18 4
+A
+27 100
+#13803
+obj eye dragon emperror~
+Eye of the Dragon Emperror~
+A golden eye with a slitted pupil is lying here.~
+~
+1 49 16385
+10 0 0 0
+5 130000 35000
+A
+31 100
+A
+26 100
+#13804
+obj brown chain~
+Brown Dragon Chain~
+A suit of gleaming Brown Dragon Chainmail lays here.~
+~
+9 4608 9
+5 0 0 0
+10 50000 6000
+#13805
+obj brown collar~
+A Brown Dragon Collar~
+A Brown Dragon Collar lays here.~
+~
+9 512 5
+5 0 0 0
+1 5 5
+#13806
+obj colt gun~
+Pearl handled Colt 45~
+Billy has left his gun here.~
+~
+5 4206592 24577
+0 20 1 11
+1 5 1000000000
+#13807
+obj water canteen~
+a canteen~
+A canteen has been set on the ground here.~
+~
+17 0 1
+80 80 0 0
+20 45 20
+#13808
+obj black leather choker~
+A black leather choker~
+a small strip of black leather lays here.~
+~
+9 0 5
+10 0 2 0
+1 50000 20000
+A
+19 2
+A
+18 2
+A
+26 1
+#13809
+obj diamond studded black jacket~
+A diamond studded black jacket~
+a diamond studded jacket has been discarded here.~
+~
+9 77824 9
+12 0 10 0
+15 60000 10000
+A
+19 2
+A
+27 1
+A
+36 1
+#13810
+obj black leather miniskirt~
+A black leather miniskirt~
+a skimpy looking leather miniskirt lays here.~
+~
+9 77824 33
+10 0 10 0
+1 5 5
+A
+19 2
+A
+33 1
+#13811
+obj key iron~
+A iron key~
+A rusty iron key is lying here.~
+~
+18 262242 1
+1 1 1 1
+1 0 -1
+#13812
+obj brown claws~
+A brown dragon claw.~
+A pair of wicked looking claws are lying here.~
+~
+18 262226 1
+1 0 10 0
+1 0 0
+#13813
+obj desk~
+A desk~
+A large ornate desk made of wood is standing in the corner of the~
+~
+15 0 0
+50 0 10 0
+999999 0 0
+#13814
+obj torch~
+A torch~
+A torch is lying here.~
+~
+1 0 1
+0 0 10 0
+1 5 5
+$~
+#999999
